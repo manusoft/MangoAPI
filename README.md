@@ -1,8 +1,7 @@
-# MangoAPI
+# [MangoAPI](https://manusoft.github.io/mangoapi/)
 Powered by [iptv-org](https://github.com/iptv-org/)
 
-6,158 channels and its streams available now
-
+:tv: 6,000+ channels and its streams available now
 
 ## Legal
 
