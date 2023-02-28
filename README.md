@@ -13,4 +13,4 @@ No video files are stored in this repository. The repository simply contains use
 
 ## Other
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manusoft&repo=mangoapi)](https://github.com/manusoft/mangoapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manusoft&theme=prussian&border_color=404040&repo=mangoapi)](https://github.com/manusoft/mangoapi)
