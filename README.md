@@ -10,3 +10,7 @@ No video files are stored in this repository. The repository simply contains use
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
+## Other
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manusoft&repo=mangoapi)](https://github.com/manusoft/mangoapi)
