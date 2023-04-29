@@ -100050,26 +100050,6 @@
     }
   },
   {
-    "Id": "SyriaTV.sy",
-    "Name": "Syria TV",
-    "Country": "SY",
-    "Languages": [
-      "ara"
-    ],
-    "Categories": [
-      "general"
-    ],
-    "Website": "http://www.ortas.gov.sy/",
-    "Logo": "https://i.imgur.com/rKTE8Qw.png",
-    "WebStreams": {
-      "channel": "SyriaTV.sy",
-      "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
-      "status": "online",
-      "added_at": "2022-11-29T14:06:10Z",
-      "updated_at": "2023-02-14T02:17:04Z"
-    }
-  },
-  {
     "Id": "SyriaTV.tr",
     "Name": "Syria TV",
     "Country": "TR",
@@ -100696,26 +100676,6 @@
     "WebStreams": {
       "channel": "Tastemade.us",
       "url": "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8",
-      "status": "online",
-      "added_at": "2022-08-13T04:41:45Z",
-      "updated_at": "2023-02-04T22:27:12Z"
-    }
-  },
-  {
-    "Id": "TastemadeAustralia.us",
-    "Name": "Tastemade Australia",
-    "Country": "US",
-    "Languages": [
-      "eng"
-    ],
-    "Categories": [
-      "cooking"
-    ],
-    "Website": null,
-    "Logo": "https://i.imgur.com/rR7CLzZ.png",
-    "WebStreams": {
-      "channel": "TastemadeAustralia.us",
-      "url": "https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8",
       "status": "online",
       "added_at": "2022-08-13T04:41:45Z",
       "updated_at": "2023-02-04T22:27:12Z"
@@ -106943,24 +106903,6 @@
     }
   },
   {
-    "Id": "TimeLine.uk",
-    "Name": "Time Line",
-    "Country": "UK",
-    "Languages": [
-      "eng"
-    ],
-    "Categories": [],
-    "Website": null,
-    "Logo": "https://i.imgur.com/AzZhwWR.jpg",
-    "WebStreams": {
-      "channel": "TimeLine.uk",
-      "url": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
-      "status": "online",
-      "added_at": "2022-08-13T04:41:45Z",
-      "updated_at": "2023-02-04T22:27:12Z"
-    }
-  },
-  {
     "Id": "Timeline.us",
     "Name": "Timeline",
     "Country": "US",
@@ -106975,26 +106917,6 @@
     "WebStreams": {
       "channel": "Timeline.us",
       "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
-      "status": "online",
-      "added_at": "2022-08-13T04:41:45Z",
-      "updated_at": "2023-02-04T22:27:12Z"
-    }
-  },
-  {
-    "Id": "TimeLineAustralia.au",
-    "Name": "Time Line Australia",
-    "Country": "AU",
-    "Languages": [
-      "eng"
-    ],
-    "Categories": [
-      "entertainment"
-    ],
-    "Website": null,
-    "Logo": "https://i.imgur.com/DvyS9oq.png",
-    "WebStreams": {
-      "channel": "TimeLineAustralia.au",
-      "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
       "status": "online",
       "added_at": "2022-08-13T04:41:45Z",
       "updated_at": "2023-02-04T22:27:12Z"
@@ -127671,7 +127593,7 @@
     ],
     "Categories": [],
     "Website": null,
-    "Logo": "https://i.imgur.com/sDXMOhq.png",
+    "Logo": "https://i.imgur.com/LquGNbh.png",
     "WebStreams": {
       "channel": "Wonder.uk",
       "url": "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
