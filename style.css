@@ -39,7 +39,7 @@ a{
 }
 
 .welcome {
-    background-image: url(./images/writing-great-blog-post.jpg);
+    background-image: url(mangobg.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
