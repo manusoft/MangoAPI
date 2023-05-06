@@ -98,10 +98,11 @@
     <script>
       const root = document.getElementById('counts')
       //counter variables
-      let counter = 7250
+      let counter = 7236
       setInterval(() => {
          counter = counter + 1
          root.innerHTML = counter.toLocaleString('en-US')
+         if(counter==0){counter=7236}
       }, 1000);
    </script>
 
