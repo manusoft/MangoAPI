@@ -55,11 +55,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 mx-auto text-center">
-                    <h1 class="dispaly-4 ">Welcome to Mango API</h1>
-                    
-                    <h3 id="counts" class="text-white">7250</h3>
-                    <h4 class="text-white">📺 Channels and available now</h4>
-                    
+                    <h1 class="dispaly-4 ">Welcome to Mango API</h1>                    
+                    <h3 id="counts" class="text-green">7250</h3>
+                    <h4 class="text-white">📺 Channels and available now</h4>                    
                     <button type="button" class="btn btn-primary">Get Started</button>
                     <button type="button" class="btn btn-outline-info ms-lg-1">Visit iptv-org</button>
                 </div>
@@ -136,12 +134,12 @@
     <!--- Footer -->
     
     <script>
-      const root = document.getElementById('channels')
+      const root = document.getElementById('counts')
       //counter variables
       let counter = 7250
       setInterval(() => {
          counter = counter + 1
-         root.innerHTML = '📺 ' + counter + ' channels and its streams available now'
+         root.innerHTML = counter
       }, 1000);
    </script>
 
