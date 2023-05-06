@@ -4,6 +4,7 @@
     --primary: #00bcd4;
     --dark: #21252f;
     --body: #888;
+    --green: #8bc34a;
     --box-shadow: 0 8px 22px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -84,17 +85,18 @@ section {
     width: 54px;
     height: 54px;
     display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: center;
     background-color: var(--primary);
     font-size: 32px;
     color: #fff;
     border-radius: 100%;
-    flex: none;
+    flex:none;
+    position: relative;
 }
 
 .col-img {
-    background-image: url(./images/way.jpg);
+    background-image: url(kites.jpg);
     background-position: center;
     background-size: cover;
     min-height: 500px;
