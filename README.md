@@ -1,4 +1,4 @@
-# MangoAPI
+# Scorpio API
 Powered by [iptv-org](https://github.com/iptv-org/)
 
 6,369 channels and its streams available now
