@@ -1,4 +1,4 @@
-# [MangoAPI](https://manusoft.github.io/mangoapi/)
+# [ScorpioAPI](https://manusoft.github.io/scorpioapi/)
 Powered by [iptv-org](https://github.com/iptv-org/)
 
 :tv: 6,806 channels and its streams available now
