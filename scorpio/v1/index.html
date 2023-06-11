@@ -2,8 +2,25 @@
 <html>
 <head>
   <meta http-equiv="refresh" content="0; url=https://manusoft.github.io/api/scorpio/v1/iptv.json">
+  <script>
+    // Optional: If you want to display a message before redirection
+    document.addEventListener('DOMContentLoaded', function() {
+      var redirectMessage = document.getElementById('redirect-message');
+      var redirectCountdown = 3;
+      var countdownInterval = setInterval(function() {
+        redirectCountdown--;
+        redirectMessage.innerHTML = 'Redirecting in ' + redirectCountdown + ' seconds...';
+        if (redirectCountdown <= 0) {
+          clearInterval(countdownInterval);
+        }
+      }, 1000);
+    });
+  </script>
 </head>
 <body>
+  <!-- Display redirecting message to the user -->
+  <div id="redirect-message">Redirecting in 3 seconds...</div>
+
   <!-- Content of your HTML file -->
 </body>
 </html>
