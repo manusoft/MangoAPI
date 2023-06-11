@@ -5,6 +5,6 @@ with open('iptv.json') as json_file:
     data = json.load(json_file)
 
 # Accessing the link inside the JSON
-link = data['link']
+link = data['url']
 
 print(link)  # Output: https://manusoft.github.io/api/scorpio/v1/
