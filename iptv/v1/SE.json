@@ -1,0 +1,155 @@
+[
+  {
+    "Id": "ATG.se",
+    "Name": "ATG",
+    "Country": "SE",
+    "Languages": "swe",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5CdW62M.png",
+    "Streams": [
+      {
+        "Url": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AzerbaijanNewsTV.se",
+    "Name": "Azerbaijan News TV",
+    "Country": "SE",
+    "Languages": "aze",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.aznews.tv/",
+    "Logo": "https://i.imgur.com/Kw17XfP.png",
+    "Streams": [
+      {
+        "Url": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DiTV.se",
+    "Name": "Di TV",
+    "Country": "SE",
+    "Languages": "swe",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/zApTDWn.png",
+    "Streams": [
+      {
+        "Url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ExpressenTV.se",
+    "Name": "Expressen TV",
+    "Country": "SE",
+    "Languages": "swe",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ai0BIci.png",
+    "Streams": [
+      {
+        "Url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kanal10Asia.se",
+    "Name": "Kanal 10 Asia",
+    "Country": "SE",
+    "Languages": "swe",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.kanal10asia.com/",
+    "Logo": "https://i.imgur.com/tY7IJva.png",
+    "Streams": [
+      {
+        "Url": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8"
+      },
+      {
+        "Url": "https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KomalaTV.se",
+    "Name": "Komala TV",
+    "Country": "SE",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvkomala.com/",
+    "Logo": "https://i.imgur.com/D6KBLB8.png",
+    "Streams": [
+      {
+        "Url": "https://live.tvkomala.com/live/komala/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MiracleChannel.se",
+    "Name": "Miracle Channel",
+    "Country": "SE",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://miraclechannel.com/",
+    "Logo": "https://i.imgur.com/yrt7Rw9.png",
+    "Streams": [
+      {
+        "Url": "https://miracle.stream.boxigy.com/hls/miracle1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MissionAsia.se",
+    "Name": "Mission Asia",
+    "Country": "SE",
+    "Languages": "swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://missionasia.org/",
+    "Logo": "https://i.imgur.com/B5mKwF6.png",
+    "Streams": [
+      {
+        "Url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OppnaKanalen.se",
+    "Name": "Oppna Kanalen",
+    "Country": "SE",
+    "Languages": "swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GWlstv5.png",
+    "Streams": [
+      {
+        "Url": "https://edg03-prd-se-ixn.solidtango.com/edge/451iw2h/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ThePetCollectiveSweden.se",
+    "Name": "The Pet Collective Sweden",
+    "Country": "SE",
+    "Languages": "eng",
+    "Categories": "family",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Mk28uUy.png",
+    "Streams": [
+      {
+        "Url": "https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  }
+]
