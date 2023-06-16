@@ -1,0 +1,245 @@
+[
+  {
+    "Id": "Frii.fi",
+    "Name": "Frii",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.discoveryplus.com/fi/channel/frii",
+    "Logo": "https://i.imgur.com/9sYC2IE.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/frii/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HimlenTV7.fi",
+    "Name": "Himlen TV7",
+    "Country": "FI",
+    "Languages": "swe",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/k8a7KNn.png",
+    "Streams": [
+      {
+        "Url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "INEZ.fi",
+    "Name": "INEZ",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://inez.fi/fi/",
+    "Logo": "https://i.imgur.com/wz2tvsZ.png",
+    "Streams": [
+      {
+        "Url": "https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KotiTV.fi",
+    "Name": "KotiTV",
+    "Country": "FI",
+    "Languages": "fin,swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kotitv.fi/",
+    "Logo": "https://i.imgur.com/zkXpvJ8.png",
+    "Streams": [
+      {
+        "Url": "https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NarTV.fi",
+    "Name": "Nar-TV",
+    "Country": "FI",
+    "Languages": "swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nartv.fi/",
+    "Logo": "https://i.imgur.com/Ht5yePq.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NavahangTV.fi",
+    "Name": "Navahang TV",
+    "Country": "FI",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.navahang.com/",
+    "Logo": "https://i.imgur.com/YteKXJy.png",
+    "Streams": [
+      {
+        "Url": "https://hls.navahang.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NopolaNews.fi",
+    "Name": "Nopola News",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.nopolanews.fi/",
+    "Logo": "https://i.imgur.com/vDoQaGl.png",
+    "Streams": [
+      {
+        "Url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVActionMoviesFinland.fi",
+    "Name": "Rakuten TV Action Movies Finland",
+    "Country": "FI",
+    "Languages": "fin,eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/L0wyRLK.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVComedyMoviesFinland.fi",
+    "Name": "Rakuten TV Comedy Movies Finland",
+    "Country": "FI",
+    "Languages": "fin,eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/2B2p8zv.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVDramaMoviesFinland.fi",
+    "Name": "Rakuten TV Drama Movies Finland",
+    "Country": "FI",
+    "Languages": "fin,eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/6zpHj1M.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVFamilyMoviesFinland.fi",
+    "Name": "Rakuten TV Family Movies Finland",
+    "Country": "FI",
+    "Languages": "fin,eng",
+    "Categories": "family,movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/6vaHKgT.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVRakutenStoriesFinland.fi",
+    "Name": "Rakuten TV Rakuten Stories Finland",
+    "Country": "FI",
+    "Languages": "fin,eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/1Nj2RPk.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVTopMoviesFinland.fi",
+    "Name": "Rakuten TV Top Movies Finland",
+    "Country": "FI",
+    "Languages": "fin,eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HWugzhP.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Sub.fi",
+    "Name": "Sub",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/769lYEd.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/sub/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TaevasTV7.fi",
+    "Name": "Taevas TV7",
+    "Country": "FI",
+    "Languages": "est",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/usXedIj.png",
+    "Streams": [
+      {
+        "Url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TaivasTV7.fi",
+    "Name": "Taivas TV7",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/JyJNiXy.png",
+    "Streams": [
+      {
+        "Url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

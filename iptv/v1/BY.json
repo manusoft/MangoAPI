@@ -1,0 +1,158 @@
+[
+  {
+    "Id": "Belarus1.by",
+    "Name": "Belarus-1",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.tvr.by/",
+    "Logo": "https://i.imgur.com/sUD9t5j.png",
+    "Streams": [
+      {
+        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Belarus2.by",
+    "Name": "Belarus-2",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://belarus2.by/",
+    "Logo": "https://i.imgur.com/BpEHpPS.png",
+    "Streams": [
+      {
+        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Belarus24.by",
+    "Name": "Belarus-24",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://belarus24.by/",
+    "Logo": "https://i.imgur.com/iVIlgrj.png",
+    "Streams": [
+      {
+        "Url": "http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8"
+      },
+      {
+        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Belarus3.by",
+    "Name": "Belarus-3",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.3belarus.by/",
+    "Logo": "https://i.imgur.com/JkcDycn.png",
+    "Streams": [
+      {
+        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Channel8Belarus.by",
+    "Name": "Channel 8 Belarus",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://8channel.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/8channeltv.png",
+    "Streams": [
+      {
+        "Url": "http://95.46.208.8:24433/art"
+      }
+    ]
+  },
+  {
+    "Id": "FirstMusicChannel.by",
+    "Name": "First Music Channel",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://1mus.com/",
+    "Logo": "https://i.imgur.com/YdyFJrl.png",
+    "Streams": [
+      {
+        "Url": "http://hz1.teleport.cc/HLS/HD.m3u8"
+      },
+      {
+        "Url": "http://hz1.teleport.cc/HLS/SD.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTVBelarus.by",
+    "Name": "NTV-Belarus",
+    "Country": "BY",
+    "Languages": "bel",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://tvr.by/rus/ntv.asp",
+    "Logo": "https://i.imgur.com/QLuUIeB.png",
+    "Streams": [
+      {
+        "Url": "http://82.209.197.187:8080/udp/239.0.100.6:1234"
+      }
+    ]
+  },
+  {
+    "Id": "ONT.by",
+    "Name": "ONT",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://ont.by/",
+    "Logo": "https://i.imgur.com/LbHdHEk.png",
+    "Streams": [
+      {
+        "Url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VTV.by",
+    "Name": "VTV",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://www.v-tv.by/",
+    "Logo": "https://i.imgur.com/9A7SW33.png",
+    "Streams": [
+      {
+        "Url": "https://flu.vtv.by/tvt-non-by/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Vitebsk.by",
+    "Name": "Vitebsk",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://vtv.by/",
+    "Logo": "https://i.imgur.com/qr26qQn.png",
+    "Streams": [
+      {
+        "Url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8"
+      }
+    ]
+  }
+]

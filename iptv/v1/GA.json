@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "Gabon24.ga",
+    "Name": "Gabon 24",
+    "Country": "GA",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://gabon24.tv/",
+    "Logo": "https://i.imgur.com/UwO2Nby.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8"
+      }
+    ]
+  }
+]

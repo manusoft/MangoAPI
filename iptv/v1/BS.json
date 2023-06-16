@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "IslandLuckTV.bs",
+    "Name": "Island Luck TV",
+    "Country": "BS",
+    "Languages": "eng",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/P0gDN5n.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8"
+      }
+    ]
+  }
+]

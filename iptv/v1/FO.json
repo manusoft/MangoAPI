@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "KVFSjonvarp.fo",
+    "Name": "KVF Sjonvarp",
+    "Country": "FO",
+    "Languages": "fao",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Ng1H2Ye.png",
+    "Streams": [
+      {
+        "Url": "https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

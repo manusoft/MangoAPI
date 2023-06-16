@@ -1,0 +1,488 @@
+[
+  {
+    "Id": "88Stereo.cr",
+    "Name": "88 Stereo",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.88stereo.com/",
+    "Logo": "https://i.imgur.com/i3YwORV.png",
+    "Streams": [
+      {
+        "Url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AgrotendenciaTV.cr",
+    "Name": "Agrotendencia TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": "https://agrotendencia.tv/en-directo/",
+    "Logo": "https://i.imgur.com/frd60hR.png",
+    "Streams": [
+      {
+        "Url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AntenaSeisTV.cr",
+    "Name": "Antena Seis TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.antenaseis.com/",
+    "Logo": "https://i.imgur.com/9Nh2mo9.png",
+    "Streams": [
+      {
+        "Url": "http://inliveserver.com:1935/14510/14510/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal1.cr",
+    "Name": "Canal 1",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://canal1cr.com/",
+    "Logo": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
+    "Streams": [
+      {
+        "Url": "https://video20.klm99.com:3993/live/canal1crlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal11.cr",
+    "Name": "Canal 11",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.repretel.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png",
+    "Streams": [
+      {
+        "Url": "https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal2.cr",
+    "Name": "Canal 2",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.repretel.com/envivo-canal2/",
+    "Logo": "https://i.imgur.com/Nn8BtH5.png",
+    "Streams": [
+      {
+        "Url": "https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal4.cr",
+    "Name": "Canal 4",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.repretel.com/",
+    "Logo": "https://i.imgur.com/5arZEgO.png",
+    "Streams": [
+      {
+        "Url": "https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal6.cr",
+    "Name": "Canal 6",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.repretel.com/",
+    "Logo": "https://i.imgur.com/nfKJftW.png",
+    "Streams": [
+      {
+        "Url": "https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal8.cr",
+    "Name": "Canal 8",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telediario.cr/television",
+    "Logo": "https://i.imgur.com/nefPi2Y.png",
+    "Streams": [
+      {
+        "Url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ColosalTV.cr",
+    "Name": "Colosal TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://colosalstereo.com/",
+    "Logo": "https://i.imgur.com/0DZB3eB.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8"
+      },
+      {
+        "Url": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Enlace.cr",
+    "Name": "Enlace",
+    "Country": "CR",
+    "Languages": "spa,eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.enlace.org/",
+    "Logo": "https://i.imgur.com/YwUVTmS.png",
+    "Streams": [
+      {
+        "Url": "https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EnlaceJuvenil.cr",
+    "Name": "Enlace Juvenil",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://ejtv.tv/",
+    "Logo": "https://i.imgur.com/GfpPQ5D.png",
+    "Streams": [
+      {
+        "Url": "https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GuatusoTV.cr",
+    "Name": "Guatuso TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.grupodgrajal.com/guatuso.html",
+    "Logo": "https://www.grupodgrajal.com/images/logoguatusochannel.png",
+    "Streams": [
+      {
+        "Url": "https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HBTVTicaVision.cr",
+    "Name": "HBTV TicaVision",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "Streams": [
+      {
+        "Url": "https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IQChannel.cr",
+    "Name": "IQ Channel",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://es-la.facebook.com/iqchannel/",
+    "Logo": "https://i.imgur.com/hwuaomt.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LosSantosTV.cr",
+    "Name": "Los Santos TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.lossantostv.com/",
+    "Logo": "https://i.imgur.com/5xw86wu.png",
+    "Streams": [
+      {
+        "Url": "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LuzNacienteTV.cr",
+    "Name": "Luz Naciente TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.luznacientetv.com/",
+    "Logo": "https://i.imgur.com/GC2lubh.png",
+    "Streams": [
+      {
+        "Url": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NicoyaTV.cr",
+    "Name": "NicoyaTV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Lj2jRn3.png",
+    "Streams": [
+      {
+        "Url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OldiesHits.cr",
+    "Name": "Oldies Hits",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.grupodgrajal.com/oldies-hits.html",
+    "Logo": "https://i.imgur.com/R4X1mkM.png",
+    "Streams": [
+      {
+        "Url": "https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SanJoseTV.cr",
+    "Name": "San Jose TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SanVitoTelevision.cr",
+    "Name": "San Vito Television",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://sanvito-television.com/",
+    "Logo": "https://i.imgur.com/Yd7JOxr.png",
+    "Streams": [
+      {
+        "Url": "https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SarapiquiTV.cr",
+    "Name": "Sarapiqui TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.sarapiquitvcr.com/",
+    "Logo": "https://i.imgur.com/obTnd32.png",
+    "Streams": [
+      {
+        "Url": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8"
+      },
+      {
+        "Url": "https://lstv.duckdns.org:449/hls/stv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVN14.cr",
+    "Name": "TVN 14",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tvn14.com/",
+    "Logo": "https://i.imgur.com/1aNEo6U.png",
+    "Streams": [
+      {
+        "Url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSantaCruz.cr",
+    "Name": "TV Santa Cruz",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tvsantacruzcr.net/",
+    "Logo": "https://imgtr.ee/images/2023/05/24/wQiUl.jpg",
+    "Streams": [
+      {
+        "Url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSurCanal14.cr",
+    "Name": "TV Sur Canal 14",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/OpHYYZA.png",
+    "Streams": [
+      {
+        "Url": "https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSurCanal9.cr",
+    "Name": "TV Sur Canal 9",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7HbISMV.png",
+    "Streams": [
+      {
+        "Url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleUno.cr",
+    "Name": "Tele Uno",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eRwYxc2.png",
+    "Streams": [
+      {
+        "Url": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telefides.cr",
+    "Name": "Telefides",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://telefides.com/",
+    "Logo": "https://i.ibb.co/yn5M8dw/telefides-costa-rica.png",
+    "Streams": [
+      {
+        "Url": "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telesistema.cr",
+    "Name": "Telesistema",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://mastelevisioncr.com/",
+    "Logo": "https://i.imgur.com/A0BBS4z.png",
+    "Streams": [
+      {
+        "Url": "https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VMLatino.cr",
+    "Name": "VM Latino",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://vmlatino.com/",
+    "Logo": "https://i.imgur.com/Dvo1b82.png",
+    "Streams": [
+      {
+        "Url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VideoTourChannel.cr",
+    "Name": "Video Tour Channel",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://videotourchannel.com/",
+    "Logo": "https://i.imgur.com/zEi8eMC.png",
+    "Streams": [
+      {
+        "Url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VoiceOverRadioTV.cr",
+    "Name": "VoiceOver Radio TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.voiceovercr.com/V.O.R.%20TV-Live.html",
+    "Logo": "https://i.imgur.com/HzGs1Eh.png",
+    "Streams": [
+      {
+        "Url": "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+      }
+    ]
+  }
+]

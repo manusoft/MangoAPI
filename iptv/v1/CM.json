@@ -1,0 +1,107 @@
+[
+  {
+    "Id": "ACNTV.cm",
+    "Name": "ACN TV",
+    "Country": "CM",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eQlO38M.png",
+    "Streams": [
+      {
+        "Url": "https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AfriqueMedia.cm",
+    "Name": "Afrique Media",
+    "Country": "CM",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.afriquemedia.tv/live",
+    "Logo": "https://i.imgur.com/R4iKU6c.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GloryChristChannel.cm",
+    "Name": "Glory Christ Channel",
+    "Country": "CM",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/m5xH4bL.png",
+    "Streams": [
+      {
+        "Url": "https://stream.it-innov.com/gcc/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MyTVChannel.cm",
+    "Name": "My TV Channel",
+    "Country": "CM",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/vh2373L.png",
+    "Streams": [
+      {
+        "Url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PlayTV.cm",
+    "Name": "Play TV",
+    "Country": "CM",
+    "Languages": "fra",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/1dmBqpf.png",
+    "Streams": [
+      {
+        "Url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SunPlusTV.cm",
+    "Name": "Sun+ TV",
+    "Country": "CM",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/tmMoq8Z.png",
+    "Streams": [
+      {
+        "Url": "https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Vision4.cm",
+    "Name": "Vision 4",
+    "Country": "CM",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://vision4.tv/",
+    "Logo": "https://i.imgur.com/rUbrFA8.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"
+      }
+    ]
+  }
+]

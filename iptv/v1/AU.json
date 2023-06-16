@@ -1,0 +1,293 @@
+[
+  {
+    "Id": "ABCNewsAustralia.au",
+    "Name": "ABC News Australia",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.abc.net.au/news/newschannel/",
+    "Logo": "https://i.imgur.com/BrW7gk8.png",
+    "Streams": [
+      {
+        "Url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AUSTamilTV.au",
+    "Name": "AUS Tamil TV",
+    "Country": "AU",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://austamil.tv/",
+    "Logo": "https://i.imgur.com/7xcDrJw.png",
+    "Streams": [
+      {
+        "Url": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AusbizTV.au",
+    "Name": "Ausbiz TV",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/8vGGdB0.png",
+    "Streams": [
+      {
+        "Url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
+      },
+      {
+        "Url": "https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BloombergTVAustralia.au",
+    "Name": "Bloomberg TV Australia",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/australia",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/aus.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "C31Melbourne.au",
+    "Name": "C31 Melbourne",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Ge1EutY.png",
+    "Streams": [
+      {
+        "Url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Channel44.au",
+    "Name": "Channel 44",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://c44.com.au/",
+    "Logo": "https://i.imgur.com/P2wUGh9.png",
+    "Streams": [
+      {
+        "Url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ExpoChannel.au",
+    "Name": "Expo Channel",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "http://www.expochannel.com.au/",
+    "Logo": "https://i.imgur.com/2KzCShW.png",
+    "Streams": [
+      {
+        "Url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FolkKlubTV.au",
+    "Name": "Folk Klub TV",
+    "Country": "AU",
+    "Languages": "mkd",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Seq7Od7.png",
+    "Streams": [
+      {
+        "Url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "INTVAustralia.au",
+    "Name": "INTV Australia",
+    "Country": "AU",
+    "Languages": "mkd",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://intvaustralia.com/",
+    "Logo": "https://i.imgur.com/1nJl0Pv.png",
+    "Streams": [
+      {
+        "Url": "http://tv1.intv.mk:1935/live/intv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JonmoBhumiTV.au",
+    "Name": "JonmoBhumi TV",
+    "Country": "AU",
+    "Languages": "ben",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.jonmobhumi.tv/",
+    "Logo": "https://i.imgur.com/2snahLk.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "M4TVMalayalam.au",
+    "Name": "M4TV Malayalam",
+    "Country": "AU",
+    "Languages": "mal",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://m4malayalam.tv/",
+    "Logo": "https://i.imgur.com/dTR6H2A.png",
+    "Streams": [
+      {
+        "Url": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NickelodeonAustralia.au",
+    "Name": "Nickelodeon Australia",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "http://www.nick.com.au/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Racingcom.au",
+    "Name": "Racing.com",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "http://www.racing.com/",
+    "Logo": "https://i.imgur.com/Q55HX1O.png",
+    "Streams": [
+      {
+        "Url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SkyNewsExtra1.au",
+    "Name": "Sky News Extra 1",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.skynews.com.au/page/extra",
+    "Logo": "https://i.imgur.com/ZsPb8nL.png",
+    "Streams": [
+      {
+        "Url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SkyNewsExtra2.au",
+    "Name": "Sky News Extra 2",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.skynews.com.au/page/extra",
+    "Logo": "https://i.imgur.com/ZsPb8nL.png",
+    "Streams": [
+      {
+        "Url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SkyNewsExtra3.au",
+    "Name": "Sky News Extra 3",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.skynews.com.au/page/extra",
+    "Logo": "https://i.imgur.com/ZsPb8nL.png",
+    "Streams": [
+      {
+        "Url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSN.au",
+    "Name": "TVSN",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://www.itvsn.com.au/",
+    "Logo": "https://i.imgur.com/lmoAFm3.png",
+    "Streams": [
+      {
+        "Url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TastemadeAustralia.au",
+    "Name": "Tastemade Australia",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "cooking",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/rR7CLzZ.png",
+    "Streams": [
+      {
+        "Url": "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "tickerNews.au",
+    "Name": "ticker News",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://tickernews.co/where-to-watch/",
+    "Logo": "https://i.imgur.com/z7M0QxV.png",
+    "Streams": [
+      {
+        "Url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8"
+      }
+    ]
+  }
+]
