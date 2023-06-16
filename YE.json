@@ -1,0 +1,98 @@
+[
+  {
+    "Id": "AlMasirah.ye",
+    "Name": "Al Masirah",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/V055t5e.png",
+    "Streams": [
+      {
+        "Url": "https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlMasirahMubacher.ye",
+    "Name": "Al Masirah Mubacher",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/0xHb3XM.jpg",
+    "Streams": [
+      {
+        "Url": "https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Alghadye.ye",
+    "Name": "Alghadye",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.alghadye.com/",
+    "Logo": "https://i.imgur.com/yk5SVEq.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.3:8000/live/hls/7512.m3u8"
+      },
+      {
+        "Url": "http://82.212.74.3:8000/live/7512.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlyamanShabab.ye",
+    "Name": "Alyaman Shabab",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/SGDMRML.png",
+    "Streams": [
+      {
+        "Url": "https://master.starmena-cloud.com/hls/yemenshabab.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BelqeesTV.ye",
+    "Name": "Belqees TV",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.belqees.tv/",
+    "Logo": "https://i.imgur.com/bNDJlO0.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuhailTV.ye",
+    "Name": "Suhail TV",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://suhail.net/",
+    "Logo": "https://i.imgur.com/wgSGdkv.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.98:8000/live/hls/7726.m3u8"
+      }
+    ]
+  }
+]
