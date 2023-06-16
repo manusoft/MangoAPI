@@ -1,0 +1,83 @@
+[
+  {
+    "Id": "TVCG1.me",
+    "Name": "TVCG 1",
+    "Country": "ME",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rtcg.me/",
+    "Logo": "https://i.imgur.com/QORHrXu.png",
+    "Streams": [
+      {
+        "Url": "http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCG2.me",
+    "Name": "TVCG 2",
+    "Country": "ME",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rtcg.me/",
+    "Logo": "https://i.imgur.com/WECmUKH.png",
+    "Streams": [
+      {
+        "Url": "http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCG3.me",
+    "Name": "TVCG 3",
+    "Country": "ME",
+    "Languages": "srp",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://rtcg.me/tv/gledaj-tvcg3.html",
+    "Logo": "https://i.imgur.com/0ZT3Bc2.png",
+    "Streams": [
+      {
+        "Url": "https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCGMNE.me",
+    "Name": "TVCG MNE",
+    "Country": "ME",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rtcg.me/",
+    "Logo": "https://i.imgur.com/pf8VEwf.png",
+    "Streams": [
+      {
+        "Url": "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8"
+      },
+      {
+        "Url": "http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8"
+      },
+      {
+        "Url": "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVTeuta.me",
+    "Name": "TV Teuta",
+    "Country": "ME",
+    "Languages": "cnr",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://tvteuta.com/",
+    "Logo": "https://i.imgur.com/sWVqBuW.png",
+    "Streams": [
+      {
+        "Url": "https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  }
+]

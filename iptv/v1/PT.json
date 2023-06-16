@@ -1,0 +1,365 @@
+[
+  {
+    "Id": "ARTV.pt",
+    "Name": "ARTV",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://canal.parlamento.pt",
+    "Logo": "https://i.imgur.com/y00t9hr.png",
+    "Streams": [
+      {
+        "Url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNNPortugal.pt",
+    "Name": "CNN Portugal",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.cnnportugal.pt/",
+    "Logo": "https://i.imgur.com/bc6tYVZ.png",
+    "Streams": [
+      {
+        "Url": "https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal"
+      }
+    ]
+  },
+  {
+    "Id": "CanalUmEuropa.pt",
+    "Name": "Canal Um Europa",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4C9bzpM.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IgrejaOnline.pt",
+    "Name": "Igreja Online",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/rsptpwe.png",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KuriakosCine.pt",
+    "Name": "Kuriakos Cine",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/CZViCwB.jpg",
+    "Streams": [
+      {
+        "Url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KuriakosKids.pt",
+    "Name": "Kuriakos Kids",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "animation,kids,religious",
+    "IsNsfw": false,
+    "Website": "https://kuriakos-kids.com/",
+    "Logo": "https://i.imgur.com/SRX6EPY.png",
+    "Streams": [
+      {
+        "Url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KuriakosMusic.pt",
+    "Name": "Kuriakos Music",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Zl40NYi.jpg",
+    "Streams": [
+      {
+        "Url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KuriakosTV.pt",
+    "Name": "Kuriakos TV",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.kuriakos-tv.com/",
+    "Logo": "https://i.imgur.com/xdAW0D5.png",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ONFM.pt",
+    "Name": "ON FM",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.onfm.pt/",
+    "Logo": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
+    "Streams": [
+      {
+        "Url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PortoCanal.pt",
+    "Name": "Porto Canal",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://portocanal.sapo.pt/",
+    "Logo": "https://i.imgur.com/DwziwMY.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTPiAsia.pt",
+    "Name": "RTPi Asia",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.rtp.pt/rtpinternacional",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s38/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SIC.pt",
+    "Name": "SIC",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://sic.pt/",
+    "Logo": "https://i.imgur.com/SPMqiDG.png",
+    "Streams": [
+      {
+        "Url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SobrenaturalTV.pt",
+    "Name": "Sobrenatural TV",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/jYIf7Mz.png",
+    "Streams": [
+      {
+        "Url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCancaoNovaPortugal.pt",
+    "Name": "TV Cancao Nova Portugal",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv.cancaonova.pt/",
+    "Logo": "https://i.imgur.com/rSmwbkj.png",
+    "Streams": [
+      {
+        "Url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVFatima.pt",
+    "Name": "TV Fatima",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/0Nz2GqC.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCOAjX8pc2fY1S5AqsXvZywg.m3u8"
+      },
+      {
+        "Url": "https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVIFiccao.pt",
+    "Name": "TVI Ficcao",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tvi.iol.pt/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png/512px-TVI_Fic%C3%A7%C3%A3o_logo.png",
+    "Streams": [
+      {
+        "Url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVMana1.pt",
+    "Name": "TV Mana 1",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/6jNqpTP.png",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVMana2.pt",
+    "Name": "TV Mana 2",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PnZqxYu.png",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVManaBrazil.pt",
+    "Name": "TV Mana Brazil",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/zBtvnD5.png",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVManaEnglish.pt",
+    "Name": "TV Mana English",
+    "Country": "PT",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/c4DSG2J.png",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVManaFrancais.pt",
+    "Name": "TV Mana Francais",
+    "Country": "PT",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/c4DSG2J.png",
+    "Streams": [
+      {
+        "Url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVManaMozambique.pt",
+    "Name": "TV Mana Mozambique",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://tvmana-mocambique.com/",
+    "Logo": "https://i.imgur.com/5UIy5tD.png",
+    "Streams": [
+      {
+        "Url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVManaSpanish.pt",
+    "Name": "TV Mana Spanish",
+    "Country": "PT",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/c4DSG2J.png",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "iesTV.pt",
+    "Name": "iesTV",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://iescc.pt/tv/",
+    "Logo": "https://cdn-dggpl.nitrocdn.com/tlOjFZbLdcWmOWNcYKmSIOSeIltexHlD/assets/static/optimized/rev-ccd25d7/wp-content/uploads/2021/09/teste_logo.png",
+    "Streams": [
+      {
+        "Url": "https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8"
+      }
+    ]
+  }
+]

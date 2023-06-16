@@ -1,0 +1,242 @@
+[
+  {
+    "Id": "AngDatingDaan.ph",
+    "Name": "Ang Dating Daan",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://angdatingdaan.org/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CCTN47.ph",
+    "Name": "CCTN 47",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://cctn47.com/",
+    "Logo": "https://i.imgur.com/IFpAmvW.png",
+    "Streams": [
+      {
+        "Url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNNPhilippines.ph",
+    "Name": "CNN Philippines",
+    "Country": "PH",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://cnnphilippines.com/",
+    "Logo": "https://i.imgur.com/PNymaxE.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DZRHNewsTV.ph",
+    "Name": "DZRH News TV",
+    "Country": "PH",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/qr0w2eZ.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GreatCommissionTV.ph",
+    "Name": "Great Commission TV",
+    "Country": "PH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.gctv.asia/",
+    "Logo": "https://i.imgur.com/8cvikOo.png",
+    "Streams": [
+      {
+        "Url": "http://45.32.115.103/live/livestream/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KapamilyaChannel.ph",
+    "Name": "Kapamilya Channel",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ent.abs-cbn.com/articles-news/everything-you-need-to-know-about-kapamilya-channel-12340",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/512px-Kapamilya_Channel_Logo_2020.svg.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LifeTVAsia.ph",
+    "Name": "Life TV Asia",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/xUr7A4V.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Net25.ph",
+    "Name": "Net 25",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.net25.com/",
+    "Logo": "https://i.imgur.com/pPPubX5.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OrasngHimala.ph",
+    "Name": "Oras ng Himala",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.miraclehour.org/tv_radio",
+    "Logo": "https://i.imgur.com/UjXSgKu.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PIE.ph",
+    "Name": "PIE",
+    "Country": "PH",
+    "Languages": "fil",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://pie.com.ph/",
+    "Logo": "https://i.imgur.com/pF9xv5y.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCAxAaFQnH5IK_ZTwiQWV-9A.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PTV.ph",
+    "Name": "PTV",
+    "Country": "PH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ptvnews.ph/",
+    "Logo": "https://i.imgur.com/MMccHNd.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PTV4.ph",
+    "Name": "PTV 4",
+    "Country": "PH",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/T3jDOEq.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SMNI.ph",
+    "Name": "SMNI",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://smni.com/",
+    "Logo": "https://i.imgur.com/l2JSQme.png",
+    "Streams": [
+      {
+        "Url": "https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVMaria.ph",
+    "Name": "TV Maria",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvmaria.ph/",
+    "Logo": "https://i.imgur.com/yhIM9yU.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleRadyo.ph",
+    "Name": "TeleRadyo",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://news.abs-cbn.com/dzmm/",
+    "Logo": "https://i.imgur.com/fTYOu5k.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UNTV.ph",
+    "Name": "UNTV",
+    "Country": "PH",
+    "Languages": "tgl,eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.untvweb.com/",
+    "Logo": "https://i.imgur.com/gFcpYSJ.png",
+    "Streams": [
+      {
+        "Url": "https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "Id": "5Plus.mm",
+    "Name": "5 Plus",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.5pluschannel.com/",
+    "Logo": "https://i.imgur.com/4EHL2mH.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07w/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Channel7.mm",
+    "Name": "Channel 7",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7xHSikv.png",
+    "Streams": [
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8"
+      },
+      {
+        "Url": "http://183.89.246.119:8881/play/a07v/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Channel9.mm",
+    "Name": "Channel 9",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07y/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ChannelK.mm",
+    "Name": "Channel K",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/6PqxuhF.png",
+    "Streams": [
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8"
+      },
+      {
+        "Url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8"
+      },
+      {
+        "Url": "http://183.89.246.119:8881/play/a080/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EducationChannel.mm",
+    "Name": "Education Channel",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": "http://www.moe.gov.mm/",
+    "Logo": "https://i.imgur.com/p5TGUjo.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07s/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FortuneTV.mm",
+    "Name": "Fortune TV",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/MM5evnD.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a082/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MNTV.mm",
+    "Name": "MN TV",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/nssm7QK.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07x/index.m3u8"
+      },
+      {
+        "Url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTV.mm",
+    "Name": "MRTV",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/uyv7oJH.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07l/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTV4.mm",
+    "Name": "MRTV 4",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/J4i1VBb.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07u/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTVEntertainment.mm",
+    "Name": "MRTV Entertainment",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/c9q6oT0.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07t/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTVFarmer.mm",
+    "Name": "MRTV Farmer",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "documentary,lifestyle",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/f4PWvrW.jpg",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07p/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTVNRC.mm",
+    "Name": "MRTV NRC",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/5aLFslk.jpg",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07o/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTVNews.mm",
+    "Name": "MRTV News",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/5eK8Bc4.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTVParliament.mm",
+    "Name": "MRTV Parliament",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/5eK8Bc4.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07n/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MRTVSports.mm",
+    "Name": "MRTV Sports",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://mrtv.gov.mm/",
+    "Logo": "https://i.imgur.com/cFTR4kC.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07q/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MWD.mm",
+    "Name": "MWD",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.myawady.net.mm/",
+    "Logo": "https://i.imgur.com/zyTQG9F.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a07z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MaharTV.mm",
+    "Name": "Mahar TV",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.mahartv.com/",
+    "Logo": "https://i.imgur.com/ig0QECf.png",
+    "Streams": [
+      {
+        "Url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MyanmarInternationalTV.mm",
+    "Name": "Myanmar International TV",
+    "Country": "MM",
+    "Languages": "mya,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.myanmaritv.com/",
+    "Logo": "https://i.imgur.com/ClmWqE5.png",
+    "Streams": [
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8"
+      },
+      {
+        "Url": "http://183.89.246.119:8881/play/a07r/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "YTV.mm",
+    "Name": "YTV",
+    "Country": "MM",
+    "Languages": "mya",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ytvmm.com/",
+    "Logo": "https://i.imgur.com/uqrXcWB.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8881/play/a081/index.m3u8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,599 @@
+[
+  {
+    "Id": "ABNsat.iq",
+    "Name": "ABNsat",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/WhPlJzh.jpeg",
+    "Streams": [
+      {
+        "Url": "http://rtmp1.abnsat.com/hls/arabic.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AfarinTV.iq",
+    "Name": "Afarin TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/6MnXD7g.png",
+    "Streams": [
+      {
+        "Url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlIraqia.iq",
+    "Name": "Al Iraqia",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://imn.iq/",
+    "Logo": "https://i.imgur.com/8qQouTW.jpg",
+    "Streams": [
+      {
+        "Url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlIraqiaNews.iq",
+    "Name": "Al Iraqia News",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://imn.iq/",
+    "Logo": "https://i.imgur.com/feQTXeZ.jpg",
+    "Streams": [
+      {
+        "Url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlJawadainTV.iq",
+    "Name": "Al-Jawadain TV",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Eo3UYCK.png",
+    "Streams": [
+      {
+        "Url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlRafidainTV.iq",
+    "Name": "Al-Rafidain TV",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://alrafidain.tv/",
+    "Logo": "https://i.imgur.com/rjXDCN5.png",
+    "Streams": [
+      {
+        "Url": "https://cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlRasheedTV.iq",
+    "Name": "Al Rasheed TV",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.alrasheedmedia.com/",
+    "Logo": "https://i.imgur.com/ltyRjPK.png",
+    "Streams": [
+      {
+        "Url": "https://media1.livaat.com/AL-RASHEED-HD/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlSharqiya.iq",
+    "Name": "Al Sharqiya",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.alsharqiya.com/",
+    "Logo": "https://i.imgur.com/mJIG5IV.png",
+    "Streams": [
+      {
+        "Url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
+      },
+      {
+        "Url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlSharqiyaNews.iq",
+    "Name": "Al Sharqiya News",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.alsharqiya.com/",
+    "Logo": "https://i.imgur.com/PeAcXB9.png",
+    "Streams": [
+      {
+        "Url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
+      },
+      {
+        "Url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlghadeerTV.iq",
+    "Name": "Alghadeer TV",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://alghadeertv.net/",
+    "Logo": "https://i.imgur.com/YPj6kXq.png",
+    "Streams": [
+      {
+        "Url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlkafeelThewindowofAlKafeel.iq",
+    "Name": "Alkafeel: The window of Al-Kafeel",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ZZyr80U.png",
+    "Streams": [
+      {
+        "Url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AmozhgaryTV.iq",
+    "Name": "Amozhgary TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.amozhgary.tv/",
+    "Logo": "https://i.imgur.com/sseqFsO.png",
+    "Streams": [
+      {
+        "Url": "https://media.streambrothers.com:1936/8248/8248/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AssyrianANB.iq",
+    "Name": "Assyrian ANB",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/T8fRsUB.png",
+    "Streams": [
+      {
+        "Url": "https://anbsat.ddns.net/anb/live/ANB/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DijlahTV.iq",
+    "Name": "Dijlah TV",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.dijlah.tv/",
+    "Logo": "https://i.imgur.com/kyzH3G5.png",
+    "Streams": [
+      {
+        "Url": "https://ghaasiflu.online/Dijlah/index.m3u8"
+      },
+      {
+        "Url": "http://91.134.145.75:10001/Dijlah/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GaliKurdistan.iq",
+    "Name": "Gali Kurdistan",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Jd9DywP.png",
+    "Streams": [
+      {
+        "Url": "https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HadiTV1.iq",
+    "Name": "Hadi TV 1",
+    "Country": "IQ",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://en.haditv.co.uk/",
+    "Logo": "https://i.imgur.com/TXzEtF8.png",
+    "Streams": [
+      {
+        "Url": "https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HadiTV3.iq",
+    "Name": "Hadi TV 3",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://az.haditv.co.uk/",
+    "Logo": "https://i.imgur.com/TXzEtF8.png",
+    "Streams": [
+      {
+        "Url": "https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HadiTV4.iq",
+    "Name": "Hadi TV 4",
+    "Country": "IQ",
+    "Languages": "far",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://fa.haditv.co.uk/",
+    "Logo": "https://i.imgur.com/TXzEtF8.png",
+    "Streams": [
+      {
+        "Url": "https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HadiTV5.iq",
+    "Name": "Hadi TV 5",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://ha.haditv.co.uk/",
+    "Logo": "https://i.imgur.com/TXzEtF8.png",
+    "Streams": [
+      {
+        "Url": "https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HadiTV6.iq",
+    "Name": "Hadi TV 6",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://en.haditv.co.uk/",
+    "Logo": "https://i.imgur.com/TXzEtF8.png",
+    "Streams": [
+      {
+        "Url": "https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "INews.iq",
+    "Name": "I News",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/9lOuzHQ.png",
+    "Streams": [
+      {
+        "Url": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImamHusseinTV1.iq",
+    "Name": "Imam Hussein TV 1",
+    "Country": "IQ",
+    "Languages": "fas",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://imamhussein1.tv/",
+    "Logo": "https://i.imgur.com/pDdUvz7.png",
+    "Streams": [
+      {
+        "Url": "https://live.imamhossaintv.com/live/ih1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImamHusseinTV2.iq",
+    "Name": "Imam Hussein TV 2",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://imamhussein2.tv/",
+    "Logo": "https://i.imgur.com/IXVSPdJ.png",
+    "Streams": [
+      {
+        "Url": "https://live.imamhossaintv.com/live/ih2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImamHusseinTV3.iq",
+    "Name": "Imam Hussein TV 3",
+    "Country": "IQ",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://imamhussein3.tv/",
+    "Logo": "https://i.imgur.com/emQRHQZ.png",
+    "Streams": [
+      {
+        "Url": "https://live.imamhossaintv.com/live/ih3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImamHusseinTV4.iq",
+    "Name": "Imam Hussein TV 4",
+    "Country": "IQ",
+    "Languages": "urd",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://imamhussein4.tv/",
+    "Logo": "https://i.imgur.com/0UYcylY.png",
+    "Streams": [
+      {
+        "Url": "https://live.imamhossaintv.com/live/ih4.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImamHusseinTV5.iq",
+    "Name": "Imam Hussein TV 5",
+    "Country": "IQ",
+    "Languages": "tur",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://imamhussein.tv/",
+    "Logo": "https://i.imgur.com/Oq2Ve7C.png",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImamHusseinTV6.iq",
+    "Name": "Imam Hussein TV 6",
+    "Country": "IQ",
+    "Languages": "fas",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://imamhussein.tv/",
+    "Logo": "https://i.imgur.com/lqhU0PY.png",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/arbaeen/arbaeen_hd.smil/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KirkukTV.iq",
+    "Name": "Kirkuk TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kirkuktv.net/",
+    "Logo": "https://i.imgur.com/SPslJS4.png",
+    "Streams": [
+      {
+        "Url": "https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KurdChannel.iq",
+    "Name": "Kurd Channel",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/xPwzad9.png",
+    "Streams": [
+      {
+        "Url": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kurdistan24.iq",
+    "Name": "Kurdistan 24",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kurdistan24.net/",
+    "Logo": "https://i.imgur.com/9QWs2ms.png",
+    "Streams": [
+      {
+        "Url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KurdistanTV.iq",
+    "Name": "Kurdistan TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://kurdistantv.net/",
+    "Logo": "https://i.imgur.com/mjQptpc.png",
+    "Streams": [
+      {
+        "Url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kurdsat.iq",
+    "Name": "Kurdsat",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kurdsat.tv/",
+    "Logo": "https://i.imgur.com/UAbSwYA.png",
+    "Streams": [
+      {
+        "Url": "https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KurdsatNews.iq",
+    "Name": "Kurdsat News",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.kurdsatnews.com/",
+    "Logo": "https://i.imgur.com/F3XRwkt.png",
+    "Streams": [
+      {
+        "Url": "https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MarjaeyatTVPersian.iq",
+    "Name": "Marjaeyat TV Persian",
+    "Country": "IQ",
+    "Languages": "fas",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://marjaeyattv.com/",
+    "Logo": "https://i.imgur.com/fCj05f0.png",
+    "Streams": [
+      {
+        "Url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NRTTV.iq",
+    "Name": "NRT TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uGKGtbW.png",
+    "Streams": [
+      {
+        "Url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PayamTV.iq",
+    "Name": "Payam TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.peyam.net/",
+    "Logo": "https://i.imgur.com/qySEibb.png",
+    "Streams": [
+      {
+        "Url": "https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RudawTV.iq",
+    "Name": "Rudaw TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://rudaw.net/",
+    "Logo": "https://i.imgur.com/Zo3IWOn.png",
+    "Streams": [
+      {
+        "Url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WaarTV.iq",
+    "Name": "Waar TV",
+    "Country": "IQ",
+    "Languages": "kur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://waarmedia.com/tv/",
+    "Logo": "https://i.imgur.com/rK0y02d.png",
+    "Streams": [
+      {
+        "Url": "https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8"
+      },
+      {
+        "Url": "https://ca-rt.onetv.app/Waar/index-0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZagrosTV.iq",
+    "Name": "Zagros TV",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.zagrosnews.net/",
+    "Logo": "https://i.imgur.com/9Mspf32.png",
+    "Streams": [
+      {
+        "Url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

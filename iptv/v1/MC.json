@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "MonacoInfo.mc",
+    "Name": "Monaco Info",
+    "Country": "MC",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://monacoinfo.com/",
+    "Logo": "https://i.imgur.com/FPyPaL1.png",
+    "Streams": [
+      {
+        "Url": "https://webtvmonacoinfo.mc/live/prod_720/index.m3u8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "Id": "BSTV.hk",
+    "Name": "BSTV",
+    "Country": "HK",
+    "Languages": "zho,yue",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "http://bschannel.com/zh",
+    "Logo": "https://i.imgur.com/GVYSSgm.png",
+    "Streams": [
+      {
+        "Url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BloombergTVAsia.hk",
+    "Name": "Bloomberg TV Asia",
+    "Country": "HK",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/asia",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/dr9445/h/h03/index.m3u8"
+      },
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/asia.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BloombergTVAsiaLiveEvent.hk",
+    "Name": "Bloomberg TV Asia Live Event",
+    "Country": "HK",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/asia_stream",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CCM.hk",
+    "Name": "CCM",
+    "Country": "HK",
+    "Languages": "zho,ind",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.cmclassic.tv/index.php?location/HK",
+    "Logo": "https://i.imgur.com/1VhXilw.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CelestialMovies.hk",
+    "Name": "Celestial Movies",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.celestialmovies.com/",
+    "Logo": "https://i.imgur.com/Mb5ssnu.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/dr9445/h/h14/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HKIBC.hk",
+    "Name": "HKIBC",
+    "Country": "HK",
+    "Languages": "zho,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.hkibchannel.com.hk/",
+    "Logo": "https://i.imgur.com/jaIdkbz.png",
+    "Streams": [
+      {
+        "Url": "https://live.astradamy.com/hk76/index.m3u8"
+      },
+      {
+        "Url": "https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HKSTV.hk",
+    "Name": "HKSTV",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.hkstv.tv/",
+    "Logo": "https://i.imgur.com/UhwlxwL.png",
+    "Streams": [
+      {
+        "Url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HOYTV.hk",
+    "Name": "HOY TV",
+    "Country": "HK",
+    "Languages": "yue",
+    "Categories": "general,entertainment",
+    "IsNsfw": false,
+    "Website": "https://hoy.tv/",
+    "Logo": "https://i.imgur.com/NfVZPTT.png",
+    "Streams": [
+      {
+        "Url": "https://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m3u8"
+      },
+      {
+        "Url": "https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8"
+      },
+      {
+        "Url": "http://media.fantv.hk/m3u8/archive/channel2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "J2.hk",
+    "Name": "J2",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://programme.tvb.com/j2",
+    "Logo": "https://i.imgur.com/lvxtaoM.png",
+    "Streams": [
+      {
+        "Url": "https://j3.lhlh.app/mv.m3u8"
+      },
+      {
+        "Url": "https://live.astradamy.com/tvbj2/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Jade.hk",
+    "Name": "Jade",
+    "Country": "HK",
+    "Languages": "yue",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://programme.tvb.com/jade/",
+    "Logo": "https://i.imgur.com/ooG96w8.png",
+    "Streams": [
+      {
+        "Url": "https://live.astradamy.com/tvbfc/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KIX.hk",
+    "Name": "KIX",
+    "Country": "HK",
+    "Languages": "eng,zho,msa,ind",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://www.kix-tv.com/",
+    "Logo": "https://i.imgur.com/zWcUAdb.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/dr9445/h/h07/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Pearl.hk",
+    "Name": "Pearl",
+    "Country": "HK",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://programme.tvb.com/pearl/",
+    "Logo": "https://i.imgur.com/UPdcMkW.png",
+    "Streams": [
+      {
+        "Url": "https://live.astradamy.com/tvbpearl/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PetClubTV.hk",
+    "Name": "Pet Club TV",
+    "Country": "HK",
+    "Languages": "yue",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.lightninginternational.net/channels",
+    "Logo": "https://i.imgur.com/ykPNNwQ.png",
+    "Streams": [
+      {
+        "Url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PhoenixChineseChannel.hk",
+    "Name": "Phoenix Chinese Channel",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://phtv.ifeng.com/",
+    "Logo": "https://i.imgur.com/rwY7FHT.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/uq2663/h/h157/index2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PhoenixInfoNewsChannel.hk",
+    "Name": "Phoenix InfoNews Channel",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://phtv.ifeng.com/phoenixinfonews/",
+    "Logo": "https://i.imgur.com/mt4h3VO.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s21/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTHKTV31.hk",
+    "Name": "RTHK TV 31",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rthk.hk/",
+    "Logo": "https://i.imgur.com/kf818kM.png",
+    "Streams": [
+      {
+        "Url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8"
+      },
+      {
+        "Url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTHKTV32.hk",
+    "Name": "RTHK TV 32",
+    "Country": "HK",
+    "Languages": "zho,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rthk.hk/",
+    "Logo": "https://i.imgur.com/MXLuUoU.png",
+    "Streams": [
+      {
+        "Url": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8"
+      },
+      {
+        "Url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTHKTV33.hk",
+    "Name": "RTHK TV 33",
+    "Country": "HK",
+    "Languages": "zho,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rthk.hk/",
+    "Logo": "https://i.imgur.com/2MProun.png",
+    "Streams": [
+      {
+        "Url": "https://live.astradamy.com/hk33/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVBFinanceSportsInformationChannel.hk",
+    "Name": "TVB Finance Sports & Information Channel",
+    "Country": "HK",
+    "Languages": "zho,cmn",
+    "Categories": "business,sports",
+    "IsNsfw": false,
+    "Website": "https://promo.mytvsuper.com/en/epg-channel/A",
+    "Logo": "https://i.imgur.com/Fkkp7x7.png",
+    "Streams": [
+      {
+        "Url": "https://tvp22.sky4k.top/index2.php"
+      }
+    ]
+  },
+  {
+    "Id": "TVBNewsChannel.hk",
+    "Name": "TVB News Channel",
+    "Country": "HK",
+    "Languages": "yue",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://programme.tvb.com/tvbnewschannel",
+    "Logo": "https://i.imgur.com/Gwij0Fj.png",
+    "Streams": [
+      {
+        "Url": "https://tvp22.sky4k.top/index1.php"
+      }
+    ]
+  },
+  {
+    "Id": "Thrill.hk",
+    "Name": "Thrill",
+    "Country": "HK",
+    "Languages": "zho,eng,tha",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.thrill-tv.com/",
+    "Logo": "https://i.imgur.com/Y282owj.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s34/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ViuTVsix.hk",
+    "Name": "ViuTVsix",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://viu.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",
+    "Streams": [
+      {
+        "Url": "https://live.astradamy.com/viutv6/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "iCABLENewsChannel.hk",
+    "Name": "i-CABLE News Channel",
+    "Country": "HK",
+    "Languages": "yue",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://cablenews.i-cable.com/",
+    "Logo": "https://i.imgur.com/Xyxwrkr.png",
+    "Streams": [
+      {
+        "Url": "https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8"
+      }
+    ]
+  }
+]

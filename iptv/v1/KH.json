@@ -1,0 +1,188 @@
+[
+  {
+    "Id": "ApsaraTV11.kh",
+    "Name": "Apsara TV11",
+    "Country": "KH",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/9wJe71I.png",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BTVNews.kh",
+    "Name": "BTV News",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://news.btv.com.kh/",
+    "Logo": "https://i.imgur.com/sUHiRj3.png",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BayonTV.kh",
+    "Name": "Bayon TV",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://bayontv.com.kh/",
+    "Logo": "https://i.imgur.com/2jbulL2.jpg",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CTV9.kh",
+    "Name": "CTV 9",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv9.com.kh/",
+    "Logo": "https://i.imgur.com/jgVJt2G.png",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HangMeasHDTV.kh",
+    "Name": "Hang Meas HDTV",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/P8oOR8I.png",
+    "Streams": [
+      {
+        "Url": "http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MSJTV.kh",
+    "Name": "MSJ TV",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.msjtv.asia/",
+    "Logo": "https://i.imgur.com/TilslGU.png",
+    "Streams": [
+      {
+        "Url": "http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PNN.kh",
+    "Name": "PNN",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://pnn.com.kh/",
+    "Logo": "https://i.imgur.com/ObtFGBW.png",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEATV.kh",
+    "Name": "SEA TV",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.khmnow.com/",
+    "Logo": "https://i.imgur.com/oZPorvg.png",
+    "Streams": [
+      {
+        "Url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
+      },
+      {
+        "Url": "http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV5Cambodia.kh",
+    "Name": "TV5 Cambodia",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tv5hd.com/",
+    "Logo": "https://i.imgur.com/iMZLyoX.png",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVK.kh",
+    "Name": "TVK",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5hPxjcl.png",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8"
+      },
+      {
+        "Url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVK2.kh",
+    "Name": "TVK 2",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/FYqvxUM.png",
+    "Streams": [
+      {
+        "Url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WikiTV.kh",
+    "Name": "Wiki TV",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": "https://poscardigital.com/",
+    "Logo": "https://i.imgur.com/rnV0Ui1.png",
+    "Streams": [
+      {
+        "Url": "http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8"
+      }
+    ]
+  }
+]

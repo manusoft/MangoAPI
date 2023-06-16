@@ -1,0 +1,122 @@
+[
+  {
+    "Id": "OireachtasTV.ie",
+    "Name": "Oireachtas TV",
+    "Country": "IE",
+    "Languages": "gle",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.oireachtas.ie/",
+    "Logo": "https://i.imgur.com/aC4fsCI.png",
+    "Streams": [
+      {
+        "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OireachtasTVCommitteeRoom1.ie",
+    "Name": "Oireachtas TV Committee Room 1",
+    "Country": "IE",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/JLYqKC0.jpg",
+    "Streams": [
+      {
+        "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OireachtasTVCommitteeRoom2.ie",
+    "Name": "Oireachtas TV Committee Room 2",
+    "Country": "IE",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/2Wxx2jK.jpg",
+    "Streams": [
+      {
+        "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OireachtasTVCommitteeRoom3.ie",
+    "Name": "Oireachtas TV Committee Room 3",
+    "Country": "IE",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/EoAQeg5.jpg",
+    "Streams": [
+      {
+        "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OireachtasTVCommitteeRoom4.ie",
+    "Name": "Oireachtas TV Committee Room 4",
+    "Country": "IE",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/U9U4rgs.jpg",
+    "Streams": [
+      {
+        "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OireachtasTVDailEireann.ie",
+    "Name": "Oireachtas TV Dail Eireann",
+    "Country": "IE",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/mexKiS0.jpg",
+    "Streams": [
+      {
+        "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OireachtasTVSeanadEireann.ie",
+    "Name": "Oireachtas TV Seanad Eireann",
+    "Country": "IE",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/c5TI2DT.jpg",
+    "Streams": [
+      {
+        "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TG4.ie",
+    "Name": "TG4",
+    "Country": "IE",
+    "Languages": "gle,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tg4.ie/",
+    "Logo": "https://i.imgur.com/DslaAXr.png",
+    "Streams": [
+      {
+        "Url": "https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "Id": "4DmasNoticiasTV.py",
+    "Name": "4DmasNoticias TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "5DiasTV.py",
+    "Name": "5Dias TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.5dias.com.py/videos",
+    "Logo": "https://i.imgur.com/AX25tmv.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ABCTVParaguay.py",
+    "Name": "ABC-TV Paraguay",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.abc.com.py/tv/",
+    "Logo": "https://i.imgur.com/OqfBMGy.png",
+    "Streams": [
+      {
+        "Url": "https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlmayaTV.py",
+    "Name": "Almaya TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://almaya.com.py/",
+    "Logo": "https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BrunoMasiTV.py",
+    "Name": "Bruno Masi TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.brunomasi.tv/",
+    "Logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CaritasTV.py",
+    "Name": "Caritas TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DismarTV.py",
+    "Name": "Dismar TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Educanal.py",
+    "Name": "Educanal",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": "https://iptv.com.py/educanal/",
+    "Logo": "https://i.imgur.com/857OkFf.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EstacionCristal.py",
+    "Name": "Estacion Cristal",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.organizacioncristal.com/",
+    "Logo": "https://lh3.googleusercontent.com/-OVKm6WJqsOE/YH9lkO3dBoI/AAAAAAABB04/rL_BJgKt2Hw7UJjK0PN4Gl0lbNEW9ZK4wCK8BGAsYHg/s512/2021-04-20.jpg",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FMFrutillarTV.py",
+    "Name": "FM Frutillar TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.fmfrutillar.com/",
+    "Logo": "https://i.ibb.co/Tq1hbQL/Captura.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FarraPlay.py",
+    "Name": "Farra Play",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.farra.com.py/",
+    "Logo": "https://i.imgur.com/bXWzstH.png",
+    "Streams": [
+      {
+        "Url": "http://159.203.148.226/live/farra.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GOTV.py",
+    "Name": "GO TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "entertainment,music",
+    "IsNsfw": false,
+    "Website": "https://goradio.com.py/gotv/",
+    "Logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LIMTV.py",
+    "Name": "LIM TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv.limpy.online/",
+    "Logo": "https://i.imgur.com/CALoCyo.png",
+    "Streams": [
+      {
+        "Url": "https://live.limplay.ml/limtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MegaTV.py",
+    "Name": "Mega TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://megacadena.com.py/mega-tv/",
+    "Logo": "https://i.imgur.com/CaA7l86.png",
+    "Streams": [
+      {
+        "Url": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MiTV.py",
+    "Name": "MiTV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cadenadelsuritapua.com/mi-tv-en-vivo/",
+    "Logo": "https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MotorSurMedia.py",
+    "Name": "Motor Sur Media",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "auto",
+    "IsNsfw": false,
+    "Website": "https://iptv.com.py/motorsur/",
+    "Logo": "https://i.imgur.com/vhoMFZK.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Nanduti.py",
+    "Name": "Nanduti",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nanduti.com.py/nanduti-tv/",
+    "Logo": "https://i.imgur.com/vnIkhRO.png",
+    "Streams": [
+      {
+        "Url": "https://tvdatta.com:3839/live/nandutitvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NextHD.py",
+    "Name": "Next HD",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "movies,music",
+    "IsNsfw": false,
+    "Website": "https://nexthdpy.blogspot.com/",
+    "Logo": "https://i.imgur.com/c2rF3SS.png",
+    "Streams": [
+      {
+        "Url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ObediraTV.py",
+    "Name": "Obedira TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.obedira.com.py/page/obediratv/",
+    "Logo": "https://i.imgur.com/fRzOUw5.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OviedoTV.py",
+    "Name": "Oviedo TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.oviedotv.com.py/",
+    "Logo": "https://i.imgur.com/6OlfgSQ.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RCCTV.py",
+    "Name": "RCC TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://rcc.com.py/tv-envivo/",
+    "Logo": "https://i.imgur.com/qdjBnRl.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RepublicaTV.py",
+    "Name": "Republica TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.republicafmtv.com.py/",
+    "Logo": "https://i.ibb.co/qYRw4JP/Captura.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SomosdelEste.py",
+    "Name": "Somos del Este",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://somosdeleste.com.py/",
+    "Logo": "https://i.imgur.com/xkT9d1a.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SucesoTV.py",
+    "Name": "Suceso TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://radiosuceso.com/sucesotv/",
+    "Logo": "https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVAire.py",
+    "Name": "TV Aire",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://iptv.com.py/tvaire/",
+    "Logo": "https://i.imgur.com/7gHFKPZ.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSEncarnacion.py",
+    "Name": "TVS Encarnacion",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvs.com.py/",
+    "Logo": "https://i.ibb.co/s14qLnR/TVS.png",
+    "Streams": [
+      {
+        "Url": "https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Uniradio.py",
+    "Name": "Uniradio",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.uniradiopy.com/",
+    "Logo": "https://lh3.googleusercontent.com/-34FgWqzMBDg/YH9cw6_T2TI/AAAAAAABBzs/kBRRqFmgxqoFDZbfXOnL4wj8E58LW9jkQCK8BGAsYHg/s512/2021-04-20.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VenusMedia.py",
+    "Name": "Venus Media",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.venus.com.py/",
+    "Logo": "https://i.imgur.com/XwmUbfp.png",
+    "Streams": [
+      {
+        "Url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8"
+      }
+    ]
+  }
+]
