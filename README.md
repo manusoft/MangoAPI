@@ -1,4 +1,6 @@
 # API Repository
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/manusoft/api/api)
+
 
 Welcome to the API Repository! This repository contains a collection of helpful APIs for developers. These APIs provide access to various data and services that can enhance your applications. Additionally, you will find JSON files that accompany some of the APIs for easy integration.
 
