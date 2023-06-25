@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "Telearuba.aw",
+    "Name": "Telearuba",
+    "Country": "AW",
+    "Languages": "nld,pap,eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PY3P0aM.png",
+    "Streams": [
+      {
+        "Url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8"
+      }
+    ]
+  }
+]

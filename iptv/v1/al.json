@@ -1,0 +1,233 @@
+[
+  {
+    "Id": "AlbKanaleMusicTV.al",
+    "Name": "AlbKanale Music TV",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://albportal.net/",
+    "Logo": "https://i.imgur.com/JdKxscs.png",
+    "Streams": [
+      {
+        "Url": "https://albportal.net/albkanalemusic.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlpoTV.al",
+    "Name": "Alpo TV",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://alpomedia.com/",
+    "Logo": "https://i.imgur.com/Pr4ixiA.png",
+    "Streams": [
+      {
+        "Url": "https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNA.al",
+    "Name": "CNA",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cna.al/",
+    "Logo": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+    "Streams": [
+      {
+        "Url": "https://live1.mediadesk.al/cnatvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EuronewsAlbania.al",
+    "Name": "Euronews Albania",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://euronews.al/",
+    "Logo": "https://i.imgur.com/Skf6vdi.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "News24.al",
+    "Name": "News 24",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://balkanweb.com/",
+    "Logo": "https://i.imgur.com/PWGMnzW.jpg",
+    "Streams": [
+      {
+        "Url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+      },
+      {
+        "Url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OraNews.al",
+    "Name": "Ora News",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.oranews.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png",
+    "Streams": [
+      {
+        "Url": "https://live1.mediadesk.al/oranews.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OraTV.al",
+    "Name": "Ora TV",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.oranews.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png",
+    "Streams": [
+      {
+        "Url": "https://live1.mediadesk.al/oratv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PanoramaTV.al",
+    "Name": "Panorama TV",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "http://198.244.188.94/panorama/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReportTV.al",
+    "Name": "Report TV",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://shqiptarja.com/",
+    "Logo": "https://i.imgur.com/C9lM1KP.png",
+    "Streams": [
+      {
+        "Url": "https://deb10stream.duckdns.org/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV7Albania.al",
+    "Name": "TV 7 Albania",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://tv7.al/",
+    "Logo": "https://i.imgur.com/k9WqPLZ.png",
+    "Streams": [
+      {
+        "Url": "https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8"
+      },
+      {
+        "Url": "http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVApollon.al",
+    "Name": "TV Apollon",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://apollon.tv/",
+    "Logo": "https://i.imgur.com/gUz2AjM.png",
+    "Streams": [
+      {
+        "Url": "https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2"
+      }
+    ]
+  },
+  {
+    "Id": "TringClassic.al",
+    "Name": "Tring Classic",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.tring.al/",
+    "Logo": "https://i.imgur.com/TsaxrnX.png",
+    "Streams": [
+      {
+        "Url": "https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VizionPlus.al",
+    "Name": "Vizion Plus",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.vizionplus.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png",
+    "Streams": [
+      {
+        "Url": "https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZjarrTV.al",
+    "Name": "Zjarr TV",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://zjarr.tv/",
+    "Logo": "https://i.imgur.com/hNuWZWe.png",
+    "Streams": [
+      {
+        "Url": "https://content.jwplatform.com/live/broadcast/hiynhSaw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ntv.al",
+    "Name": "ntv",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://ntv.al/",
+    "Logo": "https://i.imgur.com/gtZLzxq.png",
+    "Streams": [
+      {
+        "Url": "https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8"
+      }
+    ]
+  }
+]

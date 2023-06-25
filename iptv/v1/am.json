@@ -1,0 +1,407 @@
+[
+  {
+    "Id": "21TV.am",
+    "Name": "21 TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://21tv.am/",
+    "Logo": "https://i.imgur.com/jSvTwk5.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s10/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "5TVArmenia.am",
+    "Name": "5TV Armenia",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.5tv.am/",
+    "Logo": "https://i.imgur.com/VRD6enL.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s6/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ARTNTV.am",
+    "Name": "ARTN TV",
+    "Country": "AM",
+    "Languages": "rus,hye",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.artn.tv/assets/5ba5a4abe66dd.png",
+    "Streams": [
+      {
+        "Url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATV.am",
+    "Name": "ATV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.atv.am/",
+    "Logo": "https://i.imgur.com/BRQTJib.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s8/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVFilmzone.am",
+    "Name": "ATV Filmzone",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uWBrDpV.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s48/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVHayTV.am",
+    "Name": "ATV Hay TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/KCkzU5R.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s73/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVKhaghaliqTV.am",
+    "Name": "ATV Khaghaliq TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/mrfm9uY.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s74/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVKinoman.am",
+    "Name": "ATV Kinoman",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/lidNHkH.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s94/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVTavaTV.am",
+    "Name": "ATV Tava TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/cndJCRU.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s53/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AmgaTV.am",
+    "Name": "Amga TV",
+    "Country": "AM",
+    "Languages": "hye,rus,eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/VKvYQ3v.png",
+    "Streams": [
+      {
+        "Url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmNews.am",
+    "Name": "ArmNews",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wEYG6pw.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s11/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Armenia1.am",
+    "Name": "Armenia 1",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.1tv.am/",
+    "Logo": "https://i.imgur.com/aFy3soi.png",
+    "Streams": [
+      {
+        "Url": "https://amtv1.livestreamingcdn.com/am2abr/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmeniaHayKino.am",
+    "Name": "Armenia Hay Kino",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XwbLfqd.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s22/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmeniaJanTV.am",
+    "Name": "Armenia Jan TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/AhX46e5.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s42/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmeniaKomedi.am",
+    "Name": "Armenia Komedi",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "comedy",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/pvF7dGN.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s32/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmeniaPremium.am",
+    "Name": "Armenia Premium",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/IxOFvqz.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s83/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmeniaSinemaks.am",
+    "Name": "Armenia Sinemaks",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/fRfGuQg.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s66/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmeniaTV.am",
+    "Name": "Armenia TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/AvP7giY.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s4/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ArmeniaTownTownik.am",
+    "Name": "Armenia Town Townik",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XjhkUXy.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s46/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "H2.am",
+    "Name": "H2",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.tv.am/",
+    "Logo": "https://i.imgur.com/MLmJDyP.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s2/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HorizonArmenian.am",
+    "Name": "Horizon Armenian",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/3mCMRTv.png",
+    "Streams": [
+      {
+        "Url": "http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo"
+      }
+    ]
+  },
+  {
+    "Id": "KentronTV.am",
+    "Name": "Kentron TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kentron.tv/",
+    "Logo": "https://i.imgur.com/gY26kwH.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s5/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NorHayastanTV.am",
+    "Name": "Nor Hayastan TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://norhayastan.com/page/live",
+    "Logo": "https://i.imgur.com/QH7VytI.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s12/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SONGTV.am",
+    "Name": "SONGTV",
+    "Country": "AM",
+    "Languages": "hye,rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://songtv.am/",
+    "Logo": "https://i.imgur.com/nM7LbmV.png",
+    "Streams": [
+      {
+        "Url": "https://songtv.hls.iptvdc.com/web-armenia/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShantTV.am",
+    "Name": "Shant TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.shanttv.com/",
+    "Logo": "https://i.imgur.com/AyitGj7.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s3/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShoghakatTV.am",
+    "Name": "Shoghakat TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.shoghakat.am/",
+    "Logo": "https://i.imgur.com/U6Bs4wt.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s13/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "YerkirMediaTV.am",
+    "Name": "Yerkir Media TV",
+    "Country": "AM",
+    "Languages": "hye",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://yerkirmedia.am/",
+    "Logo": "https://i.imgur.com/FKpxkVH.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s7/index.m3u8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,305 @@
+[
+  {
+    "Id": "BalkanRadioSalzburg.at",
+    "Name": "Balkan Radio Salzburg",
+    "Country": "AT",
+    "Languages": "srp",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://balkanradiosalzburg.com/",
+    "Logo": "https://i.imgur.com/UDyxgXf.png",
+    "Streams": [
+      {
+        "Url": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DorfTV.at",
+    "Name": "Dorf TV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/L0q19NR.png",
+    "Streams": [
+      {
+        "Url": "https://stream.openplayout.org/hls/dorftv/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FS1Salzburg.at",
+    "Name": "FS1 Salzburg",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/74gMaPK.png",
+    "Streams": [
+      {
+        "Url": "http://stream.fs1.tv:8080/hls/webstream.m3u8"
+      },
+      {
+        "Url": "https://stream.fs1.tv/hls/webstream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HitradioO3.at",
+    "Name": "Hitradio O3",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://oe3.orf.at/",
+    "Logo": "https://i.imgur.com/pFKnkU0.png",
+    "Streams": [
+      {
+        "Url": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KroneTV.at",
+    "Name": "Krone TV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.krone.at/",
+    "Logo": "https://i.imgur.com/3N3N7rG.png",
+    "Streams": [
+      {
+        "Url": "https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kronehit.at",
+    "Name": "Kronehit",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.kronehit.at/",
+    "Logo": "https://i.imgur.com/dQJQv1X.png",
+    "Streams": [
+      {
+        "Url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KurierTV.at",
+    "Name": "Kurier TV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kurier.tv/",
+    "Logo": "https://i.imgur.com/c53h8cz.png",
+    "Streams": [
+      {
+        "Url": "https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LandleTV.at",
+    "Name": "Landle TV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.laendletv.com/",
+    "Logo": "https://i.imgur.com/omLVQ4r.png",
+    "Streams": [
+      {
+        "Url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Oe24TV.at",
+    "Name": "Oe24 TV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.oe24.at/",
+    "Logo": "https://i.imgur.com/QlLig1u.png",
+    "Streams": [
+      {
+        "Url": "https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OktoTV.at",
+    "Name": "Okto TV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Okto.svg/512px-Okto.svg.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "R9.at",
+    "Name": "R9",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.r-9.at/",
+    "Logo": "https://i.imgur.com/Wu6SMvb.png",
+    "Streams": [
+      {
+        "Url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTV.at",
+    "Name": "RTV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",
+    "Streams": [
+      {
+        "Url": "http://iptv.rtv-ooe.at/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVComedyMoviesAustria.at",
+    "Name": "Rakuten TV Comedy Movies Austria",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HhnLCqO.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RedBullTV.at",
+    "Name": "Red Bull TV",
+    "Country": "AT",
+    "Languages": "eng,deu",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.redbull.tv/",
+    "Logo": "https://i.imgur.com/BcN8B3D.png",
+    "Streams": [
+      {
+        "Url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SwamijiTV.at",
+    "Name": "Swamiji TV",
+    "Country": "AT",
+    "Languages": "eng",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/nrLcuzs.png",
+    "Streams": [
+      {
+        "Url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV1Oberosterreich.at",
+    "Name": "TV 1 Oberosterreich",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv1.nachrichten.at/",
+    "Logo": "https://i.imgur.com/KbMkEIn.png",
+    "Streams": [
+      {
+        "Url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TirolTV.at",
+    "Name": "Tirol TV",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Xw6uc6W.png",
+    "Streams": [
+      {
+        "Url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UpperaBalkan.at",
+    "Name": "Uppera Balkan",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eqcmi5G.png",
+    "Streams": [
+      {
+        "Url": "http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VM1Sehen.at",
+    "Name": "VM1 Sehen",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.vm1.at/",
+    "Logo": "https://static.wixstatic.com/media/522024_50cf216fc358478fbc6a61e77d55e2e9~mv2.png/v1/fill/w_300,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_vm1_sehen.png",
+    "Streams": [
+      {
+        "Url": "https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "W24.at",
+    "Name": "W24",
+    "Country": "AT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/J25y9ah.png",
+    "Streams": [
+      {
+        "Url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

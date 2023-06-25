@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "AddisTV.et",
+    "Name": "Addis TV",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/kqHWrZ9.png",
+    "Streams": [
+      {
+        "Url": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8"
+      }
+    ]
+  }
+]
