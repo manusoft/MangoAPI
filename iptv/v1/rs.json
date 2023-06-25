@@ -1,0 +1,395 @@
+[
+  {
+    "Id": "BloombergAdriaTV.rs",
+    "Name": "Bloomberg Adria TV",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://bloombergadria.com/",
+    "Logo": "https://i.imgur.com/9QOfE8o.png",
+    "Streams": [
+      {
+        "Url": "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EuronewsSerbia.rs",
+    "Name": "Euronews Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.euronews.rs/",
+    "Logo": "https://i.imgur.com/b24QKcq.png",
+    "Streams": [
+      {
+        "Url": "https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KurirTV.rs",
+    "Name": "Kurir TV",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kurir.rs/",
+    "Logo": "https://i.imgur.com/HBPnUD5.png",
+    "Streams": [
+      {
+        "Url": "https://kurir-tv.haste-cdn.net/providus/live2805.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MISTelevizija.rs",
+    "Name": "MIS Televizija",
+    "Country": "RS",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TWAxTiF.png",
+    "Streams": [
+      {
+        "Url": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikAMVA2020.rs",
+    "Name": "Muzzik AMVA 2020",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/cgvLP1E.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikCafeClubSerbia.rs",
+    "Name": "Muzzik Cafe&Club Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikHipHopSerbia.rs",
+    "Name": "Muzzik HipHop Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikJekaSerbia.rs",
+    "Name": "Muzzik Jeka Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikMediteraneoSerbia.rs",
+    "Name": "Muzzik Mediteraneo Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikOKKSerbia.rs",
+    "Name": "Muzzik OKK Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikReplaySerbia.rs",
+    "Name": "Muzzik Replay Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikRockRollSerbia.rs",
+    "Name": "Muzzik Rock&Roll Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikSaculatacSerbia.rs",
+    "Name": "Muzzik Saculatac Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikTVSerbia.rs",
+    "Name": "Muzzik TV Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-6/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzzikWorldwideSerbia.rs",
+    "Name": "Muzzik Worldwide Serbia",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
+    "Streams": [
+      {
+        "Url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PiKanal.rs",
+    "Name": "Pi Kanal",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.pikanal.rs/",
+    "Logo": "https://i.imgur.com/X4vBCVA.png",
+    "Streams": [
+      {
+        "Url": "https://stream.pikanal.rs/pikanal/pgm.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PrvaSrpskaTV.rs",
+    "Name": "Prva Srpska TV",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.prva.rs/",
+    "Logo": "https://i.imgur.com/QIjNtuE.png",
+    "Streams": [
+      {
+        "Url": "http://14.202.204.202:8000/play/a00i/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTS1.rs",
+    "Name": "RTS 1",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rts.rs/page/tv/sr/news/20/rts-1.html",
+    "Logo": "https://i.imgur.com/ECdm4TR.png",
+    "Streams": [
+      {
+        "Url": "https://webtvstream.bhtelecom.ba/rts1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTVNoviPazar.rs",
+    "Name": "RTV Novi Pazar",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rtvnp.rs/",
+    "Logo": "https://i.imgur.com/H9NOJaz.png",
+    "Streams": [
+      {
+        "Url": "https://rtvnp.rs/hls/rtvnp.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RedTV.rs",
+    "Name": "Red TV",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://redportal.rs/",
+    "Logo": "https://i.imgur.com/cpN7NrL.png",
+    "Streams": [
+      {
+        "Url": "https://live.rednet.rs/providus/redtv_multi.m3u8"
+      },
+      {
+        "Url": "https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVAS.rs",
+    "Name": "TV AS",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://rtvas.rs/",
+    "Logo": "https://i.imgur.com/Vn0DKBN.png",
+    "Streams": [
+      {
+        "Url": "https://srv1.adriatelekom.com/TVAS/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVBelleAmie.rs",
+    "Name": "TV Belle Amie",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.belami.rs/",
+    "Logo": "https://i.imgur.com/SzWynar.png",
+    "Streams": [
+      {
+        "Url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVDugaPlus.rs",
+    "Name": "TV Duga +",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.tvdugaplus.com/",
+    "Logo": "https://i.imgur.com/bE1Vksp.png",
+    "Streams": [
+      {
+        "Url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVHram.rs",
+    "Name": "TV Hram",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tvhram.rs/",
+    "Logo": "https://i.imgur.com/I2LoCFF.png",
+    "Streams": [
+      {
+        "Url": "https://vod1.laki.eu/live/hram/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVPirot.rs",
+    "Name": "TV Pirot",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eLvd3yd.png",
+    "Streams": [
+      {
+        "Url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "eduTV.rs",
+    "Name": "eduTV",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/dWQC2tn.png",
+    "Streams": [
+      {
+        "Url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8"
+      }
+    ]
+  }
+]

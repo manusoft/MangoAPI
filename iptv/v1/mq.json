@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "Martinique1ere.mq",
+    "Name": "Martinique 1ere",
+    "Country": "MQ",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://la1ere.francetvinfo.fr/martinique/",
+    "Logo": "https://i.imgur.com/rBhc87a.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8"
+      }
+    ]
+  }
+]

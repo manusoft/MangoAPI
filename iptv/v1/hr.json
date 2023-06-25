@@ -1,0 +1,122 @@
+[
+  {
+    "Id": "CMCTV.hr",
+    "Name": "CMC TV",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://cmc.com.hr/",
+    "Logo": "https://i.imgur.com/EZtflIa.png",
+    "Streams": [
+      {
+        "Url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HRT1.hr",
+    "Name": "HRT 1",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.hrt.hr/",
+    "Logo": "https://i.imgur.com/lDSctzX.png",
+    "Streams": [
+      {
+        "Url": "https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LibertasTV.hr",
+    "Name": "Libertas TV",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://libertas.tv/",
+    "Logo": "https://i.imgur.com/4R4fhbd.png",
+    "Streams": [
+      {
+        "Url": "https://stream.luci.xyz/hls/LTV.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OTV.hr",
+    "Name": "OTV",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.otv.hr/",
+    "Logo": "https://i.imgur.com/67zVdu2.png",
+    "Streams": [
+      {
+        "Url": "https://stream.agatin.hr:3559/live/otvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTLCroatia.hr",
+    "Name": "RTL Croatia",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rtl.hr/",
+    "Logo": "https://i.imgur.com/akAa45j.png",
+    "Streams": [
+      {
+        "Url": "https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTLKockica.hr",
+    "Name": "RTL Kockica",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rtl.hr/",
+    "Logo": "https://i.imgur.com/C7H5bJs.png",
+    "Streams": [
+      {
+        "Url": "https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioTelevizijaBanovina.hr",
+    "Name": "Radio Televizija Banovina",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/gCFgC5D.png",
+    "Streams": [
+      {
+        "Url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR="
+      }
+    ]
+  },
+  {
+    "Id": "TVJadran.hr",
+    "Name": "TV Jadran",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://tvjadran.hr/",
+    "Logo": "https://i.imgur.com/UWMHnOG.png",
+    "Streams": [
+      {
+        "Url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8"
+      }
+    ]
+  }
+]

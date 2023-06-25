@@ -1,0 +1,4034 @@
+[
+  {
+    "Id": "111TV.it",
+    "Name": "111 TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.111tv.it/",
+    "Logo": "https://i.imgur.com/kVREx1Q.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "12TVParma.it",
+    "Name": "12 TV Parma",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.12tvparma.it/",
+    "Logo": "https://i.imgur.com/mBYxWOg.png",
+    "Streams": [
+      {
+        "Url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "16AnnieIncintaItaly.it",
+    "Name": "16 Anni e Incinta Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/16-anni-e-incinta-it",
+    "Logo": "https://i.imgur.com/Y2pEs8H.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "51RadioTV.it",
+    "Name": "51 Radio TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+      },
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "7080TV.it",
+    "Name": "70-80 TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.70-80.it/tv-player/",
+    "Logo": "https://i.imgur.com/y4kNV3Q.png",
+    "Streams": [
+      {
+        "Url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ACISportTV.it",
+    "Name": "ACI Sport TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.acisport.it/",
+    "Logo": "https://i.imgur.com/iLXjMvB.png",
+    "Streams": [
+      {
+        "Url": "https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Adnkronos.it",
+    "Name": "Adnkronos",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.adnkronos.com/",
+    "Logo": "https://i.imgur.com/mEoDAf1.png",
+    "Streams": [
+      {
+        "Url": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AltoAdigeTV.it",
+    "Name": "AltoAdige TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.altoadigetv.it/",
+    "Logo": "https://i.imgur.com/yt7JJrn.png",
+    "Streams": [
+      {
+        "Url": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Antenna2TV.it",
+    "Name": "Antenna 2 TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://players.fluidstream.it/Antenna2TV/",
+    "Logo": "https://i.imgur.com/kNrzk3X.png",
+    "Streams": [
+      {
+        "Url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AuroraArte.it",
+    "Name": "Aurora Arte",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Y1Yq3iV.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AzzurraTV.it",
+    "Name": "Azzurra TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/qWIZNEc.png",
+    "Streams": [
+      {
+        "Url": "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BizzarroMovies.it",
+    "Name": "Bizzarro Movies",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/kNGpFHX.png",
+    "Streams": [
+      {
+        "Url": "https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BomChannel.it",
+    "Name": "Bom Channel",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/WVcS0kN.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGEntertainment.it",
+    "Name": "CG Entertainment",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XeWzy7e.png",
+    "Streams": [
+      {
+        "Url": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CafeTV24.it",
+    "Name": "CafeTV24",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/SRFzjja.png",
+    "Streams": [
+      {
+        "Url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CalabriaTV.it",
+    "Name": "Calabria TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://calabriatv.it/",
+    "Logo": "https://i.imgur.com/noTgJJp.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CameradeiDeputati.it",
+    "Name": "Camera dei Deputati",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.camera.it/",
+    "Logo": "https://i.imgur.com/hv4zi9N.png",
+    "Streams": [
+      {
+        "Url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canale21Extra.it",
+    "Name": "Canale 21 Extra",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.canale21.it/",
+    "Logo": "https://i.imgur.com/Jy8lMOg.png",
+    "Streams": [
+      {
+        "Url": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canale2Altamura.it",
+    "Name": "Canale 2 Altamura",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7XXdN5T.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canale7.it",
+    "Name": "Canale 7",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://canale7.tv/assets/front/img/fb_logo.jpg",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8"
+      },
+      {
+        "Url": "http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canale8.it",
+    "Name": "Canale 8",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/xwYmFgj.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8"
+      },
+      {
+        "Url": "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanaleEuropaTV.it",
+    "Name": "Canale Europa TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canaleeuropa.tv/",
+    "Logo": "https://i.imgur.com/PjkzCKd.png",
+    "Streams": [
+      {
+        "Url": "https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanaleItalia.it",
+    "Name": "Canale Italia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canaleitalia.it/",
+    "Logo": "https://i.imgur.com/ZqxOFkN.png",
+    "Streams": [
+      {
+        "Url": "https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CarinaTV.it",
+    "Name": "CarinaTV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.carinatv.it/",
+    "Logo": "https://i.imgur.com/ANGD7gv.png",
+    "Streams": [
+      {
+        "Url": "https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CatfishTVShowItaly.it",
+    "Name": "Catfish TV Show Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/catfish-it",
+    "Logo": "https://i.imgur.com/y29cMbx.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "CinemaSegreto.it",
+    "Name": "Cinema Segreto",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/CD0sMAa.png",
+    "Streams": [
+      {
+        "Url": "https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ClubbingTVItaly.it",
+    "Name": "Clubbing TV Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/clubbing-tv-it",
+    "Logo": "https://i.imgur.com/juE5Ftv.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "CompanyTV.it",
+    "Name": "Company TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.radiocompany.com/companytv/",
+    "Logo": "https://i.imgur.com/ccdwsWj.png",
+    "Streams": [
+      {
+        "Url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ConsulenzeIllegaliItaly.it",
+    "Name": "Consulenze Illegali Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/consulenze-illegali-it",
+    "Logo": "https://i.imgur.com/fjs80SU.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "CusanoItaliaTV.it",
+    "Name": "Cusano Italia TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://cusanoitaliatv.it/",
+    "Logo": "https://i.imgur.com/fOluzuE.png",
+    "Streams": [
+      {
+        "Url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DITV80.it",
+    "Name": "DI.TV 80",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.di-tv.net/diretta-streaming/ditv-80/",
+    "Logo": "https://i.imgur.com/2AqKAMy.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DeejayTV.it",
+    "Name": "Deejay TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.deejay.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/512px-Logo_Deejay.svg.png",
+    "Streams": [
+      {
+        "Url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DonnaShopping.it",
+    "Name": "Donna Shopping",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://donnashoppingtv.it/",
+    "Logo": "https://i.imgur.com/PmFmapr.png",
+    "Streams": [
+      {
+        "Url": "https://5926fc9c7c5b2.streamlock.net/9354/9354/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EliveTVBrescia.it",
+    "Name": "Elive TV Brescia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/gZxjLph.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EntellaTV.it",
+    "Name": "Entella TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.entellatv.net/",
+    "Logo": "https://i.imgur.com/pGJcMmB.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EsperiaTV.it",
+    "Name": "Esperia TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8"
+      },
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EtnaEspressoChannel.it",
+    "Name": "Etna Espresso Channel",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.radioetnaespresso.com/",
+    "Logo": "https://i.imgur.com/lSI5QgV.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EuroIndieMusicChartTV.it",
+    "Name": "Euro Indie Music Chart TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://euroindiemusic.info/",
+    "Logo": "https://i.imgur.com/lF0iofX.png",
+    "Streams": [
+      {
+        "Url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EuroTV.it",
+    "Name": "Euro TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HFWWzKT.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ExOnTheBeachItaly.it",
+    "Name": "Ex On The Beach Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/ex-on-the-beach-it",
+    "Logo": "https://i.imgur.com/bMs75oe.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "FMITALIA.it",
+    "Name": "FM ITALIA",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/54CO2u9.png",
+    "Streams": [
+      {
+        "Url": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FailArmyItaly.it",
+    "Name": "FailArmy Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "comedy",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/fail-army-it",
+    "Logo": "https://i.imgur.com/t3IjyYJ.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "Url": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FanoTV.it",
+    "Name": "Fano TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.fanotv.it/",
+    "Logo": "https://i.imgur.com/rN6h7XU.png",
+    "Streams": [
+      {
+        "Url": "https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GOTVCanale163.it",
+    "Name": "GO-TV Canale 163",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/11V0QSp.png",
+    "Streams": [
+      {
+        "Url": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GRPVERATV.it",
+    "Name": "GRP VERATV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://grp.it/diretta/",
+    "Logo": "https://i.imgur.com/jasSHXJ.png",
+    "Streams": [
+      {
+        "Url": "https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GeordieShoreItaly.it",
+    "Name": "Geordie Shore Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/geordie-shore-it",
+    "Logo": "https://i.imgur.com/WOkqDRi.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "GiornaleRadioTV.it",
+    "Name": "Giornale Radio TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://giornaleradio.fm/canali-tv/giornaleradio-tv",
+    "Logo": "https://i.imgur.com/2Y5qiao.png",
+    "Streams": [
+      {
+        "Url": "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GoldTV.it",
+    "Name": "Gold TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.goldtv.it/",
+    "Logo": "https://i.imgur.com/Yzc47k9.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GoldTVSat.it",
+    "Name": "Gold TV Sat",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.grupposciscione.it/gold-tv-sat/",
+    "Logo": "https://i.imgur.com/gQzNIg5.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HorseTV.it",
+    "Name": "Horse TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.classhorse.tv/",
+    "Logo": "https://i.imgur.com/kRVSBtV.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IGNItaly.it",
+    "Name": "IGN Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/ign-it",
+    "Logo": "https://i.imgur.com/a1wIzng.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "IcaroTV.it",
+    "Name": "Icaro TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/nWBWzNy.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IlBancodeiPugniItaly.it",
+    "Name": "Il Banco dei Pugni Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/il-banco-dei-pugni-it",
+    "Logo": "https://i.imgur.com/NZDUlME.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "InterTV.it",
+    "Name": "Inter TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.inter.it/it/intertv",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/512px-Inter_TV_-_Logo_2017.svg.png",
+    "Streams": [
+      {
+        "Url": "https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Italia2.it",
+    "Name": "Italia 2",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.mediasetplay.mediaset.it/italia2",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Italia2TV.it",
+    "Name": "Italia2TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.italia2tv.it/",
+    "Logo": "https://i.imgur.com/TDSgG28.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ItaliaChannel.it",
+    "Name": "Italia Channel",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.italiachannel.it/",
+    "Logo": "https://i.imgur.com/AVDkd2K.png",
+    "Streams": [
+      {
+        "Url": "https://stream1.aswifi.it/italiachannel/stream/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ItalianFishingTV.it",
+    "Name": "Italian Fishing TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": "https://www.italianfishingtv.it/",
+    "Logo": "https://i.imgur.com/qrn6tUO.png",
+    "Streams": [
+      {
+        "Url": "https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IuniorTV.it",
+    "Name": "Iunior TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/FBOJnfT.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JustforLaughsItaly.it",
+    "Name": "Just for Laughs Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "comedy",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/just-for-laughs-it",
+    "Logo": "https://i.imgur.com/NVJjree.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "JuweloItaly.it",
+    "Name": "Juwelo Italy",
+    "Country": "IT",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.juwelo.it/",
+    "Logo": "https://i.imgur.com/T3r1khc.png",
+    "Streams": [
+      {
+        "Url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KissKissNapoliTV.it",
+    "Name": "Kiss Kiss Napoli TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/RsGiBwE.png",
+    "Streams": [
+      {
+        "Url": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KissKissTV.it",
+    "Name": "Kiss Kiss TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kisskiss.it/kisskiss-tv.html",
+    "Logo": "https://i.imgur.com/ja6c2YZ.png",
+    "Streams": [
+      {
+        "Url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8"
+      },
+      {
+        "Url": "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8"
+      },
+      {
+        "Url": "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "La7.it",
+    "Name": "La 7",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.la7.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png",
+    "Streams": [
+      {
+        "Url": "https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8"
+      },
+      {
+        "Url": "https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "La7d.it",
+    "Name": "La 7 d",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.la7.it/la7d",
+    "Logo": "https://i.imgur.com/sM0A3GD.png",
+    "Streams": [
+      {
+        "Url": "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaCTV.it",
+    "Name": "La C TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TF4LKp0.png",
+    "Streams": [
+      {
+        "Url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaTR3Marsala.it",
+    "Name": "La TR3 Marsala",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/R4sqZQu.png",
+    "Streams": [
+      {
+        "Url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LabTV.it",
+    "Name": "Lab TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.labtv.net/",
+    "Logo": "https://i.imgur.com/bgtw1fu.png",
+    "Streams": [
+      {
+        "Url": "http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaltroCorriereTV.it",
+    "Name": "L'altro Corriere TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.laltrocorriere.it/",
+    "Logo": "https://i.imgur.com/05YWVCq.png",
+    "Streams": [
+      {
+        "Url": "https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LazioTV.it",
+    "Name": "Lazio TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TNLD9yD.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LeCronacheTV.it",
+    "Name": "Le Cronache TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.lecronache.info/diretta/",
+    "Logo": "https://i.imgur.com/d8ziiEJ.png",
+    "Streams": [
+      {
+        "Url": "http://77.68.40.210:8888/hls/cronache.m3u8"
+      },
+      {
+        "Url": "http://stucazz.com:8888/hls/cronache.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LesorelleMcLeodItaly.it",
+    "Name": "Le sorelle McLeod Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/le-sorelle-mcleod-it",
+    "Logo": "https://i.imgur.com/OkGiH9a.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "LombardiaTV.it",
+    "Name": "Lombardia TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.lombardiatv.com/",
+    "Logo": "https://i.imgur.com/frVhm9q.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LoveinVenice.it",
+    "Name": "Love in Venice",
+    "Country": "IT",
+    "Languages": "ita,eng",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": "https://live-tv-channels.org/livetv/love-in-venice-live-stream",
+    "Logo": "https://i.imgur.com/Jv4WiO6.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LucaniaChannel.it",
+    "Name": "Lucania Channel",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Hje56yA.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/lucaniatv/lucaniatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MadeinBOTV.it",
+    "Name": "MadeinBO TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.madeinbo.tv/",
+    "Logo": "https://i.imgur.com/47X44DD.png",
+    "Streams": [
+      {
+        "Url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MediaTV.it",
+    "Name": "Media TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.media-tv.it/",
+    "Logo": "https://i.ibb.co/sH68dFn/300071550-488761809922583-110799127788713907-n.jpg",
+    "Streams": [
+      {
+        "Url": "http://live.sloode.com:1935/mediatv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MediterraniaTV.it",
+    "Name": "MediterraniaTV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.mediterraneatv.it/",
+    "Logo": "https://i.imgur.com/PJbXCoe.png",
+    "Streams": [
+      {
+        "Url": "https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MinformoTV.it",
+    "Name": "Minformo TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.minformo.tv/",
+    "Logo": "https://i.imgur.com/9Oq6fLw.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MondoKids.it",
+    "Name": "Mondo Kids",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/g7GXmFY.png",
+    "Streams": [
+      {
+        "Url": "https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MutantXItaly.it",
+    "Name": "Mutant X Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/mutant-x-it",
+    "Logo": "https://i.imgur.com/aAUvd0j.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "NTN.it",
+    "Name": "NTN",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.nuovatvnazionale.it/",
+    "Logo": "https://i.imgur.com/AW5fJwa.png",
+    "Streams": [
+      {
+        "Url": "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Odeon24.it",
+    "Name": "Odeon 24",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Ho7SdXY.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OndaNovaraTV.it",
+    "Name": "Onda Novara TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ondanovara.it/",
+    "Logo": "https://i.imgur.com/DTxhOhT.png",
+    "Streams": [
+      {
+        "Url": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OndaTV.it",
+    "Name": "Onda TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.ondatv.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
+    "Streams": [
+      {
+        "Url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OrlerTV.it",
+    "Name": "Orler TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.orler.it/",
+    "Logo": "https://i.imgur.com/Ia7iULa.png",
+    "Streams": [
+      {
+        "Url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OttoChannel.it",
+    "Name": "Otto Channel",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.ottochannel.tv/",
+    "Logo": "https://i.imgur.com/zxdwM4f.png",
+    "Streams": [
+      {
+        "Url": "https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PaciContemporaryChannel.it",
+    "Name": "Paci Contemporary Channel",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.pacicontemporary.com/",
+    "Logo": "https://i.imgur.com/RtOvD2M.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PadrePioTV.it",
+    "Name": "Padre Pio TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.teleradiopadrepio.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
+    "Streams": [
+      {
+        "Url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ParolediVita.it",
+    "Name": "Parole di Vita",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://paroledivita.org/",
+    "Logo": "https://i.imgur.com/vkFlXbR.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PassioneLotto.it",
+    "Name": "Passione Lotto",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/jYmy4G5.png",
+    "Streams": [
+      {
+        "Url": "http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVAnimeItaly.it",
+    "Name": "Pluto TV Anime Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
+    "Logo": "https://i.imgur.com/bvbn8pa.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVCinemaItalianoItaly.it",
+    "Name": "Pluto TV Cinema Italiano Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-cinema-italiano-it",
+    "Logo": "https://i.imgur.com/w3lUi4t.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVCrimeItaly.it",
+    "Name": "Pluto TV Crime Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "documentary",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-crime-it",
+    "Logo": "https://i.imgur.com/q98FFHT.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVCucinaItaly.it",
+    "Name": "Pluto TV Cucina Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-cucina-it",
+    "Logo": "https://i.imgur.com/cwkrxcS.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFamilyItaly.it",
+    "Name": "Pluto TV Family Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-family-it",
+    "Logo": "https://i.imgur.com/6MR89FP.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFilmAzioneItaly.it",
+    "Name": "Pluto TV Film Azione Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-film-azione-it",
+    "Logo": "https://i.imgur.com/aQ18r9x.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFilmClassiciItaly.it",
+    "Name": "Pluto TV Film Classici Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-film-classici-it",
+    "Logo": "https://i.imgur.com/YEbc5EM.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFilmCommediaItaly.it",
+    "Name": "Pluto TV Film Commedia Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-film-commedia-it",
+    "Logo": "https://i.imgur.com/ADNrqKM.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFilmDramaItaly.it",
+    "Name": "Pluto TV Film Drama Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-film-drama-it",
+    "Logo": "https://i.imgur.com/dOxuHUn.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFilmItaly.it",
+    "Name": "Pluto TV Film Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-film-it",
+    "Logo": "https://i.imgur.com/aZverZQ.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFilmRomanticiItaly.it",
+    "Name": "Pluto TV Film Romantici Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-film-romantici-it",
+    "Logo": "https://i.imgur.com/LAvRDve.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVFilmThrillerItaly.it",
+    "Name": "Pluto TV Film Thriller Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-film-thriller-it",
+    "Logo": "https://i.imgur.com/3SWPIek.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVNaturaItaly.it",
+    "Name": "Pluto TV Natura Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "documentary",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-natura-it",
+    "Logo": "https://i.imgur.com/bGZkH6b.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVRealLifeItaly.it",
+    "Name": "Pluto TV Real Life Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-inside-it",
+    "Logo": "https://i.imgur.com/rPbwJgk.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVRealityItaly.it",
+    "Name": "Pluto TV Reality Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-reality-ptv1",
+    "Logo": "https://i.imgur.com/7SHxCIh.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVSciFiItaly.it",
+    "Name": "Pluto TV Sci-Fi Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi-it",
+    "Logo": "https://i.imgur.com/nWzU4pq.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVSerieItaly.it",
+    "Name": "Pluto TV Serie Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-serie-it",
+    "Logo": "https://i.imgur.com/u3c80e8.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PlutoTVSportItaly.it",
+    "Name": "Pluto TV Sport Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-sport-it",
+    "Logo": "https://i.imgur.com/y22ElOr.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "PrimAntennaTV.it",
+    "Name": "PrimAntenna TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.primantenna.tv/",
+    "Logo": "https://i.imgur.com/4Bx2321.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PrimaTVNapoli.it",
+    "Name": "Prima TV Napoli",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.primatvnapoli.com/",
+    "Logo": "https://i.imgur.com/48BCOUZ.png",
+    "Streams": [
+      {
+        "Url": "https://stream1.aswifi.it/primatvnapoli/live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Primocanale.it",
+    "Name": "Primocanale",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eunZ2Sa.png",
+    "Streams": [
+      {
+        "Url": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "QVCItaly.it",
+    "Name": "QVC Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://www.qvc.it/",
+    "Logo": "https://i.imgur.com/6TWUVrh.png",
+    "Streams": [
+      {
+        "Url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "QuartoCanaleFlegreo.it",
+    "Name": "Quarto Canale Flegreo",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XfNSWp0.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RDSSocialTV.it",
+    "Name": "RDS Social TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rds.it/rds-social-tv",
+    "Logo": "https://i.imgur.com/bxGvE8C.png",
+    "Streams": [
+      {
+        "Url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTCQuartaRete.it",
+    "Name": "RTC Quarta Rete",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.rtcquartarete.it",
+    "Logo": "https://i.imgur.com/JZnlFRx.png",
+    "Streams": [
+      {
+        "Url": "https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTCTelecalabria.it",
+    "Name": "RTC Telecalabria",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/NnFopuS.png",
+    "Streams": [
+      {
+        "Url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
+      },
+      {
+        "Url": "http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTL1025Best.it",
+    "Name": "RTL 102.5 Best",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/2/rtl-1025-best-tv/",
+    "Logo": "https://i.imgur.com/ahWJwvT.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTL1025BroSis.it",
+    "Name": "RTL 102.5 Bro&Sis",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/16/bro-and-sis-tv/",
+    "Logo": "https://i.imgur.com/1ZutMTJ.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTL1025Doc.it",
+    "Name": "RTL 102.5 Doc",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/21/rtl-1025-doc-tv/",
+    "Logo": "https://i.imgur.com/1gAeWPP.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTL1025Napule.it",
+    "Name": "RTL 102.5 Napule",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/20/rtl-1025-napule-tv/",
+    "Logo": "https://i.imgur.com/jFD0oOD.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTL1025News.it",
+    "Name": "RTL 102.5 News",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/35/rtl-1025-news-tv/",
+    "Logo": "https://i.imgur.com/5Sh1tWu.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTL1025RomeoJuliet.it",
+    "Name": "RTL 102.5 Romeo&Juliet",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/15/romeo-and-juliet-tv/",
+    "Logo": "https://i.imgur.com/MKWjSef.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTL1025TV.it",
+    "Name": "RTL 102.5 TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/1/radiovisione/",
+    "Logo": "https://i.imgur.com/75qUdR7.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTMTV.it",
+    "Name": "RTM TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.mediasetplay.mediaset.it/mediasetextra",
+    "Logo": "https://i.imgur.com/w9Twxsi.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTP.it",
+    "Name": "RTP",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
+    "Streams": [
+      {
+        "Url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTTRTrento.it",
+    "Name": "RTTR Trento",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/6DyzN8M.png",
+    "Streams": [
+      {
+        "Url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Radio51TV.it",
+    "Name": "Radio 51 TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/UupkBt6.png",
+    "Streams": [
+      {
+        "Url": "http://178.32.140.155/canale51/canale51/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioBirikinaTV.it",
+    "Name": "Radio Birikina TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/CFAx6m5.png",
+    "Streams": [
+      {
+        "Url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioFrecciaTV.it",
+    "Name": "Radio Freccia TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.radiofreccia.it/",
+    "Logo": "https://i.imgur.com/sUHHI3Q.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioIbizaTV.it",
+    "Name": "Radio Ibiza TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/KfFqYQi.png",
+    "Streams": [
+      {
+        "Url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioIglesias.it",
+    "Name": "Radio Iglesias",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/2OXQpZM.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioIglesiasSardegna.it",
+    "Name": "Radio Iglesias Sardegna",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/KDtVpLl.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioNumberOne.it",
+    "Name": "Radio Number One",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/8cpuaG5.png",
+    "Streams": [
+      {
+        "Url": "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioStudioDeltaTV.it",
+    "Name": "Radio Studio Delta TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/xJqVOpn.png",
+    "Streams": [
+      {
+        "Url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioTaorminaSicilia.it",
+    "Name": "Radio Taormina Sicilia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/SrhtocV.png",
+    "Streams": [
+      {
+        "Url": "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioZetaTV.it",
+    "Name": "Radio Zeta TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://play.rtl.it/live/18/radio-zeta-radiovisione/",
+    "Logo": "https://i.imgur.com/K2xLMin.png",
+    "Streams": [
+      {
+        "Url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Rai1.it",
+    "Name": "Rai 1",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rai.it/rai1/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s29/04.m3u8"
+      },
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803"
+      },
+      {
+        "Url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803"
+      }
+    ]
+  },
+  {
+    "Id": "Rai2.it",
+    "Name": "Rai 2",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rai.it/rai2/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718"
+      }
+    ]
+  },
+  {
+    "Id": "Rai3.it",
+    "Name": "Rai 3",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rai.it/rai3/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709"
+      },
+      {
+        "Url": "https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8"
+      },
+      {
+        "Url": "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Rai4.it",
+    "Name": "Rai 4",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rai.it/rai4/",
+    "Logo": "https://i.imgur.com/x6bP7A7.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966"
+      },
+      {
+        "Url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966"
+      }
+    ]
+  },
+  {
+    "Id": "Rai5.it",
+    "Name": "Rai 5",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rai.it/rai5/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276"
+      }
+    ]
+  },
+  {
+    "Id": "RaiGulp.it",
+    "Name": "Rai Gulp",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.raigulp.rai.it/",
+    "Logo": "https://i.imgur.com/Lts70bM.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953"
+      }
+    ]
+  },
+  {
+    "Id": "RaiItaliaAmerica.it",
+    "Name": "Rai Italia America",
+    "Country": "IT",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.raitalia.it/",
+    "Logo": "https://i.imgur.com/1nN4rEP.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.69/s/s63/S4/mnf.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RaiItaliaAsia.it",
+    "Name": "Rai Italia Asia",
+    "Country": "IT",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.raitalia.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/x6bnqe/s/s63/index2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RaiMovie.it",
+    "Name": "Rai Movie",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.rai.it/raimovie/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/512px-Rai_Movie_-_Logo_2017.svg.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002"
+      }
+    ]
+  },
+  {
+    "Id": "RaiPremium.it",
+    "Name": "Rai Premium",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rai.it/raipremium/",
+    "Logo": "https://i.imgur.com/xOzphEM.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992"
+      }
+    ]
+  },
+  {
+    "Id": "RaiScuola.it",
+    "Name": "Rai Scuola",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.raiscuola.rai.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+      }
+    ]
+  },
+  {
+    "Id": "RaiStoria.it",
+    "Name": "Rai Storia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rai.it/raistoria/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990"
+      }
+    ]
+  },
+  {
+    "Id": "RaiYoyo.it",
+    "Name": "Rai Yoyo",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "http://www.raiyoyo.rai.it/",
+    "Logo": "https://i.imgur.com/SXPFPrG.png",
+    "Streams": [
+      {
+        "Url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVActionMoviesItaly.it",
+    "Name": "Rakuten TV Action Movies Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uMcwx2p.jpg",
+    "Streams": [
+      {
+        "Url": "https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVComedyMoviesItaly.it",
+    "Name": "Rakuten TV Comedy Movies Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/o1qKoje.jpg",
+    "Streams": [
+      {
+        "Url": "https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVDramaMoviesItaly.it",
+    "Name": "Rakuten TV Drama Movies Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/W1sJ1JW.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVFamilyMoviesItaly.it",
+    "Name": "Rakuten TV Family Movies Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "family,movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/hboiinD.jpg",
+    "Streams": [
+      {
+        "Url": "https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RakutenTVSpotlightItaly.it",
+    "Name": "Rakuten TV Spotlight Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4MAcJJv.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReggioTV.it",
+    "Name": "ReggioTV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/cEwJkRV.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Rete55.it",
+    "Name": "Rete 55",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/UtS9YLc.png",
+    "Streams": [
+      {
+        "Url": "https://stream.internet.one/Rete55_Live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Rete8VGA.it",
+    "Name": "Rete 8 VGA",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.telerimini.it/",
+    "Logo": "https://i.imgur.com/d2w0wA1.png",
+    "Streams": [
+      {
+        "Url": "https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReteBiellaTV.it",
+    "Name": "Rete Biella TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/I4OVxIb.png",
+    "Streams": [
+      {
+        "Url": "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReteOro.it",
+    "Name": "Rete Oro",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.reteoro.tv/",
+    "Logo": "https://i.imgur.com/3oYiBSz.png",
+    "Streams": [
+      {
+        "Url": "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReteTVItalia.it",
+    "Name": "Rete TV Italia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.retetvitalia.it",
+    "Logo": "https://i.imgur.com/BR7QfUF.png",
+    "Streams": [
+      {
+        "Url": "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Retemia.it",
+    "Name": "Retemia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/IbzQpfn.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RetesoleLazio.it",
+    "Name": "Retesole Lazio",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/vvVgZN2.png",
+    "Streams": [
+      {
+        "Url": "https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Reteveneta.it",
+    "Name": "Reteveneta",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RomaTV82.it",
+    "Name": "Roma TV 82",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.grupposciscione.it/",
+    "Logo": "https://i.imgur.com/tCVlMcj.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RossiniTV.it",
+    "Name": "Rossini TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.rossinitv.it/",
+    "Logo": "https://i.imgur.com/wGKsAk3.png",
+    "Streams": [
+      {
+        "Url": "https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SL48TV.it",
+    "Name": "SL48 TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.sl48.tv/web/home.asp",
+    "Logo": "https://i.imgur.com/0iPU3JE.png",
+    "Streams": [
+      {
+        "Url": "http://media.velcom.it:1935/sl48/sl48/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "STEuropeChannel.it",
+    "Name": "ST Europe Channel",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.globusmagazine.it/st-europe-channel-radiotelevision/",
+    "Logo": "https://i.imgur.com/M5j7y2N.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SardegnaUno.it",
+    "Name": "Sardegna Uno",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.sardegna1.tv/",
+    "Logo": "https://i.imgur.com/gv2pLIp.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ScherzierisateItaly.it",
+    "Name": "Scherzi e risate Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "comedy",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/scherzi-e-risate-it",
+    "Logo": "https://i.imgur.com/jVWPVvJ.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SenatoTV.it",
+    "Name": "Senato TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "http://webtv.senato.it/",
+    "Logo": "https://i.imgur.com/h4NyN5d.png",
+    "Streams": [
+      {
+        "Url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SerieTeenItaly.it",
+    "Name": "Serie Teen Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/serie-teen-it",
+    "Logo": "https://i.imgur.com/X7jt4K1.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SienaTV.it",
+    "Name": "Siena TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.radiosienatv.it/",
+    "Logo": "https://i.imgur.com/KmMIvu8.png",
+    "Streams": [
+      {
+        "Url": "https://stream10.xdevel.com/video0s976727-1544/stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SophiaTV.it",
+    "Name": "Sophia TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/RPXusvS.png",
+    "Streams": [
+      {
+        "Url": "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Stereo5TV.it",
+    "Name": "Stereo 5 TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/sCDcYFW.png",
+    "Streams": [
+      {
+        "Url": "https://stream1.aswifi.it/stereo5/live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Super.it",
+    "Name": "Super!",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.supertv.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png",
+    "Streams": [
+      {
+        "Url": "https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuperBrothersandSistersItaly.it",
+    "Name": "Super! Brothers and Sisters Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/super-brothers-and-sisters-it",
+    "Logo": "https://i.imgur.com/t4mepW4.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SuperEroiItaly.it",
+    "Name": "Super! Eroi Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/super-eroi-it",
+    "Logo": "https://i.imgur.com/7GId79m.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SuperJTVTeramo.it",
+    "Name": "Super J TV Teramo",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/H3uItqg.png",
+    "Streams": [
+      {
+        "Url": "http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuperMysteryItaly.it",
+    "Name": "Super! Mystery Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/pluto-tv-mystery-ptv1",
+    "Logo": "https://i.imgur.com/E1Ix83n.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SuperPopItaly.it",
+    "Name": "Super! Pop Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/super-pop-it",
+    "Logo": "https://i.imgur.com/2FfREQE.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SuperSix.it",
+    "Name": "Super Six",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.supersixtv.net/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuperSpongeBobItaly.it",
+    "Name": "Super! SpongeBob Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/super-spongebob-it",
+    "Logo": "https://i.imgur.com/65wxNn4.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SuperStarItaly.it",
+    "Name": "Super! Star Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/super-star-it",
+    "Logo": "https://i.imgur.com/b4ck4Fg.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "SuperTV.it",
+    "Name": "Super TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general,series",
+    "IsNsfw": false,
+    "Website": "http://www.bresciasat.it/",
+    "Logo": "https://i.imgur.com/hxF3yhw.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8"
+      },
+      {
+        "Url": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuperTennis.it",
+    "Name": "Super Tennis",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.supertennis.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png",
+    "Streams": [
+      {
+        "Url": "https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuperiCarlyItaly.it",
+    "Name": "Super! iCarly Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/super-icarly-it",
+    "Logo": "https://i.imgur.com/IWcQfF2.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "T9.it",
+    "Name": "T9",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.grupposciscione.it/t9-2/",
+    "Logo": "https://i.imgur.com/kQKzpYj.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TCI.it",
+    "Name": "TCI",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tci-italia.it/",
+    "Logo": "https://i.imgur.com/XVOCtVF.png",
+    "Streams": [
+      {
+        "Url": "https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TGNorba24.it",
+    "Name": "TG Norba 24",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.norbaonline.it/",
+    "Logo": "https://i.imgur.com/zAZcSgz.png",
+    "Streams": [
+      {
+        "Url": "https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TLTMolise.it",
+    "Name": "TLT Molise",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tltmolise.it/",
+    "Logo": "https://i.imgur.com/4G8fqtn.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TRSport.it",
+    "Name": "TR Sport",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://teleromagna.it/it/live/tr-sport",
+    "Logo": "https://i.imgur.com/ELXmaqg.png",
+    "Streams": [
+      {
+        "Url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TSNTeleSondrioNews.it",
+    "Name": "TSN TeleSondrio News",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://radiotsn.tv/tsn-telesondrio-news-live/",
+    "Logo": "https://i.imgur.com/eE37h7Q.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TT24Teletutto.it",
+    "Name": "TT24 Teletutto",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.teletutto.it/in_diretta/12556.html",
+    "Logo": "https://i.imgur.com/RhrJjD5.png",
+    "Streams": [
+      {
+        "Url": "https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TT2Teletutto.it",
+    "Name": "TT2 Teletutto",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.teletutto.it/in_diretta/12550.html",
+    "Logo": "https://i.imgur.com/85BolCh.png",
+    "Streams": [
+      {
+        "Url": "https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TTTeletutto.it",
+    "Name": "TT Teletutto",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.teletutto.it/in_diretta/",
+    "Logo": "https://i.imgur.com/jfXBTGp.png",
+    "Streams": [
+      {
+        "Url": "https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV7Benevento.it",
+    "Name": "TV7 Benevento",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/VBhVaKB.png",
+    "Streams": [
+      {
+        "Url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV7Triveneta.it",
+    "Name": "TV7 Triveneta",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ndFoo4V.png",
+    "Streams": [
+      {
+        "Url": "https://www.gruppotv7.com:8090/hls/ireporter.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVAVicenza.it",
+    "Name": "TVA Vicenza",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvavicenza.gruppovideomedia.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
+    "Streams": [
+      {
+        "Url": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCampane1.it",
+    "Name": "TV Campane 1",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tv.tvcampane.com/",
+    "Logo": "https://i.imgur.com/GsdVpll.png",
+    "Streams": [
+      {
+        "Url": "https://eu1.servers10.com:8081/8032/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVL.it",
+    "Name": "TVL",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/2wkSHNI.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVPrato.it",
+    "Name": "TV Prato",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvprato.it/",
+    "Logo": "https://i.imgur.com/72mAJtf.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVQuiModena.it",
+    "Name": "TV Qui Modena",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/YfMVNDE.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRS.it",
+    "Name": "TVRS",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvrs.it/",
+    "Logo": "https://i.imgur.com/6bxtL6D.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVYesItalia.it",
+    "Name": "TV Yes Italia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/3CDxatu.png",
+    "Streams": [
+      {
+        "Url": "https://stream1.aswifi.it/radioyes/live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeatroTV.it",
+    "Name": "Teatro TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "http://www.teatrotv.it/",
+    "Logo": "https://i.imgur.com/GbyLSc2.png",
+    "Streams": [
+      {
+        "Url": "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleAbruzzo.it",
+    "Name": "Tele Abruzzo",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XymK2PR.png",
+    "Streams": [
+      {
+        "Url": "http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleAmbienteTV.it",
+    "Name": "TeleAmbiente TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "science,culture",
+    "IsNsfw": false,
+    "Website": "https://www.teleambiente.it/",
+    "Logo": "https://i.imgur.com/c7w7DRL.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleArena.it",
+    "Name": "TeleArena",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telearena.it/",
+    "Logo": "https://i.imgur.com/cTmsGJD.png",
+    "Streams": [
+      {
+        "Url": "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleChiara.it",
+    "Name": "Tele Chiara",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://telechiara.gruppovideomedia.it/",
+    "Logo": "https://i.imgur.com/LpXeY4v.png",
+    "Streams": [
+      {
+        "Url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleLiguriaSud.it",
+    "Name": "Tele Liguria Sud",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.teleliguriasud.it/",
+    "Logo": "https://i.imgur.com/OxgSGUW.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleMajg.it",
+    "Name": "TeleMajg",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.telemajg.com/",
+    "Logo": "https://i.imgur.com/j5fnQ1h.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleMia.it",
+    "Name": "TeleMia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telemia.it/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+    "Streams": [
+      {
+        "Url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleMiaExtra.it",
+    "Name": "TeleMia Extra",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telemia.it/telemia-extra/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+    "Streams": [
+      {
+        "Url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleMistretta.it",
+    "Name": "TeleMistretta",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telemistretta.it/",
+    "Logo": "https://i.imgur.com/BLhvyEi.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelePegasoCatania.it",
+    "Name": "Tele Pegaso Catania",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/2syaOJz.png",
+    "Streams": [
+      {
+        "Url": "https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleQuattro.it",
+    "Name": "Tele Quattro",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleRama.it",
+    "Name": "TeleRama",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.trnews.it/",
+    "Logo": "https://i.imgur.com/0YTYXB9.png",
+    "Streams": [
+      {
+        "Url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleRomaUno.it",
+    "Name": "Tele Roma Uno",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.teleromauno.com/",
+    "Logo": "https://i.imgur.com/Kyi2yFA.png",
+    "Streams": [
+      {
+        "Url": "https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleSanDomenico.it",
+    "Name": "TeleSanDomenico",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.tsdtv.it/",
+    "Logo": "https://i.imgur.com/l52v9uv.png",
+    "Streams": [
+      {
+        "Url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleTerni.it",
+    "Name": "TeleTerni",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/U1BjkEl.png",
+    "Streams": [
+      {
+        "Url": "https://diretta.teleterni.it:8080/show/show.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleTusciaSabina2000.it",
+    "Name": "TeleTusciaSabina 2000",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/cfexNL9.png",
+    "Streams": [
+      {
+        "Url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleVenezia.it",
+    "Name": "TeleVenezia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/RG4o4Ni.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleVideoAgrigento.it",
+    "Name": "TeleVideo Agrigento",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/crMQmn4.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telebari.it",
+    "Name": "Telebari",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.telebari.it/diretta-tv",
+    "Logo": "https://i.imgur.com/7KfldrH.png",
+    "Streams": [
+      {
+        "Url": "http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telebelluno.it",
+    "Name": "Telebelluno",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telebelluno.it/",
+    "Logo": "https://i.imgur.com/jHzI1JP.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelecolorLombardia.it",
+    "Name": "Telecolor Lombardia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/QfJqBno.png",
+    "Streams": [
+      {
+        "Url": "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telefoggia.it",
+    "Name": "Telefoggia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ImvO2rV.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8"
+      },
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telefriuli.it",
+    "Name": "Telefriuli",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/He3uCs6.png",
+    "Streams": [
+      {
+        "Url": "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telegela647.it",
+    "Name": "Telegela 647",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.quotidianodigela.it/telegela/",
+    "Logo": "https://i.imgur.com/ppkX45f.png",
+    "Streams": [
+      {
+        "Url": "http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telegranda.it",
+    "Name": "Telegranda",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telegranda.net/",
+    "Logo": "https://i.imgur.com/j3r0URO.png",
+    "Streams": [
+      {
+        "Url": "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telejato.it",
+    "Name": "Telejato",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.telejato.it/",
+    "Logo": "https://i.imgur.com/2EJdCJO.png",
+    "Streams": [
+      {
+        "Url": "https://telejato.liberotratto.com/hls/0/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Teleliberta.it",
+    "Name": "Teleliberta",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.liberta.it/teleliberta-live/",
+    "Logo": "https://i.imgur.com/424KS6J.png",
+    "Streams": [
+      {
+        "Url": "https://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telemantova.it",
+    "Name": "Telemantova",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.telemantova.it/",
+    "Logo": "https://i.imgur.com/WYXiov6.png",
+    "Streams": [
+      {
+        "Url": "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telemolise.it",
+    "Name": "Telemolise",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/aTs88Es.png",
+    "Streams": [
+      {
+        "Url": "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telenord.it",
+    "Name": "Telenord",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://telenord.it/",
+    "Logo": "https://telenord.it/assets/images/logo.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telepace1.it",
+    "Name": "Telepace 1",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.teleradiopace.tv/trasmissioni/",
+    "Logo": "https://i.imgur.com/TpdsPWG.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telepace2.it",
+    "Name": "Telepace 2",
+    "Country": "IT",
+    "Languages": "ita,eng,fra",
+    "Categories": "religious,culture",
+    "IsNsfw": false,
+    "Website": "https://www.teleradiopace.tv/trasmissioni/",
+    "Logo": "https://i.imgur.com/qvcf6QC.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telepace3.it",
+    "Name": "Telepace 3",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "religious,education",
+    "IsNsfw": false,
+    "Website": "https://www.teleradiopace.tv/palinsesti-settimana/telepace-3-canale-115/",
+    "Logo": "https://i.imgur.com/hE4i2ft.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telepace4.it",
+    "Name": "Telepace 4",
+    "Country": "IT",
+    "Languages": "ita,fra,eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.teleradiopace.tv/palinsesti-settimana/telepace-4-canale-218/",
+    "Logo": "https://i.imgur.com/JKHEL1H.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelepaceNews.it",
+    "Name": "Telepace News",
+    "Country": "IT",
+    "Languages": "ita,eng,fra",
+    "Categories": "religious,news",
+    "IsNsfw": false,
+    "Website": "https://www.teleradiopace.tv/trasmissioni/",
+    "Logo": "https://i.imgur.com/kC0c9Q6.png",
+    "Streams": [
+      {
+        "Url": "https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telepavia.it",
+    "Name": "Telepavia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8"
+      },
+      {
+        "Url": "http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8"
+      },
+      {
+        "Url": "http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Teleromagna.it",
+    "Name": "Teleromagna",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://teleromagna.it/it/live/teleromagna",
+    "Logo": "https://i.imgur.com/GGPtHX3.png",
+    "Streams": [
+      {
+        "Url": "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelesirioWebTV.it",
+    "Name": "Telesirio Web TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.telesirio.it/",
+    "Logo": "https://i.imgur.com/V4EpXXG.png",
+    "Streams": [
+      {
+        "Url": "https://www.telesirio.it/live/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telestense.it",
+    "Name": "Telestense",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.telestense.it/",
+    "Logo": "https://i.imgur.com/E3ZVcJ3.png",
+    "Streams": [
+      {
+        "Url": "https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Teletricolore.it",
+    "Name": "Teletricolore",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GajzIN6.png",
+    "Streams": [
+      {
+        "Url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ThePetCollectiveItaly.it",
+    "Name": "The Pet Collective Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "family",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/the-pet-collective-it",
+    "Logo": "https://i.imgur.com/MU21Zva.png",
+    "Streams": [
+      {
+        "Url": "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "TrentinoTV.it",
+    "Name": "Trentino TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.trentinotv.it/",
+    "Logo": "https://i.imgur.com/Xcw3TRB.png",
+    "Streams": [
+      {
+        "Url": "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UmbriaTV.it",
+    "Name": "Umbria TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.umbriatv.com/",
+    "Logo": "https://i.imgur.com/olJIJ7c.png",
+    "Streams": [
+      {
+        "Url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UniNettunoUniversityTV.it",
+    "Name": "UniNettuno University TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.uninettuno.tv/",
+    "Logo": "https://i.imgur.com/c9So8nf.png",
+    "Streams": [
+      {
+        "Url": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VH1Italia.it",
+    "Name": "VH1 Italia",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.mtv.it/topic/vh1",
+    "Logo": "https://i.imgur.com/tJcbZZP.png",
+    "Streams": [
+      {
+        "Url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VH1PlusItaly.it",
+    "Name": "VH1+ Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/vh1-it",
+    "Logo": "https://i.imgur.com/KsiOX0r.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "VeraTV.it",
+    "Name": "Vera TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7o1bq3p.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8"
+      },
+      {
+        "Url": "http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VideolinaSardegna.it",
+    "Name": "Videolina Sardegna",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/nQwXaef.png",
+    "Streams": [
+      {
+        "Url": "http://livestreaming.videolina.it/live/Videolina/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VisualRadio.it",
+    "Name": "Visual Radio",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ah14ah0.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Vuemme.it",
+    "Name": "Vuemme",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.vuemmetv.it/",
+    "Logo": "https://i.imgur.com/Cs1kX12.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WeddingTV.it",
+    "Name": "Wedding TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://www.weddingtv.it/",
+    "Logo": "https://i.imgur.com/dFCrfbk.png",
+    "Streams": [
+      {
+        "Url": "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WellTV.it",
+    "Name": "Well TV",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.welltv.eu/",
+    "Logo": "https://i.imgur.com/ueUddW1.png",
+    "Streams": [
+      {
+        "Url": "https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WorldPokerTourItaly.it",
+    "Name": "World Poker Tour Italy",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/world-poker-tour-it",
+    "Logo": "https://i.imgur.com/e3yJ9QN.png",
+    "Streams": [
+      {
+        "Url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ]
+  },
+  {
+    "Id": "ZerounoTVMusic.it",
+    "Name": "Zerouno TV Music",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/RMPVvGR.png",
+    "Streams": [
+      {
+        "Url": "http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZerounoTVNews.it",
+    "Name": "Zerouno TV News",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wYntmOt.png",
+    "Streams": [
+      {
+        "Url": "https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "eTvMarche.it",
+    "Name": "eTv Marche",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://etvmarche.it/",
+    "Logo": "https://i.imgur.com/U6OW577.png",
+    "Streams": [
+      {
+        "Url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "eTvRete7.it",
+    "Name": "eTv Rete 7",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://e-tv.it/",
+    "Logo": "https://i.imgur.com/xYVI5OC.png",
+    "Streams": [
+      {
+        "Url": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "teleMonteneve.it",
+    "Name": "teleMonteneve",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/UAtEkvI.png",
+    "Streams": [
+      {
+        "Url": "http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8"
+      }
+    ]
+  }
+]

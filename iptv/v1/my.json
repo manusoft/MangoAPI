@@ -1,0 +1,80 @@
+[
+  {
+    "Id": "AstroAwani.my",
+    "Name": "Astro Awani",
+    "Country": "MY",
+    "Languages": "msa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.astroawani.com/",
+    "Logo": "https://i.imgur.com/dLzgBUj.png",
+    "Streams": [
+      {
+        "Url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BernamaTV.my",
+    "Name": "Bernama TV",
+    "Country": "MY",
+    "Languages": "msa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.bernama.com/",
+    "Logo": "https://i.imgur.com/skJjF4m.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CinemaWorld.my",
+    "Name": "CinemaWorld",
+    "Country": "MY",
+    "Languages": "eng,ind",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://cinemaworld.asia/",
+    "Logo": "https://i.imgur.com/D2qNVZ7.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.35/dr9445/h/h04/index.m3u8"
+      },
+      {
+        "Url": "http://210.210.155.37/dr9445/h/h04/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SukanRTM.my",
+    "Name": "Sukan RTM",
+    "Country": "MY",
+    "Languages": "msa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rtm.gov.my/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",
+    "Streams": [
+      {
+        "Url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd"
+      }
+    ]
+  },
+  {
+    "Id": "eGGNetwork.my",
+    "Name": "eGG Network",
+    "Country": "MY",
+    "Languages": "eng,msa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.egg.network/",
+    "Logo": "https://i.imgur.com/VyYo7NF.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/uq2663/h/h22/index.m3u8"
+      }
+    ]
+  }
+]

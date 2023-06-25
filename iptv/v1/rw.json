@@ -1,0 +1,71 @@
+[
+  {
+    "Id": "IsiboTV.rw",
+    "Name": "Isibo TV",
+    "Country": "RW",
+    "Languages": "kin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/dTpOCG0.png",
+    "Streams": [
+      {
+        "Url": "https://tv.livebcm.com:3192/live/isibotvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KC2.rw",
+    "Name": "KC2",
+    "Country": "RW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rba.co.rw/tv",
+    "Logo": "https://i.imgur.com/2ztabQj.png",
+    "Streams": [
+      {
+        "Url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8"
+      },
+      {
+        "Url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RwandaTV.rw",
+    "Name": "Rwanda TV",
+    "Country": "RW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rba.co.rw/tv",
+    "Logo": "https://i.imgur.com/4nbGvxW.png",
+    "Streams": [
+      {
+        "Url": "http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8"
+      },
+      {
+        "Url": "https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8"
+      },
+      {
+        "Url": "http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV10.rw",
+    "Name": "TV 10",
+    "Country": "RW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.radiotv10.rw/",
+    "Logo": "https://i.imgur.com/DeaWC1N.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC-hfYFkXZ6sTmI-BrW1fPAQ.m3u8"
+      }
+    ]
+  }
+]

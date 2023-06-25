@@ -1,0 +1,140 @@
+[
+  {
+    "Id": "BusuiocTV.md",
+    "Name": "Busuioc TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://busuioctv.md/",
+    "Logo": "https://i.imgur.com/CQtfBPu.png",
+    "Streams": [
+      {
+        "Url": "https://busuioctv.iforward.eu/hls/busuioc.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MoldovaTV.md",
+    "Name": "Moldova TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://moldovatv.ro/",
+    "Logo": "https://i.imgur.com/gPMlDCP.png",
+    "Streams": [
+      {
+        "Url": "http://89.38.8.130:39435"
+      }
+    ]
+  },
+  {
+    "Id": "NorocTV.md",
+    "Name": "Noroc TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XvYqpqG.png",
+    "Streams": [
+      {
+        "Url": "http://live.noroc.tv/hls/noroctv_chisinau.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PublikaTV.md",
+    "Name": "Publika TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.publika.md/",
+    "Logo": "https://i.imgur.com/Vyx6wo5.png",
+    "Streams": [
+      {
+        "Url": "https://livebeta.publika.md/LIVE/P/1500.m3u8"
+      },
+      {
+        "Url": "https://livebeta.publika.md/LIVE/P/6810.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RealitateaTV.md",
+    "Name": "Realitatea TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://realitatea.md/",
+    "Logo": "https://i.imgur.com/Ul4IIfX.png",
+    "Streams": [
+      {
+        "Url": "https://realitatealive.md/tv/rlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SorTV.md",
+    "Name": "Sor TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://news.sortv.md",
+    "Logo": "https://i.imgur.com/BcfZgD8.png",
+    "Streams": [
+      {
+        "Url": "http://188.237.212.16:8888/live/cameraFeed.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRMoldova.md",
+    "Name": "TVR Moldova",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.tvr.ro/",
+    "Logo": "https://i.imgur.com/wDe9gL2.png",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TezaurTV.md",
+    "Name": "Tezaur TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://tezaurtv.md",
+    "Logo": "https://i.imgur.com/eAagwLW.png",
+    "Streams": [
+      {
+        "Url": "http://tezaur.mlbfan.org/tezaur/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VoceaBasarabieiTV.md",
+    "Name": "Vocea Basarabiei TV",
+    "Country": "MD",
+    "Languages": "ron",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://voceabasarabiei.md/vb-tv",
+    "Logo": "https://i.imgur.com/irP8QLs.png",
+    "Streams": [
+      {
+        "Url": "http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8"
+      }
+    ]
+  }
+]

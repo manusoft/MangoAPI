@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "BrianTV.la",
+    "Name": "Brian TV",
+    "Country": "LA",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/zG1WNgU.jpg",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HmongStarTV.la",
+    "Name": "Hmong Star TV",
+    "Country": "LA",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/dRsacao.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HmongUSATV.la",
+    "Name": "HmongUSA TV",
+    "Country": "LA",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/L6ZEUL9.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ISTV.la",
+    "Name": "ISTV",
+    "Country": "LA",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TGAKFcV.jpg",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KhomsanhTV.la",
+    "Name": "Khomsanh TV",
+    "Country": "LA",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ac7tH4R.jpg",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LSTV.la",
+    "Name": "LS TV",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/fs3dQ6J.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaoChampaTV1.la",
+    "Name": "Lao Champa TV 1",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/1ZjYAEs.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8"
+      },
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaoChampaTV2.la",
+    "Name": "Lao Champa TV 2",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/pbWHenM.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaoHeritageOrganization.la",
+    "Name": "Lao Heritage Organization",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/kbLqi5o.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaoNetTV.la",
+    "Name": "Lao Net TV",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ohbRT05.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaosPlanetTV.la",
+    "Name": "Laos Planet TV",
+    "Country": "LA",
+    "Languages": "vie",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/u4ynifa.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LookThoongTV.la",
+    "Name": "Look Thoong TV",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eT7iE34.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NingTV.la",
+    "Name": "Ning TV",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ANnEPnK.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OhMuangLaoTV.la",
+    "Name": "Oh Muang Lao TV",
+    "Country": "LA",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/SdB3Vyr.jpg",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VatiLao.la",
+    "Name": "Vati Lao",
+    "Country": "LA",
+    "Languages": "lao",
+    "Categories": "entertainment,shop",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/NwxXABV.png",
+    "Streams": [
+      {
+        "Url": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8"
+      }
+    ]
+  }
+]

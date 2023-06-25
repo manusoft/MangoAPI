@@ -1,0 +1,353 @@
+[
+  {
+    "Id": "AOneTV.jo",
+    "Name": "A One TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.lyngsat.com/logo/tv/aa/a-one-tv-jo.png",
+    "Streams": [
+      {
+        "Url": "https://master.starmena-cloud.com/hls/a1jo.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlMamlakaTV.jo",
+    "Name": "Al Mamlaka TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.almamlakatv.com/",
+    "Logo": "https://i.imgur.com/6njRt6c.png",
+    "Streams": [
+      {
+        "Url": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlerthAlnabawiChannel.jo",
+    "Name": "Alerth Alnabawi Channel",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/iYibJxK.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.2:8000/live/7307.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AmmanTV.jo",
+    "Name": "Amman TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://ammantv.net/",
+    "Logo": "https://i.imgur.com/5l7kw0b.png",
+    "Streams": [
+      {
+        "Url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FactInternational.jo",
+    "Name": "Fact International",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://factjo.com/",
+    "Logo": "https://i.imgur.com/i5Kr4n2.png",
+    "Streams": [
+      {
+        "Url": "https://ghaasiflu.online/alhqeqa/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IsmaoonaTV.jo",
+    "Name": "Ismaoona TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ismaoona.com/",
+    "Logo": "https://i.imgur.com/HZuLTz8.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.4:8000/live/2105.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JawharaFM.jo",
+    "Name": "Jawhara FM",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",
+    "Streams": [
+      {
+        "Url": "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JordanTV.jo",
+    "Name": "Jordan TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.jrtv.gov.jo/",
+    "Logo": "https://i.imgur.com/0XozB5N.png",
+    "Streams": [
+      {
+        "Url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KaifaTV.jo",
+    "Name": "Kaifa TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.kaifatv.com/",
+    "Logo": "https://i.imgur.com/zGGeSQg.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.2:8000/live/7311.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MelodyFM.jo",
+    "Name": "Melody FM",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://melody-fm.com/",
+    "Logo": "https://i.imgur.com/J8omcNz.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioFannJordanCityView.jo",
+    "Name": "Radio Fann Jordan City View",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/kyUtYM4.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RadioFann/CityView1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioFannJordanControlStudio.jo",
+    "Name": "Radio Fann Jordan Control Studio",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/WHhZTIe.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioFannJordanStudio.jo",
+    "Name": "Radio Fann Jordan Studio",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioYaqeenJordanCityView.jo",
+    "Name": "Radio Yaqeen Jordan City View",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wHOQU0R.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/MixFM/CityView1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioYaqeenJordanControlStudio.jo",
+    "Name": "Radio Yaqeen Jordan Control Studio",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/s5VHg9W.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/MixFM/ControlStudio1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioYaqeenJordanStudio.jo",
+    "Name": "Radio Yaqeen Jordan Studio",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://cdn-profiles.tunein.com/s199080/images/logod.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaRadioJordanCityView.jo",
+    "Name": "Rotana Radio Jordan City View",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Tdq4LJk.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaRadioJordanControlStudio.jo",
+    "Name": "Rotana Radio Jordan Control Studio",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uBXq5QD.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaRadioJordanStudio.jo",
+    "Name": "Rotana Radio Jordan Studio",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/xGDjlp5.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaTarabJordanCityView.jo",
+    "Name": "Rotana Tarab Jordan City View",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/NjgOBts.png",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RadioFann/Audio32/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaTarabJordanControlStudio.jo",
+    "Name": "Rotana Tarab Jordan Control Studio",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://cdn-profiles.tunein.com/s257050/images/logod.jpg",
+    "Streams": [
+      {
+        "Url": "http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RoyaTV.jo",
+    "Name": "Roya TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.roya.tv/",
+    "Logo": "https://i.imgur.com/WX80rty.png",
+    "Streams": [
+      {
+        "Url": "https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8"
+      },
+      {
+        "Url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
+      },
+      {
+        "Url": "https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ToyorAlJannah.jo",
+    "Name": "Toyor Al-Jannah",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://toyoraljanah.com/",
+    "Logo": "https://i.imgur.com/5j8z6cc.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8"
+      }
+    ]
+  }
+]

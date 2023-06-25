@@ -1,0 +1,218 @@
+[
+  {
+    "Id": "AlAqsaTV.ps",
+    "Name": "Al-Aqsa TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Z2rfrQ8.png",
+    "Streams": [
+      {
+        "Url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlQudsOpenUniversity.ps",
+    "Name": "Al-Quds Open University",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.qou.edu/",
+    "Logo": "https://i.imgur.com/AHzY3Wn.png",
+    "Streams": [
+      {
+        "Url": "https://streaming2.qou.edu/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlQudsTodayTV.ps",
+    "Name": "Al Quds Today TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.alqudstoday.tv/",
+    "Logo": "https://i.imgur.com/Q0E4LLi.png",
+    "Streams": [
+      {
+        "Url": "http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Audeh.ps",
+    "Name": "Audeh",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "Streams": [
+      {
+        "Url": "http://htvpalsat.mada.ps:8888/audeh/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MusawaChannel.ps",
+    "Name": "MusawaChannel",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ztIqhIe.png",
+    "Streams": [
+      {
+        "Url": "https://pbc.furrera.ps/musawahd/index.m3u8"
+      },
+      {
+        "Url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NablusTV.ps",
+    "Name": "Nablus TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GoLhaDK.png",
+    "Streams": [
+      {
+        "Url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PalestineMubasher.ps",
+    "Name": "Palestine Mubasher",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/68llVTZ.png",
+    "Streams": [
+      {
+        "Url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PalestineSatelliteChannel.ps",
+    "Name": "Palestine Satellite Channel",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4B5FvmX.png",
+    "Streams": [
+      {
+        "Url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8"
+      },
+      {
+        "Url": "https://pbc.furrera.ps/palestinehd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PalestineToday.ps",
+    "Name": "Palestine Today",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://paltoday.tv/",
+    "Logo": "https://i.imgur.com/BS8XXug.png",
+    "Streams": [
+      {
+        "Url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioAlbaladTV.ps",
+    "Name": "Radio Albalad TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "Streams": [
+      {
+        "Url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RajeenTV.ps",
+    "Name": "Rajeen TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rajeen.tv/",
+    "Logo": "https://i.imgur.com/6Cx22ya.png",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShababFM.ps",
+    "Name": "Shabab FM",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://shababfm.ps/",
+    "Logo": "https://i.imgur.com/4Cyz4Bn.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WatarTV.ps",
+    "Name": "Watar TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "Streams": [
+      {
+        "Url": "http://htvint.mada.ps:8889/orient/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WattanTV.ps",
+    "Name": "Wattan TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://wattan.net/",
+    "Logo": "https://i.imgur.com/sf2A9vT.png",
+    "Streams": [
+      {
+        "Url": "http://htvmada.mada.ps:8888/wattan/index.m3u8"
+      }
+    ]
+  }
+]

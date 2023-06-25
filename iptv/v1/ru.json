@@ -1,0 +1,2468 @@
+[
+  {
+    "Id": "1HDMusicTelevision.ru",
+    "Name": "1HD Music Television",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://1hd.ru/",
+    "Logo": "https://i.imgur.com/4Ww7CsR.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/1hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "2x2.ru",
+    "Name": "2x2",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://2x2tv.ru/",
+    "Logo": "https://i.imgur.com/fhQFLEl.png",
+    "Streams": [
+      {
+        "Url": "https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "360deg.ru",
+    "Name": "360°",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://360tv.ru/",
+    "Logo": "https://i.imgur.com/VTJqdoX.png",
+    "Streams": [
+      {
+        "Url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "3ABNRussia.ru",
+    "Name": "3ABN Russia",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.3angels.ru/",
+    "Logo": "https://i.imgur.com/4fhBbam.png",
+    "Streams": [
+      {
+        "Url": "https://hls.tv.3angels.ru/stream/HQ.m3u8"
+      },
+      {
+        "Url": "https://hls.tv.3angels.ru/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "9Volna.ru",
+    "Name": "9 Volna",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://9volna.com/",
+    "Logo": "https://i.imgur.com/zmnSoBA.png",
+    "Streams": [
+      {
+        "Url": "http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "A1.ru",
+    "Name": "A1",
+    "Country": "RU",
+    "Languages": "rus,eng",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "http://amediatv.ru/a1/",
+    "Logo": "https://i.imgur.com/tHLmAvq.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s45/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "A2.ru",
+    "Name": "A2",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "http://amediatv.ru/a2/",
+    "Logo": "https://i.imgur.com/WzjFuij.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s33/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AbazaTV.ru",
+    "Name": "Abaza TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://abaza.tv/",
+    "Logo": "https://i.imgur.com/7Jo7UAf.png",
+    "Streams": [
+      {
+        "Url": "http://clients.apsny.camera/tv_abaza_tv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Afontovo.ru",
+    "Name": "Afontovo",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://afontovo.ru/",
+    "Logo": "https://i.imgur.com/StFfPaI.png",
+    "Streams": [
+      {
+        "Url": "http://xstream.afontovo.ru/afontovo_ya.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Almaznyykray.ru",
+    "Name": "Almaznyy kray",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.almaz-media.tv/",
+    "Logo": "https://i.imgur.com/zErXTdF.png",
+    "Streams": [
+      {
+        "Url": "https://stream.almaz-media.tv:8080/hls/576.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AmediaPremium.ru",
+    "Name": "Amedia Premium",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies,series",
+    "IsNsfw": false,
+    "Website": "http://amediatv.ru/amedia-premium/",
+    "Logo": "https://i.imgur.com/L3c9gNk.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s64/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Aris24.ru",
+    "Name": "Aris 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://aris-tv.ru/aris-24",
+    "Logo": "https://i.imgur.com/CTFVEAb.png",
+    "Streams": [
+      {
+        "Url": "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Arkhyz24.ru",
+    "Name": "Arkhyz 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://arkhyz24.ru/",
+    "Logo": "https://i.imgur.com/blAtdkJ.png",
+    "Streams": [
+      {
+        "Url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Arsenal.ru",
+    "Name": "Arsenal",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://arsenal-tv.tv/",
+    "Logo": "https://i.imgur.com/DBpVeb0.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s68/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Astrahan24.ru",
+    "Name": "Astrahan 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://cdn.astrakhan-24.ru/",
+    "Logo": "https://i.imgur.com/9WcnjQN.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AstrahanRuSport.ru",
+    "Name": "Astrahan.Ru Sport",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://sport.astrakhan.ru/",
+    "Logo": "https://i.imgur.com/BKaEtqL.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AstrahanRuTV.ru",
+    "Name": "Astrahan.Ru TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://live.astrakhan.ru/",
+    "Logo": "https://i.imgur.com/w4ys6zm.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BRIDGE.ru",
+    "Name": "BRIDGE",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://bridgetv.ru/brands/bridgetv/",
+    "Logo": "https://i.imgur.com/qYObfrG.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s78/index.m3u8"
+      },
+      {
+        "Url": "http://ott-cdn.ucom.am/s34/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BST.ru",
+    "Name": "BST",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://bash.news/bst/",
+    "Logo": "https://i.imgur.com/IDotHmQ.png",
+    "Streams": [
+      {
+        "Url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BelRos.ru",
+    "Name": "BelRos",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://belros.tv/",
+    "Logo": "https://i.imgur.com/tUF33HD.png",
+    "Streams": [
+      {
+        "Url": "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Bober.ru",
+    "Name": "Bober",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://bober.ru/",
+    "Logo": "https://i.imgur.com/clWWhB8.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/bober.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BollywoodHD.ru",
+    "Name": "Bollywood HD",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/scDKOLS.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/bollywood_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CTC.ru",
+    "Name": "CTC",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "family",
+    "IsNsfw": false,
+    "Website": "https://ctc.ru/",
+    "Logo": "https://i.imgur.com/ilUzAeb.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/STS.m3u8"
+      },
+      {
+        "Url": "http://ott-cdn.ucom.am/s52/04.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CentralTV.ru",
+    "Name": "Central TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://contact-agency.ru/channels/tsentralnoe-televidenie/",
+    "Logo": "https://i.imgur.com/2Ydfgw4.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s20/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Channel5.ru",
+    "Name": "Channel 5",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.5-tv.ru/",
+    "Logo": "https://i.imgur.com/KPXMa3U.png",
+    "Streams": [
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ChannelOne.ru",
+    "Name": "Channel One",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.1tv.ru/",
+    "Logo": "https://i.imgur.com/RUSX0rX.png",
+    "Streams": [
+      {
+        "Url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
+      },
+      {
+        "Url": "http://ott-cdn.ucom.am/s14/04.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Che.ru",
+    "Name": "Che!",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://chetv.ru/",
+    "Logo": "https://i.imgur.com/ZOcDGpB.png",
+    "Streams": [
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Cinema.ru",
+    "Name": "Cinema",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://cinetv.ru/",
+    "Logo": "https://i.imgur.com/sP15Oc9.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Cinema.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Dagestan.ru",
+    "Name": "Dagestan",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rgvktv.ru/",
+    "Logo": "https://i.imgur.com/jumkRvc.png",
+    "Streams": [
+      {
+        "Url": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Domashniy.ru",
+    "Name": "Domashniy",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://domashniy.ru/",
+    "Logo": "https://i.imgur.com/XVRwgom.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s88/index.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Enisey.ru",
+    "Name": "Enisey",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.enisey.tv/",
+    "Logo": "https://i.imgur.com/57deE7f.png",
+    "Streams": [
+      {
+        "Url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FashionTVRussia.ru",
+    "Name": "FashionTV Russia",
+    "Country": "RU",
+    "Languages": "fra",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://www.fashiontv.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s30/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Football.ru",
+    "Name": "Football",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.football-tv.ru/",
+    "Logo": "https://i.imgur.com/pEuaZVx.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s41/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Friday.ru",
+    "Name": "Friday!",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://friday.ru/",
+    "Logo": "https://i.imgur.com/UfmlXxe.png",
+    "Streams": [
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FridayInternational.ru",
+    "Name": "Friday! International",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://friday.ru/",
+    "Logo": "https://i.imgur.com/N2z3EZC.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s50/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Gorodskoytelekanal.ru",
+    "Name": "Gorodskoy telekanal",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.gtk.tv/",
+    "Logo": "https://i.imgur.com/zMNJfoV.png",
+    "Streams": [
+      {
+        "Url": "https://www.gtk.tv/hls/gtyar.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GovoritMoskva.ru",
+    "Name": "Govorit Moskva",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://govoritmoskva.ru/",
+    "Logo": "https://i.imgur.com/ozS2yn2.png",
+    "Streams": [
+      {
+        "Url": "https://video.govoritmoskva.ru/rufm/index.m3u8"
+      },
+      {
+        "Url": "http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GuberniaSamara.ru",
+    "Name": "Gubernia Samara",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://sovainfo.ru/tv/",
+    "Logo": "https://i.imgur.com/IlL57Rm.png",
+    "Streams": [
+      {
+        "Url": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IndijskoeKino.ru",
+    "Name": "Indijskoe Kino",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/indijskoe-kino/",
+    "Logo": "https://i.imgur.com/7D8yud7.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Indiiskoe_kino.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Istoriya.ru",
+    "Name": "Istoriya",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://istoriya.tv/",
+    "Logo": "https://i.imgur.com/7fZXK7y.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s40/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KabbalaTV.ru",
+    "Name": "Kabbala TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://kab.tv/rus",
+    "Logo": "https://i.imgur.com/uaffIpV.png",
+    "Streams": [
+      {
+        "Url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Karusel.ru",
+    "Name": "Karusel",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://www.karusel-tv.ru/",
+    "Logo": "https://i.imgur.com/4wmnx1W.png",
+    "Streams": [
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kinohit.ru",
+    "Name": "Kinohit",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/kinohit/",
+    "Logo": "https://i.imgur.com/Ge8vkQM.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Kinohit_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kinokomedija.ru",
+    "Name": "Kinokomedija",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "comedy",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/kinokomedija/",
+    "Logo": "https://i.imgur.com/1Z9VTM6.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Kinokomediya_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kinomiks.ru",
+    "Name": "Kinomiks",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/kinomiks/",
+    "Logo": "https://i.imgur.com/OGUMa1A.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Kinomix_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kinopremyera.ru",
+    "Name": "Kinopremyera",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/kinopremyera/",
+    "Logo": "https://i.imgur.com/lgvOVxm.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Kinopremiera_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kinosemja.ru",
+    "Name": "Kinosemja",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/kinosemja/",
+    "Logo": "https://i.imgur.com/ML0TEYb.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kinosvidanie.ru",
+    "Name": "Kinosvidanie",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/kinosvidanie/",
+    "Logo": "https://i.imgur.com/ZRaWqxj.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KonniyMir.ru",
+    "Name": "Konniy Mir",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/X6otbK0.png",
+    "Streams": [
+      {
+        "Url": "http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KurajTV.ru",
+    "Name": "Kuraj-TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://xn--80asbyo.tv/",
+    "Logo": "https://i.imgur.com/hZXBD9F.png",
+    "Streams": [
+      {
+        "Url": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LDPRTV.ru",
+    "Name": "LDPR TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://ldpr.tv/",
+    "Logo": "https://i.imgur.com/gCmCRfe.png",
+    "Streams": [
+      {
+        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8"
+      },
+      {
+        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8"
+      },
+      {
+        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LenTV24.ru",
+    "Name": "LenTV24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://lentv24.ru/",
+    "Logo": "https://i.imgur.com/d02uxkB.png",
+    "Streams": [
+      {
+        "Url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Leomax24.ru",
+    "Name": "Leomax 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://www.leomax.ru/",
+    "Logo": "https://i.imgur.com/qU9ohQu.png",
+    "Streams": [
+      {
+        "Url": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Luxury.ru",
+    "Name": "Luxury",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://luxuryhd.tv/",
+    "Logo": "https://i.imgur.com/nobZa5l.png",
+    "Streams": [
+      {
+        "Url": "http://nano.teleservice.su:8080/hls/luxury.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MTV.ru",
+    "Name": "MTV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://xn--b1ats.xn--80asehdb/",
+    "Logo": "https://i.imgur.com/pdCAUrP.png",
+    "Streams": [
+      {
+        "Url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MaturTV.ru",
+    "Name": "Matur TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://matur-tv.ru/",
+    "Logo": "https://i.imgur.com/Pg7K7eV.png",
+    "Streams": [
+      {
+        "Url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Millet.ru",
+    "Name": "Millet",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.trkmillet.ru/",
+    "Logo": "https://i.imgur.com/hUjLRLy.png",
+    "Streams": [
+      {
+        "Url": "https://live.trkmillet.ru/millet/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Ministerstvoidey.ru",
+    "Name": "Ministerstvo idey",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://xn--b1aebclacktlowlcmd.xn--p1ai/",
+    "Logo": "https://i.imgur.com/3P0uvHD.png",
+    "Streams": [
+      {
+        "Url": "https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Mir.ru",
+    "Name": "Mir",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://mirtv.ru/",
+    "Logo": "https://i.imgur.com/Murt4NK.png",
+    "Streams": [
+      {
+        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Mir24.ru",
+    "Name": "Mir 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://mir24.tv/",
+    "Logo": "https://i.imgur.com/tKnSHEc.png",
+    "Streams": [
+      {
+        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8"
+      },
+      {
+        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+      },
+      {
+        "Url": "https://sc.id-tv.kz/Mir24.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MirBelogorya.ru",
+    "Name": "Mir Belogorya",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://mirbelogorya.ru/",
+    "Logo": "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
+    "Streams": [
+      {
+        "Url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8"
+      },
+      {
+        "Url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MirPlus2.ru",
+    "Name": "Mir +2",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://mirtv.ru/",
+    "Logo": "https://i.imgur.com/i6JthjI.png",
+    "Streams": [
+      {
+        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MirPlus3.ru",
+    "Name": "Mir +3",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://mirtv.ru/",
+    "Logo": "https://i.imgur.com/oxJnv6I.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Mir.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MirPlus4.ru",
+    "Name": "Mir +4",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://mirtv.ru/",
+    "Logo": "https://i.imgur.com/CrFWXTD.png",
+    "Streams": [
+      {
+        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MirPlus7.ru",
+    "Name": "Mir +7",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://mirtv.ru/",
+    "Logo": "https://i.imgur.com/CrFWXTD.png",
+    "Streams": [
+      {
+        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MusicBoxRussia.ru",
+    "Name": "Music Box Russia",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://musicboxtv.ru/",
+    "Logo": "https://i.imgur.com/iWJdeD1.png",
+    "Streams": [
+      {
+        "Url": "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzSoyuz.ru",
+    "Name": "Muz Soyuz",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music,religious",
+    "IsNsfw": false,
+    "Website": "https://muz.tv-soyuz.ru/",
+    "Logo": "https://i.imgur.com/Puk1Bhx.png",
+    "Streams": [
+      {
+        "Url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzTV.ru",
+    "Name": "Muz-TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://muz-tv.ru/",
+    "Logo": "https://i.imgur.com/BtqrHmz.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s28/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzhskoeKino.ru",
+    "Name": "Muzhskoe Kino",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/muzhskoe-kino/",
+    "Logo": "https://i.imgur.com/amG6Tbt.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTM.ru",
+    "Name": "NTM",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ntm13.ru/",
+    "Logo": "https://i.imgur.com/AH50pGT.png",
+    "Streams": [
+      {
+        "Url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTS.ru",
+    "Name": "NTS",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nts-tv.com/",
+    "Logo": "https://i.imgur.com/skkDR7q.png",
+    "Streams": [
+      {
+        "Url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTV.ru",
+    "Name": "NTV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.ntv.ru/",
+    "Logo": "https://i.imgur.com/9r1BKzK.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s17/index.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTVStyle.ru",
+    "Name": "NTV Style",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://www.ntv.ru/air/ntvstyle/",
+    "Logo": "https://i.imgur.com/rX6K6qT.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s77/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NVKSakha.ru",
+    "Name": "NVK Sakha",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nvk-online.ru/",
+    "Logo": "https://i.imgur.com/LwXNUhf.png",
+    "Streams": [
+      {
+        "Url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NanoTV.ru",
+    "Name": "Nano TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv-nano.ru/",
+    "Logo": "https://i.imgur.com/0eEjt0F.png",
+    "Streams": [
+      {
+        "Url": "http://nano.teleservice.su:8080/hls/nano.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NashaSibir.ru",
+    "Name": "Nasha Sibir",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uXOz2d9.png",
+    "Streams": [
+      {
+        "Url": "https://strm.yandex.ru/kal/sibir/sibir0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NationalGeographicWildRussia.ru",
+    "Name": "National Geographic Wild Russia",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "documentary",
+    "IsNsfw": false,
+    "Website": "http://natgeotv.com/ru/wild",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/NatGeoWildHD.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Nauka.ru",
+    "Name": "Nauka",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://naukatv.ru/",
+    "Logo": "https://i.imgur.com/ZZxzueO.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s98/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NebesaTV7.ru",
+    "Name": "Nebesa TV7",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.nebesatv7.com/",
+    "Logo": "https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png",
+    "Streams": [
+      {
+        "Url": "https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NikaTV.ru",
+    "Name": "Nika TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nikatv.ru/",
+    "Logo": "https://i.imgur.com/dccsFAu.png",
+    "Streams": [
+      {
+        "Url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NizhniyNovgorod24.ru",
+    "Name": "Nizhniy Novgorod 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://vestinn.ru/online/nn24/",
+    "Logo": "https://i.imgur.com/ZWgPVIC.png",
+    "Streams": [
+      {
+        "Url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NovyyMir.ru",
+    "Name": "Novyy Mir",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://n-w.tv/",
+    "Logo": "https://i.imgur.com/KirWvQc.png",
+    "Streams": [
+      {
+        "Url": "http://stream.studio360.tv/nw/nw_576p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "O.ru",
+    "Name": "O!",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://www.kanal-o.ru/",
+    "Logo": "https://i.imgur.com/pDc665V.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/o.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OTR.ru",
+    "Name": "OTR",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://otr-online.ru/",
+    "Logo": "https://i.imgur.com/VaWlnjZ.png",
+    "Streams": [
+      {
+        "Url": "https://strm.yandex.ru/kal/otr/otr0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Ohotnikirybolov.ru",
+    "Name": "Ohotnik i rybolov",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": "https://oirtv.ru/",
+    "Logo": "https://i.imgur.com/Bj1jI7F.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s62/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Olala.ru",
+    "Name": "O-la-la",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "xxx",
+    "IsNsfw": false,
+    "Website": "https://o-la-la-tv.com/",
+    "Logo": "https://i.imgur.com/adhMvTl.png",
+    "Streams": [
+      {
+        "Url": "http://93.125.29.22:8787/Olala"
+      }
+    ]
+  },
+  {
+    "Id": "PervyyTulskiy.ru",
+    "Name": "Pervyy Tulskiy",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://1tulatv.ru/",
+    "Logo": "https://i.imgur.com/QdKKHXb.png",
+    "Streams": [
+      {
+        "Url": "http://5.164.24.83/tula/1tv_low/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PilotFM.ru",
+    "Name": "Pilot FM",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://pilotfm.ru/",
+    "Logo": "https://i.imgur.com/SdudhuW.png",
+    "Streams": [
+      {
+        "Url": "https://pilotfm.ru/cam/hls/pilothd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Pobeda.ru",
+    "Name": "Pobeda",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://pobeda.tv/",
+    "Logo": "https://i.imgur.com/gNiz1xm.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Pobeda.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Poehali.ru",
+    "Name": "Poehali!",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.poehali.tv/",
+    "Logo": "https://i.imgur.com/c6oPeGF.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/poehali.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Prima.ru",
+    "Name": "Prima",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.prima-tv.ru/",
+    "Logo": "https://i.imgur.com/vpGZPyh.png",
+    "Streams": [
+      {
+        "Url": "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8"
+      },
+      {
+        "Url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Pro100TV.ru",
+    "Name": "Pro100TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies,entertainment,family,classic,animation",
+    "IsNsfw": false,
+    "Website": "https://www.pro100tv.lv/",
+    "Logo": "https://i.imgur.com/YfQEflM.png",
+    "Streams": [
+      {
+        "Url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Prosveshchenie.ru",
+    "Name": "Prosveshchenie",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://prosveshenie.tv/",
+    "Logo": "https://i.imgur.com/uppFhhq.png",
+    "Streams": [
+      {
+        "Url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RBKTV.ru",
+    "Name": "RBK-TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://tv.rbc.ru/",
+    "Logo": "https://i.imgur.com/CwhmJby.png",
+    "Streams": [
+      {
+        "Url": "http://92.50.128.180/utv/1358/index.m3u8"
+      },
+      {
+        "Url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
+      },
+      {
+        "Url": "http://ott-cdn.ucom.am/s36/index.m3u8"
+      },
+      {
+        "Url": "https://strm.yandex.ru/kal/rbc/rbc0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RENTV.ru",
+    "Name": "REN TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://ren.tv/",
+    "Logo": "https://i.imgur.com/0Tu5lte.png",
+    "Streams": [
+      {
+        "Url": "https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://sc.id-tv.kz/RenTV.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RT.ru",
+    "Name": "RT",
+    "Country": "RU",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.rt.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "Streams": [
+      {
+        "Url": "https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8"
+      },
+      {
+        "Url": "https://cdn.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8"
+      },
+      {
+        "Url": "https://rumble.com/live-hls/tp5hp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTDoc.ru",
+    "Name": "RT Doc",
+    "Country": "RU",
+    "Languages": "eng",
+    "Categories": "documentary",
+    "IsNsfw": false,
+    "Website": "https://rtd.rt.com/",
+    "Logo": "https://i.imgur.com/TRQ0lLh.png",
+    "Streams": [
+      {
+        "Url": "https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8"
+      },
+      {
+        "Url": "https://hls.rt.com/hls/rtdru.m3u8"
+      },
+      {
+        "Url": "http://ott-cdn.ucom.am/s93/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTGHD.ru",
+    "Name": "RTG HD",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": "http://www.rtgtv.ru/channels/rtghd",
+    "Logo": "https://i.imgur.com/jEkgahl.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s63/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTGTV.ru",
+    "Name": "RTG TV",
+    "Country": "RU",
+    "Languages": "rus,eng,tur",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": "http://www.rtgtv.ru/channels/rtgtv",
+    "Logo": "https://i.imgur.com/ZMKPAho.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s80/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTRPlaneta.ru",
+    "Name": "RTR-Planeta",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://rtr-planeta.com/",
+    "Logo": "https://i.imgur.com/yOnSc4O.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s15/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTenEspanol.ru",
+    "Name": "RT en Espanol",
+    "Country": "RU",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://actualidad.rt.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RUTV.ru",
+    "Name": "RU.TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://ru.tv/",
+    "Logo": "https://i.imgur.com/Z7HUU7V.png",
+    "Streams": [
+      {
+        "Url": "https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioHit.ru",
+    "Name": "Radio Hit",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://smotri.radio/",
+    "Logo": "https://i.imgur.com/5xKqV1s.png",
+    "Streams": [
+      {
+        "Url": "http://lova.me/hls/hit.m3u8"
+      },
+      {
+        "Url": "http://lova.me/hls/hithd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioShanson.ru",
+    "Name": "Radio Shanson",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/lbqM3K2.png",
+    "Streams": [
+      {
+        "Url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Ratnik.ru",
+    "Name": "Ratnik",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://ratnik.tv/",
+    "Logo": "https://i.imgur.com/vhLQtSd.png",
+    "Streams": [
+      {
+        "Url": "https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RodnoeKino.ru",
+    "Name": "Rodnoe Kino",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.nastroykino.ru/rodnoe-kino/",
+    "Logo": "https://i.imgur.com/H70LxoZ.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Rodnoe_kino.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Rodnoykanal.ru",
+    "Name": "Rodnoy kanal",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.slavmir.tv/",
+    "Logo": "https://i.imgur.com/JqydEYN.png",
+    "Streams": [
+      {
+        "Url": "https://n1.slavmir.tv/live/slavmir/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RostovPapa.ru",
+    "Name": "Rostov-Papa",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rostov-papatv.com/",
+    "Logo": "https://i.imgur.com/2JYkoSa.png",
+    "Streams": [
+      {
+        "Url": "https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Russia24.ru",
+    "Name": "Russia-24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://vesti.ru/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s21/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RussiaK.ru",
+    "Name": "Russia-K",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "http://smotrim.ru/pick/kultura",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s16/index.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RusskiySever.ru",
+    "Name": "Russkiy Sever",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rusevertv.ru/",
+    "Logo": "https://i.imgur.com/BxAyQTx.png",
+    "Streams": [
+      {
+        "Url": "http://185.186.142.16/streams.rs.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Rybolov.ru",
+    "Name": "Rybolov",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": "https://oirtv.ru/",
+    "Logo": "https://i.imgur.com/wJMTcFS.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s55/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Ryzhiy.ru",
+    "Name": "Ryzhiy",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "http://www.ryzhiy.tv/",
+    "Logo": "https://i.imgur.com/QlncxbD.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s57/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "S1.ru",
+    "Name": "S1",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://sitv.ru/efir/c1/",
+    "Logo": "https://i.imgur.com/chNBF5t.png",
+    "Streams": [
+      {
+        "Url": "https://sitv.ru/hls/stv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "STRK.ru",
+    "Name": "STRK",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://sochinskayatrk.ru/ru/menu-part-strk",
+    "Logo": "https://i.imgur.com/mLZDuIF.png",
+    "Streams": [
+      {
+        "Url": "http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Salyam.ru",
+    "Name": "Salyam",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://bash.news/salyam",
+    "Logo": "https://i.imgur.com/FfULLr1.png",
+    "Streams": [
+      {
+        "Url": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SamaraGIS.ru",
+    "Name": "Samara-GIS",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://samaragis.ru/efir/",
+    "Logo": "https://samaragis.ru/wp-includes/images/logo.png",
+    "Streams": [
+      {
+        "Url": "http://45.67.57.9:8080/new/new/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Saratov24.ru",
+    "Name": "Saratov 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://saratov24.tv/",
+    "Logo": "https://i.imgur.com/Y5G3ET6.png",
+    "Streams": [
+      {
+        "Url": "https://saratov24.tv/online/playlist.php"
+      }
+    ]
+  },
+  {
+    "Id": "SelengaTV.ru",
+    "Name": "Selenga-TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://selengatv.ru/",
+    "Logo": "https://i.imgur.com/pKUtF4S.png",
+    "Streams": [
+      {
+        "Url": "http://90.188.37.86/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Sever.ru",
+    "Name": "Sever",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://trksever.ru/",
+    "Logo": "https://i.imgur.com/sTOQLYl.png",
+    "Streams": [
+      {
+        "Url": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8"
+      },
+      {
+        "Url": "https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8"
+      },
+      {
+        "Url": "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShansonTV.ru",
+    "Name": "Shanson TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://shanson.tv/",
+    "Logo": "https://i.imgur.com/NBWyJJQ.png",
+    "Streams": [
+      {
+        "Url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8"
+      },
+      {
+        "Url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
+      },
+      {
+        "Url": "http://ott-cdn.ucom.am/s43/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShchyolkovskoeTV.ru",
+    "Name": "Shchyolkovskoe TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv41.ru/",
+    "Logo": "https://i.imgur.com/0us6l04.png",
+    "Streams": [
+      {
+        "Url": "http://stream0.tv41.ru/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShoppingLive.ru",
+    "Name": "Shopping Live",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://www.shoppinglive.ru/",
+    "Logo": "https://i.imgur.com/EMmGnjV.png",
+    "Streams": [
+      {
+        "Url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Soyuz.ru",
+    "Name": "Soyuz",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://tv-soyuz.ru/",
+    "Logo": "https://i.imgur.com/w3OewHc.png",
+    "Streams": [
+      {
+        "Url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Spas.ru",
+    "Name": "Spas",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://spastv.ru/",
+    "Logo": "https://i.imgur.com/DNO4SOL.png",
+    "Streams": [
+      {
+        "Url": "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Start.ru",
+    "Name": "Start",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://tvstart.ru/",
+    "Logo": "https://i.imgur.com/VBqVkno.png",
+    "Streams": [
+      {
+        "Url": "https://strm.yandex.ru/kal/start/start0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "StranaFM.ru",
+    "Name": "Strana FM",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://strana.fm/",
+    "Logo": "https://i.imgur.com/WsPlKJJ.png",
+    "Streams": [
+      {
+        "Url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Subbota.ru",
+    "Name": "Subbota!",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://subbota.tv/",
+    "Logo": "https://i.imgur.com/nsk8PpB.png",
+    "Streams": [
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TKR.ru",
+    "Name": "TKR",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tkr.su/",
+    "Logo": "https://i.imgur.com/VqtPB7L.png",
+    "Streams": [
+      {
+        "Url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TNT.ru",
+    "Name": "TNT",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://tnt-online.ru/",
+    "Logo": "https://i.imgur.com/T4A6rEI.png",
+    "Streams": [
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TNT4.ru",
+    "Name": "TNT4",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://tnt4.ru/",
+    "Logo": "https://i.imgur.com/4GiD9xN.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/tnt4.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TNTInternational.ru",
+    "Name": "TNT International",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://tnt-online.ru/",
+    "Logo": "https://i.imgur.com/l0RGbRI.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s19/04.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TNTMusic.ru",
+    "Name": "TNT Music",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://tntmusic.ru/",
+    "Logo": "https://i.imgur.com/RenuH4S.png",
+    "Streams": [
+      {
+        "Url": "http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV3.ru",
+    "Name": "TV-3",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://tv3.ru/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png",
+    "Streams": [
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCentr.ru",
+    "Name": "TV Centr",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tvc.ru/",
+    "Logo": "https://i.imgur.com/fIkd01t.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s54/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCentrInternational.ru",
+    "Name": "TV Centr International",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tvc.ru/",
+    "Logo": "https://i.imgur.com/fIkd01t.png",
+    "Streams": [
+      {
+        "Url": "https://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVExtra.ru",
+    "Name": "TV Extra",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvextra.ru/",
+    "Logo": "https://i.imgur.com/34eyR0f.png",
+    "Streams": [
+      {
+        "Url": "https://live-1.otcnet.ru/tvextra720b/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVK.ru",
+    "Name": "TVK",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvk6.ru/",
+    "Logo": "https://i.imgur.com/rW1BeJC.png",
+    "Streams": [
+      {
+        "Url": "https://air.tvk6.ru/tvk24/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVMChannel.ru",
+    "Name": "TVMChannel",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvmchannel.ru/",
+    "Logo": "https://i.imgur.com/ZX6crqH.png",
+    "Streams": [
+      {
+        "Url": "http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Tamyr.ru",
+    "Name": "Tamyr",
+    "Country": "RU",
+    "Languages": "bak",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://bash.news/tamir",
+    "Logo": "https://i.imgur.com/Ia3acCB.png",
+    "Streams": [
+      {
+        "Url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Tatarstan24.ru",
+    "Name": "Tatarstan 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tatarstan24.tv/",
+    "Logo": "https://i.imgur.com/gGnUXzr.png",
+    "Streams": [
+      {
+        "Url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Teleputeshestviya.ru",
+    "Name": "Teleputeshestviya",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": "http://www.teletravel.tv/",
+    "Logo": "https://i.imgur.com/eXJm1n3.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s71/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telplus.ru",
+    "Name": "Telplus",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://telplus.ru/kvartira/televidenie/kanal/",
+    "Logo": "https://i.imgur.com/1zbcZ3p.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Tivikom.ru",
+    "Name": "Tivikom",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvcom-tv.ru/",
+    "Logo": "https://i.imgur.com/qcJ4EBl.png",
+    "Streams": [
+      {
+        "Url": "http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Tonus.ru",
+    "Name": "Tonus",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tonustv.ru/",
+    "Logo": "https://i.imgur.com/O15eGBK.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s90/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "U.ru",
+    "Name": "U",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.u-tv.ru/",
+    "Logo": "https://i.imgur.com/KDZvt0Q.png",
+    "Streams": [
+      {
+        "Url": "https://strm.yandex.ru/kal/utv/utv0.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UniverTV.ru",
+    "Name": "Univer TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://universmotri.ru/",
+    "Logo": "https://i.imgur.com/r3u0mxr.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Vetta24.ru",
+    "Name": "Vetta 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.vetta.tv/",
+    "Logo": "https://i.imgur.com/zKH1b5k.png",
+    "Streams": [
+      {
+        "Url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ViasatHistoryRussia.ru",
+    "Name": "Viasat History Russia",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "documentary",
+    "IsNsfw": false,
+    "Website": "https://www.viasat-channels.tv/channel/history",
+    "Logo": "https://i.imgur.com/VTpJ3De.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s23/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VmesteRF.ru",
+    "Name": "Vmeste-RF",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://vmeste-rf.tv/",
+    "Logo": "https://i.imgur.com/KI1qZNc.png",
+    "Streams": [
+      {
+        "Url": "http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WorldFashionChannelInternational.ru",
+    "Name": "World Fashion Channel International",
+    "Country": "RU",
+    "Languages": "eng",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://wfc.tv/en",
+    "Logo": "https://i.imgur.com/4unUuGy.png",
+    "Streams": [
+      {
+        "Url": "https://live-3.otcnet.ru/wfcenmulti/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WorldFashionChannelRussia.ru",
+    "Name": "World Fashion Channel Russia",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://wfc.tv/ru",
+    "Logo": "https://i.imgur.com/ewH0rNd.png",
+    "Streams": [
+      {
+        "Url": "https://live-3.otcnet.ru/wfcrusmulti/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Yurgan.ru",
+    "Name": "Yurgan",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.xn--80af5aj3e.xn--p1ai/",
+    "Logo": "https://i.imgur.com/RCokCLy.png",
+    "Streams": [
+      {
+        "Url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Yuvelirochka.ru",
+    "Name": "Yuvelirochka",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://uvi.ru/yuvelirochka/",
+    "Logo": "https://i.imgur.com/IcWtXCZ.png",
+    "Streams": [
+      {
+        "Url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Zagorodnyy.ru",
+    "Name": "Zagorodnyy",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://zagorodny.tv/",
+    "Logo": "https://i.imgur.com/YGqO3Us.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s31/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZharPtitsa.ru",
+    "Name": "Zhar Ptitsa",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.zhar-ptica.tv/",
+    "Logo": "https://i.imgur.com/19R470V.png",
+    "Streams": [
+      {
+        "Url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZooTV.ru",
+    "Name": "Zoo TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.telezoo.tv/",
+    "Logo": "https://i.imgur.com/p7WzqGS.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s92/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Zvezda.ru",
+    "Name": "Zvezda",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvzvezda.ru/",
+    "Logo": "https://i.imgur.com/4PAcpfM.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s85/index.m3u8"
+      },
+      {
+        "Url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8"
+      }
+    ]
+  }
+]

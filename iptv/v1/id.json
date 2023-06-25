@@ -1,0 +1,1835 @@
+[
+  {
+    "Id": "ADiTV.id",
+    "Name": "ADi TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.aditv.co.id/",
+    "Logo": "https://i.imgur.com/b4IDBG7.png",
+    "Streams": [
+      {
+        "Url": "https://v2.siar.us/aditv/livestream/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ANTV.id",
+    "Name": "ANTV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.antvklik.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s07/index1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AhsanTV.id",
+    "Name": "Ahsan TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://ahsan.tv/",
+    "Logo": "https://i.imgur.com/dZdUbYd.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch4.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlBinaaTV.id",
+    "Name": "Al Binaa TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/MTR4GuF.png",
+    "Streams": [
+      {
+        "Url": "https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AshiilTV.id",
+    "Name": "Ashiil TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.ashiil.tv/",
+    "Logo": "https://i.imgur.com/bTktkcr.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BETV.id",
+    "Name": "BE TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://betv.rakyatbengkulu.com/",
+    "Logo": "https://i.imgur.com/3EX0zax.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch30.m3u8"
+      },
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch58.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BNTV.id",
+    "Name": "BN TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GGUTl42.png",
+    "Streams": [
+      {
+        "Url": "https://edge.medcom.id/live-edge/smil:bnch.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BRTV.id",
+    "Name": "BRTV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.badartv.co.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
+    "Streams": [
+      {
+        "Url": "https://e1.siar.us/badartv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BTV.id",
+    "Name": "BTV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.beritasatu.tv/",
+    "Logo": "https://i.imgur.com/fdygcVx.png",
+    "Streams": [
+      {
+        "Url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BandungTV.id",
+    "Name": "Bandung TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://bandungtv.tv/",
+    "Logo": "https://i.imgur.com/fpFs6Ay.png",
+    "Streams": [
+      {
+        "Url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BeritaSatuWorld.id",
+    "Name": "BeritaSatu World",
+    "Country": "ID",
+    "Languages": "ind,eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.beritasatu.com/livestream/world",
+    "Logo": "https://i.imgur.com/gHBxpyc.png",
+    "Streams": [
+      {
+        "Url": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BinBazTV.id",
+    "Name": "Bin Baz TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://binbaz.or.id/",
+    "Logo": "https://www.lyngsat.com/logo/tv/bb/bin-baz-tv-id.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch22.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BiznetAdventure.id",
+    "Name": "Biznet Adventure",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.biznetvideo.net/",
+    "Logo": "https://i.imgur.com/ZREy4zM.png",
+    "Streams": [
+      {
+        "Url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BiznetKids.id",
+    "Name": "Biznet Kids",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "http://www.biznetvideo.net/",
+    "Logo": "https://i.imgur.com/J5QNqJ0.png",
+    "Streams": [
+      {
+        "Url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BiznetLifestyle.id",
+    "Name": "Biznet Lifestyle",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "http://www.biznetvideo.net/",
+    "Logo": "https://i.imgur.com/XqUfQKA.png",
+    "Streams": [
+      {
+        "Url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNBCIndonesia.id",
+    "Name": "CNBC Indonesia",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.cnbcindonesia.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",
+    "Streams": [
+      {
+        "Url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNNIndonesia.id",
+    "Name": "CNN Indonesia",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cnnindonesia.com/",
+    "Logo": "https://i.imgur.com/l0JyOrm.png",
+    "Streams": [
+      {
+        "Url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DAAITV.id",
+    "Name": "DAAI TV",
+    "Country": "ID",
+    "Languages": "zho",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.daaitv.co.id/",
+    "Logo": "https://i.imgur.com/YC7JCHo.png",
+    "Streams": [
+      {
+        "Url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DMTVMalang.id",
+    "Name": "DM TV Malang",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://dmtvmalang.com/",
+    "Logo": "https://i.imgur.com/3iC41QX.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch51.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DhammaTV.id",
+    "Name": "Dhamma TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://dhammaweb.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png",
+    "Streams": [
+      {
+        "Url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DhohoTV.id",
+    "Name": "Dhoho TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.dhohotv.com/",
+    "Logo": "https://i.imgur.com/4Khyyfh.png",
+    "Streams": [
+      {
+        "Url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ElshintaTV.id",
+    "Name": "Elshinta TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.elshinta.tv/",
+    "Logo": "https://i.imgur.com/x5uoy2H.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s10/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FatwaTV.id",
+    "Name": "Fatwa TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://fatwatv.id/",
+    "Logo": "https://i.imgur.com/FcJ6VMT.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GPRTV.id",
+    "Name": "GPR TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://gprtv.id/",
+    "Logo": "https://i.imgur.com/mYHiCJu.png",
+    "Streams": [
+      {
+        "Url": "https://wowza.convergen.co/gprtv/myLive/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GarudaTV.id",
+    "Name": "Garuda TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.garuda.tv/",
+    "Logo": "https://i.imgur.com/sXsAcZ3.png",
+    "Streams": [
+      {
+        "Url": "https://streamweb.garuda.tv/live/garudatv/live.m3u8"
+      },
+      {
+        "Url": "http://stream.garuda.tv/live/garudatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HijrahTV.id",
+    "Name": "Hijrah TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/bVN4zj2.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch8.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HopeChannelIndonesia.id",
+    "Name": "Hope Channel Indonesia",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://hopechannel.id/",
+    "Logo": "https://i.imgur.com/vXFS7Fi.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HumaBetangTV.id",
+    "Name": "Huma Betang TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://humabetang.com/",
+    "Logo": "https://i.imgur.com/xBTqOEu.png",
+    "Streams": [
+      {
+        "Url": "https://v3.siar.us/humabetangtv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IAmChannel.id",
+    "Name": "I Am Channel",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://iamchannel.org/",
+    "Logo": "https://i.imgur.com/Gg6OcGT.png",
+    "Streams": [
+      {
+        "Url": "http://iamchannel.org:1935/tes/1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IndonesianaTV.id",
+    "Name": "Indonesiana.TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://indonesiana.tv/",
+    "Logo": "https://i.imgur.com/192wiS1.png",
+    "Streams": [
+      {
+        "Url": "https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Indosiar.id",
+    "Name": "Indosiar",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.indosiar.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s04/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "InsanTV.id",
+    "Name": "Insan TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/rvu37xY.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "InspiraTV.id",
+    "Name": "Inspira TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://inspira.tv/",
+    "Logo": "https://i.imgur.com/BF5orkg.png",
+    "Streams": [
+      {
+        "Url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IzzahTV.id",
+    "Name": "Izzah TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://izzah.tv/",
+    "Logo": "https://i.imgur.com/my7aqLc.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JPMTV.id",
+    "Name": "JPM TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/FM6WN4S.png",
+    "Streams": [
+      {
+        "Url": "https://app-etslive-2.vidio.com/live/9714/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JawaPosTV.id",
+    "Name": "Jawa Pos TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.jawapos.com/",
+    "Logo": "https://i.imgur.com/Kt2kOGH.png",
+    "Streams": [
+      {
+        "Url": "https://v2.siar.us/jawapostv/live/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JayaTVJayapura.id",
+    "Name": "Jaya TV Jayapura",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/NtlPZUI.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch29.m3u8"
+      },
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch52.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JogjaIstimewaTV.id",
+    "Name": "Jogja Istimewa TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://jitv.jogjaprov.go.id/",
+    "Logo": "https://i.imgur.com/VEqQfTu.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch65.m3u8"
+      },
+      {
+        "Url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KompasTV.id",
+    "Name": "Kompas TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.kompas.tv/",
+    "Logo": "https://i.imgur.com/bD6UHeZ.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LejelHomeShopping.id",
+    "Name": "Lejel Home Shopping",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://lejel.co.id/",
+    "Logo": "https://i.imgur.com/Yxq05Dg.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LingkarTV.id",
+    "Name": "Lingkar TV",
+    "Country": "ID",
+    "Languages": "ind,jav",
+    "Categories": "news,music,religious",
+    "IsNsfw": false,
+    "Website": "https://lingkartv.com",
+    "Logo": "https://lingkartv.com/assets/img/logo-square.png",
+    "Streams": [
+      {
+        "Url": "https://lingkartv.my.id/hls/lingkartv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MaduTV.id",
+    "Name": "Madu TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://madu.tv/",
+    "Logo": "https://i.imgur.com/cKpgbgW.png",
+    "Streams": [
+      {
+        "Url": "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MagnaChannel.id",
+    "Name": "Magna Channel",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/tfJo0SO.png",
+    "Streams": [
+      {
+        "Url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MediaSunnahAceh.id",
+    "Name": "Media Sunnah Aceh",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/CIByKTP.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8"
+      },
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch23.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MetroGlobeNetwork.id",
+    "Name": "Metro Globe Network",
+    "Country": "ID",
+    "Languages": "eng",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://www.metroglobe.id/live",
+    "Logo": "https://i.imgur.com/aiiinzg.png",
+    "Streams": [
+      {
+        "Url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MetroTV.id",
+    "Name": "Metro TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.metrotvnews.com/",
+    "Logo": "https://i.imgur.com/QnU70NI.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8"
+      },
+      {
+        "Url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuadzTV.id",
+    "Name": "Muadz TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wT7sNUW.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch5.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MyCinema.id",
+    "Name": "My Cinema",
+    "Country": "ID",
+    "Languages": "eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://ciptamutu.com/",
+    "Logo": "https://i.imgur.com/BTmcTQO.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/uq2663/h/h192/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MyCinemaAsia.id",
+    "Name": "My Cinema Asia",
+    "Country": "ID",
+    "Languages": "zho",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.ciptamutu.com/",
+    "Logo": "https://i.imgur.com/4XVZLW0.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/uq2663/h/h193/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MyFamily.id",
+    "Name": "My Family",
+    "Country": "ID",
+    "Languages": "eng",
+    "Categories": "family",
+    "IsNsfw": false,
+    "Website": "http://www.ciptamutu.com/",
+    "Logo": "https://i.imgur.com/IaCmCt9.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/uq2663/h/h194/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MyKidz.id",
+    "Name": "My Kidz",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "http://www.ciptamutu.com/",
+    "Logo": "https://i.imgur.com/qzZFU6d.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/uq2663/h/h191/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NET.id",
+    "Name": "NET.",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.netmedia.co.id/",
+    "Logo": "https://i.imgur.com/RPT8O12.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s08/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NiagaTV.id",
+    "Name": "Niaga TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.niaga.tv/",
+    "Logo": "https://i.imgur.com/XNgj2q1.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch10.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NusantaraTV.id",
+    "Name": "Nusantara TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.nusantaratv.com/",
+    "Logo": "https://i.imgur.com/viun5hj.png",
+    "Streams": [
+      {
+        "Url": "https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OChannel.id",
+    "Name": "O Channel",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ochanneltv.com/",
+    "Logo": "https://i.imgur.com/q6uqktq.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s41/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RRINet.id",
+    "Name": "RRI Net",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rri.co.id/",
+    "Logo": "https://i.imgur.com/4mWKUf4.png",
+    "Streams": [
+      {
+        "Url": "https://rrinet.rri.co.id/hls/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioKitaTV.id",
+    "Name": "Radio Kita TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Dz3BzBe.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch16.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RajawaliTV.id",
+    "Name": "Rajawali TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rtv.co.id/",
+    "Logo": "https://i.imgur.com/dlsv1sl.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/dr9445/h/h10/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RasyaadTV.id",
+    "Name": "Rasyaad TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rasyaad.tv/",
+    "Logo": "https://i.imgur.com/DmFoA5Z.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch6.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Reformed21.id",
+    "Name": "Reformed 21",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://reformed21.tv/",
+    "Logo": "https://reformed21.tv/images/logo.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQo_L_h_01NjLYiNHUnjEJw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SCTV.id",
+    "Name": "SCTV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.sctv.co.id/",
+    "Logo": "https://i.imgur.com/EMmOvnQ.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s03/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SaktiTV.id",
+    "Name": "Sakti TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.sakti.tv/",
+    "Logo": "https://i.imgur.com/IDNjMfQ.png",
+    "Streams": [
+      {
+        "Url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SalamTV.id",
+    "Name": "Salam TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://salamtelevisi.com/",
+    "Logo": "https://i.imgur.com/00Ifzgo.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch12.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SangajiTV.id",
+    "Name": "Sangaji TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://sangajitv.co.id/",
+    "Logo": "https://i.imgur.com/4rTNT8F.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SunnahJalanPastiTV.id",
+    "Name": "Sunnah Jalan Pasti TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/8Ls5rsy.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch17.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SurauTV.id",
+    "Name": "Surau TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://surautv.id/",
+    "Logo": "https://i.imgur.com/CKoxcWL.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TATV.id",
+    "Name": "TATV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tatv.co.id/",
+    "Logo": "https://i.imgur.com/1f0EC7t.png",
+    "Streams": [
+      {
+        "Url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVKU.id",
+    "Name": "TVKU",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvku.tv/",
+    "Logo": "https://i.imgur.com/BAklJGy.png",
+    "Streams": [
+      {
+        "Url": "http://103.30.1.14:8080/hls/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVMu.id",
+    "Name": "TV Mu",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvmu.tv/",
+    "Logo": "https://i.imgur.com/rR2iPBk.png",
+    "Streams": [
+      {
+        "Url": "https://tvmu.siar.us/tvmu/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIAceh.id",
+    "Name": "TVRI Aceh",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIBali.id",
+    "Name": "TVRI Bali",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/3N6NDPf.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIBangkaBelitung.id",
+    "Name": "TVRI Bangka Belitung",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIBengkulu.id",
+    "Name": "TVRI Bengkulu",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/qswy60o.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRICentralJava.id",
+    "Name": "TVRI Central Java",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/FLrmZvc.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRICentralKalimantan.id",
+    "Name": "TVRI Central Kalimantan",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/KQSlIQt.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRICentralSulawesi.id",
+    "Name": "TVRI Central Sulawesi",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIDKIJakarta.id",
+    "Name": "TVRI DKI Jakarta",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/lSgiYnp.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIEastJava.id",
+    "Name": "TVRI East Java",
+    "Country": "ID",
+    "Languages": "ind,jav",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/Vxe6tcn.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIEastKalimantan.id",
+    "Name": "TVRI East Kalimantan",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/9ND64L5.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIEastNusaTenggara.id",
+    "Name": "TVRI East Nusa Tenggara",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/acFJNef.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIGorontalo.id",
+    "Name": "TVRI Gorontalo",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIJambi.id",
+    "Name": "TVRI Jambi",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/e0Ulmy5.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRILampung.id",
+    "Name": "TVRI Lampung",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/8102yhJ.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIMaluku.id",
+    "Name": "TVRI Maluku",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRINasional.id",
+    "Name": "TVRI Nasional",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIPapua.id",
+    "Name": "TVRI Papua",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/eQ7Aqy5.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIRiau.id",
+    "Name": "TVRI Riau",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/iSERkWC.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRISouthKalimantan.id",
+    "Name": "TVRI South Kalimantan",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRISouthSulawesi.id",
+    "Name": "TVRI South Sulawesi",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/QCJnteP.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRISouthSumatra.id",
+    "Name": "TVRI South Sumatra",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/iuUTOWz.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRISoutheastSulawesi.id",
+    "Name": "TVRI Southeast Sulawesi",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRISport.id",
+    "Name": "TVRI Sport",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HSnXywC.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIWestJava.id",
+    "Name": "TVRI West Java",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/rrRMl08.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIWestKalimantan.id",
+    "Name": "TVRI West Kalimantan",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIWestNusaTenggara.id",
+    "Name": "TVRI West Nusa Tenggara",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIWestSulawesi.id",
+    "Name": "TVRI West Sulawesi",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIWestSumatra.id",
+    "Name": "TVRI West Sumatra",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tvrisumbar.co.id/",
+    "Logo": "https://i.imgur.com/CkZf4bq.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIWorld.id",
+    "Name": "TVRI World",
+    "Country": "ID",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/h3RldTO.png",
+    "Streams": [
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8"
+      },
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRIYogyakarta.id",
+    "Name": "TVRI Yogyakarta",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tvri.go.id/",
+    "Logo": "https://i.imgur.com/lcH92DJ.png",
+    "Streams": [
+      {
+        "Url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
+      },
+      {
+        "Url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
+      },
+      {
+        "Url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVRParlemen.id",
+    "Name": "TVR Parlemen",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/2XYpmHL.png",
+    "Streams": [
+      {
+        "Url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TegarTVJogja.id",
+    "Name": "Tegar TV Jogja",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tegartv.com/",
+    "Logo": "https://i.imgur.com/XamnylQ.png",
+    "Streams": [
+      {
+        "Url": "http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TegarTVLampung.id",
+    "Name": "Tegar TV Lampung",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tegartv.com/",
+    "Logo": "https://i.imgur.com/0Vp3f2J.png",
+    "Streams": [
+      {
+        "Url": "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Trans7.id",
+    "Name": "Trans7",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.trans7.co.id/",
+    "Logo": "https://i.imgur.com/fAbGImS.png",
+    "Streams": [
+      {
+        "Url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TransTV.id",
+    "Name": "Trans TV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.transtv.co.id/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",
+    "Streams": [
+      {
+        "Url": "https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8"
+      },
+      {
+        "Url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UChannel.id",
+    "Name": "U Channel",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.u-channel.tv/",
+    "Logo": "https://i.imgur.com/qxkb0cy.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/x6bnqe/s/s73/index2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UFA24.id",
+    "Name": "UFA 24",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://firanda.com/",
+    "Logo": "https://i.imgur.com/4pVuIrK.png",
+    "Streams": [
+      {
+        "Url": "https://h1.intechmedia.net/intech/ch27.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UGTV.id",
+    "Name": "UGTV",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ugtv.co.id/",
+    "Logo": "https://i.imgur.com/iEKDH26.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZeeBioskop.id",
+    "Name": "Zee Bioskop",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.zeebioskop.com/",
+    "Logo": "https://i.imgur.com/Xl7MJnd.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s32/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "tvOne.id",
+    "Name": "tvOne",
+    "Country": "ID",
+    "Languages": "ind",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvonenews.com/",
+    "Logo": "https://i.imgur.com/LCzQYdy.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s105/01.m3u8"
+      }
+    ]
+  }
+]
