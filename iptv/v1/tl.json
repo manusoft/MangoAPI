@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "TVTimorLeste.tl",
+    "Name": "TV Timor Leste",
+    "Country": "TL",
+    "Languages": "tet",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://rttlep.tl/",
+    "Logo": "https://www.lyngsat.com/logo/tv/tt/tv-timor-leste-tl.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCtwMP_IzEm3r9PDuaYRUKLA.m3u8"
+      }
+    ]
+  }
+]
