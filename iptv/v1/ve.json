@@ -175,9 +175,6 @@
     "Logo": "https://i.imgur.com/v6nRdxQ.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8"
-      },
-      {
         "Url": "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
       }
     ]

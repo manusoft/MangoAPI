@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "HaitiViralNews.ht",
-    "Name": "Haiti Viral News",
-    "Country": "HT",
-    "Languages": "fra",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/eaPFJJs.jpg",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCcEY2-g-EEefxyYa1gtrk4g.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "KajouTV.ht",
     "Name": "Kajou TV",
     "Country": "HT",

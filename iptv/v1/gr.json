@@ -150,6 +150,21 @@
     ]
   },
   {
+    "Id": "BCI24News.gr",
+    "Name": "BCI 24 News",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/VN8FkmS.png",
+    "Streams": [
+      {
+        "Url": "https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BarazaTV.gr",
     "Name": "Baraza TV",
     "Country": "GR",
@@ -168,6 +183,21 @@
     ]
   },
   {
+    "Id": "BarazaTVRelaxing.gr",
+    "Name": "Baraza TV Relaxing",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://barazaradio.com/",
+    "Logo": "https://i.imgur.com/TZ1unwF.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BestTV.gr",
     "Name": "Best TV",
     "Country": "GR",
@@ -179,6 +209,21 @@
     "Streams": [
       {
         "Url": "https://stream.net7.gr/hls/best/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BlueSkyTV.gr",
+    "Name": "Blue Sky TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://blueskytv.gr/",
+    "Logo": "https://i.imgur.com/C9CormG.png",
+    "Streams": [
+      {
+        "Url": "https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
       }
     ]
   },
@@ -411,6 +456,21 @@
     ]
   },
   {
+    "Id": "FarosTV2.gr",
+    "Name": "Faros TV2",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7xtz1Jo.png",
+    "Streams": [
+      {
+        "Url": "https://s1.cystream.net/live/faros2/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FoxGreece.gr",
     "Name": "Fox Greece",
     "Country": "GR",
@@ -426,6 +486,36 @@
     ]
   },
   {
+    "Id": "Galaxy.gr",
+    "Name": "Galaxy",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/YgGSEeT.png",
+    "Streams": [
+      {
+        "Url": "https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GnomiTV.gr",
+    "Name": "Gnomi TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.gnomi.eu/",
+    "Logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
+    "Streams": [
+      {
+        "Url": "https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "GreekTVLondon.gr",
     "Name": "Greek TV London",
     "Country": "GR",
@@ -435,9 +525,6 @@
     "Website": null,
     "Logo": "https://i.imgur.com/0mtlQoK.png",
     "Streams": [
-      {
-        "Url": "https://vdo3.alphaserver.gr:3466/stream/play.m3u8"
-      },
       {
         "Url": "https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8"
       }

@@ -165,21 +165,6 @@
     ]
   },
   {
-    "Id": "GlobalNews.tw",
-    "Name": "Global News",
-    "Country": "TW",
-    "Languages": "zho,eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.asiadigital.com.tw/archives/category/globalnews",
-    "Logo": "https://i.imgur.com/oYUjEle.png",
-    "Streams": [
-      {
-        "Url": "http://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Good2.tw",
     "Name": "Good 2",
     "Country": "TW",

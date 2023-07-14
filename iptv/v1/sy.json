@@ -25,9 +25,6 @@
     "Logo": "https://i.imgur.com/fY8UKs7.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8"
-      },
-      {
         "Url": "https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8"
       }
     ]

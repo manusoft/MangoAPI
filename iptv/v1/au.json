@@ -123,21 +123,6 @@
     ]
   },
   {
-    "Id": "JonmoBhumiTV.au",
-    "Name": "JonmoBhumi TV",
-    "Country": "AU",
-    "Languages": "ben",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.jonmobhumi.tv/",
-    "Logo": "https://i.imgur.com/2snahLk.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "M4TVMalayalam.au",
     "Name": "M4TV Malayalam",
     "Country": "AU",

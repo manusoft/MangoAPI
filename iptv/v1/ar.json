@@ -249,6 +249,21 @@
     ]
   },
   {
+    "Id": "BayresTV.ar",
+    "Name": "Bayres TV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://bayrestv.com.ar/",
+    "Logo": "https://i.imgur.com/9FDqljV.png",
+    "Streams": [
+      {
+        "Url": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BeatsRadio.ar",
     "Name": "Beats Radio",
     "Country": "AR",
@@ -1685,6 +1700,21 @@
     "Streams": [
       {
         "Url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IngenioFM.ar",
+    "Name": "Ingenio FM",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ingeniofm.com/",
+    "Logo": "https://yt3.ggpht.com/8Mqa9VCxk9ijWdeq2Y7hfMn6953MyVo8IQ8qCVpbxRMTYMfC8REhe75PcDlF2ntsyldJFvJT=s400-c-k-c0x00ffffff-no-rj",
+    "Streams": [
+      {
+        "Url": "https://panel.dattalive.com/8064/8064/playlist.m3u8"
       }
     ]
   },

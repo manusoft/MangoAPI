@@ -180,17 +180,17 @@
     ]
   },
   {
-    "Id": "GalaxyTV.ng",
-    "Name": "Galaxy TV",
+    "Id": "GMTV.ng",
+    "Name": "GMTV",
     "Country": "NG",
     "Languages": "eng",
-    "Categories": "",
+    "Categories": "religious",
     "IsNsfw": false,
-    "Website": "https://www.galaxytvonline.com/",
-    "Logo": "https://i.imgur.com/BV0JuyX.png",
+    "Website": null,
+    "Logo": "https://i.ibb.co/cvDyWs1/IMG-20230628-152516.jpg",
     "Streams": [
       {
-        "Url": "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8"
+        "Url": "https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8"
       }
     ]
   },

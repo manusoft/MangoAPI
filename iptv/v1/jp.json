@@ -30,6 +30,21 @@
     ]
   },
   {
+    "Id": "JORXDTV.jp",
+    "Name": "JORX-DTV",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/dUn2GRn.png",
+    "Streams": [
+      {
+        "Url": "https://tbs3.mov3.co/hls/tbs.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "NHKWorldJapan.jp",
     "Name": "NHK World-Japan",
     "Country": "JP",

@@ -1152,6 +1152,21 @@
     ]
   },
   {
+    "Id": "GoierriIrratiTelebista.es",
+    "Name": "Goierri Irrati Telebista",
+    "Country": "ES",
+    "Languages": "eus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.gitb.eus/",
+    "Logo": "https://i.imgur.com/AHOYcAq.png",
+    "Streams": [
+      {
+        "Url": "https://5940924978228.streamlock.net/8155/8155/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "GuadaTV.es",
     "Name": "Guada TV",
     "Country": "ES",
@@ -1193,21 +1208,6 @@
     "Streams": [
       {
         "Url": "https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IberoamericaTV.es",
-    "Name": "Iberoamerica TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://iberoamericatelevision.com/",
-    "Logo": "https://i.imgur.com/N3K6PAG.png",
-    "Streams": [
-      {
-        "Url": "https://limited39.todostreaming.es/live/salome-livestream.m3u8"
       }
     ]
   },

@@ -45,6 +45,21 @@
     ]
   },
   {
+    "Id": "Frii.fi",
+    "Name": "Frii",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.discoveryplus.com/fi/channel/frii",
+    "Logo": "https://i.imgur.com/9sYC2IE.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/frii/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HimlenTV7.fi",
     "Name": "Himlen TV7",
     "Country": "FI",

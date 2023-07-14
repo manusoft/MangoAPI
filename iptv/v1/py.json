@@ -150,6 +150,36 @@
     ]
   },
   {
+    "Id": "GOTV.py",
+    "Name": "GO TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "entertainment,music",
+    "IsNsfw": false,
+    "Website": "https://goradio.com.py/gotv/",
+    "Logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Gen.py",
+    "Name": "Gen",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.gen.com.py/",
+    "Logo": "https://i.imgur.com/l8eZFEB.png",
+    "Streams": [
+      {
+        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.desdepylabs.com/External/tvaccion/gentv"
+      }
+    ]
+  },
+  {
     "Id": "LIMTV.py",
     "Name": "LIM TV",
     "Country": "PY",

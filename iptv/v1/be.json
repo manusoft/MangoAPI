@@ -90,6 +90,51 @@
     ]
   },
   {
+    "Id": "FunVision.be",
+    "Name": "Fun Vision",
+    "Country": "BE",
+    "Languages": "fra",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.funradio.be/funvision/",
+    "Logo": "https://i.imgur.com/AhkKr7Y.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/be/FunRadio.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HLNLive.be",
+    "Name": "HLN Live",
+    "Country": "BE",
+    "Languages": "nld",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.hln.be/",
+    "Logo": "https://i.ibb.co/zbCrZG9/hq-hln.png",
+    "Streams": [
+      {
+        "Url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JoeFM.be",
+    "Name": "Joe FM",
+    "Country": "BE",
+    "Languages": "nld",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://joe.be/",
+    "Logo": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
+    "Streams": [
+      {
+        "Url": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "LN24.be",
     "Name": "LN24",
     "Country": "BE",

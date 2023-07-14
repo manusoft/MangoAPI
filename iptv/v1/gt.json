@@ -190,25 +190,7 @@
     "Logo": "https://i.imgur.com/e8sIMF3.png",
     "Streams": [
       {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/130"
-      }
-    ]
-  },
-  {
-    "Id": "GuaTV.gt",
-    "Name": "GuaTV",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/YxBrM4u.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/131"
+        "Url": "https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8"
       }
     ]
   },
@@ -243,21 +225,6 @@
     ]
   },
   {
-    "Id": "IzabalTV.gt",
-    "Name": "Izabal TV",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://izabaltv.com",
-    "Logo": "https://i.imgur.com/BnRITjB.png",
-    "Streams": [
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/133"
-      }
-    ]
-  },
-  {
     "Id": "JesusTV.gt",
     "Name": "Jesus TV",
     "Country": "GT",
@@ -269,9 +236,6 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/97"
       }
     ]
   },

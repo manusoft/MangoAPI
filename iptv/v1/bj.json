@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "BB24.bj",
-    "Name": "BB 24",
-    "Country": "BJ",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://ortb.bj/",
-    "Logo": "https://i.imgur.com/dNQHhAr.png",
-    "Streams": [
-      {
-        "Url": "https://edge15.vedge.infomaniak.com/livecast/ik:bb24-1/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal3Benin.bj",
     "Name": "Canal 3 Benin",
     "Country": "BJ",

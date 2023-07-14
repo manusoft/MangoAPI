@@ -408,6 +408,21 @@
     ]
   },
   {
+    "Id": "ICnet1.ca",
+    "Name": "ICnet 1",
+    "Country": "CA",
+    "Languages": "fas",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://icnet.tv/",
+    "Logo": "https://i.imgur.com/aeS4Sjv.png",
+    "Streams": [
+      {
+        "Url": "https://60ba7ef02e687.streamlock.net/ICNET/ngrp:my.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ICnet2.ca",
     "Name": "ICnet 2",
     "Country": "CA",
@@ -449,6 +464,21 @@
     "Streams": [
       {
         "Url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JessTV.ca",
+    "Name": "Jess TV",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.jessfm.ca/",
+    "Logo": "https://i.imgur.com/eJjV7Bu.png",
+    "Streams": [
+      {
+        "Url": "https://tna5.bozztv.com/jesstv/index.m3u8"
       }
     ]
   },

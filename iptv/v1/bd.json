@@ -30,51 +30,6 @@
     ]
   },
   {
-    "Id": "GaziTV.bd",
-    "Name": "Gazi TV",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://gazitv.com/",
-    "Logo": "https://i.imgur.com/2Lzhiq6.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IndependentTV.bd",
-    "Name": "Independent TV",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://independent24.com/",
-    "Logo": "https://i.imgur.com/POXFhGN.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JamunaTV.bd",
-    "Name": "Jamuna TV",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.jamuna.tv/",
-    "Logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MadaniChannelBangla.bd",
     "Name": "Madani Channel Bangla",
     "Country": "BD",

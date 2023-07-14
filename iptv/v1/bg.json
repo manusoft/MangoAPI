@@ -30,36 +30,6 @@
     ]
   },
   {
-    "Id": "BNT1.bg",
-    "Name": "BNT 1",
-    "Country": "BG",
-    "Languages": "bul",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://bnt1.bnt.bg/",
-    "Logo": "https://i.imgur.com/7JU9b5j.png",
-    "Streams": [
-      {
-        "Url": "http://79.124.21.251:9777/play/a00r/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BNT3.bg",
-    "Name": "BNT 3",
-    "Country": "BG",
-    "Languages": "bul",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://bnthd.bnt.bg/",
-    "Logo": "https://i.imgur.com/pPpSJ4u.png",
-    "Streams": [
-      {
-        "Url": "http://79.124.21.251:9777/play/a00u/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Bulgaria24.bg",
     "Name": "Bulgaria 24",
     "Country": "BG",

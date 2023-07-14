@@ -654,6 +654,21 @@
     ]
   },
   {
+    "Id": "J3NEWSTV.br",
+    "Name": "J3NEWS TV",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://tvterceiravia.com.br/",
+    "Logo": "https://i.imgur.com/lezIQyL.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "JovemPanNews.br",
     "Name": "Jovem Pan News",
     "Country": "BR",

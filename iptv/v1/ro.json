@@ -276,6 +276,21 @@
     ]
   },
   {
+    "Id": "HD365TV.ro",
+    "Name": "HD365 TV",
+    "Country": "RO",
+    "Languages": "ron",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.hd365.tv/",
+    "Logo": "https://i.imgur.com/2cLx4ja.png",
+    "Streams": [
+      {
+        "Url": "https://testcam.go.ro:8080/hls/hd365.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HelloTaste.ro",
     "Name": "Hello Taste",
     "Country": "RO",
@@ -291,21 +306,6 @@
     ]
   },
   {
-    "Id": "Hunedoara1.ro",
-    "Name": "Hunedoara 1",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://netstreaming.eu/hunedoara1.htm",
-    "Logo": "https://i.imgur.com/9bz15ad.png",
-    "Streams": [
-      {
-        "Url": "https://testcam.go.ro:8080/hls/hd1.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "IasiTVLife.ro",
     "Name": "IasiTV Life",
     "Country": "RO",
@@ -317,6 +317,36 @@
     "Streams": [
       {
         "Url": "https://tv.streambox.ro/hls/itv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImpactTVDance.ro",
+    "Name": "Impact TV Dance",
+    "Country": "RO",
+    "Languages": "ron",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://tvimpact.live/",
+    "Logo": "https://i.imgur.com/G5mNdpE.png",
+    "Streams": [
+      {
+        "Url": "http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImpactTVManele.ro",
+    "Name": "Impact TV Manele",
+    "Country": "RO",
+    "Languages": "ron",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://tvimpact.live/",
+    "Logo": "https://i.imgur.com/G5mNdpE.png",
+    "Streams": [
+      {
+        "Url": "https://online.tvimpact.live/hls/impact_tv.m3u8"
       }
     ]
   },

@@ -90,6 +90,21 @@
     ]
   },
   {
+    "Id": "HebronTV.ps",
+    "Name": "Hebron TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "Streams": [
+      {
+        "Url": "https://account20.livebox.co.in/charleshls/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MusawaChannel.ps",
     "Name": "MusawaChannel",
     "Country": "PS",

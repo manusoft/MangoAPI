@@ -285,21 +285,6 @@
     ]
   },
   {
-    "Id": "BBNTurk.tr",
-    "Name": "BBN Turk",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.bbnturk.com.tr/",
-    "Logo": "https://www.lyngsat.com/logo/tv/bb/bbn-turk-tr.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BeratTV.tr",
     "Name": "Berat TV",
     "Country": "TR",
@@ -719,21 +704,6 @@
     "Streams": [
       {
         "Url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GoncaTV.tr",
-    "Name": "Gonca TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.goncatv.com.tr/",
-    "Logo": "https://i.imgur.com/TwqIJwo.png",
-    "Streams": [
-      {
-        "Url": "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8"
       }
     ]
   },

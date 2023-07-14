@@ -1,16 +1,31 @@
 [
   {
-    "Id": "BTV.rw",
-    "Name": "BTV",
+    "Id": "IsangoTV.rw",
+    "Name": "Isango TV",
     "Country": "RW",
-    "Languages": "eng",
+    "Languages": "kin",
     "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/wRIxTBk.png",
+    "Website": "http://www.isangostar.rw/",
+    "Logo": "https://i.imgur.com/EfsHaMQ.png",
     "Streams": [
       {
-        "Url": "https://tv.livebcm.com:3580/live/btvrwandalive.m3u8"
+        "Url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IshushoTV.rw",
+    "Name": "Ishusho TV",
+    "Country": "RW",
+    "Languages": "eng",
+    "Categories": "culture,sports",
+    "IsNsfw": false,
+    "Website": "https://ishushotv.rw/",
+    "Logo": "https://i.ibb.co/BjpLqbN/ISHUSHO-TV-LOGO-orange.png",
+    "Streams": [
+      {
+        "Url": "https://tv.livebcm.com:3425/stream/play.m3u8"
       }
     ]
   },

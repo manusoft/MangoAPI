@@ -525,17 +525,17 @@
     ]
   },
   {
-    "Id": "HAYTV.do",
-    "Name": "HAY TV",
+    "Id": "HM.do",
+    "Name": "HM",
     "Country": "DO",
     "Languages": "spa",
-    "Categories": "entertainment",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://channelstore.roku.com/es-mx/details/a5605ea797c8098f3e9c2f14067c3cce/hay-tv",
-    "Logo": "https://i.imgur.com/IAYydpi.png",
+    "Website": null,
+    "Logo": "https://i.imgur.com/Ps4xOj0.png",
     "Streams": [
       {
-        "Url": "https://5790d294af2dc.streamlock.net/8078/8078/playlist.m3u8"
+        "Url": "http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8"
       }
     ]
   },
@@ -570,6 +570,21 @@
     ]
   },
   {
+    "Id": "HermanasMirabalTV.do",
+    "Name": "Hermanas Mirabal TV",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://hermanasmirabal.com/tv/",
+    "Logo": "https://i.imgur.com/cbKgcGh.png",
+    "Streams": [
+      {
+        "Url": "https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Hits360TV.do",
     "Name": "Hits 360 TV",
     "Country": "DO",
@@ -581,6 +596,21 @@
     "Streams": [
       {
         "Url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImagenUniversalTV.do",
+    "Name": "Imagen Universal TV",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://imagenuniversaltv.com/",
+    "Logo": "https://i.imgur.com/DP6HmDV.png",
+    "Streams": [
+      {
+        "Url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
       }
     ]
   },

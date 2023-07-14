@@ -211,9 +211,6 @@
     "Logo": "https://i.imgur.com/HE5xP0r.png",
     "Streams": [
       {
-        "Url": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8"
-      },
-      {
         "Url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE"
       }
     ]
@@ -230,9 +227,6 @@
     "Streams": [
       {
         "Url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE"
-      },
-      {
-        "Url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8"
       }
     ]
   },
@@ -452,6 +446,9 @@
     "Streams": [
       {
         "Url": "https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8"
+      },
+      {
+        "Url": "http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8"
       }
     ]
   },
@@ -870,51 +867,6 @@
     ]
   },
   {
-    "Id": "France24Arabic.fr",
-    "Name": "France 24 Arabic",
-    "Country": "FR",
-    "Languages": "ara",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.france24.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "France24English.fr",
-    "Name": "France 24 English",
-    "Country": "FR",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.france24.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "France24Espanol.fr",
-    "Name": "France 24 Espanol",
-    "Country": "FR",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.france24.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "France24French.fr",
     "Name": "France 24 French",
     "Country": "FR",
@@ -925,28 +877,10 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8"
-      },
-      {
         "Url": "http://81.94.196.204/tsstreamer/France24_SD.ts"
       },
       {
         "Url": "http://81.94.196.204/tsstreamer/France24_HD.ts"
-      }
-    ]
-  },
-  {
-    "Id": "FranceInter.fr",
-    "Name": "France Inter",
-    "Country": "FR",
-    "Languages": "fra",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/PYqQyRv.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8"
       }
     ]
   },
@@ -1007,6 +941,9 @@
     "Streams": [
       {
         "Url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8"
+      },
+      {
+        "Url": "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"
       }
     ]
   },

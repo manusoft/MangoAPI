@@ -135,6 +135,51 @@
     ]
   },
   {
+    "Id": "BestCableMasCumbia.pe",
+    "Name": "Best Cable Mas Cumbia",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/tv98.html",
+    "Logo": "https://i.imgur.com/zgEvssl.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BestCableMusic.pe",
+    "Name": "Best Cable Music",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/tv97.html",
+    "Logo": "https://i.imgur.com/PXm4osQ.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BestCableSportsPeru.pe",
+    "Name": "Best Cable Sports Peru",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/tv6.html",
+    "Logo": "https://i.imgur.com/nflqmSC.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CNCCajamarca.pe",
     "Name": "CNC Cajamarca",
     "Country": "PE",
@@ -315,21 +360,6 @@
     ]
   },
   {
-    "Id": "GalacticaTV.pe",
-    "Name": "Galactica TV",
-    "Country": "PE",
-    "Languages": "spa",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "http://www.galacticatv.com/",
-    "Logo": "https://i.imgur.com/ffhT11J.png",
-    "Streams": [
-      {
-        "Url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GeniosTV.pe",
     "Name": "Genios TV",
     "Country": "PE",
@@ -341,6 +371,21 @@
     "Streams": [
       {
         "Url": "https://live.obslivestream.com/geniostvmux/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HatunTV.pe",
+    "Name": "Hatun TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/canal99.html",
+    "Logo": "https://i.imgur.com/cWz2vgV.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8"
       }
     ]
   },

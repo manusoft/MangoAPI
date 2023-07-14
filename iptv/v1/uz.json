@@ -1,5 +1,35 @@
 [
   {
+    "Id": "BIZCinema.uz",
+    "Name": "BIZ Cinema",
+    "Country": "UZ",
+    "Languages": "uzb",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://biztv.uz/",
+    "Logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+    "Streams": [
+      {
+        "Url": "https://st.biztv.uz/hls/c_hi/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BIZMusic.uz",
+    "Name": "BIZ Music",
+    "Country": "UZ",
+    "Languages": "uzb",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://imgtr.ee/images/2023/05/24/wQ6wz.png",
+    "Streams": [
+      {
+        "Url": "https://st.biztv.uz/hls/m_hi/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BIZTV.uz",
     "Name": "BIZ TV",
     "Country": "UZ",

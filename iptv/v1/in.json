@@ -630,21 +630,6 @@
     ]
   },
   {
-    "Id": "BansalNews.in",
-    "Name": "Bansal News",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://bansalnews.com/",
-    "Logo": "https://i.imgur.com/8QL8SiB.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCL_3_9PhDyZXu1oexm8gtFQ.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BhakthiTV.in",
     "Name": "Bhakthi TV",
     "Country": "IN",
@@ -1200,21 +1185,6 @@
     ]
   },
   {
-    "Id": "FirstIndiaNews.in",
-    "Name": "First India News",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://firstindianews.com/",
-    "Logo": "https://i.imgur.com/MUTe7cu.png",
-    "Streams": [
-      {
-        "Url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "FlowersTV.in",
     "Name": "Flowers TV",
     "Country": "IN",
@@ -1270,55 +1240,7 @@
     "Logo": "https://i.imgur.com/WDLqcWW.png",
     "Streams": [
       {
-        "Url": "https://media.streambrothers.com:1936/8522/8522/playlist.m3u8"
-      },
-      {
         "Url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Goa365.in",
-    "Name": "Goa365",
-    "Country": "IN",
-    "Languages": "kok",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.goa365.tv",
-    "Logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
-    "Streams": [
-      {
-        "Url": "https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GoodNewsTV.in",
-    "Name": "GoodNews TV",
-    "Country": "IN",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://goodnewstelevision.com/",
-    "Logo": "https://i.imgur.com/ZrvoGqS.png",
-    "Streams": [
-      {
-        "Url": "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GoodNewsToday.in",
-    "Name": "Good News Today",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.gnttv.com/livetv",
-    "Logo": "https://i.imgur.com/iMzUrb9.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8"
       }
     ]
   },
@@ -1334,21 +1256,6 @@
     "Streams": [
       {
         "Url": "http://162.250.201.58:8032/goodshepherd/web/index.fmp4.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GoodnessTV.in",
-    "Name": "Goodness TV",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/DwLYWdK.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8"
       }
     ]
   },
@@ -1413,66 +1320,6 @@
     ]
   },
   {
-    "Id": "HMTV.in",
-    "Name": "HMTV",
-    "Country": "IN",
-    "Languages": "tel",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.hmtvlive.com/",
-    "Logo": "https://i.imgur.com/GJ52eFs.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HareKrsnaTV.in",
-    "Name": "Hare Krsna TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.harekrsnatv.com/",
-    "Logo": "https://i.imgur.com/sZgON5J.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCZ8S3qwowiFztAQBRTawWfA.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HarvestTV.in",
-    "Name": "Harvest TV",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://harvesttv.in/",
-    "Logo": "https://i.imgur.com/Aoq6mpT.png",
-    "Streams": [
-      {
-        "Url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HarvestTVKeralam.in",
-    "Name": "Harvest TV Keralam",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://www.harvesttvkeralam.live/",
-    "Logo": "https://i.imgur.com/1DyPuIt.png",
-    "Streams": [
-      {
-        "Url": "https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "HighNews.in",
     "Name": "High News",
     "Country": "IN",
@@ -1499,21 +1346,6 @@
     "Streams": [
       {
         "Url": "https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HinduDharmam.in",
-    "Name": "Hindu Dharmam",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.hindudharmam.in/",
-    "Logo": "https://i.imgur.com/VL6O6Ck.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8"
       }
     ]
   },
@@ -1593,21 +1425,6 @@
     ]
   },
   {
-    "Id": "INH24x7.in",
-    "Name": "INH 24x7",
-    "Country": "IN",
-    "Languages": "hin,hne",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.inhnews.in/livetv",
-    "Logo": "https://i.imgur.com/Es3QiVx.png",
-    "Streams": [
-      {
-        "Url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "IPlusTV.in",
     "Name": "IPlus TV",
     "Country": "IN",
@@ -1641,21 +1458,6 @@
     ]
   },
   {
-    "Id": "Ind24.in",
-    "Name": "Ind 24",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/exRpVmL.png",
-    "Streams": [
-      {
-        "Url": "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "IndiaNews.in",
     "Name": "India News",
     "Country": "IN",
@@ -1681,9 +1483,6 @@
     "Logo": "https://i.imgur.com/Ot8FDqS.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCISKj2--Nxrs5s60T3wq5Pg.m3u8"
-      },
-      {
         "Url": "https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8"
       }
     ]
@@ -1700,9 +1499,6 @@
     "Streams": [
       {
         "Url": "https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8"
-      },
-      {
-        "Url": "https://ythls.onrender.com/channel/UCrDfc0F8U1QN3u82Qq_6fjA.m3u8"
       }
     ]
   },
@@ -1718,9 +1514,6 @@
     "Streams": [
       {
         "Url": "https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8"
-      },
-      {
-        "Url": "https://ythls.onrender.com/channel/UCaFBF255LGHwqSB35kN7jsA.m3u8"
       }
     ]
   },
@@ -1755,21 +1548,6 @@
     ]
   },
   {
-    "Id": "IndiaTV.in",
-    "Name": "India TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.indiatvnews.com/",
-    "Logo": "https://i.imgur.com/ztn2IR8.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "IndiaToday.in",
     "Name": "India Today",
     "Country": "IN",
@@ -1781,21 +1559,6 @@
     "Streams": [
       {
         "Url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IndywoodTV.in",
-    "Name": "Indywood TV",
-    "Country": "IN",
-    "Languages": "eng",
-    "Categories": "movies,news",
-    "IsNsfw": false,
-    "Website": "https://indywood.co.in/",
-    "Logo": "https://i.ibb.co/jT3NCPp/logo-tv.png",
-    "Streams": [
-      {
-        "Url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
       }
     ]
   },
@@ -1815,21 +1578,6 @@
     ]
   },
   {
-    "Id": "IshwarBhaktiTV.in",
-    "Name": "Ishwar Bhakti TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/tsPPU1Y.png",
-    "Streams": [
-      {
-        "Url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "JK24x7News.in",
     "Name": "JK 24x7 News",
     "Country": "IN",
@@ -1841,36 +1589,6 @@
     "Streams": [
       {
         "Url": "https://livestream.jktvonline.com/hls/jk.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JaiMaharashtra.in",
-    "Name": "Jai Maharashtra",
-    "Country": "IN",
-    "Languages": "mar",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.jaimaharashtranews.com/",
-    "Logo": "https://i.imgur.com/nAv3icS.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCmBLIcqOLWwrrAJ-jaCttqw.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JanTV.in",
-    "Name": "Jan TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.jantv.in/",
-    "Logo": "https://i.imgur.com/RfJBuf5.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8"
       }
     ]
   },
@@ -1905,21 +1623,6 @@
     ]
   },
   {
-    "Id": "JayaPlus.in",
-    "Name": "Jaya Plus",
-    "Country": "IN",
-    "Languages": "tam",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://jayaplus.jayanewslive.com/Landing.aspx",
-    "Logo": "https://i.imgur.com/WLWD5p5.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "JeevanTV.in",
     "Name": "Jeevan TV",
     "Country": "IN",
@@ -1931,21 +1634,6 @@
     "Streams": [
       {
         "Url": "https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JinvaniChannel.in",
-    "Name": "Jinvani Channel",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.jinvanichannel.com/",
-    "Logo": "https://i.imgur.com/lztyGVi.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCDNNWj0oAFXngcwHAwnwP4w.m3u8"
       }
     ]
   },

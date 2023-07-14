@@ -181,9 +181,6 @@
     "Logo": "https://i.imgur.com/ScyTG6P.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8"
-      },
-      {
         "Url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8"
       },
       {
@@ -503,6 +500,9 @@
     "Streams": [
       {
         "Url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8"
+      },
+      {
+        "Url": "https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/playlist.m3u8"
       }
     ]
   },
@@ -550,25 +550,7 @@
         "Url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
       },
       {
-        "Url": "https://ythls.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8"
-      },
-      {
         "Url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GarshomTV.uk",
-    "Name": "Garshom TV",
-    "Country": "UK",
-    "Languages": "mal",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://garshom.tv/",
-    "Logo": "https://i.imgur.com/KnbwUyb.png",
-    "Streams": [
-      {
-        "Url": "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
       }
     ]
   },
@@ -623,36 +605,6 @@
       },
       {
         "Url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IdealWorldTV.uk",
-    "Name": "Ideal World TV",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "shop",
-    "IsNsfw": false,
-    "Website": "https://www.idealworld.tv/",
-    "Logo": "https://i.imgur.com/su6GH7i.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IonTV.uk",
-    "Name": "Ion TV",
-    "Country": "UK",
-    "Languages": "ben",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.iontv.co.uk/",
-    "Logo": "https://i.imgur.com/E8VwnK7.png",
-    "Streams": [
-      {
-        "Url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
       }
     ]
   },

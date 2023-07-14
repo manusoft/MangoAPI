@@ -361,9 +361,6 @@
     "Logo": "https://i.imgur.com/yzwtMOC.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCqGxkgVnPc7arUR7MdCi99g.m3u8"
-      },
-      {
         "Url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8"
       }
     ]

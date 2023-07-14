@@ -30,21 +30,6 @@
     ]
   },
   {
-    "Id": "HTSSlubice.pl",
-    "Name": "HTS Slubice",
-    "Country": "PL",
-    "Languages": "pol",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.slubice.tv/",
-    "Logo": "https://i.imgur.com/tnUSXdK.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCENo4wEDe_59Bb8rGGMZl_w.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "KTVSerbinow.pl",
     "Name": "KTV Serbinow",
     "Country": "PL",

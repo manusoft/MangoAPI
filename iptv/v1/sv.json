@@ -15,6 +15,21 @@
     ]
   },
   {
+    "Id": "Canal33.sv",
+    "Name": "Canal 33",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5PJNyxP.png",
+    "Streams": [
+      {
+        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal33/"
+      }
+    ]
+  },
+  {
     "Id": "DiarioTRV.sv",
     "Name": "Diario TRV",
     "Country": "SV",

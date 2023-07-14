@@ -138,6 +138,21 @@
     ]
   },
   {
+    "Id": "ImanTV.af",
+    "Name": "Iman TV",
+    "Country": "AF",
+    "Languages": "pus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://iman-tv.com/",
+    "Logo": "https://iman-tv.com/wp-content/uploads/elementor/thumbs/logo-ozhsm5mqi0zh2wnf8es5jbyh39ztnqmbbn9tbey0hw.png",
+    "Streams": [
+      {
+        "Url": "https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "KayhanTV.af",
     "Name": "Kayhan TV",
     "Country": "AF",

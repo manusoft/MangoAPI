@@ -459,6 +459,21 @@
     ]
   },
   {
+    "Id": "IshtarTV.iq",
+    "Name": "Ishtar TV",
+    "Country": "IQ",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/qzApokm.png",
+    "Streams": [
+      {
+        "Url": "http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "KirkukTV.iq",
     "Name": "Kirkuk TV",
     "Country": "IQ",

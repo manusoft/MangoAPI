@@ -74,6 +74,9 @@
     "Streams": [
       {
         "Url": "https://www.onairport.live/die-neue-zeit-tv-live/livestream/playlist.m3u8"
+      },
+      {
+        "Url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8"
       }
     ]
   },

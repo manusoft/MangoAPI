@@ -90,21 +90,6 @@
     ]
   },
   {
-    "Id": "ImpactTVNetwork.za",
-    "Name": "Impact TV Network",
-    "Country": "ZA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.itvn.co.za/",
-    "Logo": "https://i.imgur.com/UvQznrE.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCaZWTzSO0dvQiAbN-4xFYIg.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Kiddiwinks.za",
     "Name": "Kiddiwinks",
     "Country": "ZA",

@@ -630,51 +630,6 @@
     ]
   },
   {
-    "Id": "FanoTV.it",
-    "Name": "Fano TV",
-    "Country": "IT",
-    "Languages": "ita",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.fanotv.it/",
-    "Logo": "https://i.imgur.com/rN6h7XU.png",
-    "Streams": [
-      {
-        "Url": "https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GOTVCanale163.it",
-    "Name": "GO-TV Canale 163",
-    "Country": "IT",
-    "Languages": "ita",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/11V0QSp.png",
-    "Streams": [
-      {
-        "Url": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GRPVERATV.it",
-    "Name": "GRP VERATV",
-    "Country": "IT",
-    "Languages": "ita",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://grp.it/diretta/",
-    "Logo": "https://i.imgur.com/jasSHXJ.png",
-    "Streams": [
-      {
-        "Url": "https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GeordieShoreItaly.it",
     "Name": "Geordie Shore Italy",
     "Country": "IT",
@@ -731,21 +686,6 @@
     "Streams": [
       {
         "Url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HorseTV.it",
-    "Name": "Horse TV",
-    "Country": "IT",
-    "Languages": "ita",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.classhorse.tv/",
-    "Logo": "https://i.imgur.com/kRVSBtV.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8"
       }
     ]
   },
@@ -836,6 +776,21 @@
     "Streams": [
       {
         "Url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Italia7.it",
+    "Name": "Italia 7",
+    "Country": "IT",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/xc0kUHk.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
       }
     ]
   },

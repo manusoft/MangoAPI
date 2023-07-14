@@ -207,21 +207,6 @@
     ]
   },
   {
-    "Id": "GTVNetwork.pk",
-    "Name": "GTV Network",
-    "Country": "PK",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://gtvnetwork.tv/",
-    "Logo": "https://i.imgur.com/7XeYSR3.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GawahiTV.pk",
     "Name": "Gawahi TV",
     "Country": "PK",
@@ -233,51 +218,6 @@
     "Streams": [
       {
         "Url": "https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GeoKahani.pk",
-    "Name": "Geo Kahani",
-    "Country": "PK",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://geokahani.tv/",
-    "Logo": "https://i.imgur.com/uKYH0IM.png",
-    "Streams": [
-      {
-        "Url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GeoNews.pk",
-    "Name": "Geo News",
-    "Country": "PK",
-    "Languages": "urd",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.geo.tv/",
-    "Logo": "https://i.imgur.com/Op4EsaB.png",
-    "Streams": [
-      {
-        "Url": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GourmetNewsNetwork.pk",
-    "Name": "Gourmet News Network",
-    "Country": "PK",
-    "Languages": "urd",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://gnnhd.tv/",
-    "Logo": "https://i.imgur.com/8vdwhHp.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8"
       }
     ]
   },
@@ -297,17 +237,17 @@
     ]
   },
   {
-    "Id": "HumNews.pk",
-    "Name": "Hum News",
+    "Id": "HKTV.pk",
+    "Name": "HK TV",
     "Country": "PK",
     "Languages": "urd",
-    "Categories": "news",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.humnews.pk/",
-    "Logo": "https://i.imgur.com/9OroocT.png",
+    "Website": "https://hktv.pk/",
+    "Logo": "https://i.imgur.com/brAY4XF.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8"
+        "Url": "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8"
       }
     ]
   },

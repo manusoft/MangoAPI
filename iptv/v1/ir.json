@@ -165,6 +165,21 @@
     ]
   },
   {
+    "Id": "HausaTV.ir",
+    "Name": "HausaTV",
+    "Country": "IR",
+    "Languages": "fas,eng,hau",
+    "Categories": "culture,documentary",
+    "IsNsfw": false,
+    "Website": "http://hausatv.com/",
+    "Logo": "https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg",
+    "Streams": [
+      {
+        "Url": "https://live1.presstv.ir/live/hausatvha/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HighVisionTV.ir",
     "Name": "High Vision TV",
     "Country": "IR",
@@ -195,6 +210,21 @@
     ]
   },
   {
+    "Id": "HodHodFarsiTV.ir",
+    "Name": "HodHod Farsi TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://hodhodfarsi.ir/",
+    "Logo": "https://i.imgur.com/l8XMKTT.png",
+    "Streams": [
+      {
+        "Url": "https://hls.hodhod.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IRIB3.ir",
     "Name": "IRIB 3",
     "Country": "IR",
@@ -206,6 +236,21 @@
     "Streams": [
       {
         "Url": "https://af.ayas.ir/hls2/tv3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRNA24.ir",
+    "Name": "IRNA 24",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.irna.ir/",
+    "Logo": "https://i.ibb.co/PxkY57m/g-E4-Pv-UY-400x400.png",
+    "Streams": [
+      {
+        "Url": "https://irna-tv.icdndhcp.com/live/stream/index.m3u8"
       }
     ]
   },

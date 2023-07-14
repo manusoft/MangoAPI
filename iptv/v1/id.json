@@ -471,17 +471,17 @@
     ]
   },
   {
-    "Id": "FatwaTV.id",
-    "Name": "Fatwa TV",
+    "Id": "FicomChannel.id",
+    "Name": "Ficom Channel",
     "Country": "ID",
     "Languages": "ind",
-    "Categories": "",
+    "Categories": "entertainment",
     "IsNsfw": false,
-    "Website": "https://fatwatv.id/",
-    "Logo": "https://i.imgur.com/FcJ6VMT.png",
+    "Website": "https://www.vnews.click/",
+    "Logo": "https://i.ibb.co/nqX0CBx/f-1.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8"
+        "Url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
       }
     ]
   },
@@ -530,21 +530,6 @@
     "Streams": [
       {
         "Url": "https://h1.intechmedia.net/intech/ch8.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HopeChannelIndonesia.id",
-    "Name": "Hope Channel Indonesia",
-    "Country": "ID",
-    "Languages": "ind",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://hopechannel.id/",
-    "Logo": "https://i.imgur.com/vXFS7Fi.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8"
       }
     ]
   },
@@ -650,21 +635,6 @@
     "Streams": [
       {
         "Url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JPMTV.id",
-    "Name": "JPM TV",
-    "Country": "ID",
-    "Languages": "ind",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/FM6WN4S.png",
-    "Streams": [
-      {
-        "Url": "https://app-etslive-2.vidio.com/live/9714/master.m3u8"
       }
     ]
   },

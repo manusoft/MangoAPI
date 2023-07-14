@@ -1839,21 +1839,6 @@
     ]
   },
   {
-    "Id": "BHTV10.us",
-    "Name": "BHTV10",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.beverlyhills.org/departments/informationtechnology/beverlyhillstelevision/watchlive/",
-    "Logo": "https://i.imgur.com/NRrJ6xb.png",
-    "Streams": [
-      {
-        "Url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BHTV35.us",
     "Name": "BHTV35",
     "Country": "US",
@@ -3249,6 +3234,21 @@
     ]
   },
   {
+    "Id": "CNNenEspanol.us",
+    "Name": "CNN en Espanol",
+    "Country": "US",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://cnnespanol.cnn.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+    "Streams": [
+      {
+        "Url": "http://181.78.24.67:8010/play/a03p/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CSI.us",
     "Name": "CSI",
     "Country": "US",
@@ -3686,6 +3686,21 @@
       },
       {
         "Url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CineLife.us",
+    "Name": "CineLife",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/RIUNuMQ.png",
+    "Streams": [
+      {
+        "Url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
       }
     ]
   },
@@ -5805,21 +5820,6 @@
     ]
   },
   {
-    "Id": "GCNEmpowerTV.us",
-    "Name": "GCN Empower TV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://gcnempowertv.wixsite.com/onlinetv",
-    "Logo": "https://i.imgur.com/K4yqN0S.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCoRq_Eg3xg4Ed0NJKhRYiQA.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GQ.us",
     "Name": "GQ",
     "Country": "US",
@@ -6120,6 +6120,21 @@
     ]
   },
   {
+    "Id": "HKTV.us",
+    "Name": "HKTV",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": "https://reflect-hktv.cablecast.tv/CablecastPublicSite/watch/1?channel=1",
+    "Logo": "https://i.imgur.com/AYzdlMz.png",
+    "Streams": [
+      {
+        "Url": "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HLN.us",
     "Name": "HLN",
     "Country": "US",
@@ -6131,21 +6146,6 @@
     "Streams": [
       {
         "Url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HNCFree.us",
-    "Name": "HNC Free",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/IjY4hyA.png",
-    "Streams": [
-      {
-        "Url": "https://hncfree-vizio.amagi.tv/playlist.m3u8"
       }
     ]
   },
@@ -6405,6 +6405,21 @@
     ]
   },
   {
+    "Id": "HuntChannel.us",
+    "Name": "Hunt Channel",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": "https://www.huntchannel.tv/",
+    "Logo": "https://i.imgur.com/uhEn9SF.png",
+    "Streams": [
+      {
+        "Url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ICTV.us",
     "Name": "ICTV",
     "Country": "US",
@@ -6461,12 +6476,6 @@
     "Streams": [
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
-      },
-      {
-        "Url": "https://ign-plex.amagi.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8"
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bc207ef2767e1846e5a0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
@@ -6585,6 +6594,21 @@
     ]
   },
   {
+    "Id": "IraneFardaTV.us",
+    "Name": "IraneFarda TV",
+    "Country": "US",
+    "Languages": "fas",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://iranefardalive.com/",
+    "Logo": "https://i.imgur.com/ixgcgZY.png",
+    "Streams": [
+      {
+        "Url": "https://hls.iranfarda.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IslandEscape.us",
     "Name": "Island Escape",
     "Country": "US",
@@ -6632,6 +6656,21 @@
       },
       {
         "Url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JavananTV.us",
+    "Name": "Javanan TV",
+    "Country": "US",
+    "Languages": "fas",
+    "Categories": "movies,series",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/2Fhk3p7/download-58.jpg",
+    "Streams": [
+      {
+        "Url": "https://nl.livekadeh.com/hls2/javanantv.m3u8"
       }
     ]
   },
@@ -6803,21 +6842,6 @@
     "Streams": [
       {
         "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JuventudRenovadaenelEspirituSanto.us",
-    "Name": "Juventud Renovada en el Espiritu Santo",
-    "Country": "US",
-    "Languages": "spa",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/lTdwfd8.png",
-    "Streams": [
-      {
-        "Url": "http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8"
       }
     ]
   },

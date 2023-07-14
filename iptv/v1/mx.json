@@ -315,21 +315,6 @@
     ]
   },
   {
-    "Id": "HipodromodelasAmericas.mx",
-    "Name": "Hipodromo de las Americas",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",
-    "Streams": [
-      {
-        "Url": "http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ILCECanal15SummaSaberes.mx",
     "Name": "ILCE Canal 15 Summa Saberes",
     "Country": "MX",
