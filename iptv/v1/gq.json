@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "TVGE.gq",
+    "Name": "TVGE",
+    "Country": "GQ",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rtvge.tv/",
+    "Logo": "https://i.imgur.com/iOdHgPd.png",
+    "Streams": [
+      {
+        "Url": "http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

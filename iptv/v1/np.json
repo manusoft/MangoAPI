@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "IndigenousTelevision.np",
+    "Name": "Indigenous Television",
+    "Country": "NP",
+    "Languages": "nep",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.indigenoustelevision.com/",
+    "Logo": "https://imgtr.ee/images/2023/05/24/wQ58i.png",
+    "Streams": [
+      {
+        "Url": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MithilaNepalTV.np",
+    "Name": "Mithila Nepal TV",
+    "Country": "NP",
+    "Languages": "nep",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://mtvnepal.tv/",
+    "Logo": "https://imgtr.ee/images/2023/05/24/wQVrr.jpg",
+    "Streams": [
+      {
+        "Url": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR="
+      }
+    ]
+  },
+  {
+    "Id": "News24.np",
+    "Name": "News 24",
+    "Country": "NP",
+    "Languages": "nep",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.news24nepal.tv/",
+    "Logo": "https://i.imgur.com/7PgAPMU.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCjG2HX7jfwqIjzTlaF1CPGA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ParyawaranTV.np",
+    "Name": "Paryawaran TV",
+    "Country": "NP",
+    "Languages": "dhw,eng",
+    "Categories": "education,outdoor",
+    "IsNsfw": false,
+    "Website": "https://paryawarantv.com/",
+    "Logo": "https://i.imgur.com/H10qamt.png",
+    "Streams": [
+      {
+        "Url": "https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8"
+      }
+    ]
+  }
+]

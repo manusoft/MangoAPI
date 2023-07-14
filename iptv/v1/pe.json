@@ -1,0 +1,1424 @@
+[
+  {
+    "Id": "ATMTelevision.pe",
+    "Name": "ATM Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.atm.pe/",
+    "Logo": "https://i.imgur.com/pdmh1pT.png",
+    "Streams": [
+      {
+        "Url": "https://v4.tustreaming.cl/atmtv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATV.pe",
+    "Name": "ATV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.atv.pe/",
+    "Logo": "https://i.imgur.com/eUzYZfg.png",
+    "Streams": [
+      {
+        "Url": "https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVPlus.pe",
+    "Name": "ATV+",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.atv.pe/",
+    "Logo": "https://i.imgur.com/fY9256H.png",
+    "Streams": [
+      {
+        "Url": "https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVSur.pe",
+    "Name": "ATV Sur",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.atv.pe/",
+    "Logo": "https://i.imgur.com/LnyVa5H.png",
+    "Streams": [
+      {
+        "Url": "https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AndesTelevision.pe",
+    "Name": "Andes Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://radiosicuani.com/ANDESTV/",
+    "Logo": "https://i.imgur.com/CsW4Op8.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AntaresTelevision.pe",
+    "Name": "Antares Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://antarestvradio.com/tvonline.html",
+    "Logo": "https://i.imgur.com/05gwtk2.png",
+    "Streams": [
+      {
+        "Url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AsiriTV.pe",
+    "Name": "AsiriTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://asiritv.pe/",
+    "Logo": "https://i.imgur.com/7bGVFBa.png",
+    "Streams": [
+      {
+        "Url": "https://video2.lhdserver.es/asiritv/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AutenticaTelevision.pe",
+    "Name": "Autentica Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://autenticatv.pe/",
+    "Logo": "https://i.imgur.com/bEJK3RN.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BHTV.pe",
+    "Name": "BHTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://bhtv.pe/",
+    "Logo": "https://i.imgur.com/oNFOKFI.png",
+    "Streams": [
+      {
+        "Url": "http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BestCableMasCumbia.pe",
+    "Name": "Best Cable Mas Cumbia",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/tv98.html",
+    "Logo": "https://i.imgur.com/zgEvssl.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BestCableMusic.pe",
+    "Name": "Best Cable Music",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/tv97.html",
+    "Logo": "https://i.imgur.com/PXm4osQ.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BestCableSportsPeru.pe",
+    "Name": "Best Cable Sports Peru",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/tv6.html",
+    "Logo": "https://i.imgur.com/nflqmSC.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNCCajamarca.pe",
+    "Name": "CNC Cajamarca",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cnccajamarca.com/",
+    "Logo": "https://i.imgur.com/l9OJjoT.png",
+    "Streams": [
+      {
+        "Url": "https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CRTelevision.pe",
+    "Name": "CR Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://crtv.pe/",
+    "Logo": "https://i.imgur.com/oxycMeA.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/crtvmux/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CadenaTV.pe",
+    "Name": "Cadena TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.cadenatv.com.pe/",
+    "Logo": "https://i.imgur.com/stvzqzd.png",
+    "Streams": [
+      {
+        "Url": "https://servilive.com:3079/live/cdnatvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CajamarcaTV.pe",
+    "Name": "Cajamarca TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://cajamarcatv.pe/",
+    "Logo": "https://i.imgur.com/pC57NYv.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/cajamarcatv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CentralTV.pe",
+    "Name": "Central TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://www.centraltvperu.com/",
+    "Logo": "https://i.imgur.com/cWE1deh.png",
+    "Streams": [
+      {
+        "Url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Conecta2TV.pe",
+    "Name": "Conecta2TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://conecta2peru.com/",
+    "Logo": "https://i.imgur.com/cfHaLt2.png",
+    "Streams": [
+      {
+        "Url": "https://servilive.com:3114/live/liveulive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ControversiaTV.pe",
+    "Name": "Controversia TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://playmax.tv/tvcontroversia",
+    "Logo": "https://i.imgur.com/X7cPyP2.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/controversiatv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CreoTV.pe",
+    "Name": "CreoTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.creotvperu.com/",
+    "Logo": "https://i.imgur.com/jCAmrwt.png",
+    "Streams": [
+      {
+        "Url": "https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Cultura24.pe",
+    "Name": "Cultura 24",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://cultura24.tv/",
+    "Logo": "https://i.imgur.com/2mSwwpH.png",
+    "Streams": [
+      {
+        "Url": "https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DiarioHechicera.pe",
+    "Name": "Diario Hechicera",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://diariohechicera.com/hechicera-tv/",
+    "Logo": "https://i.imgur.com/I6tRVkA.png",
+    "Streams": [
+      {
+        "Url": "https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DobleCTelevision.pe",
+    "Name": "Doble C Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://doblectelevision.com/",
+    "Logo": "https://i.imgur.com/2zCD4TB.png",
+    "Streams": [
+      {
+        "Url": "https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ExitosaTV.pe",
+    "Name": "Exitosa TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://exitosanoticias.pe/",
+    "Logo": "https://i.imgur.com/pu0BSB7.png",
+    "Streams": [
+      {
+        "Url": "https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GeniosTV.pe",
+    "Name": "Genios TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://geniostv.pe/",
+    "Logo": "https://i.imgur.com/iH2Lx6E.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/geniostvmux/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HatunTV.pe",
+    "Name": "Hatun TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://bestcableperu.com.pe/canal99.html",
+    "Logo": "https://i.imgur.com/cWz2vgV.png",
+    "Streams": [
+      {
+        "Url": "https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Hoynet.pe",
+    "Name": "Hoynet",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PqKlBq2.png",
+    "Streams": [
+      {
+        "Url": "https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IdentidadTV.pe",
+    "Name": "Identidad TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.identidad.tv/",
+    "Logo": "https://i.imgur.com/q5jxzr2.png",
+    "Streams": [
+      {
+        "Url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImpactoTelevision.pe",
+    "Name": "Impacto Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://radioimpactodecajamarca.com.pe/impacto-tv/",
+    "Logo": "https://i.imgur.com/bkpCGP6.png",
+    "Streams": [
+      {
+        "Url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IntuitivaTV.pe",
+    "Name": "Intuitiva TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://cableperu.pe/",
+    "Logo": "https://i.imgur.com/zcehR4M.png",
+    "Streams": [
+      {
+        "Url": "https://video2.lhdserver.es/cableperu/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JN19.pe",
+    "Name": "JN 19",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.jn19television.com/",
+    "Logo": "https://i.imgur.com/dudxyqk.png",
+    "Streams": [
+      {
+        "Url": "https://servilive.com:3149/live/jn19tvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JNETV.pe",
+    "Name": "JNE TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.jne.gob.pe/jnetv/",
+    "Logo": "https://i.imgur.com/b25XfCj.png",
+    "Streams": [
+      {
+        "Url": "https://dc1.webstream.eu/v1/jnetvhdstreaming/rtd144395a1/webstr,_video,_video_sd,_video_sd2,.mp4.urlset/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaLuzTV.pe",
+    "Name": "La Luz TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://radiolaluz.com/television/",
+    "Logo": "https://i.imgur.com/uAT4I4j.png",
+    "Streams": [
+      {
+        "Url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaRiberena.pe",
+    "Name": "La Riberena",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.riberenapucallpa.com/",
+    "Logo": "https://i.imgur.com/BOXIRBT.png",
+    "Streams": [
+      {
+        "Url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MINEDUIPTV1.pe",
+    "Name": "MINEDU IPTV 1",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": "http://iptv.perueduca.pe/unicast/canal-1",
+    "Logo": "https://i.imgur.com/14nHMat.png",
+    "Streams": [
+      {
+        "Url": "http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MINEDUIPTV2.pe",
+    "Name": "MINEDU IPTV 2",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": "http://iptv.perueduca.pe/unicast/canal-2",
+    "Logo": "https://i.imgur.com/14nHMat.png",
+    "Streams": [
+      {
+        "Url": "http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MegaTVArequipa.pe",
+    "Name": "Mega TV Arequipa",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.megatvarequipa.com/television-en-vivo/",
+    "Logo": "https://i.imgur.com/q34E9V4.png",
+    "Streams": [
+      {
+        "Url": "https://hls.servidor.stream/storage/megatv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MielTV.pe",
+    "Name": "Miel TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://elgrupofiesta.pe/",
+    "Logo": "https://i.imgur.com/dPSFrCs.png",
+    "Streams": [
+      {
+        "Url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Millenium109FM.pe",
+    "Name": "Millenium 109 FM",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://milleniumrtv.com/",
+    "Logo": "https://i.imgur.com/sfNL6Bv.png",
+    "Streams": [
+      {
+        "Url": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MonterricoTV.pe",
+    "Name": "Monterrico TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://hipodromodemonterrico.com.pe/monterrico/home",
+    "Logo": "https://i.imgur.com/SuVO9T7.png",
+    "Streams": [
+      {
+        "Url": "https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8"
+      },
+      {
+        "Url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8"
+      },
+      {
+        "Url": "https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8"
+      },
+      {
+        "Url": "https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Nativa.pe",
+    "Name": "Nativa",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://ntv.pe/",
+    "Logo": "https://i.imgur.com/Y9k9XSO.png",
+    "Streams": [
+      {
+        "Url": "https://servilive.com:3449/live/mlecaroslive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NativaTVSatipo.pe",
+    "Name": "Nativa TV Satipo",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://elgrupofiesta.pe/",
+    "Logo": "https://i.imgur.com/ScCAgGB.png",
+    "Streams": [
+      {
+        "Url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NazarenasTV.pe",
+    "Name": "Nazarenas TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.nazarenas.tv/",
+    "Logo": "https://i.imgur.com/Z01XOuI.png",
+    "Streams": [
+      {
+        "Url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NorSelvaRTV.pe",
+    "Name": "NorSelva RTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.radiotvnorselva.com/",
+    "Logo": "https://i.imgur.com/87ObrJO.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/norselvatv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OKTeVe.pe",
+    "Name": "OK TeVe",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://oktelevisionhd.com/",
+    "Logo": "https://i.imgur.com/07rA14I.png",
+    "Streams": [
+      {
+        "Url": "https://stream.plixitv.live/oktv/oktv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OasisRTV.pe",
+    "Name": "Oasis RTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://oasisrtv.com/",
+    "Logo": "https://i.imgur.com/OdosnOZ.png",
+    "Streams": [
+      {
+        "Url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OndaDigital.pe",
+    "Name": "Onda Digital",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://ondadigitaltv.com/",
+    "Logo": "https://i.imgur.com/3R2emx7.jpg",
+    "Streams": [
+      {
+        "Url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OvacionTV.pe",
+    "Name": "Ovacion TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://ovacion.pe/",
+    "Logo": "https://i.imgur.com/7Xndgxk.png",
+    "Streams": [
+      {
+        "Url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PBO.pe",
+    "Name": "PBO",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://pboradio.com/",
+    "Logo": "https://i.imgur.com/vBpxX4S.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PanamericanaTV.pe",
+    "Name": "Panamericana TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://panamericana.pe/",
+    "Logo": "https://i.imgur.com/uQhEDES.png",
+    "Streams": [
+      {
+        "Url": "https://cdnhd.iblups.com/hls/ptv2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PaxTV.pe",
+    "Name": "Pax TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://paxtvmovil.org/",
+    "Logo": "https://i.imgur.com/1E0nXwR.png",
+    "Streams": [
+      {
+        "Url": "https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PlanetaTV.pe",
+    "Name": "Planeta TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://moyobamba.com/planetatv/",
+    "Logo": "https://i.imgur.com/mL3lLAF.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/planetatv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Primavera15.pe",
+    "Name": "Primavera 15",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.radioprimaveratv.com.pe/",
+    "Logo": "https://i.imgur.com/wsJ8Ag2.png",
+    "Streams": [
+      {
+        "Url": "https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "QTTelevision.pe",
+    "Name": "QT Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://qosqotimes.pe/",
+    "Logo": "https://i.imgur.com/xVcnmE3.png",
+    "Streams": [
+      {
+        "Url": "https://servilive.com:3753/live/qosqotimeslive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RCR.pe",
+    "Name": "RCR",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.rcrperu.com/",
+    "Logo": "https://i.imgur.com/A8TRPrF.png",
+    "Streams": [
+      {
+        "Url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RNTelevision.pe",
+    "Name": "RN Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://radionoticiastv.com/",
+    "Logo": "https://i.imgur.com/oFGiW7u.png",
+    "Streams": [
+      {
+        "Url": "https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTVTotalYurimaguas.pe",
+    "Name": "RTV Total Yurimaguas",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://rtvtotal.pe/",
+    "Logo": "https://i.imgur.com/f8XvDQs.png",
+    "Streams": [
+      {
+        "Url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RWTelevisionTarapoto.pe",
+    "Name": "RW Television Tarapoto",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rwtelevision.com/",
+    "Logo": "https://i.imgur.com/MPmUi6E.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/rwtv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioElPueblo.pe",
+    "Name": "Radio El Pueblo",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://radioelpueblo.com/el-pueblo-tv/",
+    "Logo": "https://i.imgur.com/Up1u4TH.png",
+    "Streams": [
+      {
+        "Url": "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioInkaTV.pe",
+    "Name": "Radio Inka TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://inkatropical.pe/",
+    "Logo": "https://i.imgur.com/CNLFe3r.png",
+    "Streams": [
+      {
+        "Url": "https://tv.portalexpress.es:3175/hybrid/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioSanBorjaTV.pe",
+    "Name": "Radio San Borja TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://radiosanborjatv.com/",
+    "Logo": "https://i.imgur.com/75dJBtH.png",
+    "Streams": [
+      {
+        "Url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioTVTendencias.pe",
+    "Name": "Radio TV Tendencias",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.radiotvtendencias.com/tv-tendencias/",
+    "Logo": "https://i.imgur.com/tsdrrV9.png",
+    "Streams": [
+      {
+        "Url": "https://s1.tvdatta.com:3950/multi_web/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioTropical.pe",
+    "Name": "Radio Tropical",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://radiotropical.pe/",
+    "Logo": "https://i.imgur.com/TBPVOBI.png",
+    "Streams": [
+      {
+        "Url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioUnoTacna.pe",
+    "Name": "Radio Uno Tacna",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://radiouno.pe/",
+    "Logo": "https://i.imgur.com/PswowQP.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RegionTVCallao.pe",
+    "Name": "Region TV Callao",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://regionteve.com/",
+    "Logo": "https://i.imgur.com/I4grcqk.png",
+    "Streams": [
+      {
+        "Url": "https://servilive.com:3757/live/regiontvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SenalPeruTV.pe",
+    "Name": "Senal Peru TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://xn--sealperutv-u9a.pe/",
+    "Logo": "https://i.imgur.com/1q0R6R9.png",
+    "Streams": [
+      {
+        "Url": "https://livestream.perucast.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SolTV.pe",
+    "Name": "SolTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://soltvperu.com/",
+    "Logo": "https://i.imgur.com/GtNkuAc.png",
+    "Streams": [
+      {
+        "Url": "http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuperTV.pe",
+    "Name": "Super TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/F166GPP.png",
+    "Streams": [
+      {
+        "Url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVBellaAsuncion.pe",
+    "Name": "TV Bella Asuncion",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvbellaasuncion.com/",
+    "Logo": "https://i.imgur.com/H69eLFW.png",
+    "Streams": [
+      {
+        "Url": "https://tvdatta.com:3602/stream/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVFacesPeru.pe",
+    "Name": "TVFaces Peru",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://tvfacesperu.com/",
+    "Logo": "https://i.imgur.com/PL0pTxs.png",
+    "Streams": [
+      {
+        "Url": "https://tvdatta.com:3211/stream/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSistemasCuzco.pe",
+    "Name": "TV Sistemas Cuzco",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://sistemascuscoperu.com/",
+    "Logo": "https://i.imgur.com/yo1oTIh.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Teleamazonas.pe",
+    "Name": "Teleamazonas",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://teleamazonas.pe/tv-en-vivo/",
+    "Logo": "https://i.imgur.com/yhv3XyU.png",
+    "Streams": [
+      {
+        "Url": "https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelecolorYurimaguas.pe",
+    "Name": "Telecolor Yurimaguas",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://telecolortv.pe/",
+    "Logo": "https://i.imgur.com/Ug6XNIU.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/telecolormux/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelesurCamana.pe",
+    "Name": "Telesur Camana",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telesur.com.pe/telesur/streaming",
+    "Logo": "https://i.imgur.com/bbhgIN4.png",
+    "Streams": [
+      {
+        "Url": "https://1667517699.rsc.cdn77.org/hls/camana.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelesurIlo.pe",
+    "Name": "Telesur Ilo",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telesur.com.pe/telesur/streaming",
+    "Logo": "https://i.imgur.com/bbhgIN4.png",
+    "Streams": [
+      {
+        "Url": "https://1667517699.rsc.cdn77.org/hls/ilo.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelesurMoquegua.pe",
+    "Name": "Telesur Moquegua",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telesur.com.pe/telesur/streaming",
+    "Logo": "https://i.imgur.com/bbhgIN4.png",
+    "Streams": [
+      {
+        "Url": "https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelesurTacna.pe",
+    "Name": "Telesur Tacna",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.telesur.com.pe/telesur/streaming",
+    "Logo": "https://i.imgur.com/bbhgIN4.png",
+    "Streams": [
+      {
+        "Url": "https://1667517699.rsc.cdn77.org/hls/tacna.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisionTarapoto.pe",
+    "Name": "Television Tarapoto",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.televisiontarapoto.pe/",
+    "Logo": "https://i.imgur.com/Dzen7sh.png",
+    "Streams": [
+      {
+        "Url": "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TopTV.pe",
+    "Name": "Top TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.toptvaguaytia.com/",
+    "Logo": "https://i.imgur.com/tiNvihZ.png",
+    "Streams": [
+      {
+        "Url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Trivu.pe",
+    "Name": "Trivu",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.trivutv.com/",
+    "Logo": "https://i.imgur.com/QrUYjOS.png",
+    "Streams": [
+      {
+        "Url": "https://servilive.com:3244/live/trivutvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TropicalTV.pe",
+    "Name": "Tropical TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://corporaciontropicalpuerto.com/",
+    "Logo": "https://i.imgur.com/vZwaV3J.png",
+    "Streams": [
+      {
+        "Url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TurboMixRadioTV.pe",
+    "Name": "Turbo Mix Radio TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.turbomix.com.pe/",
+    "Logo": "https://i.imgur.com/AsdBQa3.png",
+    "Streams": [
+      {
+        "Url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "USILTV.pe",
+    "Name": "USIL TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://usil.tv/",
+    "Logo": "https://i.imgur.com/9OXF9EK.png",
+    "Streams": [
+      {
+        "Url": "https://per01-lim01.servidor.stream/usiltv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "USMPTV.pe",
+    "Name": "USMPTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://usmptv.pe/",
+    "Logo": "https://i.imgur.com/9cmIv3q.png",
+    "Streams": [
+      {
+        "Url": "https://streamusmptv.ddns.net/live/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UchuTV.pe",
+    "Name": "Uchu TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://uchutv.com/",
+    "Logo": "https://i.imgur.com/xYGkUR9.png",
+    "Streams": [
+      {
+        "Url": "https://tna5.bozztv.com/Cusco/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UnifeTV.pe",
+    "Name": "Unife TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://universal.org.pe/canal-unife-tv/",
+    "Logo": "https://i.imgur.com/lVpDLVU.png",
+    "Streams": [
+      {
+        "Url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u"
+      }
+    ]
+  },
+  {
+    "Id": "UranioTV.pe",
+    "Name": "Uranio TV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://uraniotv.pe/",
+    "Logo": "https://i.imgur.com/EeNpfIr.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/uraniotv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VNP.pe",
+    "Name": "VNP",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://vnp.pe",
+    "Logo": "https://i.imgur.com/TOnknEW.png",
+    "Streams": [
+      {
+        "Url": "https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VamisaTV.pe",
+    "Name": "VamisaTV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://radiovamisa.tv/",
+    "Logo": "https://i.imgur.com/jxHTl2g.png",
+    "Streams": [
+      {
+        "Url": "https://inliveserver.com:1936/9506/9506/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ViaAltomayo.pe",
+    "Name": "Via Altomayo",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.viaaltomayotv.com/",
+    "Logo": "https://i.imgur.com/aJ4XExn.png",
+    "Streams": [
+      {
+        "Url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ViaTelevision.pe",
+    "Name": "Via Television",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://viatelevision.pe/",
+    "Logo": "https://i.imgur.com/FiptbGQ.png",
+    "Streams": [
+      {
+        "Url": "https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VisionSur.pe",
+    "Name": "Vision Sur",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://visionsurtv.pe/",
+    "Logo": "https://i.imgur.com/AbZYWEQ.png",
+    "Streams": [
+      {
+        "Url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VisionTVMusica.pe",
+    "Name": "Vision TV Musica",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.cablevisionperu.pe/?page_id=2205",
+    "Logo": "https://i.imgur.com/AihIIGn.png",
+    "Streams": [
+      {
+        "Url": "https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "XTVChachapoyas.pe",
+    "Name": "X TV Chachapoyas",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://xtv.pe/",
+    "Logo": "https://i.imgur.com/sJfB0AE.png",
+    "Streams": [
+      {
+        "Url": "https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8"
+      }
+    ]
+  }
+]

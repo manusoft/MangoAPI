@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "TDMOuMun.mo",
+    "Name": "TDM Ou Mun",
+    "Country": "MO",
+    "Languages": "zho",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://new.tdm.com.mo/c_tv/?ch=ctvp",
+    "Logo": "https://i.imgur.com/qDI3aMp.png",
+    "Streams": [
+      {
+        "Url": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "Id": "AFNTV.ir",
+    "Name": "AFN TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/LctanF8.png",
+    "Streams": [
+      {
+        "Url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AVAFamily.ir",
+    "Name": "AVA Family",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "family",
+    "IsNsfw": false,
+    "Website": "http://avafamily.wns.live/",
+    "Logo": "https://i.imgur.com/QwBGLzK.png",
+    "Streams": [
+      {
+        "Url": "https://familyhls.avatv.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AVASeries.ir",
+    "Name": "AVA Series",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "http://avaseries.wns.live/",
+    "Logo": "https://i.imgur.com/8AfAfZE.png",
+    "Streams": [
+      {
+        "Url": "https://avaserieshls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AbalfadhlTV.ir",
+    "Name": "Abalfadhl TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://abalfadhl.tv/",
+    "Logo": "https://i.ibb.co/cCmjqtQ/logo-2.png",
+    "Streams": [
+      {
+        "Url": "https://t.northtelecom.org/ABALFADHLTV.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AioSport1.ir",
+    "Name": "Aio Sport 1",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.aionet.ir",
+    "Logo": "https://assets.aionet.ir/channels/100347",
+    "Streams": [
+      {
+        "Url": "https://af.ayas.ir/hls2/aiosport.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AioSport2.ir",
+    "Name": "Aio Sport 2",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.aionet.ir",
+    "Logo": "https://assets.aionet.ir/channels/100347",
+    "Streams": [
+      {
+        "Url": "https://af.ayas.ir/hls2/aiosport2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlWilayah.ir",
+    "Name": "Al Wilayah",
+    "Country": "IR",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/OI1HQv5.png",
+    "Streams": [
+      {
+        "Url": "https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AssiratTV.ir",
+    "Name": "Assirat TV",
+    "Country": "IR",
+    "Languages": "ara,fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ps4Gtj0.png",
+    "Streams": [
+      {
+        "Url": "https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BravoFarsiTV.ir",
+    "Name": "Bravo Farsi TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies,series",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+    "Streams": [
+      {
+        "Url": "https://bravoohls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CaltexTV.ir",
+    "Name": "Caltex TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.caltexmusic.com/tv/",
+    "Logo": "https://i.imgur.com/qegiypT.png",
+    "Streams": [
+      {
+        "Url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HastiTV.ir",
+    "Name": "Hasti TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://hastitv.com/",
+    "Logo": "https://i.imgur.com/vwjcP7X.png",
+    "Streams": [
+      {
+        "Url": "https://live.hastitv.com/hls/livetv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HausaTV.ir",
+    "Name": "HausaTV",
+    "Country": "IR",
+    "Languages": "fas,eng,hau",
+    "Categories": "culture,documentary",
+    "IsNsfw": false,
+    "Website": "http://hausatv.com/",
+    "Logo": "https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg",
+    "Streams": [
+      {
+        "Url": "https://live1.presstv.ir/live/hausatvha/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HighVisionTV.ir",
+    "Name": "High Vision TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.highvision.tv/",
+    "Logo": "https://i.imgur.com/zhCgoru.png",
+    "Streams": [
+      {
+        "Url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HispanTV.ir",
+    "Name": "Hispan TV",
+    "Country": "IR",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.hispantv.com/",
+    "Logo": "https://i.imgur.com/AfsVFfM.png",
+    "Streams": [
+      {
+        "Url": "https://live1.presstv.ir/live/hispan.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HodHodFarsiTV.ir",
+    "Name": "HodHod Farsi TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://hodhodfarsi.ir/",
+    "Logo": "https://i.imgur.com/l8XMKTT.png",
+    "Streams": [
+      {
+        "Url": "https://hls.hodhod.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRIB3.ir",
+    "Name": "IRIB 3",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv3.ir/",
+    "Logo": "https://i.imgur.com/vXLUBBn.png",
+    "Streams": [
+      {
+        "Url": "https://af.ayas.ir/hls2/tv3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRNA24.ir",
+    "Name": "IRNA 24",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.irna.ir/",
+    "Logo": "https://i.ibb.co/PxkY57m/g-E4-Pv-UY-400x400.png",
+    "Streams": [
+      {
+        "Url": "https://irna-tv.icdndhcp.com/live/stream/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MohabatTV.ir",
+    "Name": "Mohabat TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Ig0SPev.png",
+    "Streams": [
+      {
+        "Url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+      },
+      {
+        "Url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PBCTapeshTV.ir",
+    "Name": "PBC Tapesh TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5voEagF.png",
+    "Streams": [
+      {
+        "Url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PayamJavanTV.ir",
+    "Name": "Payam Javan TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GYfsHh9.png",
+    "Streams": [
+      {
+        "Url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PayvandTV.ir",
+    "Name": "Payvand TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/o2Ww77N.png",
+    "Streams": [
+      {
+        "Url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PressTV.ir",
+    "Name": "Press TV",
+    "Country": "IR",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.presstv.ir/",
+    "Logo": "https://i.imgur.com/nsYdri2.png",
+    "Streams": [
+      {
+        "Url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PressTVFrench.ir",
+    "Name": "Press TV French",
+    "Country": "IR",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://french.presstv.ir/",
+    "Logo": "https://i.imgur.com/xsj8KHj.png",
+    "Streams": [
+      {
+        "Url": "https://live1.presstv.ir/live/presstvfr/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VarzeshTV.ir",
+    "Name": "Varzesh TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://varzeshtv.ir/",
+    "Logo": "https://i.imgur.com/bzxAadP.png",
+    "Streams": [
+      {
+        "Url": "http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8"
+      },
+      {
+        "Url": "http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8"
+      },
+      {
+        "Url": "https://af.ayas.ir/hls2/varzeshtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "YourTimeTV.ir",
+    "Name": "YourTime TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.yourtime.tv/",
+    "Logo": "https://i.imgur.com/X38vWJ1.png",
+    "Streams": [
+      {
+        "Url": "https://hls.yourtime.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "iFilmArabic.ir",
+    "Name": "iFilm Arabic",
+    "Country": "IR",
+    "Languages": "ara",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.ifilmtv.ir/",
+    "Logo": "https://i.imgur.com/k5WdrWx.png",
+    "Streams": [
+      {
+        "Url": "https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

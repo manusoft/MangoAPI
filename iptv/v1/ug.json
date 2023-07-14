@@ -1,0 +1,122 @@
+[
+  {
+    "Id": "ArkTV.ug",
+    "Name": "Ark TV",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.holycityentebbe.org/",
+    "Logo": "https://i.imgur.com/yCHNZXD.png",
+    "Streams": [
+      {
+        "Url": "https://arktelevision.org/hlslive/test/test.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BukeddeTV1.ug",
+    "Name": "Bukedde TV 1",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HFq5QlJ.png",
+    "Streams": [
+      {
+        "Url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BukeddeTV2.ug",
+    "Name": "Bukedde TV 2",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://bukedde.co.ug/",
+    "Logo": "https://i.imgur.com/ukwPZeY.png",
+    "Streams": [
+      {
+        "Url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ChurchofUgandaFamilyTelevision.ug",
+    "Name": "Church of Uganda Family Television",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "religious,family",
+    "IsNsfw": false,
+    "Website": "https://coufamilytv.co.ug/live",
+    "Logo": "https://pbs.twimg.com/profile_images/1455134164353757187/RYfGkxkO_400x400.jpg",
+    "Streams": [
+      {
+        "Url": "https://media.streambrothers.com:19360/8028/8028.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DreamTV.ug",
+    "Name": "Dream TV",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.imc.ug/",
+    "Logo": "https://www.lyngsat.com/logo/tv/dd/dreamtv.png",
+    "Streams": [
+      {
+        "Url": "http://128.199.114.2:8080/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FORTTV.ug",
+    "Name": "FORT TV",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://fort-tv.com/",
+    "Logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+    "Streams": [
+      {
+        "Url": "http://fort.co-works.org:8080/hls/live.stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTVUganda.ug",
+    "Name": "NTV Uganda",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ntv.co.ug/",
+    "Logo": "https://i.imgur.com/ej5A6RZ.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SaltTV.ug",
+    "Name": "Salt TV",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.saltmedia.ug/",
+    "Logo": "https://i.imgur.com/Ux5nS7C.png",
+    "Streams": [
+      {
+        "Url": "https://salttelevision.com/memfs/d1b981f8-317d-4750-8eb0-1c116add469c.m3u8"
+      }
+    ]
+  }
+]

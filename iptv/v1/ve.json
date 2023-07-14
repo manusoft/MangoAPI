@@ -1,0 +1,605 @@
+[
+  {
+    "Id": "AguacateTV.ve",
+    "Name": "Aguacate TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://aguacatetv.com/",
+    "Logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "Streams": [
+      {
+        "Url": "https://streamtv.intervenhosting.net:3378/hybrid/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AnzoateguiTV.ve",
+    "Name": "Anzoategui TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://anzoategui.tv/",
+    "Logo": "https://i.imgur.com/SLqrEOz.png",
+    "Streams": [
+      {
+        "Url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AvilaTV.ve",
+    "Name": "Avila TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.avilatv.gob.ve/",
+    "Logo": "https://i.imgur.com/hL2R9K1.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BTATV.ve",
+    "Name": "BTA TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://btatv.tv/",
+    "Logo": "https://i.imgur.com/vygOosC.png",
+    "Streams": [
+      {
+        "Url": "https://cloud.streamingconnect.tv/hls/bta/bta.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanalI.ve",
+    "Name": "Canal I",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://canal-i.com/",
+    "Logo": "https://i.imgur.com/vKfOavW.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/canali/canali/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanalNubehTV.ve",
+    "Name": "Canal Nubeh TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/qjMxX1d.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CantinaTV.ve",
+    "Name": "Cantina TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.cantinatv.com/",
+    "Logo": "https://i.imgur.com/JWMk2fP.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CatatumboTV.ve",
+    "Name": "Catatumbo TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://catatumbo.tv/",
+    "Logo": "https://i.imgur.com/LBI2la0.png",
+    "Streams": [
+      {
+        "Url": "https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Colombeia.ve",
+    "Name": "Colombeia",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.colombeia.edu.ve/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Colombeia.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/ba3d31fdf59976d63976e5a2173df36b442104ba/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ConCienciaTV.ve",
+    "Name": "ConCiencia TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "science",
+    "IsNsfw": false,
+    "Website": "https://conciencia.tv/",
+    "Logo": "https://i.imgur.com/kzOOz8R.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EXCTV.ve",
+    "Name": "EXC TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "science",
+    "IsNsfw": false,
+    "Website": "https://lorini.net/exctv/",
+    "Logo": "https://i.imgur.com/Znd1Ml9.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Globovision.ve",
+    "Name": "Globovision",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://globovision.com/",
+    "Logo": "https://i.imgur.com/v6nRdxQ.png",
+    "Streams": [
+      {
+        "Url": "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Italianissimo.ve",
+    "Name": "Italianissimo",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/JCpbUZB.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LaIguanaTV.ve",
+    "Name": "La Iguana TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.laiguana.tv/",
+    "Logo": "https://imgtr.ee/images/2023/05/24/wmiNm.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MDATelevision.ve",
+    "Name": "MDA Television",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.mdatelevision.com/",
+    "Logo": "https://i.imgur.com/AlY38PN.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OxigenoTV.ve",
+    "Name": "Oxigeno TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/n3PweBQ.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Panavision.ve",
+    "Name": "Panavision",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.panavision.tv/",
+    "Logo": "https://i.imgur.com/qj1qBn1.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PromarTV.ve",
+    "Name": "PromarTV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.promar.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
+    "Streams": [
+      {
+        "Url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioCaracasRadio.ve",
+    "Name": "Radio Caracas Radio",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://rcr750.com/",
+    "Logo": "https://i.imgur.com/QaKbK6w.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReformaTV.ve",
+    "Name": "Reforma TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.reformatv.net/",
+    "Logo": "https://i.imgur.com/iZMDddR.png",
+    "Streams": [
+      {
+        "Url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShowVenTV.ve",
+    "Name": "ShowVen TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "culture,music",
+    "IsNsfw": false,
+    "Website": "https://corazonllanero.com/",
+    "Logo": "https://i.imgur.com/AJIN8Dc.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/coll/coll/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SunChannel.ve",
+    "Name": "Sun Channel",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": "http://www.sunchanneltv.com/",
+    "Logo": "https://i.imgur.com/B26qL3e.png",
+    "Streams": [
+      {
+        "Url": "https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TAMTV.ve",
+    "Name": "TAM TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tamtv.com.ve/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+    "Streams": [
+      {
+        "Url": "https://tv.webtuya.com:3459/live/tammeridalive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TNORadio.ve",
+    "Name": "TNO Radio",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tnoradio.com/",
+    "Logo": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TRT.ve",
+    "Name": "TRT",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://trt.com.ve/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
+    "Streams": [
+      {
+        "Url": "https://vcp3.myplaytv.com/trt/trt/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVFANB.ve",
+    "Name": "TV FANB",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvfanb.mil.ve/",
+    "Logo": "https://i.imgur.com/yaEyv29.png",
+    "Streams": [
+      {
+        "Url": "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVFamilia.ve",
+    "Name": "TV Familia",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "family",
+    "IsNsfw": false,
+    "Website": "https://www.tvfamilia.com/",
+    "Logo": "https://i.imgur.com/A3bU5e7.png",
+    "Streams": [
+      {
+        "Url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleAragua.ve",
+    "Name": "TeleAragua",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://tla.gob.ve/",
+    "Logo": "https://i.imgur.com/jPzcb2S.png",
+    "Streams": [
+      {
+        "Url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla="
+      }
+    ]
+  },
+  {
+    "Id": "Telecolor.ve",
+    "Name": "Telecolor",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://telecolor.com/",
+    "Logo": "https://i.imgur.com/YvdzJHj.png",
+    "Streams": [
+      {
+        "Url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelesolTV.ve",
+    "Name": "Telesol TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://telesoltv.com/",
+    "Logo": "https://i.imgur.com/iagCG6y.png",
+    "Streams": [
+      {
+        "Url": "https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telesur.ve",
+    "Name": "Telesur",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.telesurtv.net/",
+    "Logo": "https://i.imgur.com/P50VjRX.png",
+    "Streams": [
+      {
+        "Url": "https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelesurEnglish.ve",
+    "Name": "Telesur English",
+    "Country": "VE",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.telesurenglish.net/",
+    "Logo": "https://comteco.com.bo/img/upload/canales/1yD2hc.png",
+    "Streams": [
+      {
+        "Url": "https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisoradeOriente.ve",
+    "Name": "Televisora de Oriente",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://tvo.com.ve/",
+    "Logo": "https://i.imgur.com/wFC6Xxq.png",
+    "Streams": [
+      {
+        "Url": "https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TorococoTV.ve",
+    "Name": "Torococo TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://mitorococo.blogspot.com/",
+    "Logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
+    "Streams": [
+      {
+        "Url": "https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VPItv.ve",
+    "Name": "VPItv",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://vpitv.com/",
+    "Logo": "https://i.imgur.com/X5hyKU8.png",
+    "Streams": [
+      {
+        "Url": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ValeTV.ve",
+    "Name": "Vale TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://valetv.info/",
+    "Logo": "https://i.imgur.com/NMI2Wed.png",
+    "Streams": [
+      {
+        "Url": "https://vcp2.myplaytv.com/valetv/valetv/master.m3u8"
+      },
+      {
+        "Url": "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VenezolanadeTelevision.ve",
+    "Name": "Venezolana de Television",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.vtv.gob.ve/",
+    "Logo": "https://i.imgur.com/FeRTDqz.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VepacoTV.ve",
+    "Name": "Vepaco TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://vepacotv.com.ve/",
+    "Logo": "https://i.imgur.com/0bqJksL.png",
+    "Streams": [
+      {
+        "Url": "https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Vive.ve",
+    "Name": "Vive",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": "http://www.vive.gob.ve/",
+    "Logo": "https://i.imgur.com/VEYhkDq.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "eSportsMaxTV.ve",
+    "Name": "eSports Max TV",
+    "Country": "VE",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "http://esportsmaxnetwork.com/",
+    "Logo": "https://i.imgur.com/OprRgQN.png",
+    "Streams": [
+      {
+        "Url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
+      }
+    ]
+  }
+]

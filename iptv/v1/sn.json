@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "2STV.sn",
+    "Name": "2S TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://2stv.net/",
+    "Logo": "https://i.imgur.com/WByVBZf.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "A2iMusic.sn",
+    "Name": "A2i Music",
+    "Country": "SN",
+    "Languages": "wol,fra",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/1UkxzGL.png",
+    "Streams": [
+      {
+        "Url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "A2iNaja.sn",
+    "Name": "A2i Naja",
+    "Country": "SN",
+    "Languages": "wol,fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/tH7EZL4.jpg",
+    "Streams": [
+      {
+        "Url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "A2iReligion.sn",
+    "Name": "A2i Religion",
+    "Country": "SN",
+    "Languages": "wol,fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/tH7EZL4.jpg",
+    "Streams": [
+      {
+        "Url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AsfiyahiTV.sn",
+    "Name": "Asfiyahi TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.asfiyahi.org/",
+    "Logo": "https://i.imgur.com/tDuvfsh.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCLAOTbXfGlOL0gBXcqFU7Dg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNMTV.sn",
+    "Name": "CNM TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://cnm.sn/",
+    "Logo": "https://i.ibb.co/0cfdGKv/1630802325205.jpg",
+    "Streams": [
+      {
+        "Url": "https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DRTSTV.sn",
+    "Name": "DRTS TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "education",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/nzjmJVP/unnamed-2.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC-6dz560kcpeLmxceZzn44A.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DakarTVInternational.sn",
+    "Name": "Dakar TV International",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/VGm2Kjq.png",
+    "Streams": [
+      {
+        "Url": "https://live3.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LeralTV.sn",
+    "Name": "Leral TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.leral.net/",
+    "Logo": "https://i.imgur.com/BUxzHmO.png",
+    "Streams": [
+      {
+        "Url": "https://live3.acangroup.org:1929/acanabr/leraltv_all/acanabr/leraltv_720p/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LougaTV.sn",
+    "Name": "Louga TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://lougatv.net/",
+    "Logo": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+    "Streams": [
+      {
+        "Url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SenTV.sn",
+    "Name": "Sen TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://sentv.sn/",
+    "Logo": "https://i.imgur.com/1BLXnHB.png",
+    "Streams": [
+      {
+        "Url": "https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TFM.sn",
+    "Name": "TFM",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.igfm.sn/",
+    "Logo": "https://i.imgur.com/IJ3ZX1F.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleMusikSenegal.sn",
+    "Name": "TeleMusik Senegal",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.telemusik.tv/",
+    "Logo": "https://i.imgur.com/dPAPLsd.png",
+    "Streams": [
+      {
+        "Url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WalfTV.sn",
+    "Name": "Walf TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.walf-groupe.com/",
+    "Logo": "https://i.imgur.com/WMvSKki.png",
+    "Streams": [
+      {
+        "Url": "https://live3.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "YakaarTV.sn",
+    "Name": "Yakaar TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://yakaar.tv/",
+    "Logo": "https://i.ibb.co/ftjTryD/yakaar-logo-single.jpg",
+    "Streams": [
+      {
+        "Url": "https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8"
+      }
+    ]
+  }
+]

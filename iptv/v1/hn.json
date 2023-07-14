@@ -1,0 +1,500 @@
+[
+  {
+    "Id": "AZATVHD.hn",
+    "Name": "AZA TV HD",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.azatvhdhn.com/",
+    "Logo": "https://i.imgur.com/Jytpy32.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.zcasthn.com.br/azatvhd/azatvhd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ActivaTV.hn",
+    "Name": "Activa TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://activatvhn.com/",
+    "Logo": "https://i.imgur.com/S69lDu4.png",
+    "Streams": [
+      {
+        "Url": "https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlsaciasTV.hn",
+    "Name": "Alsacias TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PMZlhTZ.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/atv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AvivaTV.hn",
+    "Name": "Aviva TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://avivahn.com/",
+    "Logo": "https://i.imgur.com/0jMM4TQ.png",
+    "Streams": [
+      {
+        "Url": "https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CHTV.hn",
+    "Name": "CHTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://chtv.hn/",
+    "Logo": "https://i.imgur.com/QLQgwc6.png",
+    "Streams": [
+      {
+        "Url": "https://media.streambrothers.com:1936/8054/8054/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal15DTP.hn",
+    "Name": "Canal 15 DTP",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://channelstore.roku.com/details/0ac4aefcf5dd97a2381d32b3f3744c7f/canal-15-dtp",
+    "Logo": "https://i.imgur.com/QQNcob1.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/dtp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CeibaVisionCanal36.hn",
+    "Name": "Ceiba Vision Canal 36",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.ceibavision.com/",
+    "Logo": "https://i.imgur.com/90h9abf.png",
+    "Streams": [
+      {
+        "Url": "http://154.53.36.15:1935/CANAL36/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CholusatSur36.hn",
+    "Name": "Cholusat Sur 36",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://cholusatsur.com/",
+    "Logo": "https://i.imgur.com/6qL2hE5.png",
+    "Streams": [
+      {
+        "Url": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CholutecaTV.hn",
+    "Name": "Choluteca TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.lametrohn.com/Choluteca-TV",
+    "Logo": "https://i.imgur.com/mpc4Isd.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DTV.hn",
+    "Name": "DTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/UpsLEAV.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/dtv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DiosTeVe.hn",
+    "Name": "Dios Te Ve",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.diosteve.org/",
+    "Logo": "https://i.imgur.com/7hNwUV2.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/diostevetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DiosTeVeKids.hn",
+    "Name": "Dios Te Ve Kids",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "religious,kids",
+    "IsNsfw": false,
+    "Website": "https://www.diosteve.org/",
+    "Logo": "https://i.imgur.com/GnZicVH.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EDNTV.hn",
+    "Name": "EDN TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://edntvhn.com/",
+    "Logo": "https://i.imgur.com/Dq9we3E.png",
+    "Streams": [
+      {
+        "Url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EbenezerTV.hn",
+    "Name": "Ebenezer TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/IC30j61.png",
+    "Streams": [
+      {
+        "Url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JBNTV.hn",
+    "Name": "JBN TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://jbntv.org/",
+    "Logo": "https://i.imgur.com/4EbHIvf.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/jbn/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JehovaTV.hn",
+    "Name": "Jehova TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://jehovatelevision.com/",
+    "Logo": "https://i.imgur.com/ylZKG57.png",
+    "Streams": [
+      {
+        "Url": "https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KerussoTV.hn",
+    "Name": "Kerusso TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/S79uof0.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/kerussotv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LTV.hn",
+    "Name": "LTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ltv.hn/",
+    "Logo": "https://i.imgur.com/KBYUOcP.png",
+    "Streams": [
+      {
+        "Url": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MetroTV.hn",
+    "Name": "Metro TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://www.lametrohn.com/Metro-TV",
+    "Logo": "https://i.imgur.com/BqS8BHi.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/metrotv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "QhuboTV.hn",
+    "Name": "Q'hubo TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://qhubotv.com/",
+    "Logo": "https://i.imgur.com/yZmnfvj.png",
+    "Streams": [
+      {
+        "Url": "https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RHCTV.hn",
+    "Name": "RHC TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/kJUzdlf.png",
+    "Streams": [
+      {
+        "Url": "https://srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioOmegaTV.hn",
+    "Name": "Radio Omega TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://omegaturadio.com/",
+    "Logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+    "Streams": [
+      {
+        "Url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SercanoTV.hn",
+    "Name": "Sercano TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.sercano.com/en-directo/",
+    "Logo": "https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg",
+    "Streams": [
+      {
+        "Url": "http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SulaTV.hn",
+    "Name": "Sula TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/v90r5jS.png",
+    "Streams": [
+      {
+        "Url": "https://sulatv1.ddns.net/hls/live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TENCanal10.hn",
+    "Name": "TEN Canal 10",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tencanal10.tv/",
+    "Logo": "https://i.imgur.com/HQiKyHy.jpg",
+    "Streams": [
+      {
+        "Url": "http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8"
+      },
+      {
+        "Url": "http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCopan.hn",
+    "Name": "TV Copan",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvcopan.com/",
+    "Logo": "https://i.imgur.com/JiPmRFr.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/tvcopan/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVEstrella.hn",
+    "Name": "TV Estrella",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.tvestrella.com/",
+    "Logo": "https://i.imgur.com/QqSR7l7.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/tvestrella/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleDanli.hn",
+    "Name": "TeleDanli",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://teledanli.net/",
+    "Logo": "https://i.imgur.com/BACuUSc.png",
+    "Streams": [
+      {
+        "Url": "https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleProgreso.hn",
+    "Name": "TeleProgreso",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.teleprogreso.tv/",
+    "Logo": "https://i.imgur.com/yBDI3AF.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.zcasthn.com.br/teleprogreso/teleprogreso/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisionMetropolis191.hn",
+    "Name": "Television Metropolis 19.1",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://comunicacionesmetropolis.com/",
+    "Logo": "https://i.imgur.com/X5C1GzB.png",
+    "Streams": [
+      {
+        "Url": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisionMetropolis192.hn",
+    "Name": "Television Metropolis 19.2",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://comunicacionesmetropolis.com/",
+    "Logo": "https://i.imgur.com/QaocW5x.png",
+    "Streams": [
+      {
+        "Url": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ThunderSports.hn",
+    "Name": "Thunder Sports",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://thundersports.hn/tv/",
+    "Logo": "https://thundersports.hn/wp-content/uploads/2021/12/cropped-cropped-1-2-e1639618808117-1.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/tsh/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UNAHUTV.hn",
+    "Name": "UNAH UTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GhzaYbK.png",
+    "Streams": [
+      {
+        "Url": "https://live-utv.unah.edu.hn/web/salida.m3u8"
+      }
+    ]
+  }
+]

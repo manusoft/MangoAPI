@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "EvasionTV.gn",
+    "Name": "Evasion TV",
+    "Country": "GN",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://groupeevasionguinee.info/",
+    "Logo": "https://i.imgur.com/TTWl2Iy.png",
+    "Streams": [
+      {
+        "Url": "https://ssh101.bozztv.com/ssh101/evasiontv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KalacTV.gn",
+    "Name": "Kalac TV",
+    "Country": "GN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.espacetvguinee.info/",
+    "Logo": "https://i.imgur.com/FgKJiHZ.png",
+    "Streams": [
+      {
+        "Url": "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

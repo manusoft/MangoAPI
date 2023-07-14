@@ -1,0 +1,167 @@
+[
+  {
+    "Id": "Canal12.sv",
+    "Name": "Canal 12",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canal12.com.sv/",
+    "Logo": "https://i.imgur.com/UGDbp3O.png",
+    "Streams": [
+      {
+        "Url": "https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal33.sv",
+    "Name": "Canal 33",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5PJNyxP.png",
+    "Streams": [
+      {
+        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal33/"
+      }
+    ]
+  },
+  {
+    "Id": "DiarioTRV.sv",
+    "Name": "Diario TRV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "general,news",
+    "IsNsfw": false,
+    "Website": "https://www.diariotrv.com/",
+    "Logo": "https://i.imgur.com/g5QKQ2E.png",
+    "Streams": [
+      {
+        "Url": "https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ElCaminoTV.sv",
+    "Name": "El Camino TV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.iglesiadelcamino.org/tv/",
+    "Logo": "https://i.imgur.com/ZSktjGB.png",
+    "Streams": [
+      {
+        "Url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ElimTV.sv",
+    "Name": "Elim TV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/payIg0N.png",
+    "Streams": [
+      {
+        "Url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LegislativeAssemblyofElSalvador.sv",
+    "Name": "Legislative Assembly of El Salvador",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.asamblea.gob.sv/",
+    "Logo": "https://i.imgur.com/OBuiCyb.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OrbitaTV.sv",
+    "Name": "Orbita TV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://orbitatv.com/",
+    "Logo": "https://i.imgur.com/cPnWSOw.png",
+    "Streams": [
+      {
+        "Url": "https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TCS.sv",
+    "Name": "TCS",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/LfCLJZb.png",
+    "Streams": [
+      {
+        "Url": "https://secure-video.tcsgo.com/tcshd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TaberTV.sv",
+    "Name": "TaberTV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://tabernaculo.net/",
+    "Logo": "https://i.imgur.com/ikq2iSf.png",
+    "Streams": [
+      {
+        "Url": "https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TribunaTV.sv",
+    "Name": "Tribuna TV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tribunatv.us/",
+    "Logo": "https://i.imgur.com/C5vHpd0.png",
+    "Streams": [
+      {
+        "Url": "https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WOWTV.sv",
+    "Name": "WOW TV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://wowelsalvador.com/",
+    "Logo": "https://i.imgur.com/yk46NxC.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+      }
+    ]
+  }
+]

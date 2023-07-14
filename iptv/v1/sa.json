@@ -1,0 +1,620 @@
+[
+  {
+    "Id": "AhlAlquranTV.sa",
+    "Name": "Ahl-Alquran TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.ahlu.tv/",
+    "Logo": "https://i.imgur.com/xeQvi2z.png",
+    "Streams": [
+      {
+        "Url": "https://www.ahlualquran.tv:25463/live/ssadtv/live-tv/1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlEkhbariya.sa",
+    "Name": "Al Ekhbariya",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/V6QJtl6.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/4.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCV01ajGl6nt09h40iDoHDNg.m3u8"
+      },
+      {
+        "Url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlKhalijTV.sa",
+    "Name": "Al Khalij TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.al-khalij.tv/",
+    "Logo": "https://i.imgur.com/Knd2lAQ.png",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlQuranAlKareemTV.sa",
+    "Name": "Al Quran Al Kareem TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/A2fJysM.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8"
+      },
+      {
+        "Url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+      },
+      {
+        "Url": "https://edge.taghtia.com/sa/7.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlSaudiya.sa",
+    "Name": "Al Saudiya",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://saudiatv.sa/",
+    "Logo": "https://i.imgur.com/GRQTndk.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/2.m3u8"
+      },
+      {
+        "Url": "https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlSunnahAlNabawiyahTV.sa",
+    "Name": "Al Sunnah Al Nabawiyah TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/S6LcTJv.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCROKYPep-UuODNwyipe6JMw.m3u8"
+      },
+      {
+        "Url": "https://edge.taghtia.com/sa/6.m3u8"
+      },
+      {
+        "Url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AsharqNews.sa",
+    "Name": "Asharq News",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "business,news",
+    "IsNsfw": false,
+    "Website": "https://asharq.com/",
+    "Logo": "https://i.imgur.com/bqRC3sl.png",
+    "Streams": [
+      {
+        "Url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+      },
+      {
+        "Url": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8"
+      },
+      {
+        "Url": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AsharqNewsPortrait.sa",
+    "Name": "Asharq News Portrait",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "business,news",
+    "IsNsfw": false,
+    "Website": "https://asharq.com/",
+    "Logo": "https://i.imgur.com/bqRC3sl.png",
+    "Streams": [
+      {
+        "Url": "https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AtfalMawahebTV.sa",
+    "Name": "Atfal & Mawaheb TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://atfal1.com/",
+    "Logo": "https://i.imgur.com/Y2BqP9m.png",
+    "Streams": [
+      {
+        "Url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      },
+      {
+        "Url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Beity.sa",
+    "Name": "Beity",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "outdoor",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/WyRsj6l.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.2:8000/live/7312.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ENTV.sa",
+    "Name": "EN TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/KnKTjev.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.100:8000/live/8130.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IqraaAfricaEurope.sa",
+    "Name": "Iqraa Africa & Europe",
+    "Country": "SA",
+    "Languages": "fra,eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://iqraa.com/",
+    "Logo": "https://i.imgur.com/nUlZvSe.png",
+    "Streams": [
+      {
+        "Url": "https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IqraaArabic.sa",
+    "Name": "Iqraa Arabic",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://iqraa.com/",
+    "Logo": "https://i.imgur.com/HPVsIa4.png",
+    "Streams": [
+      {
+        "Url": "https://jmc-live.ercdn.net/iqraa/iqraa.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JeddahRadio.sa",
+    "Name": "Jeddah Radio",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Q3d7G04.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/15.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KSASports1.sa",
+    "Name": "KSA Sports 1",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ONKNOAp.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/9.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KSASports2.sa",
+    "Name": "KSA Sports 2",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/v8ULLqg.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/10.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KSASports3.sa",
+    "Name": "KSA Sports 3",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/BXfCvez.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/16.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KSASports4.sa",
+    "Name": "KSA Sports 4",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TNZEKP6.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/17.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KaifTV.sa",
+    "Name": "Kaif TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/mkzRTuE.png",
+    "Streams": [
+      {
+        "Url": "http://82.212.74.2:8000/live/hls/7311.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LBC.sa",
+    "Name": "LBC",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://rotana.net/vod-channels/lbc/",
+    "Logo": "https://i.imgur.com/whyZXzW.png",
+    "Streams": [
+      {
+        "Url": "https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8"
+      },
+      {
+        "Url": "https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MakkahTV.sa",
+    "Name": "Makkah TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://makkahtv.tv/",
+    "Logo": "https://i.imgur.com/PRPcOi0.png",
+    "Streams": [
+      {
+        "Url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NidaeAlIslamRadio.sa",
+    "Name": "Nidae AlIslam Radio",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/laEk64E.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/14.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PanoramaFM.sa",
+    "Name": "Panorama FM",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/JkDD3bK.png",
+    "Streams": [
+      {
+        "Url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "QuranRadio.sa",
+    "Name": "Quran Radio",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ut0kr4x.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/13.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaCinemaKSA.sa",
+    "Name": "Rotana Cinema KSA",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.cinema.rotana.net/",
+    "Logo": "https://i.imgur.com/pGgp38I.png",
+    "Streams": [
+      {
+        "Url": "https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8"
+      },
+      {
+        "Url": "https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaClassic.sa",
+    "Name": "Rotana Classic",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "classic",
+    "IsNsfw": false,
+    "Website": "https://rotana.net/",
+    "Logo": "https://i.imgur.com/pMMUvkt.png",
+    "Streams": [
+      {
+        "Url": "https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8"
+      },
+      {
+        "Url": "https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://daiconnect.com/live/hls/rotana/classical/.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaComedy.sa",
+    "Name": "Rotana Comedy",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "comedy",
+    "IsNsfw": false,
+    "Website": "https://rotana.net/",
+    "Logo": "https://i.imgur.com/IlT8U6S.png",
+    "Streams": [
+      {
+        "Url": "https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://daiconnect.com/live/hls/rotana/comedy/.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaDrama.sa",
+    "Name": "Rotana Drama",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://rotana.net/",
+    "Logo": "https://i.imgur.com/btnhPjZ.png",
+    "Streams": [
+      {
+        "Url": "https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://daiconnect.com/live/hls/rotana/drama/.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaKhalijia.sa",
+    "Name": "Rotana Khalijia",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://rotana.net/",
+    "Logo": "https://i.imgur.com/6HMluzv.png",
+    "Streams": [
+      {
+        "Url": "https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8"
+      },
+      {
+        "Url": "https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaKids.sa",
+    "Name": "Rotana Kids",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://rotana.net/",
+    "Logo": "https://i.imgur.com/YQKf0tq.png",
+    "Streams": [
+      {
+        "Url": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaMusic.sa",
+    "Name": "Rotana Music",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://rotana.net/",
+    "Logo": "https://i.imgur.com/2zFQbQi.png",
+    "Streams": [
+      {
+        "Url": "https://daiconnect.com/live/hls/rotana/music/.m3u8"
+      },
+      {
+        "Url": "https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RotanaPlusHD.sa",
+    "Name": "Rotana+ HD",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://rotana.net/",
+    "Logo": "https://i.imgur.com/b1piasb.png",
+    "Streams": [
+      {
+        "Url": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SBC.sa",
+    "Name": "SBC",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://sbctv.sa/",
+    "Logo": "https://i.imgur.com/9JSQglj.png",
+    "Streams": [
+      {
+        "Url": "https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8"
+      },
+      {
+        "Url": "https://edge.taghtia.com/sa/1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SSCActionWaleed.sa",
+    "Name": "SSC Action Waleed",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/agc0IZF.png",
+    "Streams": [
+      {
+        "Url": "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SaudiaRadio.sa",
+    "Name": "Saudia Radio",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/CvrR7wW.png",
+    "Streams": [
+      {
+        "Url": "https://edge.taghtia.com/sa/11.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ThikrayatTV.sa",
+    "Name": "Thikrayat TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "classic",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/AKa1X9d.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCnUrsg20rwVmeK7hai7IdMQ.m3u8"
+      },
+      {
+        "Url": "https://edge.taghtia.com/sa/3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZadTV.sa",
+    "Name": "Zad TV",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.zad.tv/",
+    "Logo": "https://i.imgur.com/GqTAMwt.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8"
+      }
+    ]
+  }
+]

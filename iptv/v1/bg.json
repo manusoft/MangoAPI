@@ -1,0 +1,350 @@
+[
+  {
+    "Id": "AgroTV.bg",
+    "Name": "Agro TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://agrotv.bg/",
+    "Logo": "https://i.imgur.com/tPMNDtD.png",
+    "Streams": [
+      {
+        "Url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "B1BBox.bg",
+    "Name": "B1B Box",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://b1b.tv/",
+    "Logo": "https://i.imgur.com/ahtpiPJ.png",
+    "Streams": [
+      {
+        "Url": "https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Bulgaria24.bg",
+    "Name": "Bulgaria 24",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://bulgaria24.tv/",
+    "Logo": "https://i.imgur.com/lKwoTZX.png",
+    "Streams": [
+      {
+        "Url": "http://79.124.21.251:9777/play/a00x/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CityTV.bg",
+    "Name": "City TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.city.bg/",
+    "Logo": "https://i.imgur.com/StAvd35.png",
+    "Streams": [
+      {
+        "Url": "https://tv.city.bg/play/tshls/citytv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CodeFashionTV.bg",
+    "Name": "Code Fashion TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://tv.codefashion.bg/",
+    "Logo": "https://i.imgur.com/R8UaNsX.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.invivo.bg/Codefashion_5500/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CodeHealthTV.bg",
+    "Name": "Code Health TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://www.codehealth.bg/",
+    "Logo": "https://i.imgur.com/DnTMfxI.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.invivo.bg/codehealth_test/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DSTV.bg",
+    "Name": "DSTV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://dstv-bg.com/",
+    "Logo": "https://i.imgur.com/Dhp3WVn.png",
+    "Streams": [
+      {
+        "Url": "http://46.249.95.140:8081/hls/data.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EuronewsBulgaria.bg",
+    "Name": "Euronews Bulgaria",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://euronewsbulgaria.com/",
+    "Logo": "https://i.imgur.com/Fe7oOgi.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LightChannel.bg",
+    "Name": "Light Channel",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/S3Fbf8T.png",
+    "Streams": [
+      {
+        "Url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MagicTV.bg",
+    "Name": "Magic TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.magic.bg/",
+    "Logo": "https://i.imgur.com/n7bcrrp.png",
+    "Streams": [
+      {
+        "Url": "https://bss1.neterra.tv/magictv/magictv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NovaNews.bg",
+    "Name": "Nova News",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://nova.bg/",
+    "Logo": "https://i.imgur.com/g75WnDf.png",
+    "Streams": [
+      {
+        "Url": "http://79.124.21.251:9777/play/a00v/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RMTV.bg",
+    "Name": "RMTV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://rmtv.bg/img/logo.png",
+    "Streams": [
+      {
+        "Url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV1.bg",
+    "Name": "TV 1",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv1.bg/",
+    "Logo": "https://i.imgur.com/WBcgOUS.png",
+    "Streams": [
+      {
+        "Url": "https://tv1.cloudcdn.bg:8081/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVDarts.bg",
+    "Name": "TV Darts",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://bbgnews.bg/",
+    "Logo": "https://i.imgur.com/3bTXMaR.png",
+    "Streams": [
+      {
+        "Url": "https://streamer103.neterra.tv/darts/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVNBulgaria.bg",
+    "Name": "TVN-Bulgaria",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://tvn.bg/",
+    "Logo": "https://i.imgur.com/kkNtmAW.png",
+    "Streams": [
+      {
+        "Url": "https://obs.friendshipchurch.eu/tvn/mystream.m3u8"
+      },
+      {
+        "Url": "https://obs.friendshipchurch.eu//tvn/mystream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVart.bg",
+    "Name": "TVart",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "culture,travel",
+    "IsNsfw": false,
+    "Website": "https://www.tvart.info/",
+    "Logo": "https://i.imgur.com/YNmrCF7.png",
+    "Streams": [
+      {
+        "Url": "https://stream.osc.bg/tvart/Stream3/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TheVoiceTV.bg",
+    "Name": "The Voice TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://thevoice.bg/",
+    "Logo": "https://i.imgur.com/BjkwQia.png",
+    "Streams": [
+      {
+        "Url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ThisisBulgariaHD.bg",
+    "Name": "This is Bulgaria HD",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://hd.traveltv.bg/",
+    "Logo": "https://i.imgur.com/CvMKrn6.png",
+    "Streams": [
+      {
+        "Url": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TiankovFolk.bg",
+    "Name": "Tiankov Folk",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://tiankov.com/watch-online/",
+    "Logo": "https://i.imgur.com/VKY4q64.png",
+    "Streams": [
+      {
+        "Url": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TiankovOrientFolk.bg",
+    "Name": "Tiankov Orient Folk",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://tiankov.com/watch-online/",
+    "Logo": "https://i.imgur.com/33LexyP.png",
+    "Streams": [
+      {
+        "Url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TravelTV.bg",
+    "Name": "Travel TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": "http://tv.traveltv.bg/",
+    "Logo": "https://i.imgur.com/eZjcf2R.png",
+    "Streams": [
+      {
+        "Url": "https://streamer103.neterra.tv/travel/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "bTV.bg",
+    "Name": "bTV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.btv.bg/",
+    "Logo": "https://i.imgur.com/l47z7gw.png",
+    "Streams": [
+      {
+        "Url": "http://79.124.21.251:9777/play/a00q/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "bTVAction.bg",
+    "Name": "bTV Action",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.btv.bg/action",
+    "Logo": "https://i.imgur.com/hGUXHuT.png",
+    "Streams": [
+      {
+        "Url": "http://79.124.21.251:9777/play/a00w/index.m3u8"
+      }
+    ]
+  }
+]
