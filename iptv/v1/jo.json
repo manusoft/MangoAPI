@@ -1,5 +1,20 @@
 [
   {
+    "Id": "AOneTV.jo",
+    "Name": "A One TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.lyngsat.com/logo/tv/aa/a-one-tv-jo.png",
+    "Streams": [
+      {
+        "Url": "https://master.starmena-cloud.com/hls/a1jo.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlMamlakaTV.jo",
     "Name": "Al Mamlaka TV",
     "Country": "JO",

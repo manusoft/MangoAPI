@@ -30,51 +30,6 @@
     ]
   },
   {
-    "Id": "AlIraqia.iq",
-    "Name": "Al Iraqia",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://imn.iq/",
-    "Logo": "https://i.imgur.com/8qQouTW.jpg",
-    "Streams": [
-      {
-        "Url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlIraqiaNews.iq",
-    "Name": "Al Iraqia News",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://imn.iq/",
-    "Logo": "https://i.imgur.com/feQTXeZ.jpg",
-    "Streams": [
-      {
-        "Url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlJawadainTV.iq",
-    "Name": "Al-Jawadain TV",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/Eo3UYCK.png",
-    "Streams": [
-      {
-        "Url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlNaeemTV.iq",
     "Name": "Al-Naeem TV",
     "Country": "IQ",

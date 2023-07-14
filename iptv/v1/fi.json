@@ -30,6 +30,21 @@
     ]
   },
   {
+    "Id": "ArvasTV.fi",
+    "Name": "ArvasTV",
+    "Country": "FI",
+    "Languages": "swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.arvastv.fi/",
+    "Logo": "https://i.imgur.com/3bCh0qE.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC__baaN73Zp5Hn0N_d4BTdg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HimlenTV7.fi",
     "Name": "Himlen TV7",
     "Country": "FI",

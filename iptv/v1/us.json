@@ -494,6 +494,9 @@
     "Streams": [
       {
         "Url": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"
+      },
+      {
+        "Url": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8"
       }
     ]
   },
@@ -638,21 +641,6 @@
     "Streams": [
       {
         "Url": "https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AccessSarasota.us",
-    "Name": "Access Sarasota",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://www.scgov.net/government/communications/access-sarasota",
-    "Logo": "https://i.imgur.com/XrEXXHn.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8"
       }
     ]
   },
@@ -1748,6 +1736,21 @@
     "Streams": [
       {
         "Url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AvangTV.us",
+    "Name": "Avang TV",
+    "Country": "US",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.avang.com/",
+    "Logo": "https://i.imgur.com/3I1n7fO.png",
+    "Streams": [
+      {
+        "Url": "https://hls.avang.live/hls/stream.m3u8"
       }
     ]
   },

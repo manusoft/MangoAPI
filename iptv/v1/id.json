@@ -30,21 +30,6 @@
     ]
   },
   {
-    "Id": "ATVLIChannel.id",
-    "Name": "ATVLI Channel",
-    "Country": "ID",
-    "Languages": "ind",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/4mDdGMs/IMG-20230629-145746.jpg",
-    "Streams": [
-      {
-        "Url": "https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AhsanTV.id",
     "Name": "Ahsan TV",
     "Country": "ID",

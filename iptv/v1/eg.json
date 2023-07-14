@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "AlKaheraWalNas.eg",
-    "Name": "Al Kahera Wal Nas",
-    "Country": "EG",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.alkaherawalnas.com/",
-    "Logo": "https://i.imgur.com/xa7RK5p.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlQaheraNews.eg",
     "Name": "Al Qahera News",
     "Country": "EG",

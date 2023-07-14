@@ -15,6 +15,36 @@
     ]
   },
   {
+    "Id": "ATV.pe",
+    "Name": "ATV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.atv.pe/",
+    "Logo": "https://i.imgur.com/eUzYZfg.png",
+    "Streams": [
+      {
+        "Url": "https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATVPlus.pe",
+    "Name": "ATV+",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.atv.pe/",
+    "Logo": "https://i.imgur.com/fY9256H.png",
+    "Streams": [
+      {
+        "Url": "https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ATVSur.pe",
     "Name": "ATV Sur",
     "Country": "PE",
@@ -26,21 +56,6 @@
     "Streams": [
       {
         "Url": "https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AmazonasTV.pe",
-    "Name": "Amazonas TV",
-    "Country": "PE",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://radiostereo99baguagrande.com/",
-    "Logo": "https://i.imgur.com/4LIzhq8.png",
-    "Streams": [
-      {
-        "Url": "https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8"
       }
     ]
   },

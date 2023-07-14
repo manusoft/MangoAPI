@@ -60,6 +60,21 @@
     ]
   },
   {
+    "Id": "AsfiyahiTV.sn",
+    "Name": "Asfiyahi TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.asfiyahi.org/",
+    "Logo": "https://i.imgur.com/tDuvfsh.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCLAOTbXfGlOL0gBXcqFU7Dg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CNMTV.sn",
     "Name": "CNM TV",
     "Country": "SN",

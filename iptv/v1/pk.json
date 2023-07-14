@@ -48,21 +48,6 @@
     ]
   },
   {
-    "Id": "ARYNews.pk",
-    "Name": "ARY News",
-    "Country": "PK",
-    "Languages": "urd",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.arynews.tv/en/",
-    "Logo": "https://i.imgur.com/R4KtTbJ.jpg",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AajNews.pk",
     "Name": "Aaj News",
     "Country": "PK",

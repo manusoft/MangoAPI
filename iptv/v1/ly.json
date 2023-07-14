@@ -1,5 +1,20 @@
 [
   {
+    "Id": "AlMasarTV.ly",
+    "Name": "Al Masar TV",
+    "Country": "LY",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://almasartv.ly/",
+    "Logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+    "Streams": [
+      {
+        "Url": "https://master.starmena-cloud.com/hls/almasar.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlwasatTV.ly",
     "Name": "Alwasat TV",
     "Country": "LY",

@@ -75,6 +75,21 @@
     ]
   },
   {
+    "Id": "Action24.gr",
+    "Name": "Action 24",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://action24.gr/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg",
+    "Streams": [
+      {
+        "Url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AeolosTV.gr",
     "Name": "Aeolos TV",
     "Country": "GR",
@@ -86,21 +101,6 @@
     "Streams": [
       {
         "Url": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AigaioTV.gr",
-    "Name": "Aigaio TV",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.aigaiotv.gr/",
-    "Logo": "https://i.imgur.com/7LfuDJi.png",
-    "Streams": [
-      {
-        "Url": "https://tna5.bozztv.com/aigaiotv1/index.m3u8"
       }
     ]
   },
@@ -131,6 +131,21 @@
     "Streams": [
       {
         "Url": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AtticaTV.gr",
+    "Name": "Attica TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.atticatv.gr/",
+    "Logo": "https://i.imgur.com/s3qWC9W.png",
+    "Streams": [
+      {
+        "Url": "http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8"
       }
     ]
   },

@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "AlltheKPop.kr",
-    "Name": "All the K-Pop",
-    "Country": "KR",
-    "Languages": "kor",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/IFLXi6n.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AndongMBCTV.kr",
     "Name": "Andong MBC TV",
     "Country": "KR",

@@ -1587,21 +1587,6 @@
     ]
   },
   {
-    "Id": "ABNAndhraJyoti.in",
-    "Name": "ABN Andhra Jyoti",
-    "Country": "IN",
-    "Languages": "tel",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.andhrajyothy.com/",
-    "Logo": "https://i.imgur.com/gcoiZJ3.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ABNsat.iq",
     "Name": "ABNsat",
     "Country": "IQ",
@@ -1628,21 +1613,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ABPAsmita.in",
-    "Name": "ABP Asmita",
-    "Country": "IN",
-    "Languages": "guj",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://gujarati.abplive.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC3C6_1ETXfE807LltDbKYxg.m3u8"
       }
     ]
   },
@@ -1718,21 +1688,6 @@
     "Streams": [
       {
         "Url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ACISportTV.it",
-    "Name": "ACI Sport TV",
-    "Country": "IT",
-    "Languages": "ita",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "https://www.acisport.it/",
-    "Logo": "https://i.imgur.com/iLXjMvB.png",
-    "Streams": [
-      {
-        "Url": "https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8"
       }
     ]
   },
@@ -1935,6 +1890,21 @@
     ]
   },
   {
+    "Id": "AITTV.gh",
+    "Name": "AIT TV",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvait.com/",
+    "Logo": "https://i.imgur.com/xtrs7ej.png",
+    "Streams": [
+      {
+        "Url": "https://livetv.tvait.com:1935/hls/stream1.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AKCTV.us",
     "Name": "AKC TV",
     "Country": "US",
@@ -1946,6 +1916,9 @@
     "Streams": [
       {
         "Url": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"
+      },
+      {
+        "Url": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8"
       }
     ]
   },
@@ -2025,6 +1998,21 @@
     ]
   },
   {
+    "Id": "ANT1Cyprus.cy",
+    "Name": "ANT1 Cyprus",
+    "Country": "CY",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ant1.com.cy/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/512px-ANT1_Greek_channel_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ANTV.id",
     "Name": "ANTV",
     "Country": "ID",
@@ -2051,6 +2039,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AOneTV.jo",
+    "Name": "A One TV",
+    "Country": "JO",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.lyngsat.com/logo/tv/aa/a-one-tv-jo.png",
+    "Streams": [
+      {
+        "Url": "https://master.starmena-cloud.com/hls/a1jo.m3u8"
       }
     ]
   },
@@ -2171,21 +2174,6 @@
     "Streams": [
       {
         "Url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ARYNews.pk",
-    "Name": "ARY News",
-    "Country": "PK",
-    "Languages": "urd",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.arynews.tv/en/",
-    "Logo": "https://i.imgur.com/R4KtTbJ.jpg",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8"
       }
     ]
   },
@@ -2424,6 +2412,36 @@
     ]
   },
   {
+    "Id": "ATV.pe",
+    "Name": "ATV",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.atv.pe/",
+    "Logo": "https://i.imgur.com/eUzYZfg.png",
+    "Streams": [
+      {
+        "Url": "https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATV.xk",
+    "Name": "ATV",
+    "Country": "XK",
+    "Languages": "sqi",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://atvlive.tv/",
+    "Logo": "https://i.imgur.com/lX6sekx.png",
+    "Streams": [
+      {
+        "Url": "https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/zyq001.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ATVAlanya.tr",
     "Name": "ATV Alanya",
     "Country": "TR",
@@ -2514,17 +2532,17 @@
     ]
   },
   {
-    "Id": "ATVLIChannel.id",
-    "Name": "ATVLI Channel",
-    "Country": "ID",
-    "Languages": "ind",
-    "Categories": "general",
+    "Id": "ATVPlus.pe",
+    "Name": "ATV+",
+    "Country": "PE",
+    "Languages": "spa",
+    "Categories": "news",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/4mDdGMs/IMG-20230629-145746.jpg",
+    "Website": "https://www.atv.pe/",
+    "Logo": "https://i.imgur.com/fY9256H.png",
     "Streams": [
       {
-        "Url": "https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8"
+        "Url": "https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8"
       }
     ]
   },
@@ -2739,6 +2757,21 @@
     ]
   },
   {
+    "Id": "AYVTVEntertainment.sl",
+    "Name": "AYV TV Entertainment",
+    "Country": "SL",
+    "Languages": "eng",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://ayvnews.com/channel-34/",
+    "Logo": "https://www.vivalivetv.com/public/files/shows/0/1/1978-294x165-FFFFFF.jpg",
+    "Streams": [
+      {
+        "Url": "https://1423954428.rsc.cdn77.org/live/ngrp:stream-1_all/chunklist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AZATVHD.hn",
     "Name": "AZA TV HD",
     "Country": "HN",
@@ -2795,6 +2828,21 @@
     "Streams": [
       {
         "Url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AaseervathamTV.in",
+    "Name": "Aaseervatham TV",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GlfrYs7.png",
+    "Streams": [
+      {
+        "Url": "https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8"
       }
     ]
   },
@@ -2979,21 +3027,6 @@
     ]
   },
   {
-    "Id": "AccessSarasota.us",
-    "Name": "Access Sarasota",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://www.scgov.net/government/communications/access-sarasota",
-    "Logo": "https://i.imgur.com/XrEXXHn.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AccuWeatherNOW.us",
     "Name": "AccuWeather NOW",
     "Country": "US",
@@ -3035,6 +3068,21 @@
     "Streams": [
       {
         "Url": "http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Action24.gr",
+    "Name": "Action 24",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://action24.gr/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg",
+    "Streams": [
+      {
+        "Url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
       }
     ]
   },
@@ -4131,21 +4179,6 @@
     ]
   },
   {
-    "Id": "AigaioTV.gr",
-    "Name": "Aigaio TV",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.aigaiotv.gr/",
-    "Logo": "https://i.imgur.com/7LfuDJi.png",
-    "Streams": [
-      {
-        "Url": "https://tna5.bozztv.com/aigaiotv1/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AioSport1.ir",
     "Name": "Aio Sport 1",
     "Country": "IR",
@@ -4590,69 +4623,6 @@
     ]
   },
   {
-    "Id": "AlIraqia.iq",
-    "Name": "Al Iraqia",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://imn.iq/",
-    "Logo": "https://i.imgur.com/8qQouTW.jpg",
-    "Streams": [
-      {
-        "Url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlIraqiaNews.iq",
-    "Name": "Al Iraqia News",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://imn.iq/",
-    "Logo": "https://i.imgur.com/feQTXeZ.jpg",
-    "Streams": [
-      {
-        "Url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlIttihad.lb",
-    "Name": "Al Ittihad",
-    "Country": "LB",
-    "Languages": "ara",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/QMUjPXx.png",
-    "Streams": [
-      {
-        "Url": "http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8"
-      },
-      {
-        "Url": "https://live.alittihad.tv:444/ittihad/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlJawadainTV.iq",
-    "Name": "Al-Jawadain TV",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/Eo3UYCK.png",
-    "Streams": [
-      {
-        "Url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlJazeeraBalkans.ba",
     "Name": "Al Jazeera Balkans",
     "Country": "BA",
@@ -4739,21 +4709,6 @@
     "Streams": [
       {
         "Url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlKaheraWalNas.eg",
-    "Name": "Al Kahera Wal Nas",
-    "Country": "EG",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.alkaherawalnas.com/",
-    "Logo": "https://i.imgur.com/xa7RK5p.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8"
       }
     ]
   },
@@ -4862,6 +4817,21 @@
       },
       {
         "Url": "https://manar.live/x.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlMasarTV.ly",
+    "Name": "Al Masar TV",
+    "Country": "LY",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://almasartv.ly/",
+    "Logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+    "Streams": [
+      {
+        "Url": "https://master.starmena-cloud.com/hls/almasar.m3u8"
       }
     ]
   },
@@ -5125,9 +5095,6 @@
     "Logo": "https://i.imgur.com/GRQTndk.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UC2mWeEHv9IY6i74okFMkGPw.m3u8"
-      },
-      {
         "Url": "https://edge.taghtia.com/sa/2.m3u8"
       },
       {
@@ -5367,9 +5334,6 @@
     "Website": "https://www.alarabiya.net/",
     "Logo": "https://i.imgur.com/NXFkYFj.png",
     "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCahpxixMCwoANAftn6IxkTg.m3u8"
-      },
       {
         "Url": "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
       },
@@ -5907,21 +5871,6 @@
     ]
   },
   {
-    "Id": "AlltheKPop.kr",
-    "Name": "All the K-Pop",
-    "Country": "KR",
-    "Languages": "kor",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/IFLXi6n.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlmagdTVMiddleEast.us",
     "Name": "Almagd TV Middle East",
     "Country": "US",
@@ -6012,6 +5961,21 @@
     ]
   },
   {
+    "Id": "AlpedHuezTV.fr",
+    "Name": "Alpe d'Huez TV",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/090tCQ5.png",
+    "Streams": [
+      {
+        "Url": "https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlpenlandTV.ch",
     "Name": "Alpenland TV",
     "Country": "CH",
@@ -6053,6 +6017,21 @@
     "Streams": [
       {
         "Url": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlphaTVCyprus.cy",
+    "Name": "Alpha TV Cyprus",
+    "Country": "CY",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.alphacyprus.com.cy/",
+    "Logo": "https://i.imgur.com/No45vwk.png",
+    "Streams": [
+      {
+        "Url": "http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8"
       }
     ]
   },
@@ -6333,21 +6312,6 @@
     ]
   },
   {
-    "Id": "AmazonasTV.pe",
-    "Name": "Amazonas TV",
-    "Country": "PE",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://radiostereo99baguagrande.com/",
-    "Logo": "https://i.imgur.com/4LIzhq8.png",
-    "Streams": [
-      {
-        "Url": "https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Ame47.do",
     "Name": "Ame 47",
     "Country": "DO",
@@ -6542,6 +6506,21 @@
     "Streams": [
       {
         "Url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AmharaTV.et",
+    "Name": "Amhara TV",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.amharaweb.com/",
+    "Logo": "https://i.imgur.com/0ImAGaI.png",
+    "Streams": [
+      {
+        "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/amma_1.m3u8"
       }
     ]
   },
@@ -7149,6 +7128,21 @@
     ]
   },
   {
+    "Id": "Aqjaiyq.kz",
+    "Name": "Aqjaiyq",
+    "Country": "KZ",
+    "Languages": "kaz",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://oraltv.kz/",
+    "Logo": "https://i.imgur.com/ZqIzzmf.png",
+    "Streams": [
+      {
+        "Url": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Aqtobe.kz",
     "Name": "Aqtobe",
     "Country": "KZ",
@@ -7635,6 +7629,36 @@
     ]
   },
   {
+    "Id": "ArvasTV.fi",
+    "Name": "ArvasTV",
+    "Country": "FI",
+    "Languages": "swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.arvastv.fi/",
+    "Logo": "https://i.imgur.com/3bCh0qE.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC__baaN73Zp5Hn0N_d4BTdg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AsfiyahiTV.sn",
+    "Name": "Asfiyahi TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.asfiyahi.org/",
+    "Logo": "https://i.imgur.com/tDuvfsh.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCLAOTbXfGlOL0gBXcqFU7Dg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Asgabat.tm",
     "Name": "Asgabat",
     "Country": "TM",
@@ -7947,6 +7971,21 @@
     ]
   },
   {
+    "Id": "AstroNet.ar",
+    "Name": "Astro Net",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "science",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/SNbLfau.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AstroTV.de",
     "Name": "AstroTV",
     "Country": "DE",
@@ -8084,6 +8123,21 @@
     "Streams": [
       {
         "Url": "https://atomic.streamnet.ro/atomictv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AtticaTV.gr",
+    "Name": "Attica TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.atticatv.gr/",
+    "Logo": "https://i.imgur.com/s3qWC9W.png",
+    "Streams": [
+      {
+        "Url": "http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8"
       }
     ]
   },
@@ -8259,6 +8313,36 @@
     ]
   },
   {
+    "Id": "AvangTV.us",
+    "Name": "Avang TV",
+    "Country": "US",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.avang.com/",
+    "Logo": "https://i.imgur.com/3I1n7fO.png",
+    "Streams": [
+      {
+        "Url": "https://hls.avang.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AventurasTV.ar",
+    "Name": "Aventuras TV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/qt6g1wi.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Avers.ua",
     "Name": "Avers",
     "Country": "UA",
@@ -8319,21 +8403,6 @@
     ]
   },
   {
-    "Id": "AwakeningTV.in",
-    "Name": "Awakening TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://awakeningtv.in/",
-    "Logo": "https://i.imgur.com/p26iWOi.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCQ8kxAu_on_YzVPMjB03rqA.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AxarquiaTV.es",
     "Name": "Axarquia TV",
     "Country": "ES",
@@ -8349,21 +8418,6 @@
     ]
   },
   {
-    "Id": "Ayaat.sa",
-    "Name": "Ayaat",
-    "Country": "SA",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/PUUb1gI.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AysenTV.cl",
     "Name": "Aysen TV",
     "Country": "CL",
@@ -8375,21 +8429,6 @@
     "Streams": [
       {
         "Url": "https://v1.tustreaming.cl/aysentv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AyushTV.in",
-    "Name": "Ayush TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": "https://www.ayushtv.com/",
-    "Logo": "https://i.imgur.com/PWzvp0B.png",
-    "Streams": [
-      {
-        "Url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
       }
     ]
   },
@@ -8423,54 +8462,6 @@
     "Streams": [
       {
         "Url": "https://str.yodacdn.net/aztv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AzadTV.az",
-    "Name": "Azad TV",
-    "Country": "AZ",
-    "Languages": "aze",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.atv.az/",
-    "Logo": "https://i.imgur.com/rDYSoRL.png",
-    "Streams": [
-      {
-        "Url": "http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8"
-      },
-      {
-        "Url": "http://85.132.81.184:8080/atv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AzadTVMinus2.az",
-    "Name": "Azad TV -2",
-    "Country": "AZ",
-    "Languages": "aze",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/rDYSoRL.png",
-    "Streams": [
-      {
-        "Url": "http://85.132.81.184:8080/atv-2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AzadTVMinus4.az",
-    "Name": "Azad TV -4",
-    "Country": "AZ",
-    "Languages": "aze",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/rDYSoRL.png",
-    "Streams": [
-      {
-        "Url": "http://85.132.81.184:8080/atv-4/index.m3u8"
       }
     ]
   },

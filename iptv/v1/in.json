@@ -75,21 +75,6 @@
     ]
   },
   {
-    "Id": "ABNAndhraJyoti.in",
-    "Name": "ABN Andhra Jyoti",
-    "Country": "IN",
-    "Languages": "tel",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.andhrajyothy.com/",
-    "Logo": "https://i.imgur.com/gcoiZJ3.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ABPAnanda.in",
     "Name": "ABP Ananda",
     "Country": "IN",
@@ -101,21 +86,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ABPAsmita.in",
-    "Name": "ABP Asmita",
-    "Country": "IN",
-    "Languages": "guj",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://gujarati.abplive.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC3C6_1ETXfE807LltDbKYxg.m3u8"
       }
     ]
   },
@@ -206,6 +176,21 @@
     "Streams": [
       {
         "Url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AaseervathamTV.in",
+    "Name": "Aaseervatham TV",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GlfrYs7.png",
+    "Streams": [
+      {
+        "Url": "https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8"
       }
     ]
   },
@@ -566,36 +551,6 @@
     "Streams": [
       {
         "Url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AwakeningTV.in",
-    "Name": "Awakening TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://awakeningtv.in/",
-    "Logo": "https://i.imgur.com/p26iWOi.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCQ8kxAu_on_YzVPMjB03rqA.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AyushTV.in",
-    "Name": "Ayush TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": "https://www.ayushtv.com/",
-    "Logo": "https://i.imgur.com/PWzvp0B.png",
-    "Streams": [
-      {
-        "Url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
       }
     ]
   },
