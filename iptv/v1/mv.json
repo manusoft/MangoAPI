@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "RaajjeTV.mv",
+    "Name": "Raajje TV",
+    "Country": "MV",
+    "Languages": "div",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://raajje.mv/",
+    "Logo": "https://i.imgur.com/NvYCCGl.png",
+    "Streams": [
+      {
+        "Url": "https://stream.raajje.mv/live/rtv_live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VTV.mv",
+    "Name": "VTV",
+    "Country": "MV",
+    "Languages": "div",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.vnews.mv/",
+    "Logo": "https://i.imgur.com/6bY9Umo.png",
+    "Streams": [
+      {
+        "Url": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8"
+      },
+      {
+        "Url": "http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8"
+      }
+    ]
+  }
+]

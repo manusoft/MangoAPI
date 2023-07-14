@@ -1,0 +1,317 @@
+[
+  {
+    "Id": "ATB.bo",
+    "Name": "ATB",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.atb.com.bo/",
+    "Logo": "https://i.imgur.com/E243X2x.png",
+    "Streams": [
+      {
+        "Url": "http://186.121.206.197/live/daniel/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AbyaYalaTV.bo",
+    "Name": "Abya Yala TV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://abyayala.tv.bo/",
+    "Logo": "https://comteco.com.bo/img/upload/canales/abya-yala.png",
+    "Streams": [
+      {
+        "Url": "https://master.tucableip.com/abyayalatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoliviaTV.bo",
+    "Name": "Bolivia TV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.boliviatv.bo/principal/vivo71.php",
+    "Logo": "https://i.imgur.com/Jj2KB5H.png",
+    "Streams": [
+      {
+        "Url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoliviaTV72.bo",
+    "Name": "Bolivia TV 7.2",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/E7Qxyi0.png",
+    "Streams": [
+      {
+        "Url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoliviaTV72Deportes.bo",
+    "Name": "Bolivia TV 7.2 Deportes",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.boliviatv.bo/principal/vivo72.php",
+    "Logo": "https://comteco.com.bo/img/upload/canales/e9mHku.png",
+    "Streams": [
+      {
+        "Url": "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Ceacom.bo",
+    "Name": "Ceacom",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ceacomtv.com/tvenvivo/",
+    "Logo": "https://i.imgur.com/hutdRfk.png",
+    "Streams": [
+      {
+        "Url": "https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DTPlay.bo",
+    "Name": "DT Play",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://deportetotal.com.bo/dtplay/",
+    "Logo": "https://i.imgur.com/2nVIjho.png",
+    "Streams": [
+      {
+        "Url": "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Erbol.bo",
+    "Name": "Erbol",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://erbol.com.bo/",
+    "Logo": "https://i.imgur.com/hn1KI7t.png",
+    "Streams": [
+      {
+        "Url": "https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FTV.bo",
+    "Name": "FTV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.facetas-deportivas.com.bo/facetas-tv-al-vuvo/",
+    "Logo": "https://i.imgur.com/YOr1Oac.png",
+    "Streams": [
+      {
+        "Url": "https://master.tucableip.com/ftv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MegaTV.bo",
+    "Name": "MegaTV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/3d4uiZF.png",
+    "Streams": [
+      {
+        "Url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTP.bo",
+    "Name": "RTP",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rtpbolivia.com.bo/",
+    "Logo": "https://i.imgur.com/cECNvvr.png",
+    "Streams": [
+      {
+        "Url": "http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RedADvenirTV.bo",
+    "Name": "RedADvenir TV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://redadvenir.org/",
+    "Logo": "https://i.imgur.com/WGkMt2j.png",
+    "Streams": [
+      {
+        "Url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEOTV1FHD.bo",
+    "Name": "SEO TV 1 FHD",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://live.seo.tv.bo/seo.html",
+    "Logo": "https://i.imgur.com/aTcJ5p3.png",
+    "Streams": [
+      {
+        "Url": "https://live.seo.tv.bo/live/1SEO.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEOTV2Kids.bo",
+    "Name": "SEO TV 2 Kids",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://live.seo.tv.bo/kids.html",
+    "Logo": "https://i.imgur.com/BC0Ii7i.png",
+    "Streams": [
+      {
+        "Url": "https://live.seo.tv.bo/live/2SEO.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEOTV3Novelas.bo",
+    "Name": "SEO TV 3 Novelas",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://live.seo.tv.bo/nvls.html",
+    "Logo": "https://i.imgur.com/aTcJ5p3.png",
+    "Streams": [
+      {
+        "Url": "https://live.seo.tv.bo/live/3SEO.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEOTV4Peliculas.bo",
+    "Name": "SEO TV 4 Peliculas",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://live.seo.tv.bo/peliculas.html",
+    "Logo": "https://i.imgur.com/aTcJ5p3.png",
+    "Streams": [
+      {
+        "Url": "https://live.seo.tv.bo/live/4SEO.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEOTV5Deportes.bo",
+    "Name": "SEO TV 5 Deportes",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://live.seo.tv.bo/TDA.html",
+    "Logo": "https://i.imgur.com/N56B7si.png",
+    "Streams": [
+      {
+        "Url": "https://live.seo.tv.bo/live/5SEO.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEOTV6.bo",
+    "Name": "SEO TV 6",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://live.seo.tv.bo/TV.html",
+    "Logo": "https://i.imgur.com/aTcJ5p3.png",
+    "Streams": [
+      {
+        "Url": "https://live.seo.tv.bo/live/6SEO.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SEOTV7.bo",
+    "Name": "SEO TV 7",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://live.seo.tv.bo/TV2.html",
+    "Logo": "https://i.imgur.com/aTcJ5p3.png",
+    "Streams": [
+      {
+        "Url": "https://live.seo.tv.bo/live/7SEO.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVLatina.bo",
+    "Name": "TV Latina",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.audiokiss.com/tvlatina/",
+    "Logo": "https://i.imgur.com/V6wxEdh.png",
+    "Streams": [
+      {
+        "Url": "https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "XTOTV.bo",
+    "Name": "XTOTV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/MLwLlWl.png",
+    "Streams": [
+      {
+        "Url": "http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8"
+      }
+    ]
+  }
+]

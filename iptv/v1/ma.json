@@ -1,0 +1,182 @@
+[
+  {
+    "Id": "2M.ma",
+    "Name": "2M",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://2m.ma/",
+    "Logo": "https://i.imgur.com/PJYTfHi.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlAoulaEurope.ma",
+    "Name": "Al Aoula Europe",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.alaoula.ma/",
+    "Logo": "https://i.imgur.com/df7D3KR.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlAoulaLaayoune.ma",
+    "Name": "Al Aoula Laayoune",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wFgljHj.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlMaghribia.ma",
+    "Name": "Al Maghribia",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7GaahYh.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Arrabiaa.ma",
+    "Name": "Arrabiaa",
+    "Country": "MA",
+    "Languages": "ara,fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/mrwFI2L.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Assadissa.ma",
+    "Name": "Assadissa",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.assadissatv.ma/",
+    "Logo": "https://i.imgur.com/un6qTGO.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ChadaTV.ma",
+    "Name": "Chada TV",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://chadatv.com/",
+    "Logo": "https://i.imgur.com/inJyJBN.png",
+    "Streams": [
+      {
+        "Url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "M24TV.ma",
+    "Name": "M24 TV",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://m24tv.ma/",
+    "Logo": "https://i.imgur.com/7uv5Feu.png",
+    "Streams": [
+      {
+        "Url": "https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Medi1TVAfrique.ma",
+    "Name": "Medi 1 TV Afrique",
+    "Country": "MA",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/gHwCFb0.png",
+    "Streams": [
+      {
+        "Url": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Medi1TVArabic.ma",
+    "Name": "Medi 1 TV Arabic",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.medi1tv.ma/",
+    "Logo": "https://i.imgur.com/n7Wr9mR.png",
+    "Streams": [
+      {
+        "Url": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Medi1TVMaghreb.ma",
+    "Name": "Medi 1 TV Maghreb",
+    "Country": "MA",
+    "Languages": "fra,ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.medi1tv.ma/",
+    "Logo": "https://i.imgur.com/MosTwQW.png",
+    "Streams": [
+      {
+        "Url": "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Tamazight.ma",
+    "Name": "Tamazight",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.tamazight-tv.ma/",
+    "Logo": "https://i.imgur.com/RuxiIGY.png",
+    "Streams": [
+      {
+        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8"
+      }
+    ]
+  }
+]

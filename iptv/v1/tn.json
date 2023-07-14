@@ -1,0 +1,113 @@
+[
+  {
+    "Id": "IFMTV.tn",
+    "Name": "IFM TV",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/9oEaZ9Y.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JawharaTV.tn",
+    "Name": "Jawhara TV",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.jawharafm.net/",
+    "Logo": "https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg",
+    "Streams": [
+      {
+        "Url": "https://streaming.toutech.net/live/jtv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MosaiqueFM.tn",
+    "Name": "Mosaique FM",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.mosaiquefm.net/",
+    "Logo": "https://i.imgur.com/GDUykah.png",
+    "Streams": [
+      {
+        "Url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Nessma.tn",
+    "Name": "Nessma",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/9fCWIT4.png",
+    "Streams": [
+      {
+        "Url": "https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SahelTV.tn",
+    "Name": "Sahel TV",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/vAaksTk.png",
+    "Streams": [
+      {
+        "Url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Watania1.tn",
+    "Name": "Watania 1",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.watania1.tn/",
+    "Logo": "https://i.imgur.com/wMoxANe.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8"
+      },
+      {
+        "Url": "http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Watania2.tn",
+    "Name": "Watania 2",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.watania2.tn/",
+    "Logo": "https://i.imgur.com/TL6Kjij.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCJW9gatYczI191TunQxMGbA.m3u8"
+      },
+      {
+        "Url": "http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8"
+      }
+    ]
+  }
+]

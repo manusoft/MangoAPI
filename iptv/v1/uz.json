@@ -1,0 +1,77 @@
+[
+  {
+    "Id": "BIZTV.uz",
+    "Name": "BIZ TV",
+    "Country": "UZ",
+    "Languages": "uzb",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://biztv.uz/",
+    "Logo": "https://biztv.uz/static/media/logo.5f993187.png",
+    "Streams": [
+      {
+        "Url": "https://st.biztv.uz/hls/stream_hi/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Milliy.uz",
+    "Name": "Milliy",
+    "Country": "UZ",
+    "Languages": "uzb",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/v4FBm26.png",
+    "Streams": [
+      {
+        "Url": "http://milliy.tv/hls/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NevoMusic.uz",
+    "Name": "NevoMusic",
+    "Country": "UZ",
+    "Languages": "uzb",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://nevomusic.net/",
+    "Logo": "https://i.ibb.co/pxBYNNS/channels4-profile-1.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RizaNovaTV.uz",
+    "Name": "RizaNova TV",
+    "Country": "UZ",
+    "Languages": "uzb",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://imgtr.ee/images/2023/05/24/wQLVx.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCDPnSqLmYqHadD6VkrRiarg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "YangiKulguTV.uz",
+    "Name": "YangiKulgu TV",
+    "Country": "UZ",
+    "Languages": "uzb",
+    "Categories": "comedy",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/FbRG58b/channels4-profile.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC9OpmkDt-iR0sNAL29_zPJw.m3u8"
+      }
+    ]
+  }
+]

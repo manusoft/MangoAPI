@@ -1,0 +1,470 @@
+[
+  {
+    "Id": "ACNN.ng",
+    "Name": "ACNN",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.acnntv.com/",
+    "Logo": "https://i.imgur.com/91JLpxr.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming.viewmedia.tv/web_014/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATN.ng",
+    "Name": "ATN",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://atlanticnetwork.tv/",
+    "Logo": "https://i.ibb.co/9nHgK9t/logo-light.jpg",
+    "Streams": [
+      {
+        "Url": "https://tv.ifastekpanel.com:3013/live/atntvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AfricaTV1.ng",
+    "Name": "Africa TV1",
+    "Country": "NG",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/soDiTxg.jpeg",
+    "Streams": [
+      {
+        "Url": "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AfricaTV2.ng",
+    "Name": "Africa TV2",
+    "Country": "NG",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GXa37c7.png",
+    "Streams": [
+      {
+        "Url": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AfricaTV3.ng",
+    "Name": "Africa TV3",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/iibE9WL.png",
+    "Streams": [
+      {
+        "Url": "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BrideTV.ng",
+    "Name": "Bride TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://bridetv.org/",
+    "Logo": "https://i.imgur.com/snZMucg.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming.viewmedia.tv/web_013/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CaughtUpTV.ng",
+    "Name": "Caught-Up TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7jeoulU.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ChannelsTV.ng",
+    "Name": "Channels TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.channelstv.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ChosenTVEnglish.ng",
+    "Name": "Chosen TV English",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tlccrm.org/",
+    "Logo": "https://www.lyngsat.com/logo/tv/cc/chosen-tv-ng.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming-2.viewmedia.tv/web_024/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CozaTV.ng",
+    "Name": "Coza TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://coza.org.ng/",
+    "Logo": "https://i.imgur.com/QVBdpuF.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming-7.viewmedia.tv/web_097/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DoveTV.ng",
+    "Name": "Dove TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://dovevision.org/",
+    "Logo": "https://i.imgur.com/wOlMfCR.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FoursquareTV.ng",
+    "Name": "Foursquare TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://foursquare.org.ng/",
+    "Logo": "https://i.imgur.com/ORer9ag.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GalaxyTV.ng",
+    "Name": "Galaxy TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.galaxytvonline.com/",
+    "Logo": "https://i.imgur.com/BV0JuyX.png",
+    "Streams": [
+      {
+        "Url": "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LagosTelevision.ng",
+    "Name": "Lagos Television",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/DlerC3J.png",
+    "Streams": [
+      {
+        "Url": "http://185.105.4.193:1935/ltv/myStream/playlist.m3u8"
+      },
+      {
+        "Url": "https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LoveWorldPersia.ng",
+    "Name": "LoveWorld Persia",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://loveworldpersia.org/",
+    "Logo": "https://i.imgur.com/Vd2xPxh.png",
+    "Streams": [
+      {
+        "Url": "https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MastersTV.ng",
+    "Name": "Master's TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://themastersplace.org/",
+    "Logo": "https://www.lyngsat.com/logo/tv/mm/masters-tv-ng.png",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTAInternational.ng",
+    "Name": "NTA International",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.nta.ng/",
+    "Logo": "https://i.imgur.com/mN8j8CR.png",
+    "Streams": [
+      {
+        "Url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTANews24.ng",
+    "Name": "NTA News 24",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.nta.ng/",
+    "Logo": "https://i.imgur.com/9ak6bNd.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NewVisionTV.ng",
+    "Name": "New Vision TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://crichurch.org/",
+    "Logo": "https://www.lyngsat.com/logo/tv/nn/new-vision-tv-ng.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming-2.viewmedia.tv/web_027/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NewsCentral.ng",
+    "Name": "News Central",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://newscentral.africa/",
+    "Logo": "https://i.imgur.com/qvCgI8N.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Nigbati.ng",
+    "Name": "Nigbati",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.nigbati.tv/",
+    "Logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/nigbatisrt/nigbatisrt.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OSBCTV.ng",
+    "Name": "OSBC TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://osbcng.org/",
+    "Logo": "https://i.imgur.com/lj9WEq8.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "QuestTV.ng",
+    "Name": "Quest TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://questfmtv.com/",
+    "Logo": "https://i.imgur.com/4ATTIQi.png",
+    "Streams": [
+      {
+        "Url": "https://media2.streambrothers.com:19360/8038/8038.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SilverbirdNews24.ng",
+    "Name": "Silverbird News 24",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/9jcV9oG.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCNuPuew8lLVB3mMAm9_Qt9w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVC.ng",
+    "Name": "TVC",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvcentertainment.tv/",
+    "Logo": "https://i.imgur.com/ReV8R5S.png",
+    "Streams": [
+      {
+        "Url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCNews.ng",
+    "Name": "TVC News",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://tvcnews.tv/",
+    "Logo": "https://i.imgur.com/jaSq18B.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TempleTV.ng",
+    "Name": "Temple TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://jctm.org/",
+    "Logo": "https://i.imgur.com/qy9Mutu.png",
+    "Streams": [
+      {
+        "Url": "https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TrustTV.ng",
+    "Name": "Trust TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "news,documentary,entertainment",
+    "IsNsfw": false,
+    "Website": "https://trusttv.com/",
+    "Logo": "https://i.imgur.com/2le4qYj.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WapTV.ng",
+    "Name": "Wap TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://waptvchannel.com/",
+    "Logo": "https://i.imgur.com/Djng8pI.png",
+    "Streams": [
+      {
+        "Url": "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WazobiaMaxTVAbuja.ng",
+    "Name": "Wazobia Max TV Abuja",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.wazobiamax.ng/abuja",
+    "Logo": "https://i.imgur.com/XYMKPPT.png",
+    "Streams": [
+      {
+        "Url": "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WazobiaMaxTVNigeria.ng",
+    "Name": "Wazobia Max TV Nigeria",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.wazobiamax.ng/",
+    "Logo": "https://i.imgur.com/IeioxBp.png",
+    "Streams": [
+      {
+        "Url": "https://wazobia.live:8333/channel/wmax.m3u8"
+      }
+    ]
+  }
+]

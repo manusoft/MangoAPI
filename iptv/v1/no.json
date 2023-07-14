@@ -1,0 +1,86 @@
+[
+  {
+    "Id": "CanalMotor.no",
+    "Name": "Canal Motor",
+    "Country": "NO",
+    "Languages": "eng",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/BHm0wem.png",
+    "Streams": [
+      {
+        "Url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
+      },
+      {
+        "Url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Frikanalen.no",
+    "Name": "Frikanalen",
+    "Country": "NO",
+    "Languages": "nor",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/rY3Owxl.png",
+    "Streams": [
+      {
+        "Url": "https://frikanalen.no/stream/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HopeChannelNorway.no",
+    "Name": "Hope Channel Norway",
+    "Country": "NO",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.hopechannel.no/",
+    "Logo": "https://i.imgur.com/ySMAis8.png",
+    "Streams": [
+      {
+        "Url": "http://media1.adventist.no:1935/live/hope2/playlist.m3u8"
+      },
+      {
+        "Url": "http://media1.adventist.no:1935/live/hope1/playlist.m3u8"
+      },
+      {
+        "Url": "http://media1.adventist.no:1935/live/hope3/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVModum.no",
+    "Name": "TVModum",
+    "Country": "NO",
+    "Languages": "nor",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvmodum.no/",
+    "Logo": "https://i.imgur.com/kljua5X.png",
+    "Streams": [
+      {
+        "Url": "https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVOstfold.no",
+    "Name": "TV Ostfold",
+    "Country": "NO",
+    "Languages": "nor",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tvoplay.no/",
+    "Logo": "https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png",
+    "Streams": [
+      {
+        "Url": "https://streamnorge.com:8088/hls/tvo.m3u8"
+      }
+    ]
+  }
+]
