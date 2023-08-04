@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "B1TV.ba",
-    "Name": "B1 TV",
-    "Country": "BA",
-    "Languages": "bos",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.b1.ro",
-    "Logo": "https://i.imgur.com/60t5epe.png",
-    "Streams": [
-      {
-        "Url": "http://wowza.bihnet.net:88/hls/b1-live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MakkahLive.ba",
     "Name": "Makkah Live",
     "Country": "BA",
@@ -101,21 +86,6 @@
     "Streams": [
       {
         "Url": "https://stream.rtvze.ba/live/123/123.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SevdahTV.ba",
-    "Name": "Sevdah TV",
-    "Country": "BA",
-    "Languages": "bos",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://sevdah.tv/",
-    "Logo": "https://i.imgur.com/gmpkHWT.png",
-    "Streams": [
-      {
-        "Url": "https://restreamer2.tnt.ba/hls/stream.m3u8"
       }
     ]
   },

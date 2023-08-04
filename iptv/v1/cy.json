@@ -33,21 +33,6 @@
     ]
   },
   {
-    "Id": "AlphaTVCyprus.cy",
-    "Name": "Alpha TV Cyprus",
-    "Country": "CY",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.alphacyprus.com.cy/",
-    "Logo": "https://i.imgur.com/No45vwk.png",
-    "Streams": [
-      {
-        "Url": "http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BRT1.cy",
     "Name": "BRT 1",
     "Country": "CY",
@@ -134,6 +119,21 @@
     "Streams": [
       {
         "Url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OmegaChannel.cy",
+    "Name": "Omega Channel",
+    "Country": "CY",
+    "Languages": "ell",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.omegatv.com.cy/",
+    "Logo": "https://i.ibb.co/QrSzNn6/31087.png",
+    "Streams": [
+      {
+        "Url": "http://l1.cloudskep.com/tst/omcy/playlist.m3u8"
       }
     ]
   },

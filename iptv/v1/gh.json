@@ -45,6 +45,21 @@
     ]
   },
   {
+    "Id": "GTV.gh",
+    "Name": "GTV",
+    "Country": "GH",
+    "Languages": "fra,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.gbcghanaonline.com/",
+    "Logo": "https://i.imgur.com/5cFLWKO.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCm8MfVSyDrrB34TZhU3YVBA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HealingJesusTV.gh",
     "Name": "Healing Jesus TV",
     "Country": "GH",
@@ -75,17 +90,92 @@
     ]
   },
   {
-    "Id": "ResurrectionTV.gh",
-    "Name": "Resurrection TV",
+    "Id": "JoyLearning.gh",
+    "Name": "Joy Learning",
     "Country": "GH",
     "Languages": "eng",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "http://www.resurrectiontv.org/",
-    "Logo": "https://i.imgur.com/IncyJW8.png",
+    "Website": null,
+    "Logo": "https://i.imgur.com/9ikT4uq.png",
     "Streams": [
       {
-        "Url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCZVRKO43AAGpAJs1isPEg-g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JoyNews.gh",
+    "Name": "Joy News",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.myjoyonline.com/",
+    "Logo": "https://i.imgur.com/kGuMNmR.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JoyPrime.gh",
+    "Name": "Joy Prime",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://multitvworld.com/joy-prime-2/",
+    "Logo": "https://i.imgur.com/svxV4gJ.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC9hyY_wWSJnkUKPfrfOP4dQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KessbenTV.gh",
+    "Name": "Kessben TV",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kessbentv.com/",
+    "Logo": "https://i.imgur.com/kYcGdxs.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCuY5alRypQX4gD1xlFBVzJQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Net2TV.gh",
+    "Name": "Net2 TV",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://net2tvgh.com/",
+    "Logo": "https://i.imgur.com/nkUP9X2.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PentTV.gh",
+    "Name": "Pent TV",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://thecophq.org/pent-tv/",
+    "Logo": "https://i.imgur.com/Jw6d3dR.png",
+    "Streams": [
+      {
+        "Url": "https://iptv-trans.ecntv.net/live/penttv.m3u8"
       }
     ]
   },
@@ -101,6 +191,21 @@
     "Streams": [
       {
         "Url": "https://asiakwa.com/thebasetv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UnitedTV.gh",
+    "Name": "United TV",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://utv.peacefmonline.com/",
+    "Logo": "https://i.imgur.com/2isM8xd.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCA2f1lPcwYpBKA4JBMBHDSQ.m3u8"
       }
     ]
   },

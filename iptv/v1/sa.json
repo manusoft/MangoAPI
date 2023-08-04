@@ -64,9 +64,6 @@
         "Url": "https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8"
       },
       {
-        "Url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
-      },
-      {
         "Url": "https://edge.taghtia.com/sa/7.m3u8"
       }
     ]
@@ -81,6 +78,9 @@
     "Website": "https://saudiatv.sa/",
     "Logo": "https://i.imgur.com/GRQTndk.png",
     "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC2mWeEHv9IY6i74okFMkGPw.m3u8"
+      },
       {
         "Url": "https://edge.taghtia.com/sa/2.m3u8"
       },
@@ -164,6 +164,21 @@
       },
       {
         "Url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Ayaat.sa",
+    "Name": "Ayaat",
+    "Country": "SA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PUUb1gI.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8"
       }
     ]
   },

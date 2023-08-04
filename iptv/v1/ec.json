@@ -60,21 +60,6 @@
     ]
   },
   {
-    "Id": "EducaTV.ec",
-    "Name": "Educa TV",
-    "Country": "EC",
-    "Languages": "spa",
-    "Categories": "education",
-    "IsNsfw": false,
-    "Website": "http://educa.ec/",
-    "Logo": "https://i.imgur.com/lY9Bx2u.png",
-    "Streams": [
-      {
-        "Url": "https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ElSolNetworkTV.ec",
     "Name": "El Sol Network TV",
     "Country": "EC",
@@ -146,36 +131,6 @@
     "Streams": [
       {
         "Url": "https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LatacungaTV.ec",
-    "Name": "LatacungaTV",
-    "Country": "EC",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://www.latacungatv.com/",
-    "Logo": "https://i.imgur.com/YjgYYH3.png",
-    "Streams": [
-      {
-        "Url": "https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LoretoTV.ec",
-    "Name": "Loreto TV",
-    "Country": "EC",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://loretotv.com/",
-    "Logo": "https://i.imgur.com/3qGSAT3.png",
-    "Streams": [
-      {
-        "Url": "https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8"
       }
     ]
   },

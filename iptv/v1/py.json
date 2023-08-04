@@ -15,6 +15,21 @@
     ]
   },
   {
+    "Id": "5DiasTV.py",
+    "Name": "5Dias TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.5dias.com.py/videos",
+    "Logo": "https://i.imgur.com/AX25tmv.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ABCTVParaguay.py",
     "Name": "ABC-TV Paraguay",
     "Country": "PY",
@@ -41,36 +56,6 @@
     "Streams": [
       {
         "Url": "https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BrunoMasiTV.py",
-    "Name": "Bruno Masi TV",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.brunomasi.tv/",
-    "Logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
-    "Streams": [
-      {
-        "Url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanalPro.py",
-    "Name": "Canal Pro",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.canalpro.com.py/",
-    "Logo": "https://i.imgur.com/ah8n7jL.png",
-    "Streams": [
-      {
-        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://twitch.tv/canalpropy"
       }
     ]
   },
@@ -165,32 +150,17 @@
     ]
   },
   {
-    "Id": "Gen.py",
-    "Name": "Gen",
+    "Id": "MasTV.py",
+    "Name": "Mas TV",
     "Country": "PY",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.gen.com.py/",
-    "Logo": "https://i.imgur.com/l8eZFEB.png",
+    "Website": "https://www.mastv.tv/",
+    "Logo": "https://i.imgur.com/L2Dx1NY.png",
     "Streams": [
       {
-        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.desdepylabs.com/External/tvaccion/gentv"
-      }
-    ]
-  },
-  {
-    "Id": "LIMTV.py",
-    "Name": "LIM TV",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tv.limpy.online/",
-    "Logo": "https://i.imgur.com/CALoCyo.png",
-    "Streams": [
-      {
-        "Url": "https://live.limplay.ml/limtv.m3u8"
+        "Url": "https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8"
       }
     ]
   },
@@ -206,6 +176,36 @@
     "Streams": [
       {
         "Url": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MiTV.py",
+    "Name": "MiTV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cadenadelsuritapua.com/mi-tv-en-vivo/",
+    "Logo": "https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MotorSurMedia.py",
+    "Name": "Motor Sur Media",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "auto",
+    "IsNsfw": false,
+    "Website": "https://iptv.com.py/motorsur/",
+    "Logo": "https://i.imgur.com/vhoMFZK.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8"
       }
     ]
   },
@@ -315,17 +315,17 @@
     ]
   },
   {
-    "Id": "SomosdelEste.py",
-    "Name": "Somos del Este",
+    "Id": "SenadoTV.py",
+    "Name": "Senado TV",
     "Country": "PY",
     "Languages": "spa",
-    "Categories": "",
+    "Categories": "legislative",
     "IsNsfw": false,
-    "Website": "https://somosdeleste.com.py/",
-    "Logo": "https://i.imgur.com/xkT9d1a.png",
+    "Website": "http://www.senado.gov.py/index.php/menu-contenido/listado-de-categoria-contenido/198-sesion-en-vivo",
+    "Logo": "https://i.imgur.com/LzgODUS.png",
     "Streams": [
       {
-        "Url": "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCMXLvWR4z1Z4P4JvubxMQtg.m3u8"
       }
     ]
   },
@@ -386,21 +386,6 @@
     "Streams": [
       {
         "Url": "https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "VenusMedia.py",
-    "Name": "Venus Media",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.venus.com.py/",
-    "Logo": "https://i.imgur.com/XwmUbfp.png",
-    "Streams": [
-      {
-        "Url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8"
       }
     ]
   }

@@ -525,21 +525,6 @@
     ]
   },
   {
-    "Id": "PoliceTV.th",
-    "Name": "Police TV",
-    "Country": "TH",
-    "Languages": "tha",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.policetv.tv/",
-    "Logo": "https://i.imgur.com/GhboFGt.png",
-    "Streams": [
-      {
-        "Url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SBTTV.th",
     "Name": "SBT TV",
     "Country": "TH",
@@ -720,21 +705,6 @@
     ]
   },
   {
-    "Id": "ThairathTV32.th",
-    "Name": "Thairath TV 32",
-    "Country": "TH",
-    "Languages": "tha",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.thairath.co.th/tv",
-    "Logo": "https://i.imgur.com/sF4pPVV.png",
-    "Streams": [
-      {
-        "Url": "https://live.thairath.co.th/trtv2/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TopNews.th",
     "Name": "Top News",
     "Country": "TH",
@@ -761,21 +731,6 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8881/play/a0ag/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "True4U.th",
-    "Name": "True 4U",
-    "Country": "TH",
-    "Languages": "tha",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://true4u.com/",
-    "Logo": "https://i.imgur.com/O6Xre1O.png",
-    "Streams": [
-      {
-        "Url": "http://183.89.246.119:8010/play/a00d/index.m3u8"
       }
     ]
   },
@@ -819,9 +774,6 @@
     "Website": "http://www.zabbtv.com/",
     "Logo": "https://i.imgur.com/4TMtUjW.png",
     "Streams": [
-      {
-        "Url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8"
-      },
       {
         "Url": "http://183.89.246.119:8881/play/a0ac/index.m3u8"
       }

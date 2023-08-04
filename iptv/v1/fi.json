@@ -1,20 +1,5 @@
 [
   {
-    "Id": "AVA.fi",
-    "Name": "AVA",
-    "Country": "FI",
-    "Languages": "fin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.mtv.fi/",
-    "Logo": "https://i.imgur.com/8TR4noi.png",
-    "Streams": [
-      {
-        "Url": "https://live-fi.tvkaista.net/ava/live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlfaTV.fi",
     "Name": "AlfaTV",
     "Country": "FI",
@@ -41,21 +26,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC__baaN73Zp5Hn0N_d4BTdg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Frii.fi",
-    "Name": "Frii",
-    "Country": "FI",
-    "Languages": "fin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.discoveryplus.com/fi/channel/frii",
-    "Logo": "https://i.imgur.com/9sYC2IE.png",
-    "Streams": [
-      {
-        "Url": "https://live-fi.tvkaista.net/frii/live.m3u8"
       }
     ]
   },
@@ -90,17 +60,17 @@
     ]
   },
   {
-    "Id": "MTV3.fi",
-    "Name": "MTV3",
+    "Id": "MTVUutiset.fi",
+    "Name": "MTV Uutiset",
     "Country": "FI",
-    "Languages": "fin,swe",
-    "Categories": "",
+    "Languages": "fin",
+    "Categories": "news",
     "IsNsfw": false,
-    "Website": "https://www.mtv.fi/",
-    "Logo": "https://i.imgur.com/OJWDnUx.png",
+    "Website": "https://www.mtvuutiset.fi/",
+    "Logo": "https://i.imgur.com/ZO8ShOK.png",
     "Streams": [
       {
-        "Url": "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+        "Url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
       }
     ]
   },
@@ -243,21 +213,6 @@
     ]
   },
   {
-    "Id": "Sub.fi",
-    "Name": "Sub",
-    "Country": "FI",
-    "Languages": "fin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/769lYEd.png",
-    "Streams": [
-      {
-        "Url": "https://live-fi.tvkaista.net/sub/live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TaevasTV7.fi",
     "Name": "Taevas TV7",
     "Country": "FI",
@@ -284,6 +239,21 @@
     "Streams": [
       {
         "Url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WorTV.fi",
+    "Name": "WorTV",
+    "Country": "FI",
+    "Languages": "swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.wortv.fi/",
+    "Logo": "https://i.imgur.com/P9O1jo0.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQ36NJ8-XNhBDvSSsh8gS2Q.m3u8"
       }
     ]
   }

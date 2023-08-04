@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Id": "RTVYahoshuah.mg",
+    "Name": "RTV Yahoshuah",
+    "Country": "MG",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.rtvyahoshuah.com/",
+    "Logo": "https://i.ibb.co/0mq5NXQ/log.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCcFeZJVvexIMNaqIWftCD3w.m3u8"
+      }
+    ]
+  }
+]

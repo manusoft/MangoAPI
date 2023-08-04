@@ -81,6 +81,21 @@
     ]
   },
   {
+    "Id": "DritaTV.ch",
+    "Name": "Drita TV",
+    "Country": "CH",
+    "Languages": "sqi",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://drita.tv/",
+    "Logo": "https://i.imgur.com/cvgVmZw.png",
+    "Streams": [
+      {
+        "Url": "https://protokolldns.xyz/dritaweb2023ds/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Kanal9.ch",
     "Name": "Kanal 9",
     "Country": "CH",
@@ -212,36 +227,6 @@
       },
       {
         "Url": "https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SofyTV.ch",
-    "Name": "Sofy TV",
-    "Country": "CH",
-    "Languages": "deu",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://sofy.tv/",
-    "Logo": "https://i.imgur.com/Srxa6cR.png",
-    "Streams": [
-      {
-        "Url": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://sofytv-samsungit.amagi.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://sofytv-samsunges.amagi.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8"
-      },
-      {
-        "Url": "https://sofy-ger-samsung.amagi.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://sofytv-samsungfr.amagi.tv/playlist.m3u8"
       }
     ]
   },

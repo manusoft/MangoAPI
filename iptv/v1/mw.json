@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Id": "TimesTV.mw",
+    "Name": "Times TV",
+    "Country": "MW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://times.mw/",
+    "Logo": "https://i.imgur.com/R1OtRpV.png",
+    "Streams": [
+      {
+        "Url": "https://live-par-2-abr-ln-cdn.livepush.io/live_abr_cdn/emDg2JTY15-px4dj/index.m3u8"
+      }
+    ]
+  }
+]

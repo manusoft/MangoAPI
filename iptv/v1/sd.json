@@ -28,5 +28,20 @@
         "Url": "https://cdn-cf.dabangasudan.org/hls/stream.m3u8"
       }
     ]
+  },
+  {
+    "Id": "TaybaTV.sd",
+    "Name": "Tayba TV",
+    "Country": "SD",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tayba.tv/livestream/",
+    "Logo": "https://user-images.githubusercontent.com/41021857/75287296-67145080-581a-11ea-8978-5e31cdd84243.jpg",
+    "Streams": [
+      {
+        "Url": "https://mn-nl.mncdn.com/tayba/live/playlist.m3u8"
+      }
+    ]
   }
 ]

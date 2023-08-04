@@ -1,35 +1,5 @@
 [
   {
-    "Id": "Canal12.sv",
-    "Name": "Canal 12",
-    "Country": "SV",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.canal12.com.sv/",
-    "Logo": "https://i.imgur.com/UGDbp3O.png",
-    "Streams": [
-      {
-        "Url": "https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal33.sv",
-    "Name": "Canal 33",
-    "Country": "SV",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/5PJNyxP.png",
-    "Streams": [
-      {
-        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal33/"
-      }
-    ]
-  },
-  {
     "Id": "DiarioTRV.sv",
     "Name": "Diario TRV",
     "Country": "SV",
@@ -75,17 +45,32 @@
     ]
   },
   {
-    "Id": "LegislativeAssemblyofElSalvador.sv",
-    "Name": "Legislative Assembly of El Salvador",
+    "Id": "MegavisionCanal19.sv",
+    "Name": "Megavision Canal 19",
     "Country": "SV",
     "Languages": "spa",
-    "Categories": "legislative",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.asamblea.gob.sv/",
-    "Logo": "https://i.imgur.com/OBuiCyb.png",
+    "Website": "https://megavision.univtec.com/",
+    "Logo": "https://i.imgur.com/X5VcCXI.png",
     "Streams": [
       {
-        "Url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+        "Url": "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MegavisionCanal21.sv",
+    "Name": "Megavision Canal 21",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://megavision.univtec.com/",
+    "Logo": "https://i.imgur.com/esGYn21.png",
+    "Streams": [
+      {
+        "Url": "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8"
       }
     ]
   },
@@ -120,6 +105,21 @@
     ]
   },
   {
+    "Id": "TVX.sv",
+    "Name": "TVX",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvx.com.sv",
+    "Logo": "https://i.imgur.com/JbxpB6M.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TaberTV.sv",
     "Name": "TaberTV",
     "Country": "SV",
@@ -131,21 +131,6 @@
     "Streams": [
       {
         "Url": "https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TribunaTV.sv",
-    "Name": "Tribuna TV",
-    "Country": "SV",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tribunatv.us/",
-    "Logo": "https://i.imgur.com/C5vHpd0.png",
-    "Streams": [
-      {
-        "Url": "https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8"
       }
     ]
   },

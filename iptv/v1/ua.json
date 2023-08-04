@@ -1,20 +1,5 @@
 [
   {
-    "Id": "100News.ua",
-    "Name": "100% News",
-    "Country": "UA",
-    "Languages": "ukr",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.100news.tv/",
-    "Logo": "https://i.imgur.com/wEou5az.png",
-    "Streams": [
-      {
-        "Url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "11Kanal.ua",
     "Name": "11 Kanal",
     "Country": "UA",
@@ -26,6 +11,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCwALNfmBX8f2XKt2xe4PMBA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "1Plus1.ua",
+    "Name": "1+1",
+    "Country": "UA",
+    "Languages": "ukr",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://1plus1.ua/",
+    "Logo": "https://i.imgur.com/eJXfMh0.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8"
       }
     ]
   },
@@ -56,6 +56,21 @@
     "Streams": [
       {
         "Url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ApostrofTV.ua",
+    "Name": "Apostrof TV",
+    "Country": "UA",
+    "Languages": "ukr",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://apostrophe.ua/tv",
+    "Logo": "https://i.imgur.com/3bnT42d.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8"
       }
     ]
   },
@@ -101,21 +116,6 @@
     "Streams": [
       {
         "Url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BlackSeaTV.ua",
-    "Name": "Black Sea TV",
-    "Country": "UA",
-    "Languages": "ukr,rus",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://blackseatv.com/",
-    "Logo": "https://i.imgur.com/C5Ao9tD.png",
-    "Streams": [
-      {
-        "Url": "https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8"
       }
     ]
   },
@@ -285,6 +285,21 @@
     ]
   },
   {
+    "Id": "ICTV.ua",
+    "Name": "ICTV",
+    "Country": "UA",
+    "Languages": "ukr",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ictv.ua/",
+    "Logo": "https://i.imgur.com/97W1NOW.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IT3.ua",
     "Name": "IT3",
     "Country": "UA",
@@ -300,32 +315,17 @@
     ]
   },
   {
-    "Id": "ITV.ua",
-    "Name": "ITV",
+    "Id": "IUAtv.ua",
+    "Name": "I-UA.tv",
     "Country": "UA",
     "Languages": "ukr",
-    "Categories": "general",
+    "Categories": "news",
     "IsNsfw": false,
-    "Website": "https://itvmg.com/tv",
-    "Logo": "https://ukrtvr.org/images/%D0%A0%D1%96%D0%B2%D0%BD%D0%B5/ITV.png",
+    "Website": "https://i-ua.tv/",
+    "Logo": "https://i-ua.tv/images/jursspublisher/logos/logo500.png",
     "Streams": [
       {
-        "Url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IzmailTV.ua",
-    "Name": "Izmail TV",
-    "Country": "UA",
-    "Languages": "ukr",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/mpMjj7o.png",
-    "Streams": [
-      {
-        "Url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
+        "Url": "https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8"
       }
     ]
   },
@@ -446,6 +446,21 @@
     "Streams": [
       {
         "Url": "https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PershyyZakhidnyy.ua",
+    "Name": "Pershyy Zakhidnyy",
+    "Country": "UA",
+    "Languages": "ukr",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://1zahid.com/",
+    "Logo": "https://i.imgur.com/hWYyJuG.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCGVbKMWygms_c1mOj1uTZUA.m3u8"
       }
     ]
   },
@@ -611,21 +626,6 @@
       },
       {
         "Url": "http://80.91.177.102:1935/live/live1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TISTV.ua",
-    "Name": "TIS TV",
-    "Country": "UA",
-    "Languages": "ukr",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/OP8gFSB.png",
-    "Streams": [
-      {
-        "Url": "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8"
       }
     ]
   },

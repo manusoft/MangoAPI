@@ -63,6 +63,36 @@
     ]
   },
   {
+    "Id": "Belarus5.by",
+    "Name": "Belarus-5",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "http://tvr.by/",
+    "Logo": "https://i.imgur.com/NJsRFud.png",
+    "Streams": [
+      {
+        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Belarus5Internet.by",
+    "Name": "Belarus-5 Internet",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "http://tvr.by/",
+    "Logo": "https://i.imgur.com/rzPQ9Iz.png",
+    "Streams": [
+      {
+        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Channel8Belarus.by",
     "Name": "Channel 8 Belarus",
     "Country": "BY",
@@ -96,6 +126,21 @@
     ]
   },
   {
+    "Id": "NTVBelarus.by",
+    "Name": "NTV-Belarus",
+    "Country": "BY",
+    "Languages": "bel",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://tvr.by/rus/ntv.asp",
+    "Logo": "https://i.imgur.com/QLuUIeB.png",
+    "Streams": [
+      {
+        "Url": "http://82.209.197.187:8080/udp/239.0.100.6:1234"
+      }
+    ]
+  },
+  {
     "Id": "ONT.by",
     "Name": "ONT",
     "Country": "BY",
@@ -107,6 +152,21 @@
     "Streams": [
       {
         "Url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "STV.by",
+    "Name": "STV",
+    "Country": "BY",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://ctv.by/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png",
+    "Streams": [
+      {
+        "Url": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8"
       }
     ]
   },

@@ -96,17 +96,17 @@
     ]
   },
   {
-    "Id": "KanEducational.il",
-    "Name": "Kan Educational",
+    "Id": "KnessetChannel.il",
+    "Name": "Knesset Channel",
     "Country": "IL",
     "Languages": "heb",
-    "Categories": "education",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.kankids.org.il/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png",
+    "Website": "https://main.knesset.gov.il/",
+    "Logo": "https://i.imgur.com/QXB1jv8.png",
     "Streams": [
       {
-        "Url": "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8"
+        "Url": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8"
       }
     ]
   },
@@ -122,6 +122,39 @@
     "Streams": [
       {
         "Url": "https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Now14.il",
+    "Name": "Now 14",
+    "Country": "IL",
+    "Languages": "heb",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.now14.co.il/",
+    "Logo": "https://i.imgur.com/Iq2Kb69.png",
+    "Streams": [
+      {
+        "Url": "https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8"
+      },
+      {
+        "Url": "https://ch14-channel14eur.akamaized.net/hls/live/2099700/CH14_CHANNEL14/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RanTVIsrael.il",
+    "Name": "Ran TV Israel",
+    "Country": "IL",
+    "Languages": "fas",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://www.radioran.co.il/",
+    "Logo": "https://i.ibb.co/yhY2TD5/IMG-20230629-135926.jpg",
+    "Streams": [
+      {
+        "Url": "https://streaminglive.co.il:3730/live/raniamranilive.m3u8"
       }
     ]
   },

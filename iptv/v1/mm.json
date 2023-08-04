@@ -11,9 +11,6 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8881/play/a07w/index.m3u8"
-      },
-      {
-        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8"
       }
     ]
   },
@@ -27,9 +24,6 @@
     "Website": null,
     "Logo": "https://i.imgur.com/7xHSikv.png",
     "Streams": [
-      {
-        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8"
-      },
       {
         "Url": "http://183.89.246.119:8881/play/a07v/index.m3u8"
       }
@@ -131,6 +125,9 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8881/play/a07l/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8"
       }
     ]
   },
@@ -146,6 +143,9 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8881/play/a07u/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8"
       }
     ]
   },
@@ -161,6 +161,9 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8881/play/a07t/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8"
       }
     ]
   },
@@ -221,6 +224,9 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8881/play/a07n/index.m3u8"
+      },
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8"
       }
     ]
   },
@@ -279,6 +285,9 @@
     "Website": "https://www.myanmaritv.com/",
     "Logo": "https://i.imgur.com/ClmWqE5.png",
     "Streams": [
+      {
+        "Url": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8"
+      },
       {
         "Url": "http://183.89.246.119:8881/play/a07r/index.m3u8"
       }

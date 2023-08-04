@@ -15,6 +15,21 @@
     ]
   },
   {
+    "Id": "ATNBanglaUK.uk",
+    "Name": "ATN Bangla UK",
+    "Country": "UK",
+    "Languages": "ben",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://atnbanglauk.tv/",
+    "Logo": "https://i.imgur.com/vFpjggf.png",
+    "Streams": [
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AfrobeatTVEntertainment.uk",
     "Name": "Afrobeat TV Entertainment",
     "Country": "UK",
@@ -181,6 +196,9 @@
     "Logo": "https://i.imgur.com/ScyTG6P.png",
     "Streams": [
       {
+        "Url": "https://ythls.onrender.com/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8"
+      },
+      {
         "Url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8"
       },
       {
@@ -257,105 +275,6 @@
     "Streams": [
       {
         "Url": "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BloombergTVEMEALiveEvent.uk",
-    "Name": "Bloomberg TV EMEA Live Event",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.bloomberg.com/live/emea",
-    "Logo": "https://i.imgur.com/OuogLHx.png",
-    "Streams": [
-      {
-        "Url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BloombergTVEurope.uk",
-    "Name": "Bloomberg TV Europe",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.bloomberg.com/live/europe",
-    "Logo": "https://i.imgur.com/OuogLHx.png",
-    "Streams": [
-      {
-        "Url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BoxHits.uk",
-    "Name": "Box Hits",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://www.boxplus.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",
-    "Streams": [
-      {
-        "Url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/"
-      },
-      {
-        "Url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/"
-      }
-    ]
-  },
-  {
-    "Id": "BritAsiaTV.uk",
-    "Name": "Brit Asia TV",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://britasia.tv/",
-    "Logo": "https://i.imgur.com/ULm80XF.png",
-    "Streams": [
-      {
-        "Url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8"
-      },
-      {
-        "Url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BritishMuslimTV.uk",
-    "Name": "British Muslim TV",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "http://www.britishmuslim.tv/",
-    "Logo": "https://i.imgur.com/9k7fsqw.png",
-    "Streams": [
-      {
-        "Url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CNBCEurope.uk",
-    "Name": "CNBC Europe",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.cnbc.com/europe-television/",
-    "Logo": "https://i.imgur.com/B6sfpDa.png",
-    "Streams": [
-      {
-        "Url": "https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live_720p/chunks.m3u8"
-      },
-      {
-        "Url": "http://ott-cdn.ucom.am/s65/index.m3u8"
       }
     ]
   },
@@ -469,13 +388,7 @@
     "Logo": "https://i.imgur.com/oLmgGDG.png",
     "Streams": [
       {
-        "Url": "https://edgesports-plex.amagi.tv/playlist.m3u8"
-      },
-      {
         "Url": "https://edgesports-sportstribal.amagi.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://edgesport-samsungus.amagi.tv/playlist.m3u8"
       },
       {
         "Url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
@@ -522,6 +435,21 @@
     ]
   },
   {
+    "Id": "FadakTV.uk",
+    "Name": "Fadak TV",
+    "Country": "UK",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://fadak.tv/",
+    "Logo": "https://i.imgur.com/MBZ4sSA.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCySVZYvDeRd5HThx8s2yTzg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FashionTelevision.uk",
     "Name": "Fashion Television",
     "Country": "UK",
@@ -550,7 +478,25 @@
         "Url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
       },
       {
+        "Url": "https://ythls.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8"
+      },
+      {
         "Url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GarshomTV.uk",
+    "Name": "Garshom TV",
+    "Country": "UK",
+    "Languages": "mal",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://garshom.tv/",
+    "Logo": "https://i.imgur.com/KnbwUyb.png",
+    "Streams": [
+      {
+        "Url": "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
       }
     ]
   },
@@ -605,6 +551,21 @@
       },
       {
         "Url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IdealWorldTV.uk",
+    "Name": "Ideal World TV",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "https://www.idealworld.tv/",
+    "Logo": "https://i.imgur.com/su6GH7i.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8"
       }
     ]
   },
@@ -716,6 +677,21 @@
     "Streams": [
       {
         "Url": "https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KanalJadid.uk",
+    "Name": "Kanal Jadid",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kanaljadid.com/",
+    "Logo": "https://i.imgur.com/7oGGgfD.png",
+    "Streams": [
+      {
+        "Url": "https://kjhls.wns.live/hls/stream.m3u8"
       }
     ]
   },
@@ -987,9 +963,6 @@
     "Website": "https://www.thenoor.tv/",
     "Logo": "https://i.imgur.com/DlKgIuQ.png",
     "Streams": [
-      {
-        "Url": "https://live.smartmediahouse.tv:8443/hls/ch1.m3u8"
-      },
       {
         "Url": "http://45.76.186.114:8080/hls/noortv.m3u8"
       }
@@ -1476,17 +1449,17 @@
     ]
   },
   {
-    "Id": "SheffieldLiveTV.uk",
-    "Name": "Sheffield Live TV",
+    "Id": "SimayeAzadi.uk",
+    "Name": "Simaye Azadi",
     "Country": "UK",
-    "Languages": "eng",
+    "Languages": "fas",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://web.sheffieldlive.org/tv/",
-    "Logo": "https://i.imgur.com/p0QzCFs.png",
+    "Website": "https://iranntv.com/",
+    "Logo": "https://i.imgur.com/yXcczMq.png",
     "Streams": [
       {
-        "Url": "http://tv.sheffieldlive.org/hls/main.m3u8"
+        "Url": "https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8"
       }
     ]
   },
@@ -1535,6 +1508,9 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8"
+      },
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8"
       }
     ]
   },

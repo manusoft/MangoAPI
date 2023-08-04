@@ -273,6 +273,21 @@
     ]
   },
   {
+    "Id": "TVNOVA12.mk",
+    "Name": "TV NOVA 12",
+    "Country": "MK",
+    "Languages": "mkd",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvnova12.mk/",
+    "Logo": "https://i.imgur.com/Qo3Hj3t.png",
+    "Streams": [
+      {
+        "Url": "http://151.236.247.171:8080/nova/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVOrbis.mk",
     "Name": "TV Orbis",
     "Country": "MK",
@@ -284,6 +299,21 @@
     "Streams": [
       {
         "Url": "http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSonce.mk",
+    "Name": "TV Sonce",
+    "Country": "MK",
+    "Languages": "mkd",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tv-sonce.com/tv-sonce.com",
+    "Logo": "https://i.imgur.com/eNQaxy1.png",
+    "Streams": [
+      {
+        "Url": "https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8"
       }
     ]
   },

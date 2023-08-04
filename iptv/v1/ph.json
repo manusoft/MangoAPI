@@ -1,31 +1,31 @@
 [
   {
-    "Id": "CCTN47.ph",
-    "Name": "CCTN 47",
+    "Id": "ANC.ph",
+    "Name": "ANC",
     "Country": "PH",
-    "Languages": "tgl",
+    "Languages": "eng",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "http://cctn47.com/",
-    "Logo": "https://i.imgur.com/IFpAmvW.png",
+    "Website": "https://news.abs-cbn.com/anc",
+    "Logo": "https://i.imgur.com/odwRbRk.png",
     "Streams": [
       {
-        "Url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCE2606prvXQc_noEqKxVJXA.m3u8"
       }
     ]
   },
   {
-    "Id": "CNNPhilippines.ph",
-    "Name": "CNN Philippines",
+    "Id": "AngDatingDaan.ph",
+    "Name": "Ang Dating Daan",
     "Country": "PH",
-    "Languages": "eng",
-    "Categories": "news",
+    "Languages": "tgl",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://cnnphilippines.com/",
-    "Logo": "https://i.imgur.com/PNymaxE.png",
+    "Website": "https://angdatingdaan.org/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png",
     "Streams": [
       {
-        "Url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8"
       }
     ]
   },
@@ -41,6 +41,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GMATV.ph",
+    "Name": "GMA TV",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.gmanetwork.com/",
+    "Logo": "https://i.imgur.com/uAqFMLy.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8"
       }
     ]
   },
@@ -105,6 +120,36 @@
     ]
   },
   {
+    "Id": "OrasngHimala.ph",
+    "Name": "Oras ng Himala",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.miraclehour.org/tv_radio",
+    "Logo": "https://i.imgur.com/UjXSgKu.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PIE.ph",
+    "Name": "PIE",
+    "Country": "PH",
+    "Languages": "fil",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://pie.com.ph/",
+    "Logo": "https://i.imgur.com/pF9xv5y.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCAxAaFQnH5IK_ZTwiQWV-9A.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PTV.ph",
     "Name": "PTV",
     "Country": "PH",
@@ -146,6 +191,21 @@
     "Streams": [
       {
         "Url": "https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SMNINewsChannel.ph",
+    "Name": "SMNI News Channel",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.smninewschannel.com/",
+    "Logo": "https://i.imgur.com/OZA4xPq.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8"
       }
     ]
   },

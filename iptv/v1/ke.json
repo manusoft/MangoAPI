@@ -1,5 +1,20 @@
 [
   {
+    "Id": "CitizenTV.ke",
+    "Name": "Citizen TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://citizen.digital/tv/citizen-tv-15",
+    "Logo": "https://i.imgur.com/Pv22Xat.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "InooroTV.ke",
     "Name": "Inooro TV",
     "Country": "KE",

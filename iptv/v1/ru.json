@@ -66,21 +66,6 @@
     ]
   },
   {
-    "Id": "9Volna.ru",
-    "Name": "9 Volna",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://9volna.com/",
-    "Logo": "https://i.imgur.com/zmnSoBA.png",
-    "Streams": [
-      {
-        "Url": "http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "A1.ru",
     "Name": "A1",
     "Country": "RU",
@@ -305,60 +290,6 @@
     "Streams": [
       {
         "Url": "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Bober.ru",
-    "Name": "Bober",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://bober.ru/",
-    "Logo": "https://i.imgur.com/clWWhB8.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/bober.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BollywoodHD.ru",
-    "Name": "Bollywood HD",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/scDKOLS.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/bollywood_hd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CTC.ru",
-    "Name": "CTC",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "family",
-    "IsNsfw": false,
-    "Website": "https://ctc.ru/",
-    "Logo": "https://i.imgur.com/ilUzAeb.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/STS.m3u8"
-      },
-      {
-        "Url": "http://ott-cdn.ucom.am/s52/04.m3u8"
-      },
-      {
-        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
-      },
-      {
-        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
       }
     ]
   },
@@ -843,21 +774,6 @@
     ]
   },
   {
-    "Id": "Luxury.ru",
-    "Name": "Luxury",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "shop",
-    "IsNsfw": false,
-    "Website": "https://luxuryhd.tv/",
-    "Logo": "https://i.imgur.com/nobZa5l.png",
-    "Streams": [
-      {
-        "Url": "http://nano.teleservice.su:8080/hls/luxury.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MTV.ru",
     "Name": "MTV",
     "Country": "RU",
@@ -899,21 +815,6 @@
     "Streams": [
       {
         "Url": "https://live.trkmillet.ru/millet/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Ministerstvoidey.ru",
-    "Name": "Ministerstvo idey",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://xn--b1aebclacktlowlcmd.xn--p1ai/",
-    "Logo": "https://i.imgur.com/3P0uvHD.png",
-    "Streams": [
-      {
-        "Url": "https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8"
       }
     ]
   },
@@ -972,21 +873,6 @@
     ]
   },
   {
-    "Id": "MirPlus2.ru",
-    "Name": "Mir +2",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://mirtv.ru/",
-    "Logo": "https://i.imgur.com/i6JthjI.png",
-    "Streams": [
-      {
-        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MirPlus3.ru",
     "Name": "Mir +3",
     "Country": "RU",
@@ -998,36 +884,6 @@
     "Streams": [
       {
         "Url": "https://sc.id-tv.kz/Mir.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MirPlus4.ru",
-    "Name": "Mir +4",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://mirtv.ru/",
-    "Logo": "https://i.imgur.com/CrFWXTD.png",
-    "Streams": [
-      {
-        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MirPlus7.ru",
-    "Name": "Mir +7",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://mirtv.ru/",
-    "Logo": "https://i.imgur.com/CrFWXTD.png",
-    "Streams": [
-      {
-        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8"
       }
     ]
   },
@@ -1166,21 +1022,6 @@
     "Streams": [
       {
         "Url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NanoTV.ru",
-    "Name": "Nano TV",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tv-nano.ru/",
-    "Logo": "https://i.imgur.com/0eEjt0F.png",
-    "Streams": [
-      {
-        "Url": "http://nano.teleservice.su:8080/hls/nano.m3u8"
       }
     ]
   },
@@ -1335,21 +1176,6 @@
     ]
   },
   {
-    "Id": "Olala.ru",
-    "Name": "O-la-la",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "xxx",
-    "IsNsfw": false,
-    "Website": "https://o-la-la-tv.com/",
-    "Logo": "https://i.imgur.com/adhMvTl.png",
-    "Streams": [
-      {
-        "Url": "http://93.125.29.22:8787/Olala"
-      }
-    ]
-  },
-  {
     "Id": "PervyyTulskiy.ru",
     "Name": "Pervyy Tulskiy",
     "Country": "RU",
@@ -1477,6 +1303,9 @@
         "Url": "http://ott-cdn.ucom.am/s36/index.m3u8"
       },
       {
+        "Url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8"
+      },
+      {
         "Url": "https://strm.yandex.ru/kal/rbc/rbc0.m3u8"
       }
     ]
@@ -1535,6 +1364,9 @@
     "Streams": [
       {
         "Url": "https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8"
+      },
+      {
+        "Url": "https://uiptv.do.am/1ufc/300663722/playlist.m3u8"
       },
       {
         "Url": "https://hls.rt.com/hls/rtdru.m3u8"
@@ -1724,6 +1556,9 @@
     "Streams": [
       {
         "Url": "http://ott-cdn.ucom.am/s21/index.m3u8"
+      },
+      {
+        "Url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8"
       }
     ]
   },
@@ -1913,6 +1748,9 @@
     "Streams": [
       {
         "Url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
       },
       {
         "Url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
@@ -2148,21 +1986,6 @@
     ]
   },
   {
-    "Id": "TVExtra.ru",
-    "Name": "TV Extra",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tvextra.ru/",
-    "Logo": "https://i.imgur.com/34eyR0f.png",
-    "Streams": [
-      {
-        "Url": "https://live-1.otcnet.ru/tvextra720b/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVK.ru",
     "Name": "TVK",
     "Country": "RU",
@@ -2178,21 +2001,6 @@
     ]
   },
   {
-    "Id": "TVMChannel.ru",
-    "Name": "TVMChannel",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tvmchannel.ru/",
-    "Logo": "https://i.imgur.com/ZX6crqH.png",
-    "Streams": [
-      {
-        "Url": "http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Tamyr.ru",
     "Name": "Tamyr",
     "Country": "RU",
@@ -2204,21 +2012,6 @@
     "Streams": [
       {
         "Url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Tatarstan24.ru",
-    "Name": "Tatarstan 24",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tatarstan24.tv/",
-    "Logo": "https://i.imgur.com/gGnUXzr.png",
-    "Streams": [
-      {
-        "Url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8"
       }
     ]
   },
@@ -2356,7 +2149,22 @@
     "Logo": "https://i.imgur.com/KI1qZNc.png",
     "Streams": [
       {
-        "Url": "http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8"
+        "Url": "https://uiptv.do.am/1ufc/118056781/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Volgograd24.ru",
+    "Name": "Volgograd 24",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://volgograd24.tv/",
+    "Logo": "https://i.imgur.com/gFMnaU5.png",
+    "Streams": [
+      {
+        "Url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8"
       }
     ]
   },

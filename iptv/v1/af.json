@@ -183,6 +183,21 @@
     ]
   },
   {
+    "Id": "RTA.af",
+    "Name": "RTA",
+    "Country": "AF",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uZqxZDF.png",
+    "Streams": [
+      {
+        "Url": "https://hls.rta.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RTASport.af",
     "Name": "RTA Sport",
     "Country": "AF",

@@ -351,6 +351,21 @@
     ]
   },
   {
+    "Id": "BSmartTV.fr",
+    "Name": "B Smart TV",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.bsmart.fr/",
+    "Logo": "https://i.imgur.com/RyVEFcG.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/B.SMART.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BblackAfrica.fr",
     "Name": "Bblack! Africa",
     "Country": "FR",
@@ -381,60 +396,6 @@
     ]
   },
   {
-    "Id": "BoblepongeFrance.fr",
-    "Name": "Bob l'eponge France",
-    "Country": "FR",
-    "Languages": "fra",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": "https://pluto.tv/en/live-tv/bob-leponge-fr-ptv3",
-    "Logo": "https://i.imgur.com/ITwU1yZ.png",
-    "Streams": [
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc9fd0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195dd54b-932b-4f28-be70-7e736585335a"
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
-      }
-    ]
-  },
-  {
-    "Id": "C8.fr",
-    "Name": "C8",
-    "Country": "FR",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://c8.fr/",
-    "Logo": "https://i.imgur.com/40mdgqQ.png",
-    "Streams": [
-      {
-        "Url": "http://www.callofliberty.fr/stream/C8/master.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Caillou.fr",
-    "Name": "Caillou",
-    "Country": "FR",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/RgKaoe4.png",
-    "Streams": [
-      {
-        "Url": "https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal32.fr",
     "Name": "Canal 32",
     "Country": "FR",
@@ -449,21 +410,6 @@
       },
       {
         "Url": "http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CentralTV.fr",
-    "Name": "Central TV",
-    "Country": "FR",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/2DU22BN.png",
-    "Streams": [
-      {
-        "Url": "http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8"
       }
     ]
   },
@@ -510,6 +456,21 @@
     ]
   },
   {
+    "Id": "D5Music.fr",
+    "Name": "D5Music",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://d5music.tv/live/",
+    "Logo": "https://i.imgur.com/IfhcbEt.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/D5Music.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "D5tv.fr",
     "Name": "D5tv",
     "Country": "FR",
@@ -521,6 +482,9 @@
     "Streams": [
       {
         "Url": "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/D5TV.m3u8"
       }
     ]
   },
@@ -734,9 +698,6 @@
     "Streams": [
       {
         "Url": "http://ott-cdn.ucom.am/s89/index.m3u8"
-      },
-      {
-        "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2576"
       }
     ]
   },
@@ -752,6 +713,21 @@
     "Streams": [
       {
         "Url": "https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Europe1.fr",
+    "Name": "Europe 1",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.europe1.fr/",
+    "Logo": "https://i.imgur.com/tztG1MX.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Europe1.m3u8"
       }
     ]
   },
@@ -867,6 +843,51 @@
     ]
   },
   {
+    "Id": "France24Arabic.fr",
+    "Name": "France 24 Arabic",
+    "Country": "FR",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.france24.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "France24English.fr",
+    "Name": "France 24 English",
+    "Country": "FR",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.france24.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "France24Espanol.fr",
+    "Name": "France 24 Espanol",
+    "Country": "FR",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.france24.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "France24French.fr",
     "Name": "France 24 French",
     "Country": "FR",
@@ -877,10 +898,31 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
     "Streams": [
       {
+        "Url": "https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8"
+      },
+      {
         "Url": "http://81.94.196.204/tsstreamer/France24_SD.ts"
       },
       {
         "Url": "http://81.94.196.204/tsstreamer/France24_HD.ts"
+      }
+    ]
+  },
+  {
+    "Id": "FranceInter.fr",
+    "Name": "France Inter",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PYqQyRv.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8"
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInter.m3u8"
       }
     ]
   },
@@ -896,6 +938,9 @@
     "Streams": [
       {
         "Url": "https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8"
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfo.m3u8"
       }
     ]
   },
@@ -939,9 +984,6 @@
     "Website": "http://www.gulli.fr/",
     "Logo": "https://i.imgur.com/kqYssbW.png",
     "Streams": [
-      {
-        "Url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8"
-      },
       {
         "Url": "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"
       }
@@ -1008,6 +1050,21 @@
     ]
   },
   {
+    "Id": "LyonCapitaleTV.fr",
+    "Name": "Lyon Capitale TV",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.lyoncapitale.fr/lyon-capitale-tv-en-direct",
+    "Logo": "https://i.imgur.com/4WfnEaj.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/LyonCapitale.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "M6.fr",
     "Name": "M6",
     "Country": "FR",
@@ -1019,6 +1076,9 @@
     "Streams": [
       {
         "Url": "https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/M6.m3u8"
       }
     ]
   },
@@ -1053,6 +1113,21 @@
     ]
   },
   {
+    "Id": "MaisonTravauxTV.fr",
+    "Name": "Maison & Travaux TV",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uYpc6nE.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Maison%26Travaux.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Mezzo.fr",
     "Name": "Mezzo",
     "Country": "FR",
@@ -1068,6 +1143,21 @@
     ]
   },
   {
+    "Id": "MosaikCristal.fr",
+    "Name": "Mosaik Cristal",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.mosaik-cristal.tv/",
+    "Logo": "https://i.imgur.com/YY7vIQG.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MoselleTV.fr",
     "Name": "Moselle TV",
     "Country": "FR",
@@ -1079,6 +1169,21 @@
     "Streams": [
       {
         "Url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuseumTV.fr",
+    "Name": "Museum TV",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://www.museumtv.art/",
+    "Logo": "https://i.imgur.com/WbjURLo.png",
+    "Streams": [
+      {
+        "Url": "https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8"
       }
     ]
   },
@@ -1143,6 +1248,66 @@
     ]
   },
   {
+    "Id": "P2MTV.fr",
+    "Name": "P2M TV",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TrecSeG.png",
+    "Streams": [
+      {
+        "Url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ParisPremiere.fr",
+    "Name": "Paris Premiere",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.6play.fr/pp",
+    "Logo": "https://i.imgur.com/ily4bEm.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Persiana1.fr",
+    "Name": "Persiana 1",
+    "Country": "FR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://persianagroup.tv/",
+    "Logo": "https://i.imgur.com/X1Dv6st.png",
+    "Streams": [
+      {
+        "Url": "https://persiana-one.icdndhcp.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PersianaCinema.fr",
+    "Name": "Persiana Cinema",
+    "Country": "FR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://persianagroup.tv/",
+    "Logo": "https://i.imgur.com/hgIro9r.png",
+    "Streams": [
+      {
+        "Url": "https://persiana-cinema.icdndhcp.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PersianaComedy.fr",
     "Name": "Persiana Comedy",
     "Country": "FR",
@@ -1154,6 +1319,9 @@
     "Streams": [
       {
         "Url": "http://51.210.199.27/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-comedy.icdndhcp.com/hls/stream.m3u8"
       }
     ]
   },
@@ -1184,6 +1352,24 @@
     "Streams": [
       {
         "Url": "http://51.210.199.19/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-family.icdndhcp.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PersianaHD.fr",
+    "Name": "Persiana HD",
+    "Country": "FR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://persianagroup.tv/",
+    "Logo": "https://i.ibb.co/ZYDqMms/Persiana-HD.png",
+    "Streams": [
+      {
+        "Url": "https://persiana-hd.icdndhcp.com/hls/stream.m3u8"
       }
     ]
   },
@@ -1199,6 +1385,9 @@
     "Streams": [
       {
         "Url": "http://51.210.199.22/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-iranian.icdndhcp.com/hls/stream.m3u8"
       }
     ]
   },
@@ -1214,6 +1403,9 @@
     "Streams": [
       {
         "Url": "http://51.210.199.18/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-junior.icdndhcp.com/hls/stream.m3u8"
       }
     ]
   },
@@ -1229,6 +1421,9 @@
     "Streams": [
       {
         "Url": "http://51.210.199.14/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-korea.icdndhcp.com/hls/stream.m3u8"
       }
     ]
   },
@@ -1244,6 +1439,9 @@
     "Streams": [
       {
         "Url": "http://51.210.199.24/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-music.icdndhcp.com/hls/stream.m3u8"
       }
     ]
   },
@@ -1259,6 +1457,9 @@
     "Streams": [
       {
         "Url": "http://51.210.199.20/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-nostalgia.icdndhcp.com/hls/stream.m3u8"
       }
     ]
   },
@@ -1274,6 +1475,54 @@
     "Streams": [
       {
         "Url": "http://51.210.199.21/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://persiana-plus.icdndhcp.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PersianaRap.fr",
+    "Name": "Persiana Rap",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://persianagroup.tv/",
+    "Logo": "https://i.ibb.co/ThGc7d5/Persiana-Rap.png",
+    "Streams": [
+      {
+        "Url": "https://persiana-rap.icdndhcp.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PersianaSonnati.fr",
+    "Name": "Persiana Sonnati",
+    "Country": "FR",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://persianagroup.tv/",
+    "Logo": "https://i.imgur.com/yqq5PlP.png",
+    "Streams": [
+      {
+        "Url": "https://persiana-sonnati.icdndhcp.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PersianaSports.fr",
+    "Name": "Persiana Sports",
+    "Country": "FR",
+    "Languages": "fas",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://persianagroup.tv/",
+    "Logo": "https://i.ibb.co/q1XfMN9/Persiana-Sports.png",
+    "Streams": [
+      {
+        "Url": "https://af.ayas.ir/hls2/persiana.m3u8"
       }
     ]
   },
@@ -1542,6 +1791,36 @@
     ]
   },
   {
+    "Id": "PokerTV.fr",
+    "Name": "Poker TV",
+    "Country": "FR",
+    "Languages": "fas",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://persianagroup.tv/",
+    "Logo": "https://i.imgur.com/tArvcvj.png",
+    "Streams": [
+      {
+        "Url": "https://hls.pokertvfa.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PublicSenat.fr",
+    "Name": "Public Senat",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "http://www.publicsenat.fr/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/langfr-440px-Logo_Public_S%C3%A9nat_%282019%29.svg.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/PublicSenat.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RakutenTVActionMoviesFrance.fr",
     "Name": "Rakuten TV Action Movies France",
     "Country": "FR",
@@ -1659,6 +1938,21 @@
     ]
   },
   {
+    "Id": "TL7.fr",
+    "Name": "TL7",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tl7.fr/",
+    "Logo": "https://i.imgur.com/ay3EvUv.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TL7Loire.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TV5MondeInfo.fr",
     "Name": "TV5Monde Info",
     "Country": "FR",
@@ -1730,6 +2024,39 @@
     "Streams": [
       {
         "Url": "https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCV9yrdAfyd1BdDyd4tDdVxg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV8MontBlanc.fr",
+    "Name": "TV8 Mont-Blanc",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tv8montblanc.fr/",
+    "Logo": "https://i.imgur.com/dOXRNVj.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TV8MontBlanc.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVPI.fr",
+    "Name": "TVPI",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.sudouest.fr/lachainetvpi/",
+    "Logo": "https://i.imgur.com/fuqpmas.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8"
       }
     ]
   },
@@ -1745,6 +2072,21 @@
     "Streams": [
       {
         "Url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVTours.fr",
+    "Name": "TV Tours",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvtours.fr/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logo_tvt_2016_RVB.png/512px-Logo_tvt_2016_RVB.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TVTours.m3u8"
       }
     ]
   },
@@ -1790,6 +2132,39 @@
     "Streams": [
       {
         "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8"
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Telenantes.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telesud.fr",
+    "Name": "Telesud",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.telesud.com/",
+    "Logo": "https://i.imgur.com/bC3qiGK.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TeleSud.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Teva.fr",
+    "Name": "Teva",
+    "Country": "FR",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.6play.fr/teva",
+    "Logo": "https://i.imgur.com/kDW0hN5.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8"
       }
     ]
   },

@@ -183,6 +183,21 @@
     ]
   },
   {
+    "Id": "BarazaTVDeepHouse.gr",
+    "Name": "Baraza TV Deep House",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://barazaradio.com/",
+    "Logo": "https://i.imgur.com/TZ1unwF.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BarazaTVRelaxing.gr",
     "Name": "Baraza TV Relaxing",
     "Country": "GR",
@@ -194,36 +209,6 @@
     "Streams": [
       {
         "Url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BestTV.gr",
-    "Name": "Best TV",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://best-tv.gr/",
-    "Logo": "https://i.imgur.com/AeeeDUc.png",
-    "Streams": [
-      {
-        "Url": "https://stream.net7.gr/hls/best/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BlueSkyTV.gr",
-    "Name": "Blue Sky TV",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://blueskytv.gr/",
-    "Logo": "https://i.imgur.com/C9CormG.png",
-    "Streams": [
-      {
-        "Url": "https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
       }
     ]
   },
@@ -269,6 +254,21 @@
     "Streams": [
       {
         "Url": "http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DELTATV.gr",
+    "Name": "DELTA TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://deltatv.gr/",
+    "Logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
+    "Streams": [
+      {
+        "Url": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8"
       }
     ]
   },
@@ -333,6 +333,21 @@
     ]
   },
   {
+    "Id": "ERTSports1.gr",
+    "Name": "ERT Sports 1",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://www.ertsports.gr/",
+    "Logo": "https://i.imgur.com/EsczO2H.png",
+    "Streams": [
+      {
+        "Url": "http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ERTWorld.gr",
     "Name": "ERT World",
     "Country": "GR",
@@ -392,6 +407,21 @@
     "Streams": [
       {
         "Url": "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EllinikosFM.gr",
+    "Name": "Ellinikos FM",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.ellinikosfm.com/",
+    "Logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+    "Streams": [
+      {
+        "Url": "https://til.pp.ua:3093/live/ellinikosfmlive.m3u8"
       }
     ]
   },
@@ -486,21 +516,6 @@
     ]
   },
   {
-    "Id": "Galaxy.gr",
-    "Name": "Galaxy",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/YgGSEeT.png",
-    "Streams": [
-      {
-        "Url": "https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GnomiTV.gr",
     "Name": "Gnomi TV",
     "Country": "GR",
@@ -560,6 +575,36 @@
       },
       {
         "Url": "https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HellenicParliamentTV2.gr",
+    "Name": "Hellenic Parliament TV 2",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.hellenicparliament.gr/en/",
+    "Logo": "https://i.imgur.com/o2cvqv3.png",
+    "Streams": [
+      {
+        "Url": "https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HellenicParliamentTV3.gr",
+    "Name": "Hellenic Parliament TV 3",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.hellenicparliament.gr/en/",
+    "Logo": "https://i.imgur.com/o2cvqv3.png",
+    "Streams": [
+      {
+        "Url": "https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8"
       }
     ]
   },
@@ -641,6 +686,21 @@
     "Streams": [
       {
         "Url": "http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LychnosTV.gr",
+    "Name": "Lychnos TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/pJbKsVm/Lychnos-Tv-live-vipotv-greece.png",
+    "Streams": [
+      {
+        "Url": "https://thor.mental-media.gr:19360/imp/imp.m3u8"
       }
     ]
   },
@@ -801,6 +861,21 @@
     ]
   },
   {
+    "Id": "NetmaxTV.gr",
+    "Name": "Netmax TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://netmaxtv.com/",
+    "Logo": "https://i.imgur.com/dLvRD4k.png",
+    "Streams": [
+      {
+        "Url": "http://live.netmaxtv.com:8080/live/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "NotioiTV.gr",
     "Name": "Notioi TV",
     "Country": "GR",
@@ -831,6 +906,21 @@
     ]
   },
   {
+    "Id": "PanikTV.gr",
+    "Name": "Panik TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://panikmusic.gr/panik-tv/",
+    "Logo": "https://i.imgur.com/13C3CPr.png",
+    "Streams": [
+      {
+        "Url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PellaTV.gr",
     "Name": "Pella TV",
     "Country": "GR",
@@ -846,6 +936,21 @@
     ]
   },
   {
+    "Id": "PemptousiaTV.gr",
+    "Name": "Pemptousia TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://pemptousia.tv/",
+    "Logo": "https://i.ibb.co/pzMPmz2/logo-2.png",
+    "Streams": [
+      {
+        "Url": "https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PlayTV.gr",
     "Name": "Play TV",
     "Country": "GR",
@@ -857,6 +962,66 @@
     "Streams": [
       {
         "Url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PrimeNewsTV.gr",
+    "Name": "Prime News TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://primenewstv.gr/",
+    "Logo": "https://i.ibb.co/YtJdmNk/IMG-20230706-152637.jpg",
+    "Streams": [
+      {
+        "Url": "https://vdo.alphaserver.gr:3411/stream/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PronewsTV.gr",
+    "Name": "Pronews TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.pronews.gr/",
+    "Logo": "https://i.ibb.co/zGQpM3Y/download-7.png",
+    "Streams": [
+      {
+        "Url": "http://di-8zai2lrc.leasewebultracdn.com/pronews/ngrp:myStream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RedMusic.gr",
+    "Name": "RedMusic",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://redmusic.live/",
+    "Logo": "https://i.ibb.co/1Lk8P1x/1-150x150.png",
+    "Streams": [
+      {
+        "Url": "https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReloadPlay.gr",
+    "Name": "Reload Play",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TZUsA2W.jpg",
+    "Streams": [
+      {
+        "Url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8"
       }
     ]
   },
@@ -920,6 +1085,21 @@
     "Streams": [
       {
         "Url": "https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "StartTV.gr",
+    "Name": "Start TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.startmediacorfu.gr/",
+    "Logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
+    "Streams": [
+      {
+        "Url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
       }
     ]
   },
@@ -1002,6 +1182,21 @@
     ]
   },
   {
+    "Id": "ThrakiNetTV.gr",
+    "Name": "Thraki Net TV",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.thrakinet.tv/",
+    "Logo": "https://i.imgur.com/3ITSnqT.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Tilemousiki.gr",
     "Name": "Tilemousiki",
     "Country": "GR",
@@ -1013,6 +1208,21 @@
     "Streams": [
       {
         "Url": "http://wpso.com:1936/hls/music1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TopChannel.gr",
+    "Name": "Top Channel",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://top-channel.gr/",
+    "Logo": "https://i.imgur.com/SfV2gJg.png",
+    "Streams": [
+      {
+        "Url": "http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8"
       }
     ]
   },

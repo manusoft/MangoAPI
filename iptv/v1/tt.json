@@ -1,5 +1,20 @@
 [
   {
+    "Id": "SankhyaTV.tt",
+    "Name": "Sankhya TV",
+    "Country": "TT",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.sankhyatv.com/",
+    "Logo": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
+    "Streams": [
+      {
+        "Url": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TheIslamicNetwork.tt",
     "Name": "The Islamic Network",
     "Country": "TT",
@@ -11,6 +26,21 @@
     "Streams": [
       {
         "Url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TrinityTV.tt",
+    "Name": "Trinity TV",
+    "Country": "TT",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.tcn-tt.com/",
+    "Logo": "https://i.imgur.com/UeCUIb1.png",
+    "Streams": [
+      {
+        "Url": "https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8"
       }
     ]
   }

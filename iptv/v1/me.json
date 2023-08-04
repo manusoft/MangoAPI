@@ -79,5 +79,23 @@
         "Url": "https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8"
       }
     ]
+  },
+  {
+    "Id": "TelevizijaTV7.me",
+    "Name": "Televizija TV7",
+    "Country": "ME",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/BzA57wA.png",
+    "Streams": [
+      {
+        "Url": "http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8"
+      },
+      {
+        "Url": "https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/playlist.m3u8"
+      }
+    ]
   }
 ]

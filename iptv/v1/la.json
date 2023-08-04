@@ -1,20 +1,5 @@
 [
   {
-    "Id": "BrianTV.la",
-    "Name": "Brian TV",
-    "Country": "LA",
-    "Languages": "vie",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/zG1WNgU.jpg",
-    "Streams": [
-      {
-        "Url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DaoLaneXangTV.la",
     "Name": "Dao Lane Xang TV",
     "Country": "LA",
@@ -41,21 +26,6 @@
     "Streams": [
       {
         "Url": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HmongUSATV.la",
-    "Name": "HmongUSA TV",
-    "Country": "LA",
-    "Languages": "vie",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/L6ZEUL9.png",
-    "Streams": [
-      {
-        "Url": "https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8"
       }
     ]
   },

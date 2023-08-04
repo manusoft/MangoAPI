@@ -25,37 +25,40 @@
     "Logo": "https://i.imgur.com/R4iKU6c.png",
     "Streams": [
       {
+        "Url": "https://ythls.onrender.com/channel/UCOBMhI7TtRLTAGpcTjNvYCw.m3u8"
+      },
+      {
         "Url": "https://cdn.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8"
       }
     ]
   },
   {
-    "Id": "CENTelevision.cm",
-    "Name": "CEN Television",
+    "Id": "Canal2International.cm",
+    "Name": "Canal 2 International",
     "Country": "CM",
     "Languages": "fra",
-    "Categories": "general",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/2vJfdgN/unnamed.jpg",
+    "Website": "http://www.canal2international.net/",
+    "Logo": "https://i.imgur.com/BzA2z7m.png",
     "Streams": [
       {
-        "Url": "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8"
+        "Url": "https://tgn.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8"
       }
     ]
   },
   {
-    "Id": "CTVAfrique.cm",
-    "Name": "CTV Afrique",
+    "Id": "CanaldeVie.cm",
+    "Name": "Canal de Vie",
     "Country": "CM",
     "Languages": "fra",
-    "Categories": "general",
+    "Categories": "religious",
     "IsNsfw": false,
-    "Website": "https://www.ctvafrique.com/",
-    "Logo": "https://i.ibb.co/k0mws9B/Ctv-Afrique.jpg",
+    "Website": null,
+    "Logo": "https://i.ibb.co/kQHTpgv/unnamed-4.jpg",
     "Streams": [
       {
-        "Url": "https://stream.it-innov.com/ctv/index.m3u8"
+        "Url": "https://edge13.vedge.infomaniak.com/livecast/ik:canaldevie/playlist.m3u8"
       }
     ]
   },
@@ -101,21 +104,6 @@
     "Streams": [
       {
         "Url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SunPlusTV.cm",
-    "Name": "Sun+ TV",
-    "Country": "CM",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/tmMoq8Z.png",
-    "Streams": [
-      {
-        "Url": "https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8"
       }
     ]
   },

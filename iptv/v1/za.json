@@ -30,21 +30,6 @@
     ]
   },
   {
-    "Id": "CNBCAfrica.za",
-    "Name": "CNBC Africa",
-    "Country": "ZA",
-    "Languages": "eng",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.cnbcafrica.com/",
-    "Logo": "https://i.imgur.com/BnNYzWI.png",
-    "Streams": [
-      {
-        "Url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CapeTownTV.za",
     "Name": "Cape Town TV",
     "Country": "ZA",
@@ -90,6 +75,21 @@
     ]
   },
   {
+    "Id": "ImpactTVNetwork.za",
+    "Name": "Impact TV Network",
+    "Country": "ZA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.itvn.co.za/",
+    "Logo": "https://i.imgur.com/UvQznrE.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCaZWTzSO0dvQiAbN-4xFYIg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Kiddiwinks.za",
     "Name": "Kiddiwinks",
     "Country": "ZA",
@@ -131,21 +131,6 @@
     "Streams": [
       {
         "Url": "https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LoveWorldSat.za",
-    "Name": "LoveWorld Sat",
-    "Country": "ZA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.loveworldsat.org/",
-    "Logo": "https://i.imgur.com/HoAUs2V.png",
-    "Streams": [
-      {
-        "Url": "https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8"
       }
     ]
   },

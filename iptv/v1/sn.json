@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "A2iReligion.sn",
-    "Name": "A2i Religion",
-    "Country": "SN",
-    "Languages": "wol,fra",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/tH7EZL4.jpg",
-    "Streams": [
-      {
-        "Url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AsfiyahiTV.sn",
     "Name": "Asfiyahi TV",
     "Country": "SN",
@@ -71,21 +56,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCLAOTbXfGlOL0gBXcqFU7Dg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CNMTV.sn",
-    "Name": "CNM TV",
-    "Country": "SN",
-    "Languages": "fra",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://cnm.sn/",
-    "Logo": "https://i.ibb.co/0cfdGKv/1630802325205.jpg",
-    "Streams": [
-      {
-        "Url": "https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8"
       }
     ]
   },
@@ -150,6 +120,21 @@
     ]
   },
   {
+    "Id": "MourideTV.sn",
+    "Name": "Mouride TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.mouridetv.net/",
+    "Logo": "https://cdn-radiotime-logos.tunein.com/s202038d.png",
+    "Streams": [
+      {
+        "Url": "http://51.81.109.113:1935/Livemouridetv/mouridetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SenTV.sn",
     "Name": "Sen TV",
     "Country": "SN",
@@ -176,21 +161,6 @@
     "Streams": [
       {
         "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TeleMusikSenegal.sn",
-    "Name": "TeleMusik Senegal",
-    "Country": "SN",
-    "Languages": "fra",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://www.telemusik.tv/",
-    "Logo": "https://i.imgur.com/dPAPLsd.png",
-    "Streams": [
-      {
-        "Url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"
       }
     ]
   },

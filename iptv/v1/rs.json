@@ -1,20 +1,5 @@
 [
   {
-    "Id": "BloombergAdriaTV.rs",
-    "Name": "Bloomberg Adria TV",
-    "Country": "RS",
-    "Languages": "srp",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://bloombergadria.com/",
-    "Logo": "https://i.imgur.com/9QOfE8o.png",
-    "Streams": [
-      {
-        "Url": "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "EuronewsSerbia.rs",
     "Name": "Euronews Serbia",
     "Country": "RS",
@@ -150,21 +135,6 @@
     ]
   },
   {
-    "Id": "MuzzikReplaySerbia.rs",
-    "Name": "Muzzik Replay Serbia",
-    "Country": "RS",
-    "Languages": "srp",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
-    "Streams": [
-      {
-        "Url": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MuzzikRockRollSerbia.rs",
     "Name": "Muzzik Rock&Roll Serbia",
     "Country": "RS",
@@ -176,21 +146,6 @@
     "Streams": [
       {
         "Url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MuzzikSaculatacSerbia.rs",
-    "Name": "Muzzik Saculatac Serbia",
-    "Country": "RS",
-    "Languages": "srp",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",
-    "Streams": [
-      {
-        "Url": "https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8"
       }
     ]
   },
@@ -221,6 +176,21 @@
     "Streams": [
       {
         "Url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PannonTV.rs",
+    "Name": "Pannon TV",
+    "Country": "RS",
+    "Languages": "hun",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://pannonrtv.com/",
+    "Logo": "https://i.imgur.com/xQa2idL.png",
+    "Streams": [
+      {
+        "Url": "https://stream.nmih.hu:4102/live.m3u8"
       }
     ]
   },
@@ -318,21 +288,6 @@
     ]
   },
   {
-    "Id": "TVBelleAmie.rs",
-    "Name": "TV Belle Amie",
-    "Country": "RS",
-    "Languages": "srp",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.belami.rs/",
-    "Logo": "https://i.imgur.com/SzWynar.png",
-    "Streams": [
-      {
-        "Url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVDugaPlus.rs",
     "Name": "TV Duga +",
     "Country": "RS",
@@ -374,21 +329,6 @@
     "Streams": [
       {
         "Url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "eduTV.rs",
-    "Name": "eduTV",
-    "Country": "RS",
-    "Languages": "srp",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/dWQC2tn.png",
-    "Streams": [
-      {
-        "Url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8"
       }
     ]
   }

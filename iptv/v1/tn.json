@@ -1,5 +1,35 @@
 [
   {
+    "Id": "IFMTV.tn",
+    "Name": "IFM TV",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/9oEaZ9Y.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JawharaTV.tn",
+    "Name": "Jawhara TV",
+    "Country": "TN",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.jawharafm.net/",
+    "Logo": "https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg",
+    "Streams": [
+      {
+        "Url": "https://streaming.toutech.net/live/jtv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MosaiqueFM.tn",
     "Name": "Mosaique FM",
     "Country": "TN",
@@ -56,9 +86,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8"
-      },
-      {
-        "Url": "http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8"
       }
     ]
   },

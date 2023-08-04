@@ -1,5 +1,20 @@
 [
   {
+    "Id": "DRTV.dk",
+    "Name": "DRTV",
+    "Country": "DK",
+    "Languages": "dan",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.dr.dk/drtv/",
+    "Logo": "https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png",
+    "Streams": [
+      {
+        "Url": "https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TV2Bornholm.dk",
     "Name": "TV 2 Bornholm",
     "Country": "DK",
@@ -48,6 +63,36 @@
     ]
   },
   {
+    "Id": "TV2Nord.dk",
+    "Name": "TV2 Nord",
+    "Country": "DK",
+    "Languages": "dan",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tv2nord.dk/",
+    "Logo": "https://i.imgur.com/tEJ22UW.png",
+    "Streams": [
+      {
+        "Url": "https://cdnapisec.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV2Ost.dk",
+    "Name": "TV2 Ost",
+    "Country": "DK",
+    "Languages": "dan",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tv2east.dk/",
+    "Logo": "https://i.imgur.com/H9l6Ulw.png",
+    "Streams": [
+      {
+        "Url": "https://cdnapisec.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/protocol/https/format/applehttp/a.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TV2Ostjylland.dk",
     "Name": "TV 2/Ostjylland",
     "Country": "DK",
@@ -80,6 +125,21 @@
       },
       {
         "Url": "https://cdn-lt-live.tvsyd.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956351/e/0_e9slj9wh/tl/main/st/0/t/rFEtaqAbdhUFGef_BNF4WQ/index-s35.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVMidtvest.dk",
+    "Name": "TV Midtvest",
+    "Country": "DK",
+    "Languages": "dan",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tvmidtvest.dk/",
+    "Logo": "https://i.imgur.com/OU7xIVa.png",
+    "Streams": [
+      {
+        "Url": "https://cdnapisec.kaltura.com/p/1953371/sp/195337100/playManifest/entryId/1_qwqu2d0z/protocol/https/format/applehttp/a.m3u8"
       }
     ]
   },

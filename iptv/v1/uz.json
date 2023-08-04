@@ -1,31 +1,16 @@
 [
   {
-    "Id": "BIZCinema.uz",
-    "Name": "BIZ Cinema",
+    "Id": "AzonTV.uz",
+    "Name": "Azon TV",
     "Country": "UZ",
     "Languages": "uzb",
-    "Categories": "movies",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://biztv.uz/",
-    "Logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+    "Website": "https://azon.tv/",
+    "Logo": "https://i.imgur.com/x8TST9h.png",
     "Streams": [
       {
-        "Url": "https://st.biztv.uz/hls/c_hi/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BIZMusic.uz",
-    "Name": "BIZ Music",
-    "Country": "UZ",
-    "Languages": "uzb",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://imgtr.ee/images/2023/05/24/wQ6wz.png",
-    "Streams": [
-      {
-        "Url": "https://st.biztv.uz/hls/m_hi/index.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCneJYS2Xf_a2a1ealwZb7mQ.m3u8"
       }
     ]
   },
@@ -71,6 +56,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NevoMusicTj.uz",
+    "Name": "NevoMusicTj",
+    "Country": "UZ",
+    "Languages": "tgk",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/Vwnz1Mw/channels4-profile-3.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCXvGJ608Y8TgJ8lKLv-2WOg.m3u8"
       }
     ]
   },

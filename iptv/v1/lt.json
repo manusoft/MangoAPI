@@ -1,20 +1,5 @@
 [
   {
-    "Id": "2TV.lt",
-    "Name": "2TV",
-    "Country": "LT",
-    "Languages": "lit",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://lnk.lt/tiesiogiai#2tv",
-    "Logo": "https://i.imgur.com/sZUIhGc.png",
-    "Streams": [
-      {
-        "Url": "http://88.216.83.245/liuks/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BTV.lt",
     "Name": "BTV",
     "Country": "LT",

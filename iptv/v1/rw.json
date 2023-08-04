@@ -1,5 +1,50 @@
 [
   {
+    "Id": "BTNTV.rw",
+    "Name": "BTN TV",
+    "Country": "RW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://btnrwanda.com/",
+    "Logo": "https://i.imgur.com/WmaP8zP.png",
+    "Streams": [
+      {
+        "Url": "https://tv.livebcm.com:3844/live/btntvrwandalive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BTV.rw",
+    "Name": "BTV",
+    "Country": "RW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wRIxTBk.png",
+    "Streams": [
+      {
+        "Url": "https://tv.livebcm.com:3580/live/btvrwandalive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FlashTV.rw",
+    "Name": "Flash TV",
+    "Country": "RW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://flash.rw/",
+    "Logo": "https://i.imgur.com/0IViNQw.png",
+    "Streams": [
+      {
+        "Url": "https://tv.livebcm.com:3169/live/flashtvrwandalive.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IsangoTV.rw",
     "Name": "Isango TV",
     "Country": "RW",
@@ -59,6 +104,21 @@
       },
       {
         "Url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PacisTV.rw",
+    "Name": "Pacis TV",
+    "Country": "RW",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/LSo1sIo.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCkKVUyOqvKk1W-QadPy_WHQ.m3u8"
       }
     ]
   },

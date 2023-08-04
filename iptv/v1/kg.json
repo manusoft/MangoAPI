@@ -30,6 +30,36 @@
     ]
   },
   {
+    "Id": "KTRK.kg",
+    "Name": "KTRK",
+    "Country": "KG",
+    "Languages": "kir",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.ktrk.kg/",
+    "Logo": "https://i.imgur.com/jsZR6b2.png",
+    "Streams": [
+      {
+        "Url": "http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KTRKSport.kg",
+    "Name": "KTRK Sport",
+    "Country": "KG",
+    "Languages": "kir",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "http://www.ktrk.kg/sport",
+    "Logo": "https://i.imgur.com/HEiMqV6.png",
+    "Streams": [
+      {
+        "Url": "http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Madaniyat.kg",
     "Name": "Madaniyat",
     "Country": "KG",
@@ -41,6 +71,21 @@
     "Streams": [
       {
         "Url": "http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Muzika.kg",
+    "Name": "Muzika",
+    "Country": "KG",
+    "Languages": "kir",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.ktrk.kg/music",
+    "Logo": "https://i.imgur.com/x3s9lys.png",
+    "Streams": [
+      {
+        "Url": "http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8"
       }
     ]
   },

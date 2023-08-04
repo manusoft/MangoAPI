@@ -15,6 +15,21 @@
     ]
   },
   {
+    "Id": "HaitiViralNews.ht",
+    "Name": "Haiti Viral News",
+    "Country": "HT",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eaPFJJs.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCcEY2-g-EEefxyYa1gtrk4g.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "KajouTV.ht",
     "Name": "Kajou TV",
     "Country": "HT",
@@ -191,21 +206,6 @@
     "Streams": [
       {
         "Url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TelePacific.ht",
-    "Name": "Tele Pacific",
-    "Country": "HT",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/jgnOSU1.png",
-    "Streams": [
-      {
-        "Url": "https://pacific.zekletech.com:2002/live/acw_01/index.m3u8"
       }
     ]
   }

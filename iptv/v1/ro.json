@@ -138,32 +138,17 @@
     ]
   },
   {
-    "Id": "BucovinaTV.ro",
-    "Name": "Bucovina TV",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/7QHdiTO.png",
-    "Streams": [
-      {
-        "Url": "http://46.4.14.12:9999/btvsvlive/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CaTine.ro",
-    "Name": "CaTine",
+    "Id": "CardioTVSRC.ro",
+    "Name": "Cardio TV SRC",
     "Country": "RO",
     "Languages": "ron",
     "Categories": "lifestyle",
     "IsNsfw": false,
-    "Website": "https://catine.ro/",
-    "Logo": "https://i.imgur.com/GFm1P51.png",
+    "Website": "https://www.cardiotvsrc.ro/",
+    "Logo": "https://i.imgur.com/6Ab3KD6.png",
     "Streams": [
       {
-        "Url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8"
+        "Url": "https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8"
       }
     ]
   },
@@ -302,6 +287,21 @@
     "Streams": [
       {
         "Url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Hunedoara1.ro",
+    "Name": "Hunedoara 1",
+    "Country": "RO",
+    "Languages": "ron",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://netstreaming.eu/hunedoara1.htm",
+    "Logo": "https://i.imgur.com/9bz15ad.png",
+    "Streams": [
+      {
+        "Url": "https://testcam.go.ro:8080/hls/hd1.m3u8"
       }
     ]
   },
@@ -624,24 +624,6 @@
     ]
   },
   {
-    "Id": "ProfitTV.ro",
-    "Name": "Profit TV",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.profit.ro/",
-    "Logo": "https://i.imgur.com/uPmPAED.png",
-    "Streams": [
-      {
-        "Url": "https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8"
-      },
-      {
-        "Url": "https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "QubTV.ro",
     "Name": "Qub TV",
     "Country": "RO",
@@ -653,21 +635,6 @@
     "Streams": [
       {
         "Url": "https://live.djemba.ro/live/qubtvlive/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RadioTelevizuneaDiasporei.ro",
-    "Name": "Radio Televizunea Diasporei",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.rtvd.ro/",
-    "Logo": "https://i.imgur.com/jA1DnDu.png",
-    "Streams": [
-      {
-        "Url": "https://video2.lhdserver.es/diasporei/live.m3u8"
       }
     ]
   },

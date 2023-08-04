@@ -93,21 +93,6 @@
     ]
   },
   {
-    "Id": "BakuTV.az",
-    "Name": "Baku.TV",
-    "Country": "AZ",
-    "Languages": "aze",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://baku.tv/",
-    "Logo": "https://i.imgur.com/r4FzxSg.png",
-    "Streams": [
-      {
-        "Url": "https://rtmp.baku.tv/live/bakutv_720p.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ELTV.az",
     "Name": "EL TV",
     "Country": "AZ",

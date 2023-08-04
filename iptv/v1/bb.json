@@ -1,17 +1,1 @@
-[
-  {
-    "Id": "CBCTV8.bb",
-    "Name": "CBC TV8",
-    "Country": "BB",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/WsD83lq.png",
-    "Streams": [
-      {
-        "Url": "https://1740288887.rsc.cdn77.org/1740288887/index.m3u8"
-      }
-    ]
-  }
-]
+[]

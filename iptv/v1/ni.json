@@ -1,61 +1,16 @@
 [
   {
-    "Id": "CDNN23.ni",
-    "Name": "CDNN 23",
+    "Id": "AsambleaTV.ni",
+    "Name": "Asamblea TV",
     "Country": "NI",
     "Languages": "spa",
-    "Categories": "news",
+    "Categories": "legislative",
     "IsNsfw": false,
-    "Website": "https://www.cdnn23.com/",
-    "Logo": "https://imgtr.ee/images/2023/05/24/wTjfi.png",
+    "Website": "https://noticias.asamblea.gob.ni/asamblea-en-linea/",
+    "Logo": "https://i.imgur.com/ABywgtf.png",
     "Streams": [
       {
-        "Url": "http://138.117.4.70:8075/channel23/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal10.ni",
-    "Name": "Canal 10",
-    "Country": "NI",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.canal10.com.ni/",
-    "Logo": "https://i.imgur.com/ztp781b.png",
-    "Streams": [
-      {
-        "Url": "http://138.117.4.70:8075/channel10/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal11.ni",
-    "Name": "Canal 11",
-    "Country": "NI",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/heZeqPQ.png",
-    "Streams": [
-      {
-        "Url": "http://138.117.4.70:8075/channel11/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal21.ni",
-    "Name": "Canal 21",
-    "Country": "NI",
-    "Languages": "spa",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://canal21nicaragua.com/",
-    "Logo": "https://i.imgur.com/ypG437l.png",
-    "Streams": [
-      {
-        "Url": "https://stmvideo2.livecastv.com/canal21nic3/canal21nic3/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCYKbJljhlPac_5NY1NxohFQ.m3u8"
       }
     ]
   },
@@ -89,21 +44,6 @@
     "Streams": [
       {
         "Url": "http://138.117.4.70:8075/channel22/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MegaBox.ni",
-    "Name": "MegaBox",
-    "Country": "NI",
-    "Languages": "spa",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://megaboxmusica.com/",
-    "Logo": "https://i.imgur.com/JqaW7Ei.png",
-    "Streams": [
-      {
-        "Url": "https://stmv1.voxhdnet.com/megabox5/megabox5/playlist.m3u8"
       }
     ]
   },

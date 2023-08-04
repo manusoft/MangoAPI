@@ -13,5 +13,20 @@
         "Url": "https://ythls.onrender.com/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8"
       }
     ]
+  },
+  {
+    "Id": "TVFamille.mq",
+    "Name": "TV Famille",
+    "Country": "MQ",
+    "Languages": "fra",
+    "Categories": "family,religious",
+    "IsNsfw": false,
+    "Website": "https://tvfamille.org/",
+    "Logo": "https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png",
+    "Streams": [
+      {
+        "Url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+      }
+    ]
   }
 ]

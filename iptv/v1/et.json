@@ -58,5 +58,80 @@
         "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8"
       }
     ]
+  },
+  {
+    "Id": "NBCEthiopia.et",
+    "Name": "NBC Ethiopia",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/dmtgFx6.png",
+    "Streams": [
+      {
+        "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/nbc_eth-1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OBNGaammee.et",
+    "Name": "OBN Gaammee",
+    "Country": "ET",
+    "Languages": "orm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/vTbFAEm.png",
+    "Streams": [
+      {
+        "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/obn_gaammee_1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PrimeMedia.et",
+    "Name": "Prime Media",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/2mhM3mD.png",
+    "Streams": [
+      {
+        "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/prime-media_1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SidaamaMediaNetwork.et",
+    "Name": "Sidaama Media Network",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.sidamamedianetwork.org/",
+    "Logo": "https://i.imgur.com/bbtkxWX.png",
+    "Streams": [
+      {
+        "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/smn-tv_1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WaltaTV.et",
+    "Name": "Walta TV",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://waltainfo.com/",
+    "Logo": "https://i.imgur.com/AjnOw9p.png",
+    "Streams": [
+      {
+        "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/walta_1.m3u8"
+      }
+    ]
   }
 ]

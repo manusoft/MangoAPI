@@ -11,6 +11,9 @@
     "Streams": [
       {
         "Url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://tv.ensonhaber.com/tv24/tv24.m3u8"
       }
     ]
   },
@@ -150,6 +153,21 @@
     ]
   },
   {
+    "Id": "ATurk.tr",
+    "Name": "A Turk",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.aturk.tv/",
+    "Logo": "https://i.imgur.com/je5wQ3G.png",
+    "Streams": [
+      {
+        "Url": "https://vdo.digitalbox.xyz:3807/stream/play.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AgroTV.tr",
     "Name": "Agro TV",
     "Country": "TR",
@@ -285,6 +303,51 @@
     ]
   },
   {
+    "Id": "BBNTurk.tr",
+    "Name": "BBN Turk",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.bbnturk.com.tr/",
+    "Logo": "https://www.lyngsat.com/logo/tv/bb/bbn-turk-tr.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BRTV.tr",
+    "Name": "BRTV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.brtv.com.tr/",
+    "Logo": "https://i.imgur.com/U3qlEAp.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BenguturkTV.tr",
+    "Name": "Benguturk TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.benguturk.com/",
+    "Logo": "https://i.imgur.com/p3ON1oX.png",
+    "Streams": [
+      {
+        "Url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BeratTV.tr",
     "Name": "Berat TV",
     "Country": "TR",
@@ -300,92 +363,20 @@
     ]
   },
   {
-    "Id": "BesiktasWebTV.tr",
-    "Name": "Besiktas Web TV",
+    "Id": "BloombergHT.tr",
+    "Name": "Bloomberg HT",
     "Country": "TR",
     "Languages": "tur",
-    "Categories": "",
+    "Categories": "business",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/bRhnM6W/qti5aea.png",
+    "Website": "https://www.bloomberght.com/tv",
+    "Logo": "https://i.imgur.com/bmkXfIE.png",
     "Streams": [
       {
-        "Url": "https://s01.vpis.io/besiktas/besiktas.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BeykentTV.tr",
-    "Name": "Beykent TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.beykenttv.com.tr/",
-    "Logo": "https://i.imgur.com/Zv65ns5.png",
-    "Streams": [
+        "Url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+      },
       {
-        "Url": "https://yayin30.haber100.com/live/beykenttv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BizimevTV.tr",
-    "Name": "Bizimev TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/eJa6sFY.png",
-    "Streams": [
-      {
-        "Url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BricveSatrancTV.tr",
-    "Name": "Bric ve Satranc TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.itp.tv.tr/",
-    "Logo": "https://i.imgur.com/TXDV1ty.png",
-    "Streams": [
-      {
-        "Url": "http://139.162.182.79/live/test/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CNNTurk.tr",
-    "Name": "CNN Turk",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.cnnturk.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png",
-    "Streams": [
-      {
-        "Url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanTV.tr",
-    "Name": "Can TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://cantv.tv/",
-    "Logo": "https://i.imgur.com/oIMtuwB.png",
-    "Streams": [
-      {
-        "Url": "http://canbroadcast.com:7000/canlican/tv.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8"
       }
     ]
   },
@@ -588,6 +579,21 @@
     ]
   },
   {
+    "Id": "EmTV.tr",
+    "Name": "Em TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/pHlRi8m.jpg",
+    "Streams": [
+      {
+        "Url": "https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ErtSahTV.tr",
     "Name": "Ert Sah TV",
     "Country": "TR",
@@ -633,21 +639,6 @@
     ]
   },
   {
-    "Id": "EuroStar.tr",
-    "Name": "EuroStar",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.eurostartv.com.tr/",
-    "Logo": "https://i.imgur.com/kb165Ot.png",
-    "Streams": [
-      {
-        "Url": "https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "FalastiniTV.tr",
     "Name": "Falastini TV",
     "Country": "TR",
@@ -659,6 +650,21 @@
     "Streams": [
       {
         "Url": "https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FinansTurkTV.tr",
+    "Name": "Finans Turk TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+    "Streams": [
+      {
+        "Url": "https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8"
       }
     ]
   },
@@ -708,6 +714,51 @@
     ]
   },
   {
+    "Id": "GRT.tr",
+    "Name": "GRT",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.grt.com.tr/",
+    "Logo": "https://i.imgur.com/eRR0gkC.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GoncaTV.tr",
+    "Name": "Gonca TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.goncatv.com.tr/",
+    "Logo": "https://i.imgur.com/TwqIJwo.png",
+    "Streams": [
+      {
+        "Url": "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GuneyTVTarsus.tr",
+    "Name": "Guney TV Tarsus",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/solQ9nj.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Haber61TV.tr",
     "Name": "Haber61 TV",
     "Country": "TR",
@@ -726,6 +777,36 @@
     ]
   },
   {
+    "Id": "HaberGlobal.tr",
+    "Name": "Haber Global",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.haberglobal.com.tr/",
+    "Logo": "https://i.imgur.com/fu6XeGS.png",
+    "Streams": [
+      {
+        "Url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Haberturk.tr",
+    "Name": "Haberturk",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://tv.haberturk.com/",
+    "Logo": "https://i.imgur.com/sUFh3Qr.png",
+    "Streams": [
+      {
+        "Url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HalkTV.tr",
     "Name": "Halk TV",
     "Country": "TR",
@@ -737,6 +818,21 @@
     "Streams": [
       {
         "Url": "https://halktv.blutv.com/blutv_halktv_live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HunatTV.tr",
+    "Name": "Hunat TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://hunattv.com/",
+    "Logo": "https://i.imgur.com/NrxHGnb.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
       }
     ]
   },
@@ -774,6 +870,21 @@
     ]
   },
   {
+    "Id": "KANAL58.tr",
+    "Name": "KANAL58",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://kanal58.com.tr/",
+    "Logo": "https://i.imgur.com/Rgc66sv.png",
+    "Streams": [
+      {
+        "Url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "KRT.tr",
     "Name": "KRT",
     "Country": "TR",
@@ -785,6 +896,51 @@
     "Streams": [
       {
         "Url": "https://krt.blutv.com/blutv_krt_live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kanal15.tr",
+    "Name": "Kanal 15",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kanal15.com.tr/",
+    "Logo": "https://i.imgur.com/wb1Cdc9.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kanal23.tr",
+    "Name": "Kanal 23",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kanal23.com/",
+    "Logo": "https://i.imgur.com/3br8RCq.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kanal26.tr",
+    "Name": "Kanal 26",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.kanal26.tv/",
+    "Logo": "https://i.imgur.com/Mr7XPii.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
       }
     ]
   },
@@ -837,6 +993,51 @@
     ]
   },
   {
+    "Id": "Kanal34.tr",
+    "Name": "Kanal 34",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kanal34.tv/",
+    "Logo": "https://i.imgur.com/SIaI6Sj.png",
+    "Streams": [
+      {
+        "Url": "https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kanal68.tr",
+    "Name": "Kanal 68",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5y7K9SS.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kanal7.tr",
+    "Name": "Kanal 7",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.kanal7.com/",
+    "Logo": "https://i.imgur.com/pxpLpnH.png",
+    "Streams": [
+      {
+        "Url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Kanal7Avrupa.tr",
     "Name": "Kanal 7 Avrupa",
     "Country": "TR",
@@ -848,21 +1049,6 @@
     "Streams": [
       {
         "Url": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "KanalB.tr",
-    "Name": "Kanal B",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.kanalb.com.tr/",
-    "Logo": "https://i.imgur.com/bUsbxTQ.png",
-    "Streams": [
-      {
-        "Url": "http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8"
       }
     ]
   },
@@ -893,6 +1079,21 @@
     "Streams": [
       {
         "Url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KanalFirat.tr",
+    "Name": "Kanal Firat",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kanalfirat.com.tr/",
+    "Logo": "https://i.imgur.com/3o8Rokp.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
       }
     ]
   },
@@ -1065,6 +1266,21 @@
     ]
   },
   {
+    "Id": "MinikaGo.tr",
+    "Name": "Minika Go",
+    "Country": "TR",
+    "Languages": "tur,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.minikago.com.tr/",
+    "Logo": "https://i.imgur.com/qIoipDq.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "NTV.tr",
     "Name": "NTV",
     "Country": "TR",
@@ -1185,21 +1401,6 @@
     ]
   },
   {
-    "Id": "PamukkaleTV.tr",
-    "Name": "Pamukkale TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://pamukkaletv.com/",
-    "Logo": "https://i.imgur.com/8fHgTIr.png",
-    "Streams": [
-      {
-        "Url": "http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PowerDance.tr",
     "Name": "Power Dance",
     "Country": "TR",
@@ -1226,21 +1427,6 @@
     "Streams": [
       {
         "Url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "PowerPlus.tr",
-    "Name": "Power Plus",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://www.powerapp.com.tr/powerplus/",
-    "Logo": "https://i.imgur.com/susAPo6.png",
-    "Streams": [
-      {
-        "Url": "https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8"
       }
     ]
   },
@@ -1398,6 +1584,21 @@
     ]
   },
   {
+    "Id": "ShowTV.tr",
+    "Name": "Show TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.showtv.com.tr/",
+    "Logo": "https://i.imgur.com/1l7SCCu.png",
+    "Streams": [
+      {
+        "Url": "http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ShowTurk.tr",
     "Name": "Show Turk",
     "Country": "TR",
@@ -1532,6 +1733,9 @@
       },
       {
         "Url": "https://d1u68oyra9spme.cloudfront.net/master.m3u8"
+      },
+      {
+        "Url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8"
       }
     ]
   },
@@ -1851,6 +2055,24 @@
     ]
   },
   {
+    "Id": "TVEm.tr",
+    "Name": "TV Em",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tvem.com.tr/",
+    "Logo": "https://i.imgur.com/kKdXoXx.png",
+    "Streams": [
+      {
+        "Url": "https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8"
+      },
+      {
+        "Url": "https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVNet.tr",
     "Name": "TV Net",
     "Country": "TR",
@@ -1926,6 +2148,21 @@
     ]
   },
   {
+    "Id": "TempoTV.tr",
+    "Name": "Tempo TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.tempo-tv.com/",
+    "Logo": "https://i.imgur.com/6w3ecR7.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Teve2.tr",
     "Name": "Teve2",
     "Country": "TR",
@@ -1952,6 +2189,21 @@
     "Streams": [
       {
         "Url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TonTV.tr",
+    "Name": "Ton TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tontv.com.tr/",
+    "Logo": "https://i.imgur.com/f0Soeob.png",
+    "Streams": [
+      {
+        "Url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8"
       }
     ]
   },

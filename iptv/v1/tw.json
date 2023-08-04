@@ -15,36 +15,6 @@
     ]
   },
   {
-    "Id": "CTSNews.tw",
-    "Name": "CTS News",
-    "Country": "TW",
-    "Languages": "zho",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.cts.com.tw/",
-    "Logo": "https://i.imgur.com/V1EVtRm.png",
-    "Streams": [
-      {
-        "Url": "http://seb.sason.top/sc/hsxw_fhd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CTiNews.tw",
-    "Name": "CTi News",
-    "Country": "TW",
-    "Languages": "zho",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.ctitv.com.tw/",
-    "Logo": "https://i.imgur.com/u81tZtA.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DaliTV.tw",
     "Name": "Dali TV",
     "Country": "TW",
@@ -86,21 +56,6 @@
     "Streams": [
       {
         "Url": "http://seb.sason.top/sc/dsxw_fhd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "EBCYOYO.tw",
-    "Name": "EBC YOYO",
-    "Country": "TW",
-    "Languages": "yue",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": "http://ebcasiatv.com/asia/apps/showlist.htm?ch=3",
-    "Logo": "https://i.imgur.com/k4fhcPl.png",
-    "Streams": [
-      {
-        "Url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8"
       }
     ]
   },
@@ -161,6 +116,21 @@
     "Streams": [
       {
         "Url": "http://seb.sason.top/ptv/ftv.php?id=tw"
+      }
+    ]
+  },
+  {
+    "Id": "GlobalNews.tw",
+    "Name": "Global News",
+    "Country": "TW",
+    "Languages": "zho,eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.asiadigital.com.tw/archives/category/globalnews",
+    "Logo": "https://i.imgur.com/oYUjEle.png",
+    "Streams": [
+      {
+        "Url": "http://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8"
       }
     ]
   },

@@ -1,5 +1,20 @@
 [
   {
+    "Id": "7Info.ci",
+    "Name": "7 Info",
+    "Country": "CI",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.7info.ci/",
+    "Logo": "https://i.imgur.com/jcl1nNR.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BenieTV.ci",
     "Name": "Benie TV",
     "Country": "CI",
@@ -11,21 +26,6 @@
     "Streams": [
       {
         "Url": "https://voozmedia.fun/benietv/livestream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Business24Africa.ci",
-    "Name": "Business 24 Africa",
-    "Country": "CI",
-    "Languages": "fra",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.business24tv.com/",
-    "Logo": "https://i.imgur.com/zZFl3vy.png",
-    "Streams": [
-      {
-        "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"
       }
     ]
   },
@@ -71,21 +71,6 @@
     "Streams": [
       {
         "Url": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LMTVFrench.ci",
-    "Name": "LM TV French",
-    "Country": "CI",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.lumieredumonde.tv/",
-    "Logo": "https://i.imgur.com/FVnq2cQ.png",
-    "Streams": [
-      {
-        "Url": "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8"
       }
     ]
   },
@@ -150,21 +135,6 @@
     ]
   },
   {
-    "Id": "NovelaChannel.ci",
-    "Name": "Novela Channel",
-    "Country": "CI",
-    "Languages": "fra",
-    "Categories": "series",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg",
-    "Streams": [
-      {
-        "Url": "https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "RTI1.ci",
     "Name": "RTI 1",
     "Country": "CI",
@@ -191,21 +161,6 @@
     "Streams": [
       {
         "Url": "https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "UGFTV.ci",
-    "Name": "UGF TV",
-    "Country": "CI",
-    "Languages": "fra",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://ugfinfo.net/",
-    "Logo": "https://i.ibb.co/2k6HkKH/channels4-profile.jpg",
-    "Streams": [
-      {
-        "Url": "https://video1.getstreamhosting.com:1936/8200/8200/playlist.m3u8"
       }
     ]
   }

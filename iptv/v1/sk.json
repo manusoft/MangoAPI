@@ -294,17 +294,20 @@
     ]
   },
   {
-    "Id": "TVCentral.sk",
-    "Name": "TV Central",
+    "Id": "TVDK.sk",
+    "Name": "TV DK",
     "Country": "SK",
     "Languages": "slk",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "http://cetv.sk/",
-    "Logo": "https://i.imgur.com/LqGT8o9.png",
+    "Website": "https://www.tvdk.sk/",
+    "Logo": "https://i.imgur.com/qTOnPXe.png",
     "Streams": [
       {
-        "Url": "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8"
+        "Url": "http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8"
+      },
+      {
+        "Url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8"
       }
     ]
   },
@@ -407,9 +410,6 @@
     "Streams": [
       {
         "Url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://e11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
       }
     ]
   },

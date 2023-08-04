@@ -1,50 +1,5 @@
 [
   {
-    "Id": "CSFilm.cz",
-    "Name": "CS Film",
-    "Country": "CZ",
-    "Languages": "ces",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://csfilm.joj.cz/",
-    "Logo": "https://i.imgur.com/BAAuBB2.png",
-    "Streams": [
-      {
-        "Url": "https://st01-1.iptv.joj.sk/106-tv-pc.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CSHistory.cz",
-    "Name": "CS History",
-    "Country": "CZ",
-    "Languages": "ces",
-    "Categories": "documentary",
-    "IsNsfw": false,
-    "Website": "https://wartv.cz/",
-    "Logo": "https://i.imgur.com/rtYj21D.png",
-    "Streams": [
-      {
-        "Url": "https://st01-1.iptv.joj.sk/107-tv-pc.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CSMystery.cz",
-    "Name": "CS Mystery",
-    "Country": "CZ",
-    "Languages": "ces",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://kinosvet.tv/",
-    "Logo": "https://i.imgur.com/3cFbkUj.png",
-    "Streams": [
-      {
-        "Url": "https://st01-1.iptv.joj.sk/108-tv-pc.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CurrentTimeTV.cz",
     "Name": "Current Time TV",
     "Country": "CZ",
@@ -257,21 +212,6 @@
     "Streams": [
       {
         "Url": "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RTMPlus.cz",
-    "Name": "RTM+",
-    "Country": "CZ",
-    "Languages": "ces",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.rtmplus.cz/",
-    "Logo": "https://i.imgur.com/RNdcP2J.png",
-    "Streams": [
-      {
-        "Url": "https://www.rtmplus.cz/live/1-playlist.m3u8"
       }
     ]
   },

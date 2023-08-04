@@ -30,17 +30,32 @@
     ]
   },
   {
-    "Id": "CNA.al",
-    "Name": "CNA",
+    "Id": "EuronewsAlbania.al",
+    "Name": "Euronews Albania",
     "Country": "AL",
     "Languages": "sqi",
     "Categories": "news",
     "IsNsfw": false,
-    "Website": "https://www.cna.al/",
-    "Logo": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+    "Website": "https://euronews.al/",
+    "Logo": "https://i.imgur.com/Skf6vdi.png",
     "Streams": [
       {
-        "Url": "https://live1.mediadesk.al/cnatvlive.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MCNTV.al",
+    "Name": "MCN TV",
+    "Country": "AL",
+    "Languages": "sqi",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.mcntv.al/",
+    "Logo": "https://i.imgur.com/bcAMVVk.png",
+    "Streams": [
+      {
+        "Url": "http://141.95.145.70:8088/hls/mcn.m3u8"
       }
     ]
   },
@@ -197,6 +212,9 @@
     "Streams": [
       {
         "Url": "https://content.jwplatform.com/live/broadcast/hiynhSaw.m3u8"
+      },
+      {
+        "Url": "https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8"
       }
     ]
   },

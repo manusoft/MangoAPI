@@ -30,6 +30,21 @@
     ]
   },
   {
+    "Id": "HTSSlubice.pl",
+    "Name": "HTS Slubice",
+    "Country": "PL",
+    "Languages": "pol",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.slubice.tv/",
+    "Logo": "https://i.imgur.com/tnUSXdK.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCENo4wEDe_59Bb8rGGMZl_w.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "KTVSerbinow.pl",
     "Name": "KTV Serbinow",
     "Country": "PL",
@@ -405,6 +420,21 @@
     ]
   },
   {
+    "Id": "TVTZgorzelec.pl",
+    "Name": "TVT Zgorzelec",
+    "Country": "PL",
+    "Languages": "pol",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/zhzVpgf.jpg",
+    "Streams": [
+      {
+        "Url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVTorun.pl",
     "Name": "TV Torun",
     "Country": "PL",
@@ -491,6 +521,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC0vwjMGoZpwG_lLBuF6_ALA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelewizjaPograniczeGlubczyce.pl",
+    "Name": "Telewizja Pogranicze Glubczyce",
+    "Country": "PL",
+    "Languages": "pol",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/qqv9Nbj.png",
+    "Streams": [
+      {
+        "Url": "https://stream.elzappero.net/tvglubczyce.m3u8"
       }
     ]
   },

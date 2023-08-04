@@ -45,6 +45,21 @@
     ]
   },
   {
+    "Id": "AlKaheraWalNas.eg",
+    "Name": "Al Kahera Wal Nas",
+    "Country": "EG",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.alkaherawalnas.com/",
+    "Logo": "https://i.imgur.com/xa7RK5p.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlQaheraNews.eg",
     "Name": "Al Qahera News",
     "Country": "EG",
@@ -56,36 +71,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlRahma.eg",
-    "Name": "Al Rahma",
-    "Country": "EG",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/bK9LWJp.png",
-    "Streams": [
-      {
-        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/alrahmatv2023"
-      }
-    ]
-  },
-  {
-    "Id": "CBC.eg",
-    "Name": "CBC",
-    "Country": "EG",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.cbc-eg.com/",
-    "Logo": "https://i.imgur.com/8apNaLP.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8"
       }
     ]
   },
@@ -104,6 +89,21 @@
       },
       {
         "Url": "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ElRadio9090FM.eg",
+    "Name": "El Radio 9090 FM",
+    "Country": "EG",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.9090.fm/",
+    "Logo": "https://www.9090.fm/images/logo.png",
+    "Streams": [
+      {
+        "Url": "https://9090video.mobtada.com/hls/stream.m3u8"
       }
     ]
   },
@@ -194,6 +194,21 @@
     "Streams": [
       {
         "Url": "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MESat.eg",
+    "Name": "MESat",
+    "Country": "EG",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://mesat.tv/",
+    "Logo": "https://i.imgur.com/Wq7HXtR.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8"
       }
     ]
   },

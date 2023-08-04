@@ -1,20 +1,5 @@
 [
   {
-    "Id": "CNAInternational.sg",
-    "Name": "CNA International",
-    "Country": "SG",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.channelnewsasia.com/international",
-    "Logo": "https://i.imgur.com/xWglicB.png",
-    "Streams": [
-      {
-        "Url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GEM.sg",
     "Name": "GEM",
     "Country": "SG",

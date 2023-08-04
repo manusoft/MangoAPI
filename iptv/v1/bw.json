@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Id": "NowTV.bw",
+    "Name": "Now-TV",
+    "Country": "BW",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/rkBw0pW.png",
+    "Streams": [
+      {
+        "Url": "https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8"
+      }
+    ]
+  }
+]

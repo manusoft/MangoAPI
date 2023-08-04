@@ -48,6 +48,21 @@
     ]
   },
   {
+    "Id": "MaahTV.my",
+    "Name": "Maah TV",
+    "Country": "MY",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/FkyueH6.png",
+    "Streams": [
+      {
+        "Url": "https://hls.maahtv.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SukanRTM.my",
     "Name": "Sukan RTM",
     "Country": "MY",

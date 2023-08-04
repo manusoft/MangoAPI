@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "Canal100Chinique.gt",
-    "Name": "Canal 100 Chinique",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.playgt.net/c100chinique",
-    "Logo": "https://i.imgur.com/ygNKJXx.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal27.gt",
     "Name": "Canal 27",
     "Country": "GT",
@@ -105,17 +90,17 @@
     ]
   },
   {
-    "Id": "CanalPeniel.gt",
-    "Name": "Canal Peniel",
+    "Id": "Canal9Toliman.gt",
+    "Name": "Canal9 Toliman",
     "Country": "GT",
     "Languages": "spa",
-    "Categories": "religious",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.playgt.net/canalpeniel",
-    "Logo": "https://i.imgur.com/Z7aKJCt.png",
+    "Website": "https://www.playgt.net/canal9gt",
+    "Logo": "https://i.imgur.com/ytg9oTf.png",
     "Streams": [
       {
-        "Url": "https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8"
+        "Url": "https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8"
       }
     ]
   },
@@ -150,6 +135,21 @@
     ]
   },
   {
+    "Id": "ExpresionTV.gt",
+    "Name": "Expresion TV",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ebenezersolola.com.gt/expresion-tv",
+    "Logo": "https://i.imgur.com/lFek4Pj.png",
+    "Streams": [
+      {
+        "Url": "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FeViviente.gt",
     "Name": "Fe Viviente",
     "Country": "GT",
@@ -180,17 +180,17 @@
     ]
   },
   {
-    "Id": "FullChannel.gt",
-    "Name": "Full Channel",
+    "Id": "GuaTV.gt",
+    "Name": "GuaTV",
     "Country": "GT",
     "Languages": "spa",
-    "Categories": "",
+    "Categories": "general",
     "IsNsfw": false,
-    "Website": "https://www.playgt.net/fullchannel",
-    "Logo": "https://i.imgur.com/e8sIMF3.png",
+    "Website": null,
+    "Logo": "https://i.imgur.com/YxBrM4u.png",
     "Streams": [
       {
-        "Url": "https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8"
+        "Url": "https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8"
       }
     ]
   },
@@ -251,9 +251,6 @@
     "Streams": [
       {
         "Url": "http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/100"
       }
     ]
   },
@@ -268,7 +265,7 @@
     "Logo": "https://i.imgur.com/mBNOSzl.png",
     "Streams": [
       {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/134"
+        "Url": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
       }
     ]
   },
@@ -283,7 +280,7 @@
     "Logo": "https://i.imgur.com/IFQbGEf.png",
     "Streams": [
       {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/136"
+        "Url": "https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8"
       }
     ]
   },
@@ -298,37 +295,10 @@
     "Logo": "https://i.imgur.com/IFQbGEf.png",
     "Streams": [
       {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/137"
-      }
-    ]
-  },
-  {
-    "Id": "PlayMediosDigital.gt",
-    "Name": "PlayMedios Digital",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/YxBrM4u.png",
-    "Streams": [
+        "Url": "https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8"
+      },
       {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/61"
-      }
-    ]
-  },
-  {
-    "Id": "PresenciaTelevision.gt",
-    "Name": "Presencia Television",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://palabraenaccion.org/",
-    "Logo": "https://i.imgur.com/SVho6El.png",
-    "Streams": [
-      {
-        "Url": "https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8"
+        "Url": "https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8"
       }
     ]
   },
@@ -359,24 +329,21 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/138"
       }
     ]
   },
   {
-    "Id": "TDS.gt",
-    "Name": "TDS",
+    "Id": "SolTV.gt",
+    "Name": "Sol TV",
     "Country": "GT",
     "Languages": "spa",
     "Categories": "general",
     "IsNsfw": false,
     "Website": null,
-    "Logo": "https://i.imgur.com/HwGgYEP.png",
+    "Logo": "https://i.ibb.co/YXYv8sf/logo-soltv2.png",
     "Streams": [
       {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/102"
+        "Url": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
       }
     ]
   },
@@ -390,9 +357,6 @@
     "Website": null,
     "Logo": "https://i.imgur.com/jsbwnRb.png",
     "Streams": [
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/96"
-      },
       {
         "Url": "https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8"
       }
@@ -425,9 +389,6 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/60"
       }
     ]
   },
@@ -447,36 +408,6 @@
     ]
   },
   {
-    "Id": "Telemax.gt",
-    "Name": "Telemax",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.playgt.net/telemax",
-    "Logo": "https://i.imgur.com/HisGao7.png",
-    "Streams": [
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/99"
-      }
-    ]
-  },
-  {
-    "Id": "TeveGlobo.gt",
-    "Name": "Teve Globo",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://www.teveglobo.live/",
-    "Logo": "https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png",
-    "Streams": [
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/95"
-      }
-    ]
-  },
-  {
     "Id": "Totovision.gt",
     "Name": "Totovision",
     "Country": "GT",
@@ -488,9 +419,6 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/62"
       }
     ]
   },
@@ -506,27 +434,6 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/139"
-      }
-    ]
-  },
-  {
-    "Id": "UnicaTV.gt",
-    "Name": "Unica TV",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.playgt.net/unicatv",
-    "Logo": "https://i.imgur.com/VE5OrU7.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/98"
       }
     ]
   },
@@ -542,9 +449,6 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
-      },
-      {
-        "Url": "http://204.12.202.90:8080/playgt/playgt2023/59"
       }
     ]
   }

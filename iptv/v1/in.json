@@ -1,5 +1,20 @@
 [
   {
+    "Id": "10TV.in",
+    "Name": "10 TV",
+    "Country": "IN",
+    "Languages": "tel",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.10tv.in/",
+    "Logo": "https://i.imgur.com/TauWtuJ.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "1YesNews.in",
     "Name": "1 Yes News",
     "Country": "IN",
@@ -30,6 +45,21 @@
     ]
   },
   {
+    "Id": "3TamilTV.in",
+    "Name": "3 Tamil TV",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/U3SlVLx.png",
+    "Streams": [
+      {
+        "Url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "7SMusic.in",
     "Name": "7S Music",
     "Country": "IN",
@@ -41,6 +71,21 @@
     "Streams": [
       {
         "Url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "99TV.in",
+    "Name": "99TV",
+    "Country": "IN",
+    "Languages": "tel",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/dZA4gel.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8"
       }
     ]
   },
@@ -60,17 +105,17 @@
     ]
   },
   {
-    "Id": "A1TVRajasthan.in",
-    "Name": "A1 TV Rajasthan",
+    "Id": "ABNAndhraJyoti.in",
+    "Name": "ABN Andhra Jyoti",
     "Country": "IN",
-    "Languages": "hin",
-    "Categories": "news",
+    "Languages": "tel",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "http://www.a1live.in/",
-    "Logo": "https://i.imgur.com/XJA3bh1.png",
+    "Website": "https://www.andhrajyothy.com/",
+    "Logo": "https://i.imgur.com/gcoiZJ3.png",
     "Streams": [
       {
-        "Url": "https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8"
       }
     ]
   },
@@ -86,6 +131,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ABPAsmita.in",
+    "Name": "ABP Asmita",
+    "Country": "IN",
+    "Languages": "guj",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://gujarati.abplive.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC3C6_1ETXfE807LltDbKYxg.m3u8"
       }
     ]
   },
@@ -145,7 +205,25 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ABP_Sanjha_logo.svg/512px-ABP_Sanjha_logo.svg.png",
     "Streams": [
       {
+        "Url": "https://ythls.onrender.com/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8"
+      },
+      {
         "Url": "https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ATNBangla.in",
+    "Name": "ATN Bangla",
+    "Country": "IN",
+    "Languages": "ben",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://atnbangla.tv/",
+    "Logo": "https://i.imgur.com/K1HmMRz.png",
+    "Streams": [
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8"
       }
     ]
   },
@@ -176,6 +254,21 @@
     "Streams": [
       {
         "Url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AamarBangla.in",
+    "Name": "Aamar Bangla",
+    "Country": "IN",
+    "Languages": "ben",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg",
+    "Streams": [
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
       }
     ]
   },
@@ -221,6 +314,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UClOK2dPmq8k8Xwii_4TjRnQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AmarUjala.in",
+    "Name": "AmarUjala",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.amarujala.com/",
+    "Logo": "https://i.imgur.com/ndQ8LZp.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8"
       }
     ]
   },
@@ -555,6 +663,36 @@
     ]
   },
   {
+    "Id": "AwakeningTV.in",
+    "Name": "Awakening TV",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://awakeningtv.in/",
+    "Logo": "https://i.imgur.com/p26iWOi.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQ8kxAu_on_YzVPMjB03rqA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AyushTV.in",
+    "Name": "Ayush TV",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://www.ayushtv.com/",
+    "Logo": "https://i.imgur.com/PWzvp0B.png",
+    "Streams": [
+      {
+        "Url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "B4UKadak.in",
     "Name": "B4U Kadak",
     "Country": "IN",
@@ -630,167 +768,17 @@
     ]
   },
   {
-    "Id": "BhakthiTV.in",
-    "Name": "Bhakthi TV",
-    "Country": "IN",
-    "Languages": "tel",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.bhakthitv.in/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Bharat24.in",
-    "Name": "Bharat24",
+    "Id": "BansalNews.in",
+    "Name": "Bansal News",
     "Country": "IN",
     "Languages": "hin",
     "Categories": "news",
     "IsNsfw": false,
-    "Website": "https://www.bharat24live.com/",
-    "Logo": "https://i.imgur.com/Jx1OX9N.png",
+    "Website": "https://bansalnews.com/",
+    "Logo": "https://i.imgur.com/8QL8SiB.png",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCCQmi1Bd-_tHRm6M2uPlGUA.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BharatSamacharTV.in",
-    "Name": "Bharat Samachar TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://bharatsamachartv.in/",
-    "Logo": "https://i.imgur.com/x5f8E3K.png",
-    "Streams": [
-      {
-        "Url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BoogleBollywood.in",
-    "Name": "Boogle Bollywood",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/gaKzWdo.png",
-    "Streams": [
-      {
-        "Url": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BtvNews.in",
-    "Name": "Btv News",
-    "Country": "IN",
-    "Languages": "kan",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://btvnewslive.com/",
-    "Logo": "https://i.imgur.com/0BEPrNQ.png",
-    "Streams": [
-      {
-        "Url": "https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CCV.in",
-    "Name": "CCV",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/4ss0KfA.png",
-    "Streams": [
-      {
-        "Url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CDNews.in",
-    "Name": "CD News",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/zIXsuC2.png",
-    "Streams": [
-      {
-        "Url": "https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CNBCAwaaz.in",
-    "Name": "CNBC Awaaz",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "http://hindi.moneycontrol.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CNBCTV18.in",
-    "Name": "CNBC TV18",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.cnbctv18.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CNNNews18.in",
-    "Name": "CNN News 18",
-    "Country": "IN",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.news18.com/",
-    "Logo": "https://i.imgur.com/WrmeIco.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CTVNAKDPlus.in",
-    "Name": "CTVN AKD Plus",
-    "Country": "IN",
-    "Languages": "ben",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://ctvn.co.in/",
-    "Logo": "https://i.imgur.com/QThBcw4.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCL_3_9PhDyZXu1oexm8gtFQ.m3u8"
       }
     ]
   },
@@ -885,6 +873,66 @@
     ]
   },
   {
+    "Id": "DDBangla.in",
+    "Name": "DD Bangla",
+    "Country": "IN",
+    "Languages": "ben",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/doordarshan/",
+    "Logo": "https://i.imgur.com/RHly9gC.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UClcW8Lfj5zE67tvsQ27lb_g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDBharati.in",
+    "Name": "DD Bharati",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/doordarshan/",
+    "Logo": "https://i.imgur.com/4tfUIEo.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDChandana.in",
+    "Name": "DD Chandana",
+    "Country": "IN",
+    "Languages": "kan",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/doordarshan/",
+    "Logo": "https://i.imgur.com/MaDlMtb.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCbdMik2cV8pea1jcWdX_CYA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDGirnar.in",
+    "Name": "DD Girnar",
+    "Country": "IN",
+    "Languages": "guj",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/doordarshan/",
+    "Logo": "https://i.imgur.com/4RT559e.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCneBFse451PgKgXJTDqikYA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DDIndia.in",
     "Name": "DD India",
     "Country": "IN",
@@ -930,6 +978,21 @@
     ]
   },
   {
+    "Id": "DDMalayalam.in",
+    "Name": "DD Malayalam",
+    "Country": "IN",
+    "Languages": "mal",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/doordarshan/",
+    "Logo": "https://i.imgur.com/ywm2dTl.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC4--pPs1CVZvs60uuhfjdwQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DDNational.in",
     "Name": "DD National",
     "Country": "IN",
@@ -960,6 +1023,66 @@
     ]
   },
   {
+    "Id": "DDPodhigai.in",
+    "Name": "DD Podhigai",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://doordarshan.gov.in/",
+    "Logo": "https://i.imgur.com/vbjkE84.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDPuducherry.in",
+    "Name": "DD Puducherry",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/bulvdUN.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDPunjabi.in",
+    "Name": "DD Punjabi",
+    "Country": "IN",
+    "Languages": "pan",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/dd-punjabi-homepage/",
+    "Logo": "https://i.imgur.com/WVtl6n2.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC8GYp35wJTN2ituJr0y-7AQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDSahyadri.in",
+    "Name": "DD Sahyadri",
+    "Country": "IN",
+    "Languages": "mar",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/dd-sahyadri-homepage/",
+    "Logo": "https://i.imgur.com/svjI6U6.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC-bdz-5EeUPT7lp7oSg4D5w.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DDSports.in",
     "Name": "DD Sports",
     "Country": "IN",
@@ -975,6 +1098,21 @@
     ]
   },
   {
+    "Id": "DDTripura.in",
+    "Name": "DD Tripura",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/ctlcdOw.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DDUrdu.in",
     "Name": "DD Urdu",
     "Country": "IN",
@@ -986,6 +1124,51 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCu9Fj9QRAg26ZY9DhF8HSrQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDUttarPradesh.in",
+    "Name": "DD Uttar Pradesh",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/dd-uttar-praesh-homepage/",
+    "Logo": "https://i.imgur.com/oKsUqBs.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCxtPipsf2nUZ9xM33TPe93Q.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDUttarakhand.in",
+    "Name": "DD Uttarakhand",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GzBsbos.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DDYadagiri.in",
+    "Name": "DD Yadagiri",
+    "Country": "IN",
+    "Languages": "tel",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://prasarbharati.gov.in/doordarshan/",
+    "Logo": "https://i.imgur.com/nxnGXJz.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8"
       }
     ]
   },
@@ -1185,6 +1368,24 @@
     ]
   },
   {
+    "Id": "FirstIndiaNews.in",
+    "Name": "First India News",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://firstindianews.com/",
+    "Logo": "https://i.imgur.com/MUTe7cu.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC_cZYFovNQTsKw1ZLmO_AMA.m3u8"
+      },
+      {
+        "Url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FlowersTV.in",
     "Name": "Flowers TV",
     "Country": "IN",
@@ -1196,21 +1397,6 @@
     "Streams": [
       {
         "Url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "FoxTV.in",
-    "Name": "Fox TV",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/cvpDeYH.png",
-    "Streams": [
-      {
-        "Url": "http://stream-live.in:11037/hls/foxtv.m3u8"
       }
     ]
   },
@@ -1245,17 +1431,62 @@
     ]
   },
   {
-    "Id": "GoodShepherdTV.in",
-    "Name": "Good Shepherd TV",
+    "Id": "Goa365.in",
+    "Name": "Goa365",
     "Country": "IN",
-    "Languages": "hin",
-    "Categories": "religious",
+    "Languages": "kok",
+    "Categories": "news",
     "IsNsfw": false,
-    "Website": "https://goodshepherd.tv/",
-    "Logo": "https://i.imgur.com/1vQH3cM.png",
+    "Website": "https://www.goa365.tv",
+    "Logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
     "Streams": [
       {
-        "Url": "http://162.250.201.58:8032/goodshepherd/web/index.fmp4.m3u8"
+        "Url": "https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GoodNewsTV.in",
+    "Name": "GoodNews TV",
+    "Country": "IN",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://goodnewstelevision.com/",
+    "Logo": "https://i.imgur.com/ZrvoGqS.png",
+    "Streams": [
+      {
+        "Url": "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GoodNewsToday.in",
+    "Name": "Good News Today",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.gnttv.com/livetv",
+    "Logo": "https://i.imgur.com/iMzUrb9.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GoodnessTV.in",
+    "Name": "Goodness TV",
+    "Country": "IN",
+    "Languages": "mal",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/DwLYWdK.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8"
       }
     ]
   },
@@ -1290,17 +1521,17 @@
     ]
   },
   {
-    "Id": "GraceFamilyTV.in",
-    "Name": "Grace Family TV",
+    "Id": "GregorianTV.in",
+    "Name": "Gregorian TV",
     "Country": "IN",
     "Languages": "mal",
     "Categories": "religious",
     "IsNsfw": false,
-    "Website": "https://www.gracefamilytv.com/",
-    "Logo": "https://i.imgur.com/srOoujm.png",
+    "Website": "https://www.gregoriantv.com/",
+    "Logo": "https://sgiocadelaide.blob.core.windows.net/gregoriantvcontainer/GregorianTVandNewsLogo.png",
     "Streams": [
       {
-        "Url": "https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8"
       }
     ]
   },
@@ -1316,6 +1547,81 @@
     "Streams": [
       {
         "Url": "https://livestream.jktvonline.com/hls/gul.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HMTV.in",
+    "Name": "HMTV",
+    "Country": "IN",
+    "Languages": "tel",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.hmtvlive.com/",
+    "Logo": "https://i.imgur.com/GJ52eFs.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HarKhabar.in",
+    "Name": "Har Khabar",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://harkhabar.news/live-tv/",
+    "Logo": "https://i.imgur.com/QwZherx.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCkfMPrLxnaGaKon4ccRJ9Tg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HareKrsnaTV.in",
+    "Name": "Hare Krsna TV",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.harekrsnatv.com/",
+    "Logo": "https://i.imgur.com/sZgON5J.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCZ8S3qwowiFztAQBRTawWfA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HarvestTV.in",
+    "Name": "Harvest TV",
+    "Country": "IN",
+    "Languages": "mal",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://harvesttv.in/",
+    "Logo": "https://i.imgur.com/Aoq6mpT.png",
+    "Streams": [
+      {
+        "Url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HarvestTVKeralam.in",
+    "Name": "Harvest TV Keralam",
+    "Country": "IN",
+    "Languages": "mal",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.harvesttvkeralam.live/",
+    "Logo": "https://i.imgur.com/1DyPuIt.png",
+    "Streams": [
+      {
+        "Url": "https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8"
       }
     ]
   },
@@ -1346,6 +1652,21 @@
     "Streams": [
       {
         "Url": "https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HinduDharmam.in",
+    "Name": "Hindu Dharmam",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.hindudharmam.in/",
+    "Logo": "https://i.imgur.com/VL6O6Ck.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8"
       }
     ]
   },
@@ -1425,6 +1746,36 @@
     ]
   },
   {
+    "Id": "INH24x7.in",
+    "Name": "INH 24x7",
+    "Country": "IN",
+    "Languages": "hin,hne",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.inhnews.in/livetv",
+    "Logo": "https://i.imgur.com/Es3QiVx.png",
+    "Streams": [
+      {
+        "Url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "INews.in",
+    "Name": "INews",
+    "Country": "IN",
+    "Languages": "tel",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.inewslive.net/",
+    "Logo": "https://i.imgur.com/IV1O11i.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IPlusTV.in",
     "Name": "IPlus TV",
     "Country": "IN",
@@ -1451,9 +1802,6 @@
     "Streams": [
       {
         "Url": "https://idvd.multitvsolution.com/idvo/imayamtv.m3u8"
-      },
-      {
-        "Url": "https://server1.thewebworld.in:3114/live/iniyantvlive.m3u8"
       }
     ]
   },
@@ -1473,6 +1821,21 @@
     ]
   },
   {
+    "Id": "IndiaNewsGujarati.in",
+    "Name": "India News Gujarati",
+    "Country": "IN",
+    "Languages": "guj",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/3atyWZ2.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCNQrca4WoGxtxWvabBI64gA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IndiaNewsHaryana.in",
     "Name": "India News Haryana",
     "Country": "IN",
@@ -1482,6 +1845,9 @@
     "Website": null,
     "Logo": "https://i.imgur.com/Ot8FDqS.png",
     "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCISKj2--Nxrs5s60T3wq5Pg.m3u8"
+      },
       {
         "Url": "https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8"
       }
@@ -1499,6 +1865,9 @@
     "Streams": [
       {
         "Url": "https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCrDfc0F8U1QN3u82Qq_6fjA.m3u8"
       }
     ]
   },
@@ -1514,6 +1883,9 @@
     "Streams": [
       {
         "Url": "https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCaFBF255LGHwqSB35kN7jsA.m3u8"
       }
     ]
   },
@@ -1529,6 +1901,9 @@
     "Streams": [
       {
         "Url": "https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCgJ02VYByDODEIkOlxjg4xg.m3u8"
       }
     ]
   },
@@ -1548,6 +1923,21 @@
     ]
   },
   {
+    "Id": "IndiaTV.in",
+    "Name": "India TV",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.indiatvnews.com/",
+    "Logo": "https://i.imgur.com/ztn2IR8.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IndiaToday.in",
     "Name": "India Today",
     "Country": "IN",
@@ -1559,6 +1949,36 @@
     "Streams": [
       {
         "Url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IndiaVoice.in",
+    "Name": "India Voice",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/CwDznyQ.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCXJjjNmD9kfc63d9GumIagw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IndywoodTV.in",
+    "Name": "Indywood TV",
+    "Country": "IN",
+    "Languages": "eng",
+    "Categories": "movies,news",
+    "IsNsfw": false,
+    "Website": "https://indywood.co.in/",
+    "Logo": "https://i.ibb.co/jT3NCPp/logo-tv.png",
+    "Streams": [
+      {
+        "Url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
       }
     ]
   },
@@ -1578,6 +1998,21 @@
     ]
   },
   {
+    "Id": "IshwarBhaktiTV.in",
+    "Name": "Ishwar Bhakti TV",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/tsPPU1Y.png",
+    "Streams": [
+      {
+        "Url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "JK24x7News.in",
     "Name": "JK 24x7 News",
     "Country": "IN",
@@ -1589,6 +2024,36 @@
     "Streams": [
       {
         "Url": "https://livestream.jktvonline.com/hls/jk.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JaiMaharashtra.in",
+    "Name": "Jai Maharashtra",
+    "Country": "IN",
+    "Languages": "mar",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.jaimaharashtranews.com/",
+    "Logo": "https://i.imgur.com/nAv3icS.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCmBLIcqOLWwrrAJ-jaCttqw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JanTV.in",
+    "Name": "Jan TV",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.jantv.in/",
+    "Logo": "https://i.imgur.com/RfJBuf5.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8"
       }
     ]
   },
@@ -1623,6 +2088,36 @@
     ]
   },
   {
+    "Id": "JantantraTV.in",
+    "Name": "Jantantra TV",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/IneOiic.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCJLmpzT9MkBAfJjSNJ-4Zmw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JayaPlus.in",
+    "Name": "Jaya Plus",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://jayaplus.jayanewslive.com/Landing.aspx",
+    "Logo": "https://i.imgur.com/WLWD5p5.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "JeevanTV.in",
     "Name": "Jeevan TV",
     "Country": "IN",
@@ -1638,6 +2133,21 @@
     ]
   },
   {
+    "Id": "JinvaniChannel.in",
+    "Name": "Jinvani Channel",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.jinvanichannel.com/",
+    "Logo": "https://i.imgur.com/lztyGVi.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCDNNWj0oAFXngcwHAwnwP4w.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Jonack.in",
     "Name": "Jonack",
     "Country": "IN",
@@ -1649,6 +2159,21 @@
     "Streams": [
       {
         "Url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JothiTV.in",
+    "Name": "Jothi TV",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/FyESV9X.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCmgKVM_O9tLA1w4rFVaGyig.m3u8"
       }
     ]
   },
@@ -1743,6 +2268,21 @@
     ]
   },
   {
+    "Id": "KalikaTV.in",
+    "Name": "Kalika TV",
+    "Country": "IN",
+    "Languages": "mal",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XWXFoJA.png",
+    "Streams": [
+      {
+        "Url": "http://185.105.4.244:1935/livesp/kalika/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "KalingaTV.in",
     "Name": "Kalinga TV",
     "Country": "IN",
@@ -1818,21 +2358,6 @@
     ]
   },
   {
-    "Id": "KeralaVision.in",
-    "Name": "Kerala Vision",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://kccl.tv/kerala-vision.html",
-    "Logo": "https://i.imgur.com/SWNjyyp.png",
-    "Streams": [
-      {
-        "Url": "https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "KeralaVisionNews.in",
     "Name": "Kerala Vision News",
     "Country": "IN",
@@ -1893,6 +2418,21 @@
     ]
   },
   {
+    "Id": "LokshahiNews.in",
+    "Name": "Lokshahi News",
+    "Country": "IN",
+    "Languages": "mar",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.lokshahinews.com/",
+    "Logo": "https://i.imgur.com/bpgdafu.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MHOneShraddha.in",
     "Name": "MH One Shraddha",
     "Country": "IN",
@@ -1904,6 +2444,21 @@
     "Streams": [
       {
         "Url": "https://mhoneshaddha.com/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MKNMarathi.in",
+    "Name": "MKN Marathi",
+    "Country": "IN",
+    "Languages": "mar",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.mknmarathi.com/",
+    "Logo": "https://i.imgur.com/6PfM93i.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCta-nYp7m-vm2ftA848kAwQ.m3u8"
       }
     ]
   },
@@ -2076,21 +2631,6 @@
     ]
   },
   {
-    "Id": "Mayyazhi.in",
-    "Name": "Mayyazhi",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/E3WYWF5.jpg",
-    "Streams": [
-      {
-        "Url": "http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MediaOne.in",
     "Name": "Media One",
     "Country": "IN",
@@ -2102,6 +2642,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MegaTV.in",
+    "Name": "Mega TV",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.megatv.in/megatv/index.html",
+    "Logo": "https://i.imgur.com/oyzBiXH.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCsJgeHqYFzBzQRa5ZmhJo7w.m3u8"
       }
     ]
   },
@@ -2151,6 +2706,21 @@
     ]
   },
   {
+    "Id": "Mh1News.in",
+    "Name": "Mh 1 News",
+    "Country": "IN",
+    "Languages": "pan",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.mhone.in/mhone-news/",
+    "Logo": "https://i.imgur.com/RH52BX4.png",
+    "Streams": [
+      {
+        "Url": "https://mhonenews.in/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MoonTV.in",
     "Name": "Moon TV",
     "Country": "IN",
@@ -2177,21 +2747,6 @@
     "Streams": [
       {
         "Url": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NCV.in",
-    "Name": "NCV",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/HZy6x27.png",
-    "Streams": [
-      {
-        "Url": "http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8"
       }
     ]
   },
@@ -2592,6 +3147,36 @@
     ]
   },
   {
+    "Id": "News1India.in",
+    "Name": "News 1 India",
+    "Country": "IN",
+    "Languages": "hin",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.news1india.in/",
+    "Logo": "https://i.imgur.com/J3EWn2J.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCA9JOzo-2-0xAdihJkRKSyg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "News1st.in",
+    "Name": "News 1st",
+    "Country": "IN",
+    "Languages": "kan",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://newsfirstlive.com/",
+    "Logo": "https://i.imgur.com/K3hlwDk.png",
+    "Streams": [
+      {
+        "Url": "https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "News24.in",
     "Name": "News 24",
     "Country": "IN",
@@ -2603,6 +3188,21 @@
     "Streams": [
       {
         "Url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "News7Tamil.in",
+    "Name": "News 7 Tamil",
+    "Country": "IN",
+    "Languages": "tam",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.news7tamil.live/",
+    "Logo": "https://i.imgur.com/UjlbR4o.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8"
       }
     ]
   },
@@ -2648,9 +3248,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCsNdeLwEZf86swPD3qJJ7Dw.m3u8"
-      },
-      {
-        "Url": "https://livetv-channels.b-cdn.net/8006/playlist.m3u8"
       }
     ]
   },
@@ -2756,6 +3353,21 @@
     "Streams": [
       {
         "Url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OnkarOnlyTruthTV.in",
+    "Name": "Onkar Only Truth TV",
+    "Country": "IN",
+    "Languages": "ben",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wu7aQRg.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCEehFQbkw72mMNSqH-7YJ_w.m3u8"
       }
     ]
   },
@@ -2958,6 +3570,21 @@
     ]
   },
   {
+    "Id": "PrathamKhabar24x7.in",
+    "Name": "Pratham Khabar 24x7",
+    "Country": "IN",
+    "Languages": "asm",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://prathamkhabartv.com/",
+    "Logo": "https://i.imgur.com/HNsg5Px.png",
+    "Streams": [
+      {
+        "Url": "https://livelegitpro.in/hls2/newstime/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PratidinTime.in",
     "Name": "Pratidin Time",
     "Country": "IN",
@@ -3111,21 +3738,6 @@
     ]
   },
   {
-    "Id": "RDXGoa.in",
-    "Name": "RDX Goa",
-    "Country": "IN",
-    "Languages": "kok",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://rdxgoa.com/",
-    "Logo": "https://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png",
-    "Streams": [
-      {
-        "Url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "RPlus.in",
     "Name": "R Plus",
     "Country": "IN",
@@ -3156,32 +3768,47 @@
     ]
   },
   {
-    "Id": "RealNewsKerala.in",
-    "Name": "Real News Kerala",
+    "Id": "RajNewsMalayalam.in",
+    "Name": "Raj News Malayalam",
     "Country": "IN",
     "Languages": "mal",
     "Categories": "news",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/8hnJuxa.png",
+    "Website": "http://www.rajtvnet.in/",
+    "Logo": "https://i.imgur.com/6JVLzaa.png",
     "Streams": [
       {
-        "Url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
+        "Url": "https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8"
       }
     ]
   },
   {
-    "Id": "RealTV.in",
-    "Name": "Real TV",
+    "Id": "RajNewsTelugu.in",
+    "Name": "Raj News Telugu",
     "Country": "IN",
-    "Languages": "mal",
-    "Categories": "music",
+    "Languages": "tel",
+    "Categories": "news",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/OL5qm2c.png",
+    "Website": "http://www.rajtvnet.in/",
+    "Logo": "https://i.imgur.com/vGl0Zrj.png",
     "Streams": [
       {
-        "Url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ReporterTV.in",
+    "Name": "Reporter TV",
+    "Country": "IN",
+    "Languages": "mal",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://reporterlive.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8"
       }
     ]
   },
@@ -3231,66 +3858,6 @@
     ]
   },
   {
-    "Id": "SVBC.in",
-    "Name": "SVBC",
-    "Country": "IN",
-    "Languages": "tel",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "http://www.svbcttd.com/SVBC%20LIVE%20TV.html",
-    "Logo": "https://i.imgur.com/LSMvXAl.png",
-    "Streams": [
-      {
-        "Url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SVBC2.in",
-    "Name": "SVBC 2",
-    "Country": "IN",
-    "Languages": "tam,kan",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "http://www.svbcttd.com/SVBC_LIVE_TAMIL.html",
-    "Logo": "https://i.imgur.com/NtmRt1A.png",
-    "Streams": [
-      {
-        "Url": "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SVBC3.in",
-    "Name": "SVBC 3",
-    "Country": "IN",
-    "Languages": "kan",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "http://www.svbcttd.com/tv3.html",
-    "Logo": "https://i.imgur.com/Ae2PMTu.png",
-    "Streams": [
-      {
-        "Url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SVBC4.in",
-    "Name": "SVBC 4",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "http://www.svbcttd.com/TV4.html",
-    "Logo": "https://i.imgur.com/vCFdZny.png",
-    "Streams": [
-      {
-        "Url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SaamTV.in",
     "Name": "Saam TV",
     "Country": "IN",
@@ -3302,51 +3869,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC6cxTsUnfSZrj96KNHhRTHQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Sadhna.in",
-    "Name": "Sadhna",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/x13iiuI.png",
-    "Streams": [
-      {
-        "Url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SadhnaPlusNews.in",
-    "Name": "Sadhna Plus News",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.sadhna.com/",
-    "Logo": "https://i.imgur.com/h4UehKC.png",
-    "Streams": [
-      {
-        "Url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SafariTV.in",
-    "Name": "Safari TV",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.safaritvchannel.com/",
-    "Logo": "https://i.imgur.com/dSOfYyh.png",
-    "Streams": [
-      {
-        "Url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
       }
     ]
   },
@@ -3561,21 +4083,6 @@
     ]
   },
   {
-    "Id": "ShemarooMarathiBana.in",
-    "Name": "Shemaroo Marathi Bana",
-    "Country": "IN",
-    "Languages": "mar",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://shemaroomarathibana.com/",
-    "Logo": "https://i.imgur.com/U63jUUq.png",
-    "Streams": [
-      {
-        "Url": "https://livetv-channels.b-cdn.net/8042/chunklist0.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ShreeBangla.in",
     "Name": "Shree Bangla",
     "Country": "IN",
@@ -3587,6 +4094,9 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/shreebangla.stream/playlist.m3u8"
+      },
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/shreebangla.stream/playlist.m3u8"
       }
     ]
   },
@@ -3606,21 +4116,6 @@
     ]
   },
   {
-    "Id": "Shubhsandesh.in",
-    "Name": "Shubhsandesh",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/XsuFVlf.png",
-    "Streams": [
-      {
-        "Url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SirippoliTV.in",
     "Name": "Sirippoli TV",
     "Country": "IN",
@@ -3632,21 +4127,6 @@
     "Streams": [
       {
         "Url": "http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SongdewTV.in",
-    "Name": "Songdew TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://songdew.com/songdew-tv",
-    "Logo": "https://i.imgur.com/aFlKqH4.png",
-    "Streams": [
-      {
-        "Url": "https://yupplivefragcp3.yuppcdn.net/260423/smil:songdew.smil/index.m3u8"
       }
     ]
   },
@@ -3696,21 +4176,6 @@
     ]
   },
   {
-    "Id": "SubhavaarthaTV.in",
-    "Name": "Subhavaartha TV",
-    "Country": "IN",
-    "Languages": "tel",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.subhavaarthatv.com/",
-    "Logo": "https://i.imgur.com/hfk5jKE.png",
-    "Streams": [
-      {
-        "Url": "https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SudarshanNews.in",
     "Name": "Sudarshan News",
     "Country": "IN",
@@ -3756,32 +4221,17 @@
     ]
   },
   {
-    "Id": "Swantham.in",
-    "Name": "Swantham",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ye6v4GP.png",
-    "Streams": [
-      {
-        "Url": "http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SwarajExpressSMBC.in",
-    "Name": "Swaraj Express SMBC",
+    "Id": "TV100.in",
+    "Name": "TV 100",
     "Country": "IN",
     "Languages": "hin",
     "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/vuF6PCJ.png",
+    "Website": "http://www.tv100.info/",
+    "Logo": "https://i.imgur.com/EFpH8Ae.png",
     "Streams": [
       {
-        "Url": "https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCpLM_4NUnBYq0h3gruX0qQw.m3u8"
       }
     ]
   },
@@ -3830,6 +4280,9 @@
       },
       {
         "Url": "https://vidcdn.vidgyor.com/tv9bangla-origin/live/playlist.m3u8"
+      },
+      {
+        "Url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8"
       }
     ]
   },
@@ -3845,6 +4298,9 @@
     "Streams": [
       {
         "Url": "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/playlist.m3u8"
+      },
+      {
+        "Url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
       }
     ]
   },
@@ -3860,6 +4316,9 @@
     "Streams": [
       {
         "Url": "https://vidcdn.vidgyor.com/tv9gujarati-origin/live/playlist.m3u8"
+      },
+      {
+        "Url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8"
       }
     ]
   },
@@ -3875,6 +4334,9 @@
     "Streams": [
       {
         "Url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8"
+      },
+      {
+        "Url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8"
       }
     ]
   },
@@ -3890,6 +4352,9 @@
     "Streams": [
       {
         "Url": "https://vidcdn.vidgyor.com/tv9marathi-origin/live/playlist.m3u8"
+      },
+      {
+        "Url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8"
       }
     ]
   },
@@ -3920,6 +4385,9 @@
     "Streams": [
       {
         "Url": "https://vidcdn.vidgyor.com/tv9telugu-origin/live/playlist.m3u8"
+      },
+      {
+        "Url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8"
       }
     ]
   },
@@ -3935,21 +4403,6 @@
     "Streams": [
       {
         "Url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TaazaTV.in",
-    "Name": "Taaza TV",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://taazatv.com/",
-    "Logo": "https://i.imgur.com/4nTpQLC.png",
-    "Streams": [
-      {
-        "Url": "https://stream.playbox.co.in:19360/taaza/taaza.m3u8"
       }
     ]
   },
@@ -4164,21 +4617,6 @@
     ]
   },
   {
-    "Id": "VasanthTV.in",
-    "Name": "Vasanth TV",
-    "Country": "IN",
-    "Languages": "tam",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://vasanth.tv/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png",
-    "Streams": [
-      {
-        "Url": "https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Velicham.in",
     "Name": "Velicham",
     "Country": "IN",
@@ -4209,6 +4647,21 @@
     ]
   },
   {
+    "Id": "Vision.in",
+    "Name": "Vision",
+    "Country": "IN",
+    "Languages": "mal",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/YozqNL3.jpg",
+    "Streams": [
+      {
+        "Url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "VyasChannel.in",
     "Name": "Vyas Channel",
     "Country": "IN",
@@ -4235,9 +4688,6 @@
     "Streams": [
       {
         "Url": "http://210.210.155.37/uq2663/h/h91/index.m3u8"
-      },
-      {
-        "Url": "https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8"
       }
     ]
   },
@@ -4312,9 +4762,6 @@
     "Logo": "https://i.imgur.com/RKrvmVo.png",
     "Streams": [
       {
-        "Url": "https://livetv-channels.b-cdn.net/8077/playlist.m3u8"
-      },
-      {
         "Url": "https://ythls.onrender.com/channel/UCkNL_TQio--h85-14lUVY3A.m3u8"
       }
     ]
@@ -4365,39 +4812,6 @@
     ]
   },
   {
-    "Id": "ZeeBiharJharkhand.in",
-    "Name": "Zee Bihar Jharkhand",
-    "Country": "IN",
-    "Languages": "bho",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://zeenews.india.com/hindi/india/bihar-jharkhand",
-    "Logo": "https://i.imgur.com/e26mQ7x.png",
-    "Streams": [
-      {
-        "Url": "https://d3dxf2v5wg5rcy.cloudfront.net/out/v1/349f643193e347609b16671d8e0bfb4a/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZeeBusiness.in",
-    "Name": "Zee Business",
-    "Country": "IN",
-    "Languages": "eng",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.zeebiz.com/",
-    "Logo": "https://i.imgur.com/vkWBtL4.png",
-    "Streams": [
-      {
-        "Url": "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8"
-      },
-      {
-        "Url": "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ZeeDelhiNCRHaryana.in",
     "Name": "Zee Delhi NCR Haryana",
     "Country": "IN",
@@ -4409,21 +4823,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZeeHindustan.in",
-    "Name": "Zee Hindustan",
-    "Country": "IN",
-    "Languages": "hin,tam,tel",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.zee5.com/channels/details/zee-hindustan/0-9-zeehindustan",
-    "Logo": "https://i.imgur.com/3eAZMxA.png",
-    "Streams": [
-      {
-        "Url": "https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8"
       }
     ]
   },
@@ -4443,36 +4842,6 @@
     ]
   },
   {
-    "Id": "ZeeMadhyaPradeshChhattisgarh.in",
-    "Name": "Zee Madhya Pradesh Chhattisgarh",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh",
-    "Logo": "https://i.imgur.com/YccuVVI.png",
-    "Streams": [
-      {
-        "Url": "https://dg2v5dko941am.cloudfront.net/out/v1/176d62f6612f47a4b94e78c5bc1bcee6/index_4.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZeeMarathi.in",
-    "Name": "Zee Marathi",
-    "Country": "IN",
-    "Languages": "mar",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://zeemarathi.zee5.com/",
-    "Logo": "https://i.imgur.com/vv9ysD3.png",
-    "Streams": [
-      {
-        "Url": "https://d3vy3je10jkn7h.cloudfront.net/out/v1/f610383ba97c47e3b04d2e1593ff8549/index_4.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ZeeNews.in",
     "Name": "Zee News",
     "Country": "IN",
@@ -4484,24 +4853,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8"
-      },
-      {
-        "Url": "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZeeNewsMalayalam.in",
-    "Name": "Zee News Malayalam",
-    "Country": "IN",
-    "Languages": "mal",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://zeenews.india.com/malayalam/",
-    "Logo": "https://i.imgur.com/MePj7ET.png",
-    "Streams": [
-      {
-        "Url": "https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8"
       }
     ]
   },
@@ -4517,36 +4868,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCmhe0p2-m_KURZYQNchK-QQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZeeRajasthan.in",
-    "Name": "Zee Rajasthan",
-    "Country": "IN",
-    "Languages": "hin",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://zeenews.india.com/hindi/india/rajasthan",
-    "Logo": "https://i.imgur.com/iYrrGlL.png",
-    "Streams": [
-      {
-        "Url": "https://d3596fuob34tr0.cloudfront.net/out/v1/dc9cd568b52340d9a694877ad4b103a8/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZeeSalaam.in",
-    "Name": "Zee Salaam",
-    "Country": "IN",
-    "Languages": "urd",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.zee5.com/channels/details/zee-salaam/0-9-zeesalaam",
-    "Logo": "https://i.imgur.com/9wemlu5.png",
-    "Streams": [
-      {
-        "Url": "https://d3i8oqsdv88b3m.cloudfront.net/out/v1/08f6360f9104421f90319460c0e03f11/index.m3u8"
       }
     ]
   },
@@ -4610,9 +4931,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCWmwc3u2ikBG2Xfitc_26gg.m3u8"
-      },
-      {
-        "Url": "https://livetv-channels.b-cdn.net/8076/playlist.m3u8"
       }
     ]
   },

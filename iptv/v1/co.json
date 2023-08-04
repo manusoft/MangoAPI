@@ -60,92 +60,17 @@
     ]
   },
   {
-    "Id": "CNCMedellin.co",
-    "Name": "CNC Medellin",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://canalcncdigital.com/",
-    "Logo": "https://i.imgur.com/J1f4fNq.png",
-    "Streams": [
-      {
-        "Url": "http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CTV.co",
-    "Name": "CTV",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://ctvbarranquilla.com/",
-    "Logo": "https://i.imgur.com/w35ICn7.png",
-    "Streams": [
-      {
-        "Url": "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Cablenoticias.co",
-    "Name": "Cablenoticias",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.cablenoticias.tv/",
-    "Logo": "https://i.imgur.com/FfhOGR9.png",
-    "Streams": [
-      {
-        "Url": "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CaliTV.co",
-    "Name": "CaliTV",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.canalcalitv.com/",
-    "Logo": "https://i.imgur.com/2312Luq.png",
-    "Streams": [
-      {
-        "Url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal14Codazzi.co",
-    "Name": "Canal 14 Codazzi",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "http://www.canal14codazzi.co/",
-    "Logo": "https://i.imgur.com/wNSUMhJ.png",
-    "Streams": [
-      {
-        "Url": "https://eu1.servers10.com:19360/8056/8056.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal2.co",
-    "Name": "Canal 2",
+    "Id": "CNCHDOnline.co",
+    "Name": "CNC HD Online",
     "Country": "CO",
     "Languages": "spa",
     "Categories": "general",
     "IsNsfw": false,
-    "Website": "https://www.canal2.co/",
-    "Logo": "https://i.imgur.com/BCrsZTQ.png",
+    "Website": "http://www.cncpasto.com/cnc-hd-online/",
+    "Logo": "https://i.ibb.co/h246PMw/download-9.png",
     "Streams": [
       {
-        "Url": "https://video13.virtualtronics.com/streamer/canal2.m3u8"
+        "Url": "https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8"
       }
     ]
   },
@@ -360,6 +285,36 @@
     ]
   },
   {
+    "Id": "GalerasTV.co",
+    "Name": "Galeras TV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.cncpasto.com/galeras-tv/",
+    "Logo": "https://i.ibb.co/4WK0k4D/Galeras-TV-tvtolive-com.jpg",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HitsChannel.co",
+    "Name": "Hits Channel",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.cncpasto.com/canal-hits/",
+    "Logo": "https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HuilaTV.co",
     "Name": "Huila TV",
     "Country": "CO",
@@ -495,21 +450,6 @@
     ]
   },
   {
-    "Id": "OasisTV.co",
-    "Name": "Oasis TV",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://canaloasis.com/",
-    "Logo": "https://i.imgur.com/VKYzFpZ.png",
-    "Streams": [
-      {
-        "Url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "OndabientalTV.co",
     "Name": "Ondabiental TV",
     "Country": "CO",
@@ -536,6 +476,21 @@
     "Streams": [
       {
         "Url": "https://stmv4.voxtvhd.com.br/psctv/psctv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RCMTV.co",
+    "Name": "RCM TV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.rcmtv.com.co/",
+    "Logo": "https://i.ibb.co/YB20gYB/893a6047fd1b8fd37308962b51b791cb-2400x836-fit.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8"
       }
     ]
   },
@@ -584,6 +539,66 @@
     "Streams": [
       {
         "Url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SentimientoVallenato.co",
+    "Name": "Sentimiento Vallenato",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.cncpasto.com/sentimiento-vallenato/",
+    "Logo": "https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SonCorazon.co",
+    "Name": "Son Corazon",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.cncpasto.com/son-corazon/",
+    "Logo": "https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SonLatino.co",
+    "Name": "Son Latino",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.cncpasto.com/son-latino/",
+    "Logo": "https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SonPopular.co",
+    "Name": "Son Popular",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://www.cncpasto.com/son-popular/",
+    "Logo": "https://i.ibb.co/MBQyccq/Canal-CNC-Son-Popular-tvtolive-com.jpg",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8"
       }
     ]
   },
@@ -708,6 +723,21 @@
     ]
   },
   {
+    "Id": "Telesangil.co",
+    "Name": "Telesangil",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://telesangil.com/",
+    "Logo": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/tvsangil/tvsangil_360p/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Trece.co",
     "Name": "Trece",
     "Country": "CO",
@@ -734,21 +764,6 @@
     "Streams": [
       {
         "Url": "https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "UAOPlay.co",
-    "Name": "UAO Play",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.uaoplay.co/",
-    "Logo": "https://i.imgur.com/54IMDZb.png",
-    "Streams": [
-      {
-        "Url": "https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8"
       }
     ]
   },

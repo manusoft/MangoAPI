@@ -15,6 +15,24 @@
     ]
   },
   {
+    "Id": "AlIttihad.lb",
+    "Name": "Al Ittihad",
+    "Country": "LB",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/QMUjPXx.png",
+    "Streams": [
+      {
+        "Url": "http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8"
+      },
+      {
+        "Url": "https://live.alittihad.tv:444/ittihad/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlManar.lb",
     "Name": "Al-Manar",
     "Country": "LB",
@@ -89,21 +107,6 @@
     "Streams": [
       {
         "Url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NBN.lb",
-    "Name": "NBN",
-    "Country": "LB",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://nbntv.me/",
-    "Logo": "https://i.imgur.com/EefFcIk.png",
-    "Streams": [
-      {
-        "Url": "https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8"
       }
     ]
   },
@@ -216,21 +219,6 @@
     ]
   },
   {
-    "Id": "OTV.lb",
-    "Name": "OTV",
-    "Country": "LB",
-    "Languages": "ara",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.otv.com.lb/",
-    "Logo": "https://i.imgur.com/toxFMeY.png",
-    "Streams": [
-      {
-        "Url": "http://62.182.82.104/OTV/index.m3u8?token=test"
-      }
-    ]
-  },
-  {
     "Id": "TahaTV.lb",
     "Name": "Taha TV",
     "Country": "LB",
@@ -242,21 +230,6 @@
     "Streams": [
       {
         "Url": "https://media2.livaat.com/TAHA-TV/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TeleLiban.lb",
-    "Name": "Tele Liban",
-    "Country": "LB",
-    "Languages": "ara",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.teleliban.com.lb/",
-    "Logo": "https://i.imgur.com/5VPYxJi.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8"
       }
     ]
   }

@@ -75,21 +75,6 @@
     ]
   },
   {
-    "Id": "BrideTV.ng",
-    "Name": "Bride TV",
-    "Country": "NG",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://bridetv.org/",
-    "Logo": "https://i.imgur.com/snZMucg.png",
-    "Streams": [
-      {
-        "Url": "https://webstreaming.viewmedia.tv/web_013/Stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CaughtUpTV.ng",
     "Name": "Caught-Up TV",
     "Country": "NG",
@@ -273,6 +258,21 @@
     ]
   },
   {
+    "Id": "NewFrontiersTV.ng",
+    "Name": "New Frontiers TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://newfrontierstv.info/",
+    "Logo": "https://i.imgur.com/dYRIJjh.png",
+    "Streams": [
+      {
+        "Url": "https://media2.streambrothers.com:1936/8044/8044/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "NewVisionTV.ng",
     "Name": "New Vision TV",
     "Country": "NG",
@@ -303,21 +303,6 @@
     ]
   },
   {
-    "Id": "Nigbati.ng",
-    "Name": "Nigbati",
-    "Country": "NG",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.nigbati.tv/",
-    "Logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
-    "Streams": [
-      {
-        "Url": "https://mn-nl.mncdn.com/nigbatisrt/nigbatisrt.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "OSBCTV.ng",
     "Name": "OSBC TV",
     "Country": "NG",
@@ -329,6 +314,21 @@
     "Streams": [
       {
         "Url": "https://cdn.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "QausainTV.ng",
+    "Name": "Qausain TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": "https://www.qausaintv.com/",
+    "Logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+    "Streams": [
+      {
+        "Url": "https://acasmedia2.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
       }
     ]
   },
@@ -359,21 +359,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCNuPuew8lLVB3mMAm9_Qt9w.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVC.ng",
-    "Name": "TVC",
-    "Country": "NG",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tvcentertainment.tv/",
-    "Logo": "https://i.imgur.com/ReV8R5S.png",
-    "Streams": [
-      {
-        "Url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8"
       }
     ]
   },
@@ -423,21 +408,6 @@
     ]
   },
   {
-    "Id": "WapTV.ng",
-    "Name": "Wap TV",
-    "Country": "NG",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://waptvchannel.com/",
-    "Logo": "https://i.imgur.com/Djng8pI.png",
-    "Streams": [
-      {
-        "Url": "https://newproxy3.vidivu.tv/waptv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "WazobiaMaxTVAbuja.ng",
     "Name": "Wazobia Max TV Abuja",
     "Country": "NG",
@@ -464,6 +434,21 @@
     "Streams": [
       {
         "Url": "https://wazobia.live:8333/channel/wmax.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WazobiaMaxTVPortHarcourt.ng",
+    "Name": "Wazobia Max TV Port-Harcourt",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.wazobiamax.ng/ph",
+    "Logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+    "Streams": [
+      {
+        "Url": "https://wazobia.live:8333/channel/wmaxph.m3u8"
       }
     ]
   }

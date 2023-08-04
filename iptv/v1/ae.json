@@ -60,21 +60,6 @@
     ]
   },
   {
-    "Id": "AlAanTV.ae",
-    "Name": "Al Aan TV",
-    "Country": "AE",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.alaan.tv/",
-    "Logo": "https://i.imgur.com/Jl9Uw8N.png",
-    "Streams": [
-      {
-        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/AlAanTV"
-      }
-    ]
-  },
-  {
     "Id": "AlDafrahTV.ae",
     "Name": "Al Dafrah TV",
     "Country": "AE",
@@ -125,6 +110,9 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8"
+      },
+      {
+        "Url": "https://bcovlive-a.akamaihd.net/385ca06841b3430f99327f0c44d6d008/ap-south-1/6313884884001/playlist.m3u8"
       }
     ]
   },
@@ -214,10 +202,16 @@
     "Logo": "https://i.imgur.com/NXFkYFj.png",
     "Streams": [
       {
+        "Url": "https://ythls.onrender.com/channel/UCahpxixMCwoANAftn6IxkTg.m3u8"
+      },
+      {
         "Url": "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
       },
       {
         "Url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
       }
     ]
   },
@@ -233,21 +227,6 @@
     "Streams": [
       {
         "Url": "https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CNBCArabiya.ae",
-    "Name": "CNBC Arabiya",
-    "Country": "AE",
-    "Languages": "ara",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.cnbcarabia.com/",
-    "Logo": "https://i.imgur.com/opBXx1K.png",
-    "Streams": [
-      {
-        "Url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/CNBCArabia"
       }
     ]
   },
@@ -690,6 +669,21 @@
     ]
   },
   {
+    "Id": "PMCRoyale.ae",
+    "Name": "PMC Royale",
+    "Country": "AE",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.pmc.tv/",
+    "Logo": "https://i.imgur.com/kuYMKgG.png",
+    "Streams": [
+      {
+        "Url": "https://rohls.pmc.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SamaDubai.ae",
     "Name": "Sama Dubai",
     "Country": "AE",
@@ -812,21 +806,6 @@
       },
       {
         "Url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "UBL.ae",
-    "Name": "UBL",
-    "Country": "AE",
-    "Languages": "mal",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://ubllive.com/live-tv",
-    "Logo": "https://i.imgur.com/pt7gl1T.png",
-    "Streams": [
-      {
-        "Url": "http://150.242.21.81:8088/hls/ubl.m3u8"
       }
     ]
   },

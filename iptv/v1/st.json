@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Id": "TVS.st",
+    "Name": "TVS",
+    "Country": "ST",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tvs.st/",
+    "Logo": "https://i.ibb.co/HNGj93d/TVS.png",
+    "Streams": [
+      {
+        "Url": "https://tvsonlin.com/hls/tvs.m3u8"
+      }
+    ]
+  }
+]

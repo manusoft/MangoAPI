@@ -15,17 +15,17 @@
     ]
   },
   {
-    "Id": "LaRed.uy",
-    "Name": "La Red",
+    "Id": "ChamberofRepresentatives.uy",
+    "Name": "Chamber of Representatives",
     "Country": "UY",
     "Languages": "spa",
-    "Categories": "general",
+    "Categories": "legislative",
     "IsNsfw": false,
-    "Website": "http://www.redtv.com.uy/",
-    "Logo": "https://i.imgur.com/COThfaj.png",
+    "Website": "https://parlamento.gub.uy/camarasycomisiones/representantes",
+    "Logo": "https://i.imgur.com/tvIFxu1.png",
     "Streams": [
       {
-        "Url": "https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCUxioxgZ7obrP3wVJApAK1w.m3u8"
       }
     ]
   },
@@ -56,6 +56,51 @@
     "Streams": [
       {
         "Url": "https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RDTV.uy",
+    "Name": "RDTV",
+    "Country": "UY",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/V5ZyMUy.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UCL.uy",
+    "Name": "UCL",
+    "Country": "UY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ucltelevision.com/",
+    "Logo": "https://i.imgur.com/BzQphbw.png",
+    "Streams": [
+      {
+        "Url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UruguayPresidencia.uy",
+    "Name": "Uruguay Presidencia",
+    "Country": "UY",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.gub.uy/presidencia/",
+    "Logo": "https://i.imgur.com/3PQIRUZ.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCz1Li9JcQB9XP-HfgN0IYLQ.m3u8"
       }
     ]
   }

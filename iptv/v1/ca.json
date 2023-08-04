@@ -93,167 +93,17 @@
     ]
   },
   {
-    "Id": "CFHDDT.ca",
-    "Name": "CFHD-DT",
+    "Id": "BelmediaTV.ca",
+    "Name": "Belmedia TV",
     "Country": "CA",
     "Languages": "eng",
-    "Categories": "",
+    "Categories": "music",
     "IsNsfw": false,
-    "Website": "http://icitelevision.ca/",
-    "Logo": "https://i.imgur.com/x0vLIWr.png",
+    "Website": "http://www.belmediatv.com/",
+    "Logo": "https://i.imgur.com/xEbQsdj.png",
     "Streams": [
       {
-        "Url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CFTUDT.ca",
-    "Name": "CFTU-DT",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://savoir.tv/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png",
-    "Streams": [
-      {
-        "Url": "https://hls.savoir.media/live/stream.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CIVMDT.ca",
-    "Name": "CIVM-DT",
-    "Country": "CA",
-    "Languages": "fra",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.telequebec.tv/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",
-    "Streams": [
-      {
-        "Url": "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CJONDT.ca",
-    "Name": "CJON-DT",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://ntv.ca/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
-    "Streams": [
-      {
-        "Url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CMalayalamTV.ca",
-    "Name": "C Malayalam TV",
-    "Country": "CA",
-    "Languages": "mal",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.canadianmalayalamtv.com/",
-    "Logo": "https://i.imgur.com/rpg0bQA.png",
-    "Streams": [
-      {
-        "Url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CPACEnglish.ca",
-    "Name": "CPAC English",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://www.cpac.ca/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png",
-    "Streams": [
-      {
-        "Url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CTVNewsChannel.ca",
-    "Name": "CTV News Channel",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.ctvnews.ca/ctv-news-channel",
-    "Logo": "https://i.imgur.com/pRscvrp.png",
-    "Streams": [
-      {
-        "Url": "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Cable14Hamilton.ca",
-    "Name": "Cable 14 Hamilton",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/bJ7ygTq.png",
-    "Streams": [
-      {
-        "Url": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720"
-      }
-    ]
-  },
-  {
-    "Id": "CanadaOne.ca",
-    "Name": "Canada One",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/zr6KoiS.jpg",
-    "Streams": [
-      {
-        "Url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanadaStarTV.ca",
-    "Name": "Canada Star TV",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/57iXCDh.png",
-    "Streams": [
-      {
-        "Url": "https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanaldelAssemblee.ca",
-    "Name": "Canal de l'Assemblee",
-    "Country": "CA",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.assnat.qc.ca/",
-    "Logo": "https://i.imgur.com/jAtq0U8.png",
-    "Streams": [
-      {
-        "Url": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8"
       }
     ]
   },
@@ -468,21 +318,6 @@
     ]
   },
   {
-    "Id": "JessTV.ca",
-    "Name": "Jess TV",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.jessfm.ca/",
-    "Logo": "https://i.imgur.com/eJjV7Bu.png",
-    "Streams": [
-      {
-        "Url": "https://tna5.bozztv.com/jesstv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "KidoodleTV.ca",
     "Name": "Kidoodle.TV",
     "Country": "CA",
@@ -494,6 +329,21 @@
     "Streams": [
       {
         "Url": "https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LTTTV.ca",
+    "Name": "LTT TV",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://yt3.googleusercontent.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s100-c-k-c0x00ffffff-no-rj",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw.m3u8"
       }
     ]
   },
@@ -558,36 +408,6 @@
     ]
   },
   {
-    "Id": "NETVToronto.ca",
-    "Name": "NETV Toronto",
-    "Country": "CA",
-    "Languages": "ell",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/WXRBuOW.png",
-    "Streams": [
-      {
-        "Url": "https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NRBTV.ca",
-    "Name": "NRB TV",
-    "Country": "CA",
-    "Languages": "ben",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://thenrb.tv/",
-    "Logo": "https://i.imgur.com/oGNhnV3.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Noovo.ca",
     "Name": "Noovo",
     "Country": "CA",
@@ -621,21 +441,6 @@
     ]
   },
   {
-    "Id": "PamirTV.ca",
-    "Name": "Pamir TV",
-    "Country": "CA",
-    "Languages": "pus,tgk,eng",
-    "Categories": "culture,music",
-    "IsNsfw": false,
-    "Website": "http://www.pamirtv.com/",
-    "Logo": "https://i.imgur.com/sCBbBOj.png",
-    "Streams": [
-      {
-        "Url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PardesiTV.ca",
     "Name": "Pardesi TV",
     "Country": "CA",
@@ -665,21 +470,6 @@
     "Streams": [
       {
         "Url": "https://live2.parnian.tv/hls/.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "PlayersTV.ca",
-    "Name": "Players TV",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/OC3O87c.png",
-    "Streams": [
-      {
-        "Url": "https://playerstv-vizio.amagi.tv/playlist.m3u8"
       }
     ]
   },
@@ -755,6 +545,21 @@
     "Streams": [
       {
         "Url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SohailTV.ca",
+    "Name": "Sohail TV",
+    "Country": "CA",
+    "Languages": "prs",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://sohailtv.com/",
+    "Logo": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+    "Streams": [
+      {
+        "Url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
       }
     ]
   },
@@ -1029,21 +834,6 @@
     ]
   },
   {
-    "Id": "TVPunjab.ca",
-    "Name": "TV Punjab",
-    "Country": "CA",
-    "Languages": "pan",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://tvpunjab.com/",
-    "Logo": "https://i.ibb.co/JnxNMNq/logo-2022.png",
-    "Streams": [
-      {
-        "Url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TamilVisionTV.ca",
     "Name": "TamilVision-TV",
     "Country": "CA",
@@ -1088,6 +878,9 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8"
+      },
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8"
       }
     ]
   },
@@ -1148,6 +941,21 @@
     "Streams": [
       {
         "Url": "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WataneMaaTV.ca",
+    "Name": "Watan-e-Maa TV",
+    "Country": "CA",
+    "Languages": "prs",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.watanemaatv.com/",
+    "Logo": "https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png",
+    "Streams": [
+      {
+        "Url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
       }
     ]
   },

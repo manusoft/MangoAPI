@@ -48,6 +48,21 @@
     ]
   },
   {
+    "Id": "TVSehara.si",
+    "Name": "TV Sehara",
+    "Country": "SI",
+    "Languages": "bos",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/189FW4H.png",
+    "Streams": [
+      {
+        "Url": "http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "VeseljakTV.si",
     "Name": "Veseljak TV",
     "Country": "SI",

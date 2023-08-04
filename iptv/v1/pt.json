@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "CNNPortugal.pt",
-    "Name": "CNN Portugal",
-    "Country": "PT",
-    "Languages": "por",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.cnnportugal.pt/",
-    "Logo": "https://i.imgur.com/bc6tYVZ.png",
-    "Streams": [
-      {
-        "Url": "https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal"
-      }
-    ]
-  },
-  {
     "Id": "CanalUmEuropa.pt",
     "Name": "Canal Um Europa",
     "Country": "PT",

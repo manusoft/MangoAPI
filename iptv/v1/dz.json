@@ -1,20 +1,5 @@
 [
   {
-    "Id": "CNA.dz",
-    "Name": "CNA",
-    "Country": "DZ",
-    "Languages": "ara",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/MbGX0ST.png",
-    "Streams": [
-      {
-        "Url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SamiraTV.dz",
     "Name": "Samira TV",
     "Country": "DZ",
@@ -29,6 +14,21 @@
       },
       {
         "Url": "https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV2.dz",
+    "Name": "TV2",
+    "Country": "DZ",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.entv.dz/",
+    "Logo": "https://i.imgur.com/VEb631f.png",
+    "Streams": [
+      {
+        "Url": "https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8"
       }
     ]
   }

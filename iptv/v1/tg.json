@@ -1,20 +1,5 @@
 [
   {
-    "Id": "NWCinema.tg",
-    "Name": "NW Cinema",
-    "Country": "TG",
-    "Languages": "fra",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.newworldtv.com/",
-    "Logo": "https://i.imgur.com/J1hpikN.png",
-    "Streams": [
-      {
-        "Url": "https://hls.newworldtv.com/nw-cinema/video/live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "NWInfo.tg",
     "Name": "NW Info",
     "Country": "TG",
@@ -71,36 +56,6 @@
     "Streams": [
       {
         "Url": "https://hls.newworldtv.com/nw-muzik/video/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NWSport1.tg",
-    "Name": "NW Sport 1",
-    "Country": "TG",
-    "Languages": "fra",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "https://www.newworldtv.com/",
-    "Logo": "https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png",
-    "Streams": [
-      {
-        "Url": "https://hls.newworldtv.com/nw-sport-1/video/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NWSport2.tg",
-    "Name": "NW Sport 2",
-    "Country": "TG",
-    "Languages": "fra",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "https://www.newworldtv.com/",
-    "Logo": "https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png",
-    "Streams": [
-      {
-        "Url": "https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"
       }
     ]
   },

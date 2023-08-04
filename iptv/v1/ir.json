@@ -120,36 +120,6 @@
     ]
   },
   {
-    "Id": "BravoFarsiTV.ir",
-    "Name": "Bravo Farsi TV",
-    "Country": "IR",
-    "Languages": "fas",
-    "Categories": "movies,series",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
-    "Streams": [
-      {
-        "Url": "https://bravoohls.wns.live/hls/stream.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CaltexTV.ir",
-    "Name": "Caltex TV",
-    "Country": "IR",
-    "Languages": "fas",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://www.caltexmusic.com/tv/",
-    "Logo": "https://i.imgur.com/qegiypT.png",
-    "Streams": [
-      {
-        "Url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "HastiTV.ir",
     "Name": "Hasti TV",
     "Country": "IR",
@@ -255,6 +225,21 @@
     ]
   },
   {
+    "Id": "MihanTV.ir",
+    "Name": "Mihan TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/XEMsM7w.png",
+    "Streams": [
+      {
+        "Url": "https://iptv.mihantv.com/mihantv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MohabatTV.ir",
     "Name": "Mohabat TV",
     "Country": "IR",
@@ -269,6 +254,51 @@
       },
       {
         "Url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NegahTV.ir",
+    "Name": "Negah TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://negahtv.com/",
+    "Logo": "https://i.imgur.com/NFsBd4D.png",
+    "Streams": [
+      {
+        "Url": "https://iptv.negahtv.com/negahtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OXIRTV.ir",
+    "Name": "OXIR TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/MGMhUDx.png",
+    "Streams": [
+      {
+        "Url": "https://hls.oxir.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OmideIranTV.ir",
+    "Name": "Omid-e-Iran TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.oitn.com/",
+    "Logo": "https://i.imgur.com/CeMf68L.png",
+    "Streams": [
+      {
+        "Url": "https://oitnhls.wns.live/hls/stream.m3u8"
       }
     ]
   },
@@ -318,6 +348,21 @@
     ]
   },
   {
+    "Id": "PersianFilm.ir",
+    "Name": "Persian Film",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://pfilm.wns.live/",
+    "Logo": "https://i.imgur.com/AB0BaaA.png",
+    "Streams": [
+      {
+        "Url": "https://pfilmhls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PressTV.ir",
     "Name": "Press TV",
     "Country": "IR",
@@ -333,17 +378,77 @@
     ]
   },
   {
-    "Id": "PressTVFrench.ir",
-    "Name": "Press TV French",
+    "Id": "SL1.ir",
+    "Name": "SL 1",
     "Country": "IR",
-    "Languages": "fra",
-    "Categories": "news",
+    "Languages": "fas",
+    "Categories": "movies",
     "IsNsfw": false,
-    "Website": "https://french.presstv.ir/",
-    "Logo": "https://i.imgur.com/xsj8KHj.png",
+    "Website": null,
+    "Logo": "https://i.imgur.com/n9cuM2W.jpg",
     "Streams": [
       {
-        "Url": "https://live1.presstv.ir/live/presstvfr/index.m3u8"
+        "Url": "https://slonehls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SL2.ir",
+    "Name": "SL 2",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/BVuUx5R.jpg",
+    "Streams": [
+      {
+        "Url": "https://sltwohls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TBNNejatTV.ir",
+    "Name": "TBN Nejat TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nejattv.org/",
+    "Logo": "https://i.imgur.com/e4WffQA.png",
+    "Streams": [
+      {
+        "Url": "https://hls.nejat.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVITN.ir",
+    "Name": "TV ITN",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://tvitn.com/",
+    "Logo": "https://i.imgur.com/U4sKHWy.png",
+    "Streams": [
+      {
+        "Url": "https://itnhls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VOX1.ir",
+    "Name": "VOX1",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/YtCmlNT.png",
+    "Streams": [
+      {
+        "Url": "https://hls.vox1.live/hls/stream.m3u8"
       }
     ]
   },
@@ -384,6 +489,21 @@
     ]
   },
   {
+    "Id": "iFilm2.ir",
+    "Name": "iFilm 2",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://fa2.ifilmtv.ir/",
+    "Logo": "https://i.imgur.com/QxFC11S.png",
+    "Streams": [
+      {
+        "Url": "https://live1.presstv.ir/live/ifilm2.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "iFilmArabic.ir",
     "Name": "iFilm Arabic",
     "Country": "IR",
@@ -395,6 +515,39 @@
     "Streams": [
       {
         "Url": "https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://live1.presstv.ir/live/ifilmar.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "iFilmEnglish.ir",
+    "Name": "iFilm English",
+    "Country": "IR",
+    "Languages": "eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.ifilmtv.ir/",
+    "Logo": "https://i.imgur.com/7rZbIYb.png",
+    "Streams": [
+      {
+        "Url": "https://live1.presstv.ir/live/ifilmen.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "iFilmPersian.ir",
+    "Name": "iFilm Persian",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.ifilmtv.ir/",
+    "Logo": "https://i.imgur.com/JKpybpt.png",
+    "Streams": [
+      {
+        "Url": "https://live1.presstv.ir/live/ifilmfa.m3u8"
       }
     ]
   }

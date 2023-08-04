@@ -15,54 +15,6 @@
     ]
   },
   {
-    "Id": "BloombergTVAsia.hk",
-    "Name": "Bloomberg TV Asia",
-    "Country": "HK",
-    "Languages": "eng",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.bloomberg.com/live/asia",
-    "Logo": "https://i.imgur.com/OuogLHx.png",
-    "Streams": [
-      {
-        "Url": "http://210.210.155.37/dr9445/h/h03/index.m3u8"
-      },
-      {
-        "Url": "https://bloomberg.com/media-manifest/streams/asia.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BloombergTVAsiaLiveEvent.hk",
-    "Name": "Bloomberg TV Asia Live Event",
-    "Country": "HK",
-    "Languages": "eng",
-    "Categories": "business",
-    "IsNsfw": false,
-    "Website": "https://www.bloomberg.com/live/asia_stream",
-    "Logo": "https://i.imgur.com/OuogLHx.png",
-    "Streams": [
-      {
-        "Url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CCM.hk",
-    "Name": "CCM",
-    "Country": "HK",
-    "Languages": "zho,ind",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.cmclassic.tv/index.php?location/HK",
-    "Logo": "https://i.imgur.com/1VhXilw.png",
-    "Streams": [
-      {
-        "Url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CelestialMovies.hk",
     "Name": "Celestial Movies",
     "Country": "HK",
@@ -142,9 +94,6 @@
     "Logo": "https://i.imgur.com/lvxtaoM.png",
     "Streams": [
       {
-        "Url": "https://j3.lhlh.app/mv.m3u8"
-      },
-      {
         "Url": "https://live.astradamy.com/tvbj2/index.m3u8"
       }
     ]
@@ -176,21 +125,6 @@
     "Streams": [
       {
         "Url": "http://210.210.155.37/dr9445/h/h07/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Pearl.hk",
-    "Name": "Pearl",
-    "Country": "HK",
-    "Languages": "eng",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://programme.tvb.com/pearl/",
-    "Logo": "https://i.imgur.com/UPdcMkW.png",
-    "Streams": [
-      {
-        "Url": "https://live.astradamy.com/tvbpearl/index.m3u8"
       }
     ]
   },
@@ -240,6 +174,24 @@
     ]
   },
   {
+    "Id": "RTHKTV31.hk",
+    "Name": "RTHK TV 31",
+    "Country": "HK",
+    "Languages": "zho",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rthk.hk/",
+    "Logo": "https://i.imgur.com/kf818kM.png",
+    "Streams": [
+      {
+        "Url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8"
+      },
+      {
+        "Url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RTHKTV32.hk",
     "Name": "RTHK TV 32",
     "Country": "HK",
@@ -254,21 +206,6 @@
       },
       {
         "Url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RTHKTV33.hk",
-    "Name": "RTHK TV 33",
-    "Country": "HK",
-    "Languages": "zho,eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.rthk.hk/",
-    "Logo": "https://i.imgur.com/2MProun.png",
-    "Streams": [
-      {
-        "Url": "https://live.astradamy.com/hk33/index.m3u8"
       }
     ]
   },
@@ -314,21 +251,6 @@
     "Streams": [
       {
         "Url": "http://210.210.155.37/qwr9ew/s/s34/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ViuTVsix.hk",
-    "Name": "ViuTVsix",
-    "Country": "HK",
-    "Languages": "zho",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://viu.tv/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",
-    "Streams": [
-      {
-        "Url": "https://live.astradamy.com/viutv6/index.m3u8"
       }
     ]
   },

@@ -45,51 +45,6 @@
     ]
   },
   {
-    "Id": "Canal1.cr",
-    "Name": "Canal 1",
-    "Country": "CR",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://canal1cr.com/",
-    "Logo": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
-    "Streams": [
-      {
-        "Url": "https://video20.klm99.com:3993/live/canal1crlive.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal11.cr",
-    "Name": "Canal 11",
-    "Country": "CR",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.repretel.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png",
-    "Streams": [
-      {
-        "Url": "https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal2.cr",
-    "Name": "Canal 2",
-    "Country": "CR",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.repretel.com/envivo-canal2/",
-    "Logo": "https://i.imgur.com/Nn8BtH5.png",
-    "Streams": [
-      {
-        "Url": "https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal4.cr",
     "Name": "Canal 4",
     "Country": "CR",
@@ -146,6 +101,24 @@
     "Streams": [
       {
         "Url": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8"
+      },
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CotoBrusTV.cr",
+    "Name": "Coto Brus TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png",
+    "Streams": [
+      {
+        "Url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
       }
     ]
   },
@@ -225,6 +198,21 @@
     ]
   },
   {
+    "Id": "LimonTV.cr",
+    "Name": "Limon TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.limonhoy.com",
+    "Logo": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
+    "Streams": [
+      {
+        "Url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "LosSantosTV.cr",
     "Name": "Los Santos TV",
     "Country": "CR",
@@ -270,6 +258,21 @@
     ]
   },
   {
+    "Id": "NorteInformativoTV.cr",
+    "Name": "Norte Informativo TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
+    "Streams": [
+      {
+        "Url": "https://videohd.live:19360/8076/8076.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "OldiesHits.cr",
     "Name": "Oldies Hits",
     "Country": "CR",
@@ -281,6 +284,21 @@
     "Streams": [
       {
         "Url": "https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SOYPlanchaTV.cr",
+    "Name": "SOY Plancha TV",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://soyplancha.tv/",
+    "Logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+    "Streams": [
+      {
+        "Url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
       }
     ]
   },
@@ -333,6 +351,21 @@
     ]
   },
   {
+    "Id": "TVCurre.cr",
+    "Name": "TV Curre",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvcurrecr.com/",
+    "Logo": "https://i.ibb.co/F4KhYjm/Cropped-logo-curre-pajaro-pz-1024x1024.png",
+    "Streams": [
+      {
+        "Url": "http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVN14.cr",
     "Name": "TVN 14",
     "Country": "CR",
@@ -344,6 +377,21 @@
     "Streams": [
       {
         "Url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVPlus.cr",
+    "Name": "TV+",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "culture",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/MsjKNMJ/305398743-500202432109920-5029369673742325729-n-1.png",
+    "Streams": [
+      {
+        "Url": "https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8"
       }
     ]
   },
@@ -404,6 +452,9 @@
     "Streams": [
       {
         "Url": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8"
+      },
+      {
+        "Url": "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
       }
     ]
   },
@@ -419,6 +470,21 @@
     "Streams": [
       {
         "Url": "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleredTelevision.cr",
+    "Name": "Telered Television",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://teleredtelevision.com/",
+    "Logo": "https://i.imgur.com/cQghjMA.png",
+    "Streams": [
+      {
+        "Url": "https://video20.klm99.com:3558/live/teleredlive.m3u8"
       }
     ]
   },
@@ -464,6 +530,21 @@
     "Streams": [
       {
         "Url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VintageMusic.cr",
+    "Name": "Vintage Music",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.facebook.com/CanalVintageMusic/",
+    "Logo": "https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",
+    "Streams": [
+      {
+        "Url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
       }
     ]
   },

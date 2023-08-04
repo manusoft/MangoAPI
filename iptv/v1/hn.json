@@ -60,36 +60,6 @@
     ]
   },
   {
-    "Id": "CHTV.hn",
-    "Name": "CHTV",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://chtv.hn/",
-    "Logo": "https://i.imgur.com/QLQgwc6.png",
-    "Streams": [
-      {
-        "Url": "https://media.streambrothers.com:1936/8054/8054/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal15DTP.hn",
-    "Name": "Canal 15 DTP",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://channelstore.roku.com/details/0ac4aefcf5dd97a2381d32b3f3744c7f/canal-15-dtp",
-    "Logo": "https://i.imgur.com/QQNcob1.png",
-    "Streams": [
-      {
-        "Url": "https://emisoras.hn:8081/dtp/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CeibaVisionCanal36.hn",
     "Name": "Ceiba Vision Canal 36",
     "Country": "HN",
@@ -255,21 +225,6 @@
     ]
   },
   {
-    "Id": "LTV.hn",
-    "Name": "LTV",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.ltv.hn/",
-    "Logo": "https://i.imgur.com/KBYUOcP.png",
-    "Streams": [
-      {
-        "Url": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MetroTV.hn",
     "Name": "Metro TV",
     "Country": "HN",
@@ -374,6 +329,24 @@
       },
       {
         "Url": "http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCentroHD.hn",
+    "Name": "TV Centro HD",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://centroradialhn.net/",
+    "Logo": "https://i.imgur.com/bcfmqHb.png",
+    "Streams": [
+      {
+        "Url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+      },
+      {
+        "Url": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
       }
     ]
   },

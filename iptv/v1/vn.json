@@ -60,36 +60,6 @@
     ]
   },
   {
-    "Id": "BinhThuanTV.vn",
-    "Name": "Binh Thuan TV",
-    "Country": "VN",
-    "Languages": "vie",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/AEjZSG4.png",
-    "Streams": [
-      {
-        "Url": "http://202.43.109.144:1935/thbttv/bttv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CaMauTV.vn",
-    "Name": "Ca Mau TV",
-    "Country": "VN",
-    "Languages": "vie",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/gWc8xVD.jpg",
-    "Streams": [
-      {
-        "Url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CaoBangTV.vn",
     "Name": "Cao Bang TV",
     "Country": "VN",
@@ -254,21 +224,6 @@
     "Streams": [
       {
         "Url": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HaiPhongTV.vn",
-    "Name": "Hai Phong TV",
-    "Country": "VN",
-    "Languages": "vie",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://thhp.vn/",
-    "Logo": "https://i.imgur.com/ir6g4hB.png",
-    "Streams": [
-      {
-        "Url": "https://live.thhp.vn/thp/index.m3u8"
       }
     ]
   },
@@ -524,6 +479,9 @@
     "Streams": [
       {
         "Url": "https://media.quochoitv.vn/live/qhtv_720p/index.m3u8"
+      },
+      {
+        "Url": "http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8"
       }
     ]
   },

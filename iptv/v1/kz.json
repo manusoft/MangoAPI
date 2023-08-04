@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "Aqjaiyq.kz",
-    "Name": "Aqjaiyq",
-    "Country": "KZ",
-    "Languages": "kaz",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://oraltv.kz/",
-    "Logo": "https://i.imgur.com/ZqIzzmf.png",
-    "Streams": [
-      {
-        "Url": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Aqtobe.kz",
     "Name": "Aqtobe",
     "Country": "KZ",
@@ -183,21 +168,6 @@
     ]
   },
   {
-    "Id": "ElArna.kz",
-    "Name": "El Arna",
-    "Country": "KZ",
-    "Languages": "kaz",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://elarna.kz/",
-    "Logo": "https://i.imgur.com/XYsLe2Q.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/ElArna.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Ertis.kz",
     "Name": "Ertis",
     "Country": "KZ",
@@ -243,6 +213,21 @@
     ]
   },
   {
+    "Id": "Jambyl.kz",
+    "Name": "Jambyl",
+    "Country": "KZ",
+    "Languages": "kaz",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://taraztv.kz/",
+    "Logo": "https://i.imgur.com/X7N3JK4.png",
+    "Streams": [
+      {
+        "Url": "https://stream.kaztrk.kz/regional/taraztv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "JibekJoly.kz",
     "Name": "Jibek Joly",
     "Country": "KZ",
@@ -267,6 +252,9 @@
     "Website": "https://www.ktk.kz/",
     "Logo": "https://i.imgur.com/BurrNTo.png",
     "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/KTK.m3u8"
+      },
       {
         "Url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
       },
@@ -326,21 +314,6 @@
     "Streams": [
       {
         "Url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ManasTV.kz",
-    "Name": "Manas TV",
-    "Country": "KZ",
-    "Languages": "kir,rus,tur",
-    "Categories": "education,culture,entertainment",
-    "IsNsfw": false,
-    "Website": "http://mediamanas.kg/",
-    "Logo": "https://i.ibb.co/10FW1yf/manaslogo.png",
-    "Streams": [
-      {
-        "Url": "http://212.42.111.136/hls/manas.m3u8"
       }
     ]
   },

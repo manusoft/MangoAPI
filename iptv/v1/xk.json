@@ -1,20 +1,5 @@
 [
   {
-    "Id": "ATV.xk",
-    "Name": "ATV",
-    "Country": "XK",
-    "Languages": "sqi",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://atvlive.tv/",
-    "Logo": "https://i.imgur.com/lX6sekx.png",
-    "Streams": [
-      {
-        "Url": "https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/zyq001.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PeaceTVAlbanian.xk",
     "Name": "Peace TV Albanian",
     "Country": "XK",
@@ -120,32 +105,62 @@
     ]
   },
   {
-    "Id": "TVArberia3Femije.xk",
-    "Name": "TV Arberia 3 Femije",
+    "Id": "TVArberia2.xk",
+    "Name": "TV Arberia 2",
     "Country": "XK",
     "Languages": "sqi",
-    "Categories": "kids",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.rtvarberia.com/live-femije/",
+    "Website": "https://www.rtvarberia.com/live-tv2/",
     "Logo": "https://i.imgur.com/zLRzyVS.png",
     "Streams": [
       {
-        "Url": "http://rtvarberia3.flashmediacast.com:1935/RtvArberia3/livestream/playlist.m3u8"
+        "Url": "https://ssh101.bozztv.com/ssh101/rtvarberia2/playlist.m3u8"
       }
     ]
   },
   {
-    "Id": "TVArberia4Muzike.xk",
-    "Name": "TV Arberia 4 Muzike",
+    "Id": "TVArberia5.xk",
+    "Name": "TV Arberia 5",
+    "Country": "XK",
+    "Languages": "sqi",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.rtvarberia.com/tv-arberia-5/",
+    "Logo": "https://i.imgur.com/zLRzyVS.png",
+    "Streams": [
+      {
+        "Url": "https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVArberiaArshiiAllahut.xk",
+    "Name": "TV Arberia Arshi i Allahut",
+    "Country": "XK",
+    "Languages": "sqi",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.rtvarberia.com/tv-arberia-arshi-i-allahut/",
+    "Logo": "https://i.imgur.com/zLRzyVS.png",
+    "Streams": [
+      {
+        "Url": "https://tgn.bozztv.com/ssh101/ssh101/rtvarberiaislam/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVArberiaRetroHits.xk",
+    "Name": "TV Arberia Retro Hits",
     "Country": "XK",
     "Languages": "sqi",
     "Categories": "music",
     "IsNsfw": false,
-    "Website": "https://www.rtvarberia.com/tv-arberia-4-muzike/",
+    "Website": "http://www.rtvarberia.com/tv-arberia-retro-hits/",
     "Logo": "https://i.imgur.com/zLRzyVS.png",
     "Streams": [
       {
-        "Url": "http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8"
+        "Url": "https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8"
       }
     ]
   },
@@ -191,6 +206,21 @@
     "Streams": [
       {
         "Url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSyri.xk",
+    "Name": "TV Syri",
+    "Country": "XK",
+    "Languages": "sqi",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.syri-vision.tv/",
+    "Logo": "https://i.imgur.com/ZQuFosn.png",
+    "Streams": [
+      {
+        "Url": "https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y10z1k.m3u8"
       }
     ]
   }

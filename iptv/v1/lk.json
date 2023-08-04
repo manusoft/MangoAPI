@@ -1,5 +1,35 @@
 [
   {
+    "Id": "AdaDerana24x7.lk",
+    "Name": "Ada Derana 24x7",
+    "Country": "LK",
+    "Languages": "sin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.adaderana.lk/",
+    "Logo": "https://i.imgur.com/TWMnZgL.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCCK3OZi788Ok44K97WAhLKQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HarithaTV.lk",
+    "Name": "Haritha TV",
+    "Country": "LK",
+    "Languages": "sin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://harithanetwork.com/",
+    "Logo": "https://i.imgur.com/cepKOpH.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCSe8uUIt3EM83y9N0WHSx_w.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ITN.lk",
     "Name": "ITN",
     "Country": "LK",
@@ -15,6 +45,39 @@
     ]
   },
   {
+    "Id": "Rupavahini.lk",
+    "Name": "Rupavahini",
+    "Country": "LK",
+    "Languages": "sin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rupavahini.lk/",
+    "Logo": "https://i.imgur.com/vgHTfR0.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCi0cdSwyCHgPa95_nX457pw.m3u8"
+      },
+      {
+        "Url": "http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShraddhaTV.lk",
+    "Name": "Shraddha TV",
+    "Country": "LK",
+    "Languages": "sin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.shraddha.lk/",
+    "Logo": "https://i.imgur.com/sZ3fEMi.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC1WREaxq8LRhdOOmzSFg2pA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Swarnavahini.lk",
     "Name": "Swarnavahini",
     "Country": "LK",
@@ -26,6 +89,51 @@
     "Streams": [
       {
         "Url": "https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVDerana.lk",
+    "Name": "TV Derana",
+    "Country": "LK",
+    "Languages": "sin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.derana.lk/",
+    "Logo": "https://i.imgur.com/vToOI2s.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TheBuddhist.lk",
+    "Name": "The Buddhist",
+    "Country": "LK",
+    "Languages": "sin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.thebuddhist.tv/",
+    "Logo": "https://i.imgur.com/DUzOKWM.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC37lrcLuvJmWDoooxwiPXXA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VasanthamTV.lk",
+    "Name": "Vasantham TV",
+    "Country": "LK",
+    "Languages": "tam",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.vasantham.lk/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg",
+    "Streams": [
+      {
+        "Url": "https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8"
       }
     ]
   },

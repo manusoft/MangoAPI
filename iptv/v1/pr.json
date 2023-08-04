@@ -10,9 +10,6 @@
     "Logo": "https://i.imgur.com/7aIab2r.png",
     "Streams": [
       {
-        "Url": "https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8"
-      },
-      {
         "Url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8"
       }
     ]
@@ -33,32 +30,17 @@
     ]
   },
   {
-    "Id": "BuenaTV.pr",
-    "Name": "Buena TV",
+    "Id": "LaGranCarpaCatedralTV.pr",
+    "Name": "La Gran Carpa Catedral TV",
     "Country": "PR",
     "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/tsajuxi.png",
-    "Streams": [
-      {
-        "Url": "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CDMInternacional.pr",
-    "Name": "CDM Internacional",
-    "Country": "PR",
-    "Languages": "spa,eng",
     "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/jOpammm.png",
+    "Website": "https://www.carpa.com/",
+    "Logo": "https://i.imgur.com/XpuKL55.png",
     "Streams": [
       {
-        "Url": "https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCjtogA7_a6F4bdaO3tnK69Q.m3u8"
       }
     ]
   },
@@ -93,6 +75,21 @@
     ]
   },
   {
+    "Id": "NuevaVidaFM.pr",
+    "Name": "Nueva Vida FM",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "religious,music",
+    "IsNsfw": false,
+    "Website": "https://nuevavida.fm/",
+    "Logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
+    "Streams": [
+      {
+        "Url": "https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PuraPalabra.pr",
     "Name": "Pura Palabra",
     "Country": "PR",
@@ -104,6 +101,21 @@
     "Streams": [
       {
         "Url": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioIslaTV.pr",
+    "Name": "Radio Isla TV",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://radioisla.tv/",
+    "Logo": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
+    "Streams": [
+      {
+        "Url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
       }
     ]
   },
@@ -134,6 +146,81 @@
     "Streams": [
       {
         "Url": "https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Triunfo969FM.pr",
+    "Name": "Triunfo 96.9 FM",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.triunfo969.fm/",
+    "Logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+    "Streams": [
+      {
+        "Url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WAPADT1.pr",
+    "Name": "WAPA-DT1",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.televicentropr.com/",
+    "Logo": "https://i.imgur.com/kqq7tD9.png",
+    "Streams": [
+      {
+        "Url": "https://live.field59.com/wapa/wapa1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WAPADT2.pr",
+    "Name": "WAPA-DT2",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5WNBFmp.png",
+    "Streams": [
+      {
+        "Url": "https://live.field59.com/wapa/wapa2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WKAQDT2.pr",
+    "Name": "WKAQ-DT2",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/TL6xy4y.png",
+    "Streams": [
+      {
+        "Url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Zeta93.pr",
+    "Name": "Zeta 93",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.lamusica.com/stations/wznt",
+    "Logo": "https://i.ibb.co/KzqWLZR/images-57.jpg",
+    "Streams": [
+      {
+        "Url": "https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8"
       }
     ]
   }

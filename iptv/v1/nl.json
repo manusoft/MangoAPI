@@ -153,21 +153,6 @@
     ]
   },
   {
-    "Id": "BredaNuTV.nl",
-    "Name": "BredaNu TV",
-    "Country": "NL",
-    "Languages": "nld",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/Eg3sgNb.png",
-    "Streams": [
-      {
-        "Url": "https://rtmp.bredanu.nl/live/tv.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DTVDenBosch.nl",
     "Name": "DTV Den Bosch",
     "Country": "NL",
@@ -308,6 +293,21 @@
       },
       {
         "Url": "https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GHtvHolland.nl",
+    "Name": "GHtv Holland",
+    "Country": "NL",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://ghtvholland.com/",
+    "Logo": "https://i.imgur.com/hOGS5LL.png",
+    "Streams": [
+      {
+        "Url": "http://37.48.120.77:8080/hls/ghtvonline.m3u8"
       }
     ]
   },
@@ -476,9 +476,6 @@
       },
       {
         "Url": "https://inwonder-samsung-de.amagi.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8"
       },
       {
         "Url": "https://inwonder-samsung-canada.amagi.tv/playlist.m3u8"
@@ -863,6 +860,21 @@
     "Streams": [
       {
         "Url": "https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OmroepBergenDal.nl",
+    "Name": "Omroep Berg en Dal",
+    "Country": "NL",
+    "Languages": "nld",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.omroepbergendal.nl/",
+    "Logo": "https://i.imgur.com/GQTiH2p.png",
+    "Streams": [
+      {
+        "Url": "https://rtvbergendal.nl:4000/live/rtvbergendallive.m3u8"
       }
     ]
   },
@@ -1323,36 +1335,6 @@
     ]
   },
   {
-    "Id": "RTV527.nl",
-    "Name": "RTV 527",
-    "Country": "NL",
-    "Languages": "nld",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://rtv527.nl/",
-    "Logo": "https://i.imgur.com/35052Q6.png",
-    "Streams": [
-      {
-        "Url": "https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RTVAmstelveen.nl",
-    "Name": "RTV Amstelveen",
-    "Country": "NL",
-    "Languages": "nld",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ySfYF1a.png",
-    "Streams": [
-      {
-        "Url": "https://live.rtva.nl/live/zender.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "RTVArnhemTV.nl",
     "Name": "RTV Arnhem TV",
     "Country": "NL",
@@ -1515,6 +1497,9 @@
     "Website": null,
     "Logo": "https://i.imgur.com/CpQIedo.png",
     "Streams": [
+      {
+        "Url": "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
+      },
       {
         "Url": "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8"
       }
@@ -1757,6 +1742,21 @@
     "Streams": [
       {
         "Url": "https://radioaalsmeer.nl:4443/live/tv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioContinu.nl",
+    "Name": "Radio Continu",
+    "Country": "NL",
+    "Languages": "nld",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://radiocontinu.nl/",
+    "Logo": "https://i.imgur.com/QWetX72.png",
+    "Streams": [
+      {
+        "Url": "https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8"
       }
     ]
   },
@@ -2366,6 +2366,21 @@
     "Streams": [
       {
         "Url": "https://video.uitzending.tv:19360/zo34/zo34.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZuidWestTV.nl",
+    "Name": "ZuidWest TV",
+    "Country": "NL",
+    "Languages": "nld",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/dTEFYhb.png",
+    "Streams": [
+      {
+        "Url": "https://live.zuidwesttv.nl/live/zwtv.m3u8"
       }
     ]
   }
