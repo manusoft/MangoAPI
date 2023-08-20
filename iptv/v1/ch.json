@@ -73,9 +73,6 @@
     "Logo": "https://cdn.hd-plus.de/senderlogos/bright-cropped/24464-1.png",
     "Streams": [
       {
-        "Url": "https://www.onairport.live/die-neue-zeit-tv-live/livestream/playlist.m3u8"
-      },
-      {
         "Url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8"
       }
     ]
@@ -165,6 +162,21 @@
     ]
   },
   {
+    "Id": "MLeMedia.ch",
+    "Name": "M Le Media",
+    "Country": "CH",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.mlemedia.ch/",
+    "Logo": "https://i.imgur.com/YkUeGoy.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/ch/M.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Meteonews.ch",
     "Name": "Meteonews",
     "Country": "CH",
@@ -210,6 +222,51 @@
     ]
   },
   {
+    "Id": "RTVIslam.ch",
+    "Name": "RTV Islam",
+    "Country": "CH",
+    "Languages": "sqi",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://rtvislam.com/",
+    "Logo": "https://i.ibb.co/LSJqLJw/RTV-LOGO.png",
+    "Streams": [
+      {
+        "Url": "https://protokolldns.xyz/rtvislamweebstdkksdfsdjkd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTVPendimi.ch",
+    "Name": "RTV Pendimi",
+    "Country": "CH",
+    "Languages": "sqi",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.rtvpendimi.com/",
+    "Logo": "https://i.ibb.co/tD48GMD/RTV-Pendimi.png",
+    "Streams": [
+      {
+        "Url": "http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Radio3i.ch",
+    "Name": "Radio 3i",
+    "Country": "CH",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/0Kmh49G.png",
+    "Streams": [
+      {
+        "Url": "https://vstream-cdn.ch/hls/radio3i.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RougeTV.ch",
     "Name": "Rouge TV",
     "Country": "CH",
@@ -227,6 +284,39 @@
       },
       {
         "Url": "https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ShivaLiveTV.ch",
+    "Name": "Shiva Live TV",
+    "Country": "CH",
+    "Languages": "deu",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://shivalive.tv/",
+    "Logo": "https://i.imgur.com/F2LUpAB.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCi1UffPLvT0PbmU1qGVjlMQ.m3u8"
+      },
+      {
+        "Url": "https://streameurope.ch/live/shivalivetv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SivanTV.ch",
+    "Name": "Sivan TV",
+    "Country": "CH",
+    "Languages": "tam",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://sivantv.com/",
+    "Logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
+    "Streams": [
+      {
+        "Url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8"
       }
     ]
   },
@@ -311,6 +401,9 @@
       },
       {
         "Url": "https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8"
+      },
+      {
+        "Url": "https://edge.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8"
       }
     ]
   },
@@ -326,6 +419,21 @@
     "Streams": [
       {
         "Url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleTicino.ch",
+    "Name": "TeleTicino",
+    "Country": "CH",
+    "Languages": "ita",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/u6dLKa9.png",
+    "Streams": [
+      {
+        "Url": "https://vstream-cdn.ch/hls/teleticino.m3u8"
       }
     ]
   },

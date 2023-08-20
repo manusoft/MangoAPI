@@ -75,6 +75,21 @@
     ]
   },
   {
+    "Id": "BrideTV.ng",
+    "Name": "Bride TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://bridetv.org/",
+    "Logo": "https://i.imgur.com/snZMucg.png",
+    "Streams": [
+      {
+        "Url": "https://webstreaming.viewmedia.tv/web_013/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CaughtUpTV.ng",
     "Name": "Caught-Up TV",
     "Country": "NG",
@@ -180,20 +195,17 @@
     ]
   },
   {
-    "Id": "LagosTelevision.ng",
-    "Name": "Lagos Television",
+    "Id": "GalaxyTV.ng",
+    "Name": "Galaxy TV",
     "Country": "NG",
     "Languages": "eng",
     "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/DlerC3J.png",
+    "Website": "https://www.galaxytvonline.com/",
+    "Logo": "https://i.imgur.com/BV0JuyX.png",
     "Streams": [
       {
-        "Url": "http://185.105.4.193:1935/ltv/myStream/playlist.m3u8"
-      },
-      {
-        "Url": "https://5c0740dba62b3.streamlock.net/ltv/myStream/playlist.m3u8"
+        "Url": "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8"
       }
     ]
   },
@@ -209,6 +221,21 @@
     "Streams": [
       {
         "Url": "https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MFMTV.ng",
+    "Name": "MFM TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.mountainoffire.org/",
+    "Logo": "https://i.imgur.com/7amEIGk.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCMd5fYoenMlMJQ6-Bt6gsRw.m3u8"
       }
     ]
   },
@@ -318,17 +345,17 @@
     ]
   },
   {
-    "Id": "QausainTV.ng",
-    "Name": "Qausain TV",
+    "Id": "PhenomenalLifeTV.ng",
+    "Name": "Phenomenal Life TV",
     "Country": "NG",
     "Languages": "eng",
-    "Categories": "culture",
+    "Categories": "religious",
     "IsNsfw": false,
-    "Website": "https://www.qausaintv.com/",
-    "Logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+    "Website": null,
+    "Logo": "https://i.imgur.com/JHbhLuK.jpg",
     "Streams": [
       {
-        "Url": "https://acasmedia2.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+        "Url": "https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8"
       }
     ]
   },
@@ -359,6 +386,36 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCNuPuew8lLVB3mMAm9_Qt9w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SuperscreenTV.ng",
+    "Name": "Superscreen TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "culture,family",
+    "IsNsfw": false,
+    "Website": "https://superscreen.tv/",
+    "Logo": "https://i.imgur.com/uTNmSWE.png",
+    "Streams": [
+      {
+        "Url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV360Nigeria.ng",
+    "Name": "TV360 Nigeria",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.tv360nigeria.com/",
+    "Logo": "https://i.imgur.com/yJ3ivGa.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8"
       }
     ]
   },
@@ -404,6 +461,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WapTV.ng",
+    "Name": "Wap TV",
+    "Country": "NG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://waptvchannel.com/",
+    "Logo": "https://i.imgur.com/Djng8pI.png",
+    "Streams": [
+      {
+        "Url": "https://newproxy3.vidivu.tv/waptv/index.m3u8"
       }
     ]
   },

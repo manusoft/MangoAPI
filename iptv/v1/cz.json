@@ -1,5 +1,50 @@
 [
   {
+    "Id": "CSFilm.cz",
+    "Name": "CS Film",
+    "Country": "CZ",
+    "Languages": "ces",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://csfilm.joj.cz/",
+    "Logo": "https://i.imgur.com/BAAuBB2.png",
+    "Streams": [
+      {
+        "Url": "https://st01-1.iptv.joj.sk/106-tv-pc.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CSHistory.cz",
+    "Name": "CS History",
+    "Country": "CZ",
+    "Languages": "ces",
+    "Categories": "documentary",
+    "IsNsfw": false,
+    "Website": "https://wartv.cz/",
+    "Logo": "https://i.imgur.com/rtYj21D.png",
+    "Streams": [
+      {
+        "Url": "https://st01-1.iptv.joj.sk/107-tv-pc.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CSMystery.cz",
+    "Name": "CS Mystery",
+    "Country": "CZ",
+    "Languages": "ces",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kinosvet.tv/",
+    "Logo": "https://i.imgur.com/3cFbkUj.png",
+    "Streams": [
+      {
+        "Url": "https://st01-1.iptv.joj.sk/108-tv-pc.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CurrentTimeTV.cz",
     "Name": "Current Time TV",
     "Country": "CZ",
@@ -216,6 +261,21 @@
     ]
   },
   {
+    "Id": "PrimaCool.cz",
+    "Name": "Prima Cool",
+    "Country": "CZ",
+    "Languages": "ces",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://cool.iprima.cz/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/512px-Prima_Cool_logo_zelen%C3%A9.png",
+    "Streams": [
+      {
+        "Url": "http://st02.lab.cho01.iptv.grapesc.cz/60-tv-stb.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RetroMusicTV.cz",
     "Name": "Retro Music TV",
     "Country": "CZ",
@@ -248,21 +308,6 @@
     "Streams": [
       {
         "Url": "https://stream-33.mazana.tv/slagr2.m3u"
-      }
-    ]
-  },
-  {
-    "Id": "SlagerOriginal.cz",
-    "Name": "Slager Original",
-    "Country": "CZ",
-    "Languages": "ces",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://slagrtv.cz/",
-    "Logo": "https://i.imgur.com/0YjeWcq.png",
-    "Streams": [
-      {
-        "Url": "https://stream-6.mazana.tv/slagr.m3u"
       }
     ]
   },
@@ -353,6 +398,21 @@
     "Streams": [
       {
         "Url": "https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVNova.cz",
+    "Name": "TV Nova",
+    "Country": "CZ",
+    "Languages": "ces",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tv.nova.cz/",
+    "Logo": "https://i.imgur.com/5TO7lfw.png",
+    "Streams": [
+      {
+        "Url": "http://st01.lab.cho01.iptv.grapesc.cz/32-tv-stb.m3u8"
       }
     ]
   },

@@ -15,51 +15,6 @@
     ]
   },
   {
-    "Id": "CoolTV.mk",
-    "Name": "Cool TV",
-    "Country": "MK",
-    "Languages": "mkd",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://stream.nasatv.com.mk/cooltv/",
-    "Logo": "https://i.imgur.com/2tFrjUz.png",
-    "Streams": [
-      {
-        "Url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "FolkTV.mk",
-    "Name": "Folk TV",
-    "Country": "MK",
-    "Languages": "mkd",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://stream.nasatv.com.mk/folktv/",
-    "Logo": "https://i.imgur.com/4b9aZ9P.png",
-    "Streams": [
-      {
-        "Url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JazzTV.mk",
-    "Name": "Jazz TV",
-    "Country": "MK",
-    "Languages": "mkd",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://stream.nasatv.com.mk/jazztv/",
-    "Logo": "https://i.imgur.com/CbQlSFX.png",
-    "Streams": [
-      {
-        "Url": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Kanal5.mk",
     "Name": "Kanal 5",
     "Country": "MK",
@@ -86,21 +41,6 @@
     "Streams": [
       {
         "Url": "http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LoveTV.mk",
-    "Name": "Love TV",
-    "Country": "MK",
-    "Languages": "mkd",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://stream.nasatv.com.mk/lovetv/",
-    "Logo": "https://i.imgur.com/B8iaejQ.png",
-    "Streams": [
-      {
-        "Url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8"
       }
     ]
   },
@@ -195,21 +135,6 @@
     ]
   },
   {
-    "Id": "RockTV.mk",
-    "Name": "Rock TV",
-    "Country": "MK",
-    "Languages": "mkd",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://stream.nasatv.com.mk/rocktv/",
-    "Logo": "https://i.imgur.com/Y9miDQo.png",
-    "Streams": [
-      {
-        "Url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SkyFolkTV.mk",
     "Name": "Sky Folk TV",
     "Country": "MK",
@@ -224,21 +149,6 @@
       },
       {
         "Url": "https://eu.live.skyfolk.mk/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "StarFolkTV.mk",
-    "Name": "Star Folk TV",
-    "Country": "MK",
-    "Languages": "mkd",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://starfolk.net/",
-    "Logo": "https://i.imgur.com/fM7FUgk.png",
-    "Streams": [
-      {
-        "Url": "https://live.muzickatv.mk/live/StarMusic.m3u8"
       }
     ]
   },

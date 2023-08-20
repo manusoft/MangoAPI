@@ -40,9 +40,6 @@
     "Logo": "https://i.imgur.com/iVIlgrj.png",
     "Streams": [
       {
-        "Url": "http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8"
-      },
-      {
         "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8"
       }
     ]

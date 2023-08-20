@@ -1,5 +1,20 @@
 [
   {
+    "Id": "ADBTV.pt",
+    "Name": "ADB TV",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://live.adburaca.org/",
+    "Logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
+    "Streams": [
+      {
+        "Url": "https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ARTV.pt",
     "Name": "ARTV",
     "Country": "PT",
@@ -11,6 +26,36 @@
     "Streams": [
       {
         "Url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNNPortugal.pt",
+    "Name": "CNN Portugal",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.cnnportugal.pt/",
+    "Logo": "https://i.imgur.com/bc6tYVZ.png",
+    "Streams": [
+      {
+        "Url": "https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal"
+      }
+    ]
+  },
+  {
+    "Id": "Canal11.pt",
+    "Name": "Canal 11",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://canal11.pt/",
+    "Logo": "https://i.imgur.com/mbQCGm5.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8"
       }
     ]
   },
@@ -165,6 +210,21 @@
     ]
   },
   {
+    "Id": "SICNovelas.pt",
+    "Name": "SIC Novelas",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/5hQrgqd/SICNovelas.png",
+    "Streams": [
+      {
+        "Url": "https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SobrenaturalTV.pt",
     "Name": "Sobrenatural TV",
     "Country": "PT",
@@ -209,6 +269,21 @@
       },
       {
         "Url": "https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVIAfrica.pt",
+    "Name": "TVI Africa",
+    "Country": "PT",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.tvi.iol.pt/africa/",
+    "Logo": "https://i.ibb.co/vBbSHB4/Tvi-africa.png",
+    "Streams": [
+      {
+        "Url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
       }
     ]
   },

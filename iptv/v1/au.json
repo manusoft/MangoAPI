@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "AUSTamilTV.au",
-    "Name": "AUS Tamil TV",
-    "Country": "AU",
-    "Languages": "tam",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://austamil.tv/",
-    "Logo": "https://i.imgur.com/7xcDrJw.png",
-    "Streams": [
-      {
-        "Url": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AusbizTV.au",
     "Name": "Ausbiz TV",
     "Country": "AU",
@@ -44,6 +29,36 @@
       },
       {
         "Url": "https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BloombergTVAustralia.au",
+    "Name": "Bloomberg TV Australia",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/australia",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/aus.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "C31Melbourne.au",
+    "Name": "C31 Melbourne",
+    "Country": "AU",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Ge1EutY.png",
+    "Streams": [
+      {
+        "Url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"
       }
     ]
   },
@@ -104,21 +119,6 @@
     "Streams": [
       {
         "Url": "http://tv1.intv.mk:1935/live/intv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "M4TVMalayalam.au",
-    "Name": "M4TV Malayalam",
-    "Country": "AU",
-    "Languages": "mal",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://m4malayalam.tv/",
-    "Logo": "https://i.imgur.com/dTR6H2A.png",
-    "Streams": [
-      {
-        "Url": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8"
       }
     ]
   },

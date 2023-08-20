@@ -60,6 +60,51 @@
     ]
   },
   {
+    "Id": "CHTV.hn",
+    "Name": "CHTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://chtv.hn/",
+    "Logo": "https://i.imgur.com/QLQgwc6.png",
+    "Streams": [
+      {
+        "Url": "https://media.streambrothers.com:1936/8054/8054/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CTVInternacional.hn",
+    "Name": "CTV Internacional",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canal20copanruinas.com/",
+    "Logo": "https://i.imgur.com/BcmQhry.png",
+    "Streams": [
+      {
+        "Url": "https://mediacp.us:8081/ctvhn/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal15DTP.hn",
+    "Name": "Canal 15 DTP",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://channelstore.roku.com/details/0ac4aefcf5dd97a2381d32b3f3744c7f/canal-15-dtp",
+    "Logo": "https://i.imgur.com/QQNcob1.png",
+    "Streams": [
+      {
+        "Url": "https://emisoras.hn:8081/dtp/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CeibaVisionCanal36.hn",
     "Name": "Ceiba Vision Canal 36",
     "Country": "HN",
@@ -225,6 +270,21 @@
     ]
   },
   {
+    "Id": "LTV.hn",
+    "Name": "LTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ltv.hn/",
+    "Logo": "https://i.imgur.com/KBYUOcP.png",
+    "Streams": [
+      {
+        "Url": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MetroTV.hn",
     "Name": "Metro TV",
     "Country": "HN",
@@ -266,21 +326,6 @@
     "Streams": [
       {
         "Url": "https://srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RadioOmegaTV.hn",
-    "Name": "Radio Omega TV",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://omegaturadio.com/",
-    "Logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
-    "Streams": [
-      {
-        "Url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
       }
     ]
   },
@@ -333,20 +378,17 @@
     ]
   },
   {
-    "Id": "TVCentroHD.hn",
-    "Name": "TV Centro HD",
+    "Id": "TSi.hn",
+    "Name": "TSi",
     "Country": "HN",
     "Languages": "spa",
-    "Categories": "general",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://centroradialhn.net/",
-    "Logo": "https://i.imgur.com/bcfmqHb.png",
+    "Website": "https://www.televicentro.hn/",
+    "Logo": "https://i.imgur.com/GEyxDnf.png",
     "Streams": [
       {
-        "Url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
-      },
-      {
-        "Url": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
+        "Url": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8"
       }
     ]
   },
@@ -381,47 +423,17 @@
     ]
   },
   {
-    "Id": "TeleDanli.hn",
-    "Name": "TeleDanli",
+    "Id": "Teleceiba.hn",
+    "Name": "Teleceiba",
     "Country": "HN",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://teledanli.net/",
-    "Logo": "https://i.imgur.com/BACuUSc.png",
+    "Website": "http://teleceiba.com/",
+    "Logo": "https://i.imgur.com/oPSfsvy.png",
     "Streams": [
       {
-        "Url": "https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TeleProgreso.hn",
-    "Name": "TeleProgreso",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.teleprogreso.tv/",
-    "Logo": "https://i.imgur.com/yBDI3AF.png",
-    "Streams": [
-      {
-        "Url": "https://stmv1.zcasthn.com.br/teleprogreso/teleprogreso/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TelevisionMetropolis191.hn",
-    "Name": "Television Metropolis 19.1",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://comunicacionesmetropolis.com/",
-    "Logo": "https://i.imgur.com/X5C1GzB.png",
-    "Streams": [
-      {
-        "Url": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
+        "Url": "https://920cd9e18619.ngrok.app/hls/stream.m3u8"
       }
     ]
   },
@@ -467,6 +479,21 @@
     "Streams": [
       {
         "Url": "https://live-utv.unah.edu.hn/web/salida.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VTV.hn",
+    "Name": "VTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.vtv.com.hn/",
+    "Logo": "https://i.imgur.com/CsPkwD5.png",
+    "Streams": [
+      {
+        "Url": "https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/playlist.m3u8"
       }
     ]
   }

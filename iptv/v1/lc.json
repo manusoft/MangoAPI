@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Id": "CaribbeanHot7TV.lc",
+    "Name": "Caribbean Hot 7 TV",
+    "Country": "LC",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.caribbeanhottv.com/",
+    "Logo": "https://i.ibb.co/sjTS4xD/logo116x90-2.png",
+    "Streams": [
+      {
+        "Url": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GovernmentofSaintLucia.lc",
+    "Name": "Government of Saint Lucia",
+    "Country": "LC",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.govt.lc/",
+    "Logo": "https://i.ibb.co/X8M9fxs/Istockphoto-1096891556-612x612.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC4al3A_gysYEIzAM1L2qZbg.m3u8"
+      }
+    ]
+  }
+]

@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Id": "RASDTV.eh",
+    "Name": "RASD TV",
+    "Country": "EH",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rasd.tv/",
+    "Logo": "https://i.imgur.com/9Pb8806.png",
+    "Streams": [
+      {
+        "Url": "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8"
+      }
+    ]
+  }
+]

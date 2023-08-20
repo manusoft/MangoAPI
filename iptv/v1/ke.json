@@ -1,5 +1,50 @@
 [
   {
+    "Id": "AviationTV.ke",
+    "Name": "Aviation TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/WOU9z5G.png",
+    "Streams": [
+      {
+        "Url": "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BTLTV.ke",
+    "Name": "BTL TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4r09woD.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/638da5440743c/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CapuchinTV.ke",
+    "Name": "Capuchin TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://capuchintv.co.ke/",
+    "Logo": "https://i.imgur.com/VCDSjX7.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCHPJTU2lq20S3kQoDONYHgQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CitizenTV.ke",
     "Name": "Citizen TV",
     "Country": "KE",
@@ -15,6 +60,81 @@
     ]
   },
   {
+    "Id": "DestinyVoicesTV.ke",
+    "Name": "Destiny Voices TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/yedftwj.jpg",
+    "Streams": [
+      {
+        "Url": "https://apps.digitaltv.co.ke/live/2004.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ElevateTV.ke",
+    "Name": "Elevate TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://elevatetv.co.ke/",
+    "Logo": "https://i.imgur.com/M7xaQ7o.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FaithTVKenya.ke",
+    "Name": "Faith TV Kenya",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HxyDjxO.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQFnIxX1vwsqW7MPcJdYTeg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GTNTV.ke",
+    "Name": "GTN TV",
+    "Country": "KE",
+    "Languages": "eng,swa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://gtntv.co.ke/",
+    "Logo": "https://i.imgur.com/CSCZW6L.png",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HLCTV.ke",
+    "Name": "HLC TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://hlctv.co.ke/",
+    "Logo": "https://i.imgur.com/TPZoSXM.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "InooroTV.ke",
     "Name": "Inooro TV",
     "Country": "KE",
@@ -26,6 +146,21 @@
     "Streams": [
       {
         "Url": "https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JCMTV.ke",
+    "Name": "JCM TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/28YB7dD.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8"
       }
     ]
   },
@@ -75,6 +210,96 @@
     ]
   },
   {
+    "Id": "KamemeTV.ke",
+    "Name": "Kameme TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.kamemetv.co.ke/",
+    "Logo": "https://i.imgur.com/z0yttDX.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCd9nkc2XA77NMxBvQz35I2Q.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KassTV.ke",
+    "Name": "Kass TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.kasstv.co.ke/",
+    "Logo": "https://i.imgur.com/MW8wZ5v.png",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LolweTV.ke",
+    "Name": "Lolwe TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.lolwe.tv/",
+    "Logo": "https://i.imgur.com/tjZ1cOP.png",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MOPTVKenya.ke",
+    "Name": "MOP TV Kenya",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PByV23L.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC_TKzHKWqX7sAjx4UPZoAPA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MasharikiTV.ke",
+    "Name": "Mashariki TV",
+    "Country": "KE",
+    "Languages": "eng,swa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5Qcwpg5.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuthingiTV.ke",
+    "Name": "Muthingi TV",
+    "Country": "KE",
+    "Languages": "eng,swa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/bnkbclB.jpg",
+    "Streams": [
+      {
+        "Url": "https://apps.digitaltv.co.ke/live/2005.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "NTVKenya.ke",
     "Name": "NTV Kenya",
     "Country": "KE",
@@ -86,6 +311,156 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NdurumeniTV.ke",
+    "Name": "Ndurumeni TV",
+    "Country": "KE",
+    "Languages": "swa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/OvmySNw.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NewLifeTV.ke",
+    "Name": "New Life TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.newlifeprayercenterandchurch.org/",
+    "Logo": "https://i.imgur.com/hTcSNK5.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCk3buHLJP6KAcbtsw8fj4hg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ParliamentofKenya.ke",
+    "Name": "Parliament of Kenya",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "http://www.parliament.go.ke/",
+    "Logo": "https://i.imgur.com/fAULyHh.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCXuseB7juWB7DIgTJcwtHFQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PillarTV.ke",
+    "Name": "Pillar TV",
+    "Country": "KE",
+    "Languages": "eng,swa,kik",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.pillartv.co.ke/",
+    "Logo": "https://i.imgur.com/9kCxFqj.png",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RamogiTV.ke",
+    "Name": "Ramogi TV",
+    "Country": "KE",
+    "Languages": "luo",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.citizen.digital/tv/ramogi-tv-19",
+    "Logo": "https://i.ytimg.com/vi/hQgTTvf0xfc/mqdefault.jpg",
+    "Streams": [
+      {
+        "Url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SasaTV.ke",
+    "Name": "Sasa TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/wOe4shP.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCrBGAWr24pPQn-HUWZDBelQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SayareTV.ke",
+    "Name": "Sayare TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.sayare.co.ke/",
+    "Logo": "https://i.imgur.com/M2Fnxj7.png",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TestimonyTV.ke",
+    "Name": "Testimony TV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://testimony-tv.com/",
+    "Logo": "https://i.imgur.com/BWvbC5O.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCDmLoDM4S60MhbfmO2yr_SA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UTV.ke",
+    "Name": "UTV",
+    "Country": "KE",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://utv.co.ke/",
+    "Logo": "https://i.imgur.com/yN4e2up.png",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UrejeshoTVAfrica.ke",
+    "Name": "Urejesho TV Africa",
+    "Country": "KE",
+    "Languages": "eng,swa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/u7xDXEt.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8"
       }
     ]
   }

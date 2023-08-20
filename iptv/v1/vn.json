@@ -60,6 +60,21 @@
     ]
   },
   {
+    "Id": "CaMauTV.vn",
+    "Name": "Ca Mau TV",
+    "Country": "VN",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/gWc8xVD.jpg",
+    "Streams": [
+      {
+        "Url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CaoBangTV.vn",
     "Name": "Cao Bang TV",
     "Country": "VN",
@@ -393,21 +408,6 @@
     ]
   },
   {
-    "Id": "NinhBinhTV.vn",
-    "Name": "Ninh Binh TV",
-    "Country": "VN",
-    "Languages": "vie",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://nbtv.vn/",
-    "Logo": "https://i.imgur.com/cLARkNd.png",
-    "Streams": [
-      {
-        "Url": "https://lms-public-ingest.swiftfederation.com/nbtvlive/tv1live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "NinhThuanTV.vn",
     "Name": "Ninh Thuan TV",
     "Country": "VN",
@@ -419,21 +419,6 @@
     "Streams": [
       {
         "Url": "https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "PhuYenTV.vn",
-    "Name": "Phu Yen TV",
-    "Country": "VN",
-    "Languages": "vie",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.ptpphuyen.vn/",
-    "Logo": "https://i.imgur.com/fYYS9QS.png",
-    "Streams": [
-      {
-        "Url": "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
       }
     ]
   },

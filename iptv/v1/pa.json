@@ -1,16 +1,31 @@
 [
   {
-    "Id": "BTVPanama.pa",
-    "Name": "BTV Panama",
+    "Id": "CabinaRPCRadio.pa",
+    "Name": "Cabina RPC Radio",
+    "Country": "PA",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rpcradio.com/",
+    "Logo": "https://i.imgur.com/BIxfM03.png",
+    "Streams": [
+      {
+        "Url": "https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CabinaTelemetroRadio.pa",
+    "Name": "Cabina Telemetro Radio",
     "Country": "PA",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
     "Website": null,
-    "Logo": "https://i.imgur.com/CiYVtgB.png",
+    "Logo": "https://i.imgur.com/X9NLS5K.png",
     "Streams": [
       {
-        "Url": "https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8"
+        "Url": "https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8"
       }
     ]
   },

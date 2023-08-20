@@ -45,6 +45,21 @@
     ]
   },
   {
+    "Id": "Aqjaiyq.kz",
+    "Name": "Aqjaiyq",
+    "Country": "KZ",
+    "Languages": "kaz",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://oraltv.kz/",
+    "Logo": "https://i.imgur.com/ZqIzzmf.png",
+    "Streams": [
+      {
+        "Url": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Aqtobe.kz",
     "Name": "Aqtobe",
     "Country": "KZ",
@@ -86,9 +101,6 @@
     "Streams": [
       {
         "Url": "https://sc.id-tv.kz/Atameken.m3u8"
-      },
-      {
-        "Url": "http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8"
       }
     ]
   },
@@ -123,51 +135,6 @@
     ]
   },
   {
-    "Id": "CaspianNews.kz",
-    "Name": "Caspian News",
-    "Country": "KZ",
-    "Languages": "kaz",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://cntv.kz/",
-    "Logo": "https://i.imgur.com/QUu4Gv0.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/CaspianNews.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Channel7Kazakhstan.kz",
-    "Name": "Channel 7 Kazakhstan",
-    "Country": "KZ",
-    "Languages": "kaz",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tv7.kz/",
-    "Logo": "https://i.imgur.com/LebKU09.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/7_kanal.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ChannelOneEurasia.kz",
-    "Name": "Channel One Eurasia",
-    "Country": "KZ",
-    "Languages": "kaz,rus",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://1tv.kz/",
-    "Logo": "https://i.imgur.com/vm5sJHP.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/1KanalEvraziya.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Ertis.kz",
     "Name": "Ertis",
     "Country": "KZ",
@@ -179,21 +146,6 @@
     "Streams": [
       {
         "Url": "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GakkuTV.kz",
-    "Name": "Gakku TV",
-    "Country": "KZ",
-    "Languages": "kaz",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://gakku.kz/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Gakku_TV.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Gakku_TV.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Gakku.m3u8"
       }
     ]
   },
@@ -253,9 +205,6 @@
     "Logo": "https://i.imgur.com/BurrNTo.png",
     "Streams": [
       {
-        "Url": "https://sc.id-tv.kz/KTK.m3u8"
-      },
-      {
         "Url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
       },
       {
@@ -277,13 +226,7 @@
         "Url": "https://sc.id-tv.kz/Khabar_24.m3u8"
       },
       {
-        "Url": "https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8"
-      },
-      {
         "Url": "https://ythls.onrender.com/channel/UCnAFKvDuqBGkIfV8Vn0J_CQ.m3u8"
-      },
-      {
-        "Url": "http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8"
       }
     ]
   },
@@ -411,6 +354,36 @@
     ]
   },
   {
+    "Id": "Qyzyljar.kz",
+    "Name": "Qyzyljar",
+    "Country": "KZ",
+    "Languages": "kaz",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://petropavltv.kz/kz",
+    "Logo": "https://i.imgur.com/7l1WSDJ.png",
+    "Streams": [
+      {
+        "Url": "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Qyzylorda.kz",
+    "Name": "Qyzylorda",
+    "Country": "KZ",
+    "Languages": "kaz",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://kyzylordatv.kz/",
+    "Logo": "https://i.imgur.com/r4BFQpE.png",
+    "Streams": [
+      {
+        "Url": "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Saryarqa.kz",
     "Name": "Saryarqa",
     "Country": "KZ",
@@ -437,36 +410,6 @@
     "Streams": [
       {
         "Url": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ToiDuman.kz",
-    "Name": "Toi Duman",
-    "Country": "KZ",
-    "Languages": "kaz",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://toiduman.kz/",
-    "Logo": "https://i.imgur.com/LIZtHfN.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/ToiDuman.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TuranTV.kz",
-    "Name": "Turan TV",
-    "Country": "KZ",
-    "Languages": "kaz",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/VagTPMo.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/TuranTV.m3u8"
       }
     ]
   }

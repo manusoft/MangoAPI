@@ -64,9 +64,6 @@
         "Url": "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8"
       },
       {
-        "Url": "http://146.59.85.40:89/atvspirit/index.m3u8"
-      },
-      {
         "Url": "http://194.76.186.33:8000/play/a02e/index.m3u8"
       }
     ]
@@ -162,6 +159,21 @@
     ]
   },
   {
+    "Id": "BudapestEuropaTelevizio.hu",
+    "Name": "Budapest Europa Televizio",
+    "Country": "HU",
+    "Languages": "hun",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.bpetv.org/",
+    "Logo": "https://i.imgur.com/CqqWtzo.png",
+    "Streams": [
+      {
+        "Url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CoolTV.hu",
     "Name": "Cool TV",
     "Country": "HU",
@@ -253,9 +265,6 @@
         "Url": "http://194.76.186.33:8000/play/a01u/index.m3u8"
       },
       {
-        "Url": "http://146.59.85.40:89/dunahd/index.m3u8"
-      },
-      {
         "Url": "http://194.76.186.33:8000/play/a029/index.m3u8"
       }
     ]
@@ -270,9 +279,6 @@
     "Website": "https://mediaklikk.hu/dunaworld/",
     "Logo": "https://i.imgur.com/WfsKBb7.png",
     "Streams": [
-      {
-        "Url": "http://146.59.85.40:89/dunaworld/index.m3u8"
-      },
       {
         "Url": "http://194.76.186.33:8000/play/a01i/index.m3u8"
       }
@@ -290,36 +296,6 @@
     "Streams": [
       {
         "Url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "EWTNBonumTV.hu",
-    "Name": "EWTN/Bonum TV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://katolikus.tv/musorok/",
-    "Logo": "https://i.imgur.com/LdsRz2E.png",
-    "Streams": [
-      {
-        "Url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "EgykerTV.hu",
-    "Name": "Egyker TV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/kSdMm1Z/egykertv.png",
-    "Streams": [
-      {
-        "Url": "https://iptv01.eurocable.co.hu:443/EC-EGYKERTVHD/index.m3u8"
       }
     ]
   },
@@ -380,21 +356,6 @@
     "Streams": [
       {
         "Url": "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HBO3Hungary.hu",
-    "Name": "HBO 3 Hungary",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.hbo.hu/",
-    "Logo": "https://i.imgur.com/3QIHh2V.png",
-    "Streams": [
-      {
-        "Url": "http://146.59.85.40:89/hbo3/index.mpd"
       }
     ]
   },
@@ -485,9 +446,6 @@
     "Streams": [
       {
         "Url": "http://194.76.186.33:8000/play/a05j/index.m3u8"
-      },
-      {
-        "Url": "http://146.59.85.40:89/izaura/index.m3u8"
       }
     ]
   },
@@ -643,9 +601,6 @@
         "Url": "https://ythls.onrender.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ.m3u8"
       },
       {
-        "Url": "http://146.59.85.40:89/m1sd/index.m3u8"
-      },
-      {
         "Url": "http://194.76.186.33:8000/play/a024/index.m3u8"
       },
       {
@@ -668,9 +623,6 @@
       },
       {
         "Url": "http://194.76.186.33:8000/play/a03z/index.m3u8"
-      },
-      {
-        "Url": "http://146.59.85.40:89/m2hd/index.m3u8"
       },
       {
         "Url": "http://146.59.85.40:89/m2/index.m3u8"
@@ -707,9 +659,6 @@
       },
       {
         "Url": "http://194.76.186.33:8000/play/a030/index.m3u8"
-      },
-      {
-        "Url": "http://146.59.85.40:89/m5/index.m3u8"
       }
     ]
   },
@@ -740,21 +689,6 @@
     "Streams": [
       {
         "Url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MiskolcTV.hu",
-    "Name": "Miskolc TV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://minap.hu/miskolc-tv",
-    "Logo": "https://i.imgur.com/IoiNus2.png",
-    "Streams": [
-      {
-        "Url": "https://video.mhzrt.hu/live/mitv/playlist.m3u8"
       }
     ]
   },
@@ -866,21 +800,6 @@
       },
       {
         "Url": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "OzdiVarosiTV.hu",
-    "Name": "Ozdi Varosi TV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.ovtv.eu/",
-    "Logo": "https://i.imgur.com/t0Aq3UD.png",
-    "Streams": [
-      {
-        "Url": "http://stream.nmih.hu:7980/live.m3u8"
       }
     ]
   },
@@ -1063,9 +982,6 @@
         "Url": "http://194.76.186.33:8000/play/a04f/index.m3u8"
       },
       {
-        "Url": "http://146.59.85.40:89/tv2hd/index.m3u8"
-      },
-      {
         "Url": "http://194.76.186.33:8000/play/a01f/index.m3u8"
       },
       {
@@ -1116,9 +1032,6 @@
     "Website": "https://tv2play.hu/tv2kids",
     "Logo": "https://i.imgur.com/Zltlezm.png",
     "Streams": [
-      {
-        "Url": "http://146.59.85.40:89/tv2kids/index.m3u8"
-      },
       {
         "Url": "http://194.76.186.33:8000/play/a033/index.m3u8"
       }

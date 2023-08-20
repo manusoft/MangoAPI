@@ -1,31 +1,31 @@
 [
   {
-    "Id": "Moldova1.md",
-    "Name": "Moldova 1",
+    "Id": "BusuiocTV.md",
+    "Name": "Busuioc TV",
     "Country": "MD",
     "Languages": "ron",
-    "Categories": "general",
+    "Categories": "music",
     "IsNsfw": false,
-    "Website": "https://trm.md/ro/moldova-1",
-    "Logo": "https://i.imgur.com/ZbQY56v.png",
+    "Website": "https://busuioctv.md/",
+    "Logo": "https://i.imgur.com/CQtfBPu.png",
     "Streams": [
       {
-        "Url": "http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8"
+        "Url": "https://busuioctv.iforward.eu/hls/busuioc.m3u8"
       }
     ]
   },
   {
-    "Id": "Moldova2.md",
-    "Name": "Moldova 2",
+    "Id": "DrochiaTV.md",
+    "Name": "Drochia TV",
     "Country": "MD",
     "Languages": "ron",
     "Categories": "general",
     "IsNsfw": false,
-    "Website": "https://trm.md/ro/moldova-2",
-    "Logo": "https://i.imgur.com/Hv6Nk8A.png",
+    "Website": "https://drochia.tv/",
+    "Logo": "https://i.imgur.com/O6YZ0D5.png",
     "Streams": [
       {
-        "Url": "http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8"
+        "Url": "https://hls.drochia.tv/tv/web.m3u8"
       }
     ]
   },

@@ -15,6 +15,21 @@
     ]
   },
   {
+    "Id": "DuckTV.sk",
+    "Name": "Duck TV",
+    "Country": "SK",
+    "Languages": "eng",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://www.ducktv.tv/",
+    "Logo": "https://i.imgur.com/gRFQ35W.png",
+    "Streams": [
+      {
+        "Url": "https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Dvojka.sk",
     "Name": "Dvojka",
     "Country": "SK",
@@ -290,6 +305,21 @@
     "Streams": [
       {
         "Url": "http://95.105.193.219:88/hls/tvb.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVCentral.sk",
+    "Name": "TV Central",
+    "Country": "SK",
+    "Languages": "slk",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://cetv.sk/",
+    "Logo": "https://i.imgur.com/LqGT8o9.png",
+    "Streams": [
+      {
+        "Url": "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8"
       }
     ]
   },

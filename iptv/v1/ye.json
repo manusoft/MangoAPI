@@ -51,6 +51,21 @@
     ]
   },
   {
+    "Id": "AlmahriahTV.ye",
+    "Name": "Almahriah TV",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://almahriah.net/",
+    "Logo": "https://i.imgur.com/GgEeTNr.png",
+    "Streams": [
+      {
+        "Url": "https://master.starmena-cloud.com/hls/almahriah.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlyamanShabab.ye",
     "Name": "Alyaman Shabab",
     "Country": "YE",
@@ -92,6 +107,21 @@
     "Streams": [
       {
         "Url": "http://82.212.74.98:8000/live/hls/7726.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "YemenTodayTV.ye",
+    "Name": "Yemen Today TV",
+    "Country": "YE",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.yementoday.tv/",
+    "Logo": "https://i.imgur.com/8TzcJu5.png",
+    "Streams": [
+      {
+        "Url": "https://video.yementdy.tv/hls/yementoday.m3u8"
       }
     ]
   }

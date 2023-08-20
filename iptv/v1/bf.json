@@ -13,5 +13,20 @@
         "Url": "https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8"
       }
     ]
+  },
+  {
+    "Id": "TVAlHouda.bf",
+    "Name": "TV Al Houda",
+    "Country": "BF",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/UNSTUOP.png",
+    "Streams": [
+      {
+        "Url": "https://ssh101.bozztv.com/ssh101/alhoudatv/playlist.m3u8"
+      }
+    ]
   }
 ]

@@ -1,31 +1,16 @@
 [
   {
-    "Id": "DiarioTRV.sv",
-    "Name": "Diario TRV",
+    "Id": "Canal12.sv",
+    "Name": "Canal 12",
     "Country": "SV",
     "Languages": "spa",
-    "Categories": "general,news",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.diariotrv.com/",
-    "Logo": "https://i.imgur.com/g5QKQ2E.png",
+    "Website": "https://www.canal12.com.sv/",
+    "Logo": "https://i.imgur.com/UGDbp3O.png",
     "Streams": [
       {
-        "Url": "https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ElCaminoTV.sv",
-    "Name": "El Camino TV",
-    "Country": "SV",
-    "Languages": "spa",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "http://www.iglesiadelcamino.org/tv/",
-    "Logo": "https://i.imgur.com/ZSktjGB.png",
-    "Streams": [
-      {
-        "Url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+        "Url": "https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8"
       }
     ]
   },
@@ -41,6 +26,21 @@
     "Streams": [
       {
         "Url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LegislativeAssemblyofElSalvador.sv",
+    "Name": "Legislative Assembly of El Salvador",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.asamblea.gob.sv/",
+    "Logo": "https://i.imgur.com/OBuiCyb.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
       }
     ]
   },

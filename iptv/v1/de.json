@@ -105,6 +105,21 @@
     ]
   },
   {
+    "Id": "ArtiTV.de",
+    "Name": "Arti TV",
+    "Country": "DE",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://artitv.tv/",
+    "Logo": "https://i.imgur.com/j4SlXi7.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AstroTV.de",
     "Name": "AstroTV",
     "Country": "DE",
@@ -230,6 +245,105 @@
     "Streams": [
       {
         "Url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BeybladeBurstGermany.de",
+    "Name": "Beyblade Burst Germany",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/beyblade-burst-de",
+    "Logo": "https://i.imgur.com/yaHE8Uj.png",
+    "Streams": [
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+      },
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId="
+      }
+    ]
+  },
+  {
+    "Id": "BibelTV.de",
+    "Name": "Bibel TV",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.bibeltv.de/",
+    "Logo": "https://i.imgur.com/lVhxh1R.png",
+    "Streams": [
+      {
+        "Url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BibelTVImpuls.de",
+    "Name": "Bibel TV Impuls",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/k4tbW3W.png",
+    "Streams": [
+      {
+        "Url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BibelTVMusik.de",
+    "Name": "Bibel TV Musik",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/yIqOcP5.png",
+    "Streams": [
+      {
+        "Url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BlazeunddieMonsterMaschinenNickGermany.de",
+    "Name": "Blaze und die Monster-Maschinen Nick Germany",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/blaze-de",
+    "Logo": "https://i.imgur.com/mMj4wOj.png",
+    "Streams": [
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+      },
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId="
+      }
+    ]
+  },
+  {
+    "Id": "BluesCluesGermany.de",
+    "Name": "Blue's Clues Germany",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/blues-clues-de",
+    "Logo": "https://i.imgur.com/sHRHnzf.png",
+    "Streams": [
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId="
+      },
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       }
     ]
   },
@@ -396,17 +510,32 @@
     ]
   },
   {
-    "Id": "DeluxeRap.de",
-    "Name": "Deluxe Rap",
+    "Id": "EWTNGermany.de",
+    "Name": "EWTN Germany",
     "Country": "DE",
-    "Languages": "eng,deu",
-    "Categories": "",
+    "Languages": "deu",
+    "Categories": "religious",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/s3h67hx.png",
+    "Website": "https://www.ewtn.de/",
+    "Logo": "https://i.imgur.com/NXeygNk.png",
     "Streams": [
       {
-        "Url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+        "Url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EchtJetztTV.de",
+    "Name": "EchtJetzt TV",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://echtjetzt.tv/",
+    "Logo": "https://i.ibb.co/ccNRGVj/download-10.png",
+    "Streams": [
+      {
+        "Url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
       }
     ]
   },
@@ -620,6 +749,21 @@
     "Streams": [
       {
         "Url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kanal12SprembergTV.de",
+    "Name": "Kanal12 Spremberg TV",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.sprembergtv.de/",
+    "Logo": "https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg",
+    "Streams": [
+      {
+        "Url": "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8"
       }
     ]
   },
@@ -933,21 +1077,6 @@
     ]
   },
   {
-    "Id": "OKFlensburg.de",
-    "Name": "OK Flensburg",
-    "Country": "DE",
-    "Languages": "deu",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/NPbfgQC.png",
-    "Streams": [
-      {
-        "Url": "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "OKKiel.de",
     "Name": "OK Kiel",
     "Country": "DE",
@@ -989,21 +1118,6 @@
     "Streams": [
       {
         "Url": "https://www.oeins.de/live/studio.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Parlamentsfernsehen1.de",
-    "Name": "Parlamentsfernsehen 1",
-    "Country": "DE",
-    "Languages": "deu",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://www.bundestag.de/parlamentsfernsehen",
-    "Logo": "https://i.imgur.com/mksEgwx.png",
-    "Streams": [
-      {
-        "Url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
       }
     ]
   },
@@ -1608,21 +1722,6 @@
     ]
   },
   {
-    "Id": "SchlagerDeluxe.de",
-    "Name": "Schlager Deluxe",
-    "Country": "DE",
-    "Languages": "deu",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://schlagerdeluxe.de/",
-    "Logo": "https://i.imgur.com/p0W050H.png",
-    "Streams": [
-      {
-        "Url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SonnenklarTV.de",
     "Name": "Sonnenklar TV",
     "Country": "DE",
@@ -1667,9 +1766,6 @@
     "Streams": [
       {
         "Url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8"
-      },
-      {
-        "Url": "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8"
       }
     ]
   },
@@ -2018,6 +2114,21 @@
     "Streams": [
       {
         "Url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "YOLTV.de",
+    "Name": "YOL TV",
+    "Country": "DE",
+    "Languages": "tur",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.yoltv.eu/",
+    "Logo": "https://i.imgur.com/rTBX6lS.png",
+    "Streams": [
+      {
+        "Url": "https://stream.yol.tv:9443/medialive/yol.m3u8"
       }
     ]
   },

@@ -75,6 +75,21 @@
     ]
   },
   {
+    "Id": "Canal10Cancun.mx",
+    "Name": "Canal 10 Cancun",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://noticias.canal10.tv/",
+    "Logo": "https://i.imgur.com/TvTn3hO.png",
+    "Streams": [
+      {
+        "Url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal26.mx",
     "Name": "Canal 26",
     "Country": "MX",
@@ -86,21 +101,6 @@
     "Streams": [
       {
         "Url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal28.mx",
-    "Name": "Canal 28",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/lr4MZFg.png",
-    "Streams": [
-      {
-        "Url": "https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8"
       }
     ]
   },
@@ -176,21 +176,6 @@
     "Streams": [
       {
         "Url": "https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Capital21.mx",
-    "Name": "Capital 21",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.capital21.cdmx.gob.mx/",
-    "Logo": "https://i.imgur.com/8ign49i.png",
-    "Streams": [
-      {
-        "Url": "https://video.cdmx.gob.mx/livestream/stream.m3u8"
       }
     ]
   },
@@ -315,6 +300,21 @@
     ]
   },
   {
+    "Id": "HipodromodelasAmericas.mx",
+    "Name": "Hipodromo de las Americas",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",
+    "Streams": [
+      {
+        "Url": "http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ILCECanal15SummaSaberes.mx",
     "Name": "ILCE Canal 15 Summa Saberes",
     "Country": "MX",
@@ -401,6 +401,21 @@
     "Streams": [
       {
         "Url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LoboTV.mx",
+    "Name": "Lobo TV",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.lobotv.com.mx/",
+    "Logo": "https://i.imgur.com/3fA50RJ.png",
+    "Streams": [
+      {
+        "Url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
       }
     ]
   },
@@ -843,21 +858,6 @@
     ]
   },
   {
-    "Id": "TVGuanajuato.mx",
-    "Name": "TV Guanajuato",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://tvguanajuato.com/",
-    "Logo": "https://i.imgur.com/HbnCZSF.png",
-    "Streams": [
-      {
-        "Url": "https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVIndependencia.mx",
     "Name": "TV Independencia",
     "Country": "MX",
@@ -1128,6 +1128,21 @@
     ]
   },
   {
+    "Id": "TelevisaChihuahua.mx",
+    "Name": "Televisa Chihuahua",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Gv75u5Z.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TelevisaCiudadJuarez.mx",
     "Name": "Televisa Ciudad Juarez",
     "Country": "MX",
@@ -1169,6 +1184,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisaDurango.mx",
+    "Name": "Televisa Durango",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/2d7H9Nz/Channels4-profile-8.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8"
       }
     ]
   },
@@ -1338,6 +1368,36 @@
     ]
   },
   {
+    "Id": "TelevisaQuintanaRoo.mx",
+    "Name": "Televisa Quintana Roo",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/W6mQCTV/Channels4-profile-9.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisaSaltillo.mx",
+    "Name": "Televisa Saltillo",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/Zhm2BDD/Vc-NGCKrw-400x400.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TelevisaSanLuisPotosi.mx",
     "Name": "Televisa San Luis Potosi",
     "Country": "MX",
@@ -1398,6 +1458,36 @@
     ]
   },
   {
+    "Id": "TelevisaVictoria.mx",
+    "Name": "Televisa Victoria",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/tX36t1Q/Televisa-Victoria-en-vivo-Online-1.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisaYucatan.mx",
+    "Name": "Televisa Yucatan",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/sm8Wnwn/IMG-20230724-113929.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TelevisaZacatecas.mx",
     "Name": "Televisa Zacatecas",
     "Country": "MX",
@@ -1409,21 +1499,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TlaxcalaTV.mx",
-    "Name": "Tlaxcala TV",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tlaxcalatelevision.tv/",
-    "Logo": "https://i.imgur.com/5vaEhfy.png",
-    "Streams": [
-      {
-        "Url": "https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null"
       }
     ]
   },
@@ -1514,6 +1589,21 @@
     "Streams": [
       {
         "Url": "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "XEJTDT.mx",
+    "Name": "XEJ-TDT",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://xejtv.com/",
+    "Logo": "https://i.imgur.com/iOYlKpF.png",
+    "Streams": [
+      {
+        "Url": "https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8"
       }
     ]
   },
@@ -1619,6 +1709,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "XHKGTDT.mx",
+    "Name": "XHKG-TDT",
+    "Country": "MX",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://xhkg.tv/",
+    "Logo": "https://i.imgur.com/QFI2OdJ.png",
+    "Streams": [
+      {
+        "Url": "https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8"
       }
     ]
   },

@@ -165,6 +165,36 @@
     ]
   },
   {
+    "Id": "BoishakhiTV.bd",
+    "Name": "Boishakhi TV",
+    "Country": "BD",
+    "Languages": "ben",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://boishakhionline.com/",
+    "Logo": "https://i.imgur.com/gxL05Y4.png",
+    "Streams": [
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoishakhiTVPlus.bd",
+    "Name": "Boishakhi TV Plus",
+    "Country": "BD",
+    "Languages": "ben",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg",
+    "Streams": [
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Channel24.bd",
     "Name": "Channel 24",
     "Country": "BD",

@@ -1,5 +1,20 @@
 [
   {
+    "Id": "BloombergAdriaTV.rs",
+    "Name": "Bloomberg Adria TV",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://bloombergadria.com/",
+    "Logo": "https://i.imgur.com/9QOfE8o.png",
+    "Streams": [
+      {
+        "Url": "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "EuronewsSerbia.rs",
     "Name": "Euronews Serbia",
     "Country": "RS",
@@ -288,6 +303,21 @@
     ]
   },
   {
+    "Id": "TVBelleAmie.rs",
+    "Name": "TV Belle Amie",
+    "Country": "RS",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.belami.rs/",
+    "Logo": "https://i.imgur.com/SzWynar.png",
+    "Streams": [
+      {
+        "Url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVDugaPlus.rs",
     "Name": "TV Duga +",
     "Country": "RS",
@@ -318,17 +348,17 @@
     ]
   },
   {
-    "Id": "TVPirot.rs",
-    "Name": "TV Pirot",
+    "Id": "TVKanalM.rs",
+    "Name": "TV Kanal M",
     "Country": "RS",
     "Languages": "srp",
     "Categories": "",
     "IsNsfw": false,
     "Website": null,
-    "Logo": "https://i.imgur.com/eLvd3yd.png",
+    "Logo": "https://i.imgur.com/JiuOHYP.png",
     "Streams": [
       {
-        "Url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8"
+        "Url": "http://176.67.210.1/hls/kanalm.m3u8"
       }
     ]
   }

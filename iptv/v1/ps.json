@@ -1,20 +1,5 @@
 [
   {
-    "Id": "AjyalTV.ps",
-    "Name": "Ajyal TV",
-    "Country": "PS",
-    "Languages": "ara",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/j1Xmygq.jpg",
-    "Streams": [
-      {
-        "Url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlAqsaTV.ps",
     "Name": "Al-Aqsa TV",
     "Country": "PS",
@@ -26,6 +11,9 @@
     "Streams": [
       {
         "Url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://live-1.linuxway.info:4433/aqsatv/live/tv/playlist.m3u8"
       }
     ]
   },
@@ -123,21 +111,6 @@
     ]
   },
   {
-    "Id": "NablusTV.ps",
-    "Name": "Nablus TV",
-    "Country": "PS",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/GoLhaDK.png",
-    "Streams": [
-      {
-        "Url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PalestineMubasher.ps",
     "Name": "Palestine Mubasher",
     "Country": "PS",
@@ -171,17 +144,17 @@
     ]
   },
   {
-    "Id": "PalestineToday.ps",
-    "Name": "Palestine Today",
+    "Id": "RadioAlbaladTV.ps",
+    "Name": "Radio Albalad TV",
     "Country": "PS",
     "Languages": "ara",
-    "Categories": "news",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://paltoday.tv/",
-    "Logo": "https://i.imgur.com/BS8XXug.png",
+    "Website": null,
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
     "Streams": [
       {
-        "Url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+        "Url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8"
       }
     ]
   },

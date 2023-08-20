@@ -30,21 +30,6 @@
     ]
   },
   {
-    "Id": "Milliy.uz",
-    "Name": "Milliy",
-    "Country": "UZ",
-    "Languages": "uzb",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/v4FBm26.png",
-    "Streams": [
-      {
-        "Url": "http://milliy.tv/hls/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "NevoMusic.uz",
     "Name": "NevoMusic",
     "Country": "UZ",

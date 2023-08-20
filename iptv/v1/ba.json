@@ -121,20 +121,5 @@
         "Url": "https://ythls.onrender.com/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8"
       }
     ]
-  },
-  {
-    "Id": "Televizija5.ba",
-    "Name": "Televizija 5",
-    "Country": "BA",
-    "Languages": "bos",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.televizija5.ba/",
-    "Logo": "https://i.imgur.com/znpvJys.png",
-    "Streams": [
-      {
-        "Url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8"
-      }
-    ]
   }
 ]

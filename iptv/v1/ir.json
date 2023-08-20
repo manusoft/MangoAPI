@@ -105,6 +105,21 @@
     ]
   },
   {
+    "Id": "AmouzeshTV.ir",
+    "Name": "Amouzesh TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/su89TyX.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AssiratTV.ir",
     "Name": "Assirat TV",
     "Country": "IR",
@@ -116,6 +131,174 @@
     "Streams": [
       {
         "Url": "https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BravoFarsiTV.ir",
+    "Name": "Bravo Farsi TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies,series",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+    "Streams": [
+      {
+        "Url": "https://bravoohls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CaltexTV.ir",
+    "Name": "Caltex TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.caltexmusic.com/tv/",
+    "Logo": "https://i.imgur.com/qegiypT.png",
+    "Streams": [
+      {
+        "Url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GEMBollywood.ir",
+    "Name": "GEM Bollywood",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/2XASeBk.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemboll/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzc6NTYgQU0maGFzaF92YWx1ZT0vcXgzTDRsLzlkTjZYSVpmRTYwUklnPT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMClassic.ir",
+    "Name": "GEM Classic",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "classic",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/25BhuOf.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemclass/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6MDkgQU0maGFzaF92YWx1ZT16VVBQYkFVbm1XOUdrTUVEQzAvOWN3PT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMDrama.ir",
+    "Name": "GEM Drama",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/k2pGyRH.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemdrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6MjQgQU0maGFzaF92YWx1ZT1MREI3Y3dqTWdNbEJMVzlUNTFINFN3PT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMFilm.ir",
+    "Name": "GEM Film",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/nrFz3LU.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemfilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDE6MTkgQU0maGFzaF92YWx1ZT1FNlVXRUl3RFF3YzVsWU1RQ2xnclpnPT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMFood.ir",
+    "Name": "GEM Food",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "cooking",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/SMtSinK.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemfood/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDI6MDIgQU0maGFzaF92YWx1ZT0zbVVOSGdvOVRHeWw1T1JLWWg1QmdBPT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDI6NDIgQU0maGFzaF92YWx1ZT1RRVQ2dUU3dyt5enFZKzA3S1M4Q1hRPT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMJunior.ir",
+    "Name": "GEM Junior",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/jK8yzj2.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemjunior/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6NTkgQU0maGFzaF92YWx1ZT1xNFNTaEhadVVTeDJEOG1LUUZzV1lRPT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMSeries.ir",
+    "Name": "GEM Series",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "series",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/M0WMDXm.png",
+    "Streams": [
+      {
+        "Url": "https://gg.hls2.xyz/live/IR%20-%20GEM%20Series%20Plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6MzI6MDMgQU0maGFzaF92YWx1ZT1WUFZ6aWNjU00zS2NuSjFMWTdEaWVRPT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMTV.ir",
+    "Name": "GEM TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/m7N6L90.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6MzY6NTcgQU0maGFzaF92YWx1ZT1HelU5RHVKcThoN3NEOHFMejNIUDlBPT0mdmFsaWRtaW51dGVzPTU="
+      }
+    ]
+  },
+  {
+    "Id": "GEMTravel.ir",
+    "Name": "GEM Travel",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "travel",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/eQkBb4G.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemtravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6NTggQU0maGFzaF92YWx1ZT1pZmlSVFJzdllMQzZzaUdQR2VnWUFRPT0mdmFsaWRtaW51dGVzPTU="
       }
     ]
   },
@@ -135,21 +318,6 @@
     ]
   },
   {
-    "Id": "HausaTV.ir",
-    "Name": "HausaTV",
-    "Country": "IR",
-    "Languages": "fas,eng,hau",
-    "Categories": "culture,documentary",
-    "IsNsfw": false,
-    "Website": "http://hausatv.com/",
-    "Logo": "https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg",
-    "Streams": [
-      {
-        "Url": "https://live1.presstv.ir/live/hausatvha/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "HighVisionTV.ir",
     "Name": "High Vision TV",
     "Country": "IR",
@@ -161,21 +329,6 @@
     "Streams": [
       {
         "Url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HispanTV.ir",
-    "Name": "Hispan TV",
-    "Country": "IR",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.hispantv.com/",
-    "Logo": "https://i.imgur.com/AfsVFfM.png",
-    "Streams": [
-      {
-        "Url": "https://live1.presstv.ir/live/hispan.m3u8"
       }
     ]
   },
@@ -195,6 +348,36 @@
     ]
   },
   {
+    "Id": "IRIB1.ir",
+    "Name": "IRIB 1",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv1.ir/",
+    "Logo": "https://i.imgur.com/q2Hmifv.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/tv1/tv1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRIB2.ir",
+    "Name": "IRIB 2",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/H6OJRJP.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/tv2/tv2.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IRIB3.ir",
     "Name": "IRIB 3",
     "Country": "IR",
@@ -206,6 +389,66 @@
     "Streams": [
       {
         "Url": "https://af.ayas.ir/hls2/tv3.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRIB4.ir",
+    "Name": "IRIB 4",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv4.ir/",
+    "Logo": "https://i.imgur.com/tN0XqHY.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/tv4/tv4.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRIB5.ir",
+    "Name": "IRIB 5",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://tv5.ir/",
+    "Logo": "https://i.imgur.com/zUnr6qt.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/tv5/tv5.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRIBMostanad.ir",
+    "Name": "IRIB Mostanad",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.doctv.ir/",
+    "Logo": "https://i.imgur.com/TN7B7tB.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/mostanad/mostanad.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IRINN.ir",
+    "Name": "IRINN",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.irinn.ir/",
+    "Logo": "https://i.imgur.com/8tzsC9h.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/irinn/irinn.m3u8"
       }
     ]
   },
@@ -254,6 +497,36 @@
       },
       {
         "Url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NamayeshTV.ir",
+    "Name": "Namayesh TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/fXgwiRu.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/namayesh/namayesh.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Nasim.ir",
+    "Name": "Nasim",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvnasim.ir/",
+    "Logo": "https://i.imgur.com/jNaABGG.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/nasim/nasim.m3u8"
       }
     ]
   },
@@ -408,6 +681,21 @@
     ]
   },
   {
+    "Id": "SalamatTV.ir",
+    "Name": "Salamat TV",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://salamattv.ir/",
+    "Logo": "https://i.imgur.com/mgcVd52.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/salamat/salamat.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TBNNejatTV.ir",
     "Name": "TBN Nejat TV",
     "Country": "IR",
@@ -434,6 +722,21 @@
     "Streams": [
       {
         "Url": "https://itnhls.wns.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Tamasha.ir",
+    "Name": "Tamasha",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/xe5KwWS.png",
+    "Streams": [
+      {
+        "Url": "https://live.aionet.ir/hls/tamasha/tamasha.m3u8"
       }
     ]
   },
@@ -470,6 +773,9 @@
       },
       {
         "Url": "https://af.ayas.ir/hls2/varzeshtv.m3u8"
+      },
+      {
+        "Url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8"
       }
     ]
   },
@@ -489,21 +795,6 @@
     ]
   },
   {
-    "Id": "iFilm2.ir",
-    "Name": "iFilm 2",
-    "Country": "IR",
-    "Languages": "fas",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://fa2.ifilmtv.ir/",
-    "Logo": "https://i.imgur.com/QxFC11S.png",
-    "Streams": [
-      {
-        "Url": "https://live1.presstv.ir/live/ifilm2.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "iFilmArabic.ir",
     "Name": "iFilm Arabic",
     "Country": "IR",
@@ -515,24 +806,6 @@
     "Streams": [
       {
         "Url": "https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8"
-      },
-      {
-        "Url": "https://live1.presstv.ir/live/ifilmar.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "iFilmEnglish.ir",
-    "Name": "iFilm English",
-    "Country": "IR",
-    "Languages": "eng",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "http://www.ifilmtv.ir/",
-    "Logo": "https://i.imgur.com/7rZbIYb.png",
-    "Streams": [
-      {
-        "Url": "https://live1.presstv.ir/live/ifilmen.m3u8"
       }
     ]
   },

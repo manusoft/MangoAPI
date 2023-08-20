@@ -1,5 +1,80 @@
 [
   {
+    "Id": "AomoriTV.jp",
+    "Name": "Aomori TV",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.atv.jp/",
+    "Logo": "https://i.imgur.com/KIXwqrc.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AsahiShimbunDigital.jp",
+    "Name": "Asahi Shimbun Digital",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.asahi.com/sp/ajw/",
+    "Logo": "https://i.imgur.com/DuGepQp.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BSN.jp",
+    "Name": "BSN",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.ohbsn.com/",
+    "Logo": "https://i.imgur.com/O0AUoGM.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGNTVJapan.jp",
+    "Name": "CGNTV Japan",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://japan.cgntv.net/",
+    "Logo": "https://i.imgur.com/v3QCaCe.png",
+    "Streams": [
+      {
+        "Url": "https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ChukyoTVNews.jp",
+    "Name": "Chukyo TV News",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.ctv.co.jp/news/",
+    "Logo": "https://i.imgur.com/fSNc0jP.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "GSTV.jp",
     "Name": "GSTV",
     "Country": "JP",
@@ -30,6 +105,111 @@
     ]
   },
   {
+    "Id": "HBCHokkaidoNews24.jp",
+    "Name": "HBC Hokkaido News 24",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.hbc.co.jp/news/",
+    "Logo": "https://i.imgur.com/ROmHK0K.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HOMEHiroshimaNews.jp",
+    "Name": "HOME Hiroshima News",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.home-tv.co.jp/",
+    "Logo": "https://i.imgur.com/RT0vW2v.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HTBHokkaidoNews24.jp",
+    "Name": "HTB Hokkaido News 24",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.htb.co.jp/news/",
+    "Logo": "https://i.imgur.com/3PbONpS.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HokkaidoNewsUHB.jp",
+    "Name": "Hokkaido News UHB",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.uhb.jp/news/",
+    "Logo": "https://i.ytimg.com/an/pQs_warGhUzJhBdwLfF34g/featured_channel.jpg?v=5fd1ffd6",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IBC.jp",
+    "Name": "IBC",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.ibc.co.jp/",
+    "Logo": "https://i.imgur.com/uraGabS.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCMbq0m2vILQTbc0VhOcVWaQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JOAYDTV.jp",
+    "Name": "JOAY-DTV",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.asahi.co.jp/",
+    "Logo": "https://i.imgur.com/I11J99B.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JOCXDTV.jp",
+    "Name": "JOCX-DTV",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/sEWDmMD.png",
+    "Streams": [
+      {
+        "Url": "https://fujitv4.mov3.co/hls/fujitv.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "JORXDTV.jp",
     "Name": "JORX-DTV",
     "Country": "JP",
@@ -41,6 +221,81 @@
     "Streams": [
       {
         "Url": "https://tbs3.mov3.co/hls/tbs.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JapaNews24.jp",
+    "Name": "JapaNews24",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://news.tv-asahi.co.jp/",
+    "Logo": "https://yt3.googleusercontent.com/ytc/AGIKgqOMUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KBCNewsLive24.jp",
+    "Name": "KBC News Live 24",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://kbc.co.jp/news/",
+    "Logo": "https://i.imgur.com/RxHI8OZ.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MBSNews.jp",
+    "Name": "MBS News",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.mbs.jp/news/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MeteleNewsLive24.jp",
+    "Name": "Metele News Live 24",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.nagoyatv.com/news/",
+    "Logo": "https://i.imgur.com/QP0lqYn.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NHKGeneralTV.jp",
+    "Name": "NHK General TV",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.nhk.or.jp/",
+    "Logo": "https://i.imgur.com/fAZ2BEZ.png",
+    "Streams": [
+      {
+        "Url": "https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8"
       }
     ]
   },
@@ -80,6 +335,9 @@
     "Streams": [
       {
         "Url": "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
+      },
+      {
+        "Url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8"
       }
     ]
   },
@@ -120,6 +378,66 @@
     ]
   },
   {
+    "Id": "NiigataNewsNST.jp",
+    "Name": "Niigata News NST",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.nsttv.com/news/",
+    "Logo": "https://i.imgur.com/5dJE8Fc.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NipponTV.jp",
+    "Name": "Nippon TV",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ntv.co.jp/",
+    "Logo": "https://i.imgur.com/U0ZFkZw.png",
+    "Streams": [
+      {
+        "Url": "https://ntv4.mov3.co/hls/ntv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PokemonKidsTVEnglish.jp",
+    "Name": "Pokemon Kids TV English",
+    "Country": "JP",
+    "Languages": "eng",
+    "Categories": "animation,kids",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/0nDftk7.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PokemonKidsTVJapanese.jp",
+    "Name": "Pokemon Kids TV Japanese",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "animation,kids",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/SwheroL.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "QVCJapan.jp",
     "Name": "QVC Japan",
     "Country": "JP",
@@ -131,6 +449,51 @@
     "Streams": [
       {
         "Url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RKBNEWS24.jp",
+    "Name": "RKB NEWS 24",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://rkb.jp/",
+    "Logo": "https://i.imgur.com/SHmYLML.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SATVNews24H.jp",
+    "Name": "SATV News 24H",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://look.satv.co.jp",
+    "Logo": "https://i.imgur.com/PxFcRh9.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "STVNewsHokkaido.jp",
+    "Name": "STV News Hokkaido",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.stv.jp/news/",
+    "Logo": "https://i.imgur.com/oyQ2FnC.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8"
       }
     ]
   },
@@ -165,6 +528,21 @@
     ]
   },
   {
+    "Id": "TVUYamagata.jp",
+    "Name": "TV-U Yamagata",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.tuy.co.jp",
+    "Logo": "https://i.imgur.com/9yZe76d.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TokyoMX1.jp",
     "Name": "Tokyo MX1",
     "Country": "JP",
@@ -182,9 +560,6 @@
       },
       {
         "Url": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8"
-      },
-      {
-        "Url": "https://neetball.net/live/neet.m3u8"
       }
     ]
   },
@@ -203,6 +578,21 @@
       },
       {
         "Url": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TulipTV.jp",
+    "Name": "Tulip TV",
+    "Country": "JP",
+    "Languages": "jpn",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.tulip-tv.co.jp/",
+    "Logo": "https://i.imgur.com/wFxJH8L.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8"
       }
     ]
   },

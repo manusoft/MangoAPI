@@ -64,6 +64,9 @@
         "Url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       },
       {
+        "Url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      },
+      {
         "Url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       },
       {
@@ -101,6 +104,66 @@
     "Streams": [
       {
         "Url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGNTV.kr",
+    "Name": "CGNTV",
+    "Country": "KR",
+    "Languages": "kor",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.cgntv.net/",
+    "Logo": "https://i.imgur.com/ID70Wy1.png",
+    "Streams": [
+      {
+        "Url": "https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CJBTV.kr",
+    "Name": "CJB TV",
+    "Country": "KR",
+    "Languages": "kor",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cjb.co.kr/",
+    "Logo": "https://i.imgur.com/zVunmpQ.png",
+    "Streams": [
+      {
+        "Url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CJOnStylePlus.kr",
+    "Name": "CJ OnStyle+",
+    "Country": "KR",
+    "Languages": "kor",
+    "Categories": "shop",
+    "IsNsfw": false,
+    "Website": "http://display.cjonstyle.com/",
+    "Logo": "https://i.imgur.com/OYmOL20.png",
+    "Streams": [
+      {
+        "Url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CTSTV.kr",
+    "Name": "CTS TV",
+    "Country": "KR",
+    "Languages": "kor",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.cts.tv/",
+    "Logo": "https://i.imgur.com/z3L8uNB.png",
+    "Streams": [
+      {
+        "Url": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8"
       }
     ]
   },
@@ -146,21 +209,6 @@
     "Streams": [
       {
         "Url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "DaeguMBCTV.kr",
-    "Name": "Daegu MBC TV",
-    "Country": "KR",
-    "Languages": "kor",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://dgmbc.com/",
-    "Logo": "https://i.imgur.com/ZhNhS5H.png",
-    "Streams": [
-      {
-        "Url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
       }
     ]
   },
@@ -456,21 +504,6 @@
     ]
   },
   {
-    "Id": "JejuMBCTV.kr",
-    "Name": "Jeju MBC TV",
-    "Country": "KR",
-    "Languages": "kor",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://jejumbc.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png/512px-%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png",
-    "Streams": [
-      {
-        "Url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "JobplusTV.kr",
     "Name": "Jobplus TV",
     "Country": "KR",
@@ -528,9 +561,6 @@
     "Website": "http://www.kbsn.co.kr/",
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",
     "Streams": [
-      {
-        "Url": "http://mytv.dothome.co.kr/ch/catv/2.php"
-      },
       {
         "Url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=5"
       }
@@ -699,21 +729,6 @@
     ]
   },
   {
-    "Id": "KTV.kr",
-    "Name": "KTV",
-    "Country": "KR",
-    "Languages": "kor",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://www.ktv.go.kr/",
-    "Logo": "https://imgtr.ee/images/2023/05/24/wQtWM.png",
-    "Streams": [
-      {
-        "Url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "KoreaEconomyTV.kr",
     "Name": "Korea Economy TV",
     "Country": "KR",
@@ -770,6 +785,21 @@
     "Streams": [
       {
         "Url": "http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MTN.kr",
+    "Name": "MTN",
+    "Country": "KR",
+    "Languages": "kor",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.mtn.co.kr/",
+    "Logo": "https://i.imgur.com/MS0lqoG.png",
+    "Streams": [
+      {
+        "Url": "http://183.110.27.87/mtnlive/720/playlist.m3u8"
       }
     ]
   },
@@ -1088,21 +1118,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "YTNScience.kr",
-    "Name": "YTN Science",
-    "Country": "KR",
-    "Languages": "kor",
-    "Categories": "science",
-    "IsNsfw": false,
-    "Website": "https://science.ytn.co.kr/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8"
       }
     ]
   },

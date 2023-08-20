@@ -15,6 +15,36 @@
     ]
   },
   {
+    "Id": "BukeddeTV1.ug",
+    "Name": "Bukedde TV 1",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HFq5QlJ.png",
+    "Streams": [
+      {
+        "Url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BukeddeTV2.ug",
+    "Name": "Bukedde TV 2",
+    "Country": "UG",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://bukedde.co.ug/",
+    "Logo": "https://i.imgur.com/ukwPZeY.png",
+    "Streams": [
+      {
+        "Url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ChurchofUgandaFamilyTelevision.ug",
     "Name": "Church of Uganda Family Television",
     "Country": "UG",

@@ -1,20 +1,5 @@
 [
   {
-    "Id": "4DmasNoticiasTV.py",
-    "Name": "4DmasNoticias TV",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-    "Streams": [
-      {
-        "Url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "5DiasTV.py",
     "Name": "5Dias TV",
     "Country": "PY",
@@ -56,6 +41,21 @@
     "Streams": [
       {
         "Url": "https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BrunoMasiTV.py",
+    "Name": "Bruno Masi TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.brunomasi.tv/",
+    "Logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
       }
     ]
   },
@@ -255,21 +255,6 @@
     ]
   },
   {
-    "Id": "OviedoTV.py",
-    "Name": "Oviedo TV",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.oviedotv.com.py/",
-    "Logo": "https://i.imgur.com/6OlfgSQ.png",
-    "Streams": [
-      {
-        "Url": "https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "RCCTV.py",
     "Name": "RCC TV",
     "Country": "PY",
@@ -330,6 +315,21 @@
     ]
   },
   {
+    "Id": "SomosdelEste.py",
+    "Name": "Somos del Este",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://somosdeleste.com.py/",
+    "Logo": "https://i.imgur.com/xkT9d1a.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SucesoTV.py",
     "Name": "Suceso TV",
     "Country": "PY",
@@ -386,6 +386,21 @@
     "Streams": [
       {
         "Url": "https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VenusMedia.py",
+    "Name": "Venus Media",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.venus.com.py/",
+    "Logo": "https://i.imgur.com/XwmUbfp.png",
+    "Streams": [
+      {
+        "Url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8"
       }
     ]
   }

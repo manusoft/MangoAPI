@@ -1,20 +1,5 @@
 [
   {
-    "Id": "ATB.bo",
-    "Name": "ATB",
-    "Country": "BO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.atb.com.bo/",
-    "Logo": "https://i.imgur.com/E243X2x.png",
-    "Streams": [
-      {
-        "Url": "http://186.121.206.197/live/daniel/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AbyaYalaTV.bo",
     "Name": "Abya Yala TV",
     "Country": "BO",
@@ -26,6 +11,36 @@
     "Streams": [
       {
         "Url": "https://master.tucableip.com/abyayalatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoliviaTV.bo",
+    "Name": "Bolivia TV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.boliviatv.bo/principal/vivo71.php",
+    "Logo": "https://i.imgur.com/Jj2KB5H.png",
+    "Streams": [
+      {
+        "Url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoliviaTV72.bo",
+    "Name": "Bolivia TV 7.2",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/E7Qxyi0.png",
+    "Streams": [
+      {
+        "Url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8"
       }
     ]
   },
@@ -206,21 +221,6 @@
     "Streams": [
       {
         "Url": "https://live.seo.tv.bo/live/7SEO.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVHDTropical.bo",
-    "Name": "TV HD Tropical",
-    "Country": "BO",
-    "Languages": "spa",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://tvhdtropical.com/",
-    "Logo": "https://i.imgur.com/0zJi12h.png",
-    "Streams": [
-      {
-        "Url": "https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8"
       }
     ]
   },

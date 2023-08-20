@@ -45,6 +45,21 @@
     ]
   },
   {
+    "Id": "CTV9.kh",
+    "Name": "CTV 9",
+    "Country": "KH",
+    "Languages": "khm",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv9.com.kh/",
+    "Logo": "https://i.imgur.com/jgVJt2G.png",
+    "Streams": [
+      {
+        "Url": "http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HangMeasHDTV.kh",
     "Name": "Hang Meas HDTV",
     "Country": "KH",
@@ -152,21 +167,6 @@
     "Streams": [
       {
         "Url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "WikiTV.kh",
-    "Name": "Wiki TV",
-    "Country": "KH",
-    "Languages": "khm",
-    "Categories": "education",
-    "IsNsfw": false,
-    "Website": "https://poscardigital.com/",
-    "Logo": "https://i.imgur.com/rnV0Ui1.png",
-    "Streams": [
-      {
-        "Url": "http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8"
       }
     ]
   }

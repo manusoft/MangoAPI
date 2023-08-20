@@ -89,6 +89,9 @@
     "Streams": [
       {
         "Url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"
       }
     ]
   },
@@ -104,6 +107,9 @@
     "Streams": [
       {
         "Url": "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
       }
     ]
   },
@@ -279,6 +285,102 @@
     ]
   },
   {
+    "Id": "BloombergTVEMEALiveEvent.uk",
+    "Name": "Bloomberg TV EMEA Live Event",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/emea",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BloombergTVEurope.uk",
+    "Name": "Bloomberg TV Europe",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/europe",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoxHits.uk",
+    "Name": "Box Hits",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.boxplus.com/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",
+    "Streams": [
+      {
+        "Url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/"
+      },
+      {
+        "Url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/"
+      }
+    ]
+  },
+  {
+    "Id": "BritAsiaTV.uk",
+    "Name": "Brit Asia TV",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://britasia.tv/",
+    "Logo": "https://i.imgur.com/ULm80XF.png",
+    "Streams": [
+      {
+        "Url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8"
+      },
+      {
+        "Url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BritishMuslimTV.uk",
+    "Name": "British Muslim TV",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.britishmuslim.tv/",
+    "Logo": "https://i.imgur.com/9k7fsqw.png",
+    "Streams": [
+      {
+        "Url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNBCEurope.uk",
+    "Name": "CNBC Europe",
+    "Country": "UK",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.cnbc.com/europe-television/",
+    "Logo": "https://i.imgur.com/B6sfpDa.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s65/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ChannelS.uk",
     "Name": "Channel S",
     "Country": "UK",
@@ -371,9 +473,6 @@
     "Streams": [
       {
         "Url": "http://ott-cdn.ucom.am/s95/index.m3u8"
-      },
-      {
-        "Url": "https://sc.id-tv.kz/dorama_hd.m3u8"
       }
     ]
   },
@@ -446,6 +545,9 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCySVZYvDeRd5HThx8s2yTzg.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UC2ZoBzeCXrZcMz4f82eMe-g.m3u8"
       }
     ]
   },
@@ -909,21 +1011,6 @@
     ]
   },
   {
-    "Id": "MagnavisionTV.uk",
-    "Name": "Magnavision TV",
-    "Country": "UK",
-    "Languages": "mal",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://magnavision.tv/",
-    "Logo": "https://i.imgur.com/mUHixbi.png",
-    "Streams": [
-      {
-        "Url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Manoto.uk",
     "Name": "Manoto",
     "Country": "UK",
@@ -963,6 +1050,9 @@
     "Website": "https://www.thenoor.tv/",
     "Logo": "https://i.imgur.com/DlKgIuQ.png",
     "Streams": [
+      {
+        "Url": "https://live.smartmediahouse.tv:8443/hls/ch1.m3u8"
+      },
       {
         "Url": "http://45.76.186.114:8080/hls/noortv.m3u8"
       }
@@ -1478,21 +1568,6 @@
       },
       {
         "Url": "https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TJC.uk",
-    "Name": "TJC",
-    "Country": "UK",
-    "Languages": "eng",
-    "Categories": "shop",
-    "IsNsfw": false,
-    "Website": "https://www.tjc.co.uk/",
-    "Logo": "https://i.imgur.com/fk5rEje.png",
-    "Streams": [
-      {
-        "Url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8"
       }
     ]
   },

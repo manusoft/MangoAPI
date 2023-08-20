@@ -60,21 +60,6 @@
     ]
   },
   {
-    "Id": "ElSolNetworkTV.ec",
-    "Name": "El Sol Network TV",
-    "Country": "EC",
-    "Languages": "spa",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://elsolnetworktv.com/",
-    "Logo": "https://i.imgur.com/TIH3zlP.png",
-    "Streams": [
-      {
-        "Url": "https://rctvhd.net:8081/elsol105fm/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ElSolTV.ec",
     "Name": "El Sol TV",
     "Country": "EC",
@@ -101,21 +86,6 @@
     "Streams": [
       {
         "Url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HechosEcuador.ec",
-    "Name": "Hechos Ecuador",
-    "Country": "EC",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.hechosecuador.com/",
-    "Logo": "https://i.imgur.com/koMQZNX.png",
-    "Streams": [
-      {
-        "Url": "https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8"
       }
     ]
   },
@@ -161,6 +131,21 @@
     "Streams": [
       {
         "Url": "https://plataformavideo.com/live/nortvision.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OromarTV.ec",
+    "Name": "Oromar TV",
+    "Country": "EC",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://oromartv.com/",
+    "Logo": "https://i.imgur.com/j5Vvxd5.png",
+    "Streams": [
+      {
+        "Url": "https://stream.oromartv.com:8082/hls/oromartv.m3u8"
       }
     ]
   },

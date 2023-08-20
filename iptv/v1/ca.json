@@ -108,6 +108,156 @@
     ]
   },
   {
+    "Id": "CFHDDT.ca",
+    "Name": "CFHD-DT",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://icitelevision.ca/",
+    "Logo": "https://i.imgur.com/x0vLIWr.png",
+    "Streams": [
+      {
+        "Url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CFTUDT.ca",
+    "Name": "CFTU-DT",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://savoir.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png",
+    "Streams": [
+      {
+        "Url": "https://hls.savoir.media/live/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CIVMDT.ca",
+    "Name": "CIVM-DT",
+    "Country": "CA",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.telequebec.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CJONDT.ca",
+    "Name": "CJON-DT",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ntv.ca/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+    "Streams": [
+      {
+        "Url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CPACEnglish.ca",
+    "Name": "CPAC English",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.cpac.ca/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png",
+    "Streams": [
+      {
+        "Url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CTVNewsChannel.ca",
+    "Name": "CTV News Channel",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.ctvnews.ca/ctv-news-channel",
+    "Logo": "https://i.imgur.com/pRscvrp.png",
+    "Streams": [
+      {
+        "Url": "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Cable14Hamilton.ca",
+    "Name": "Cable 14 Hamilton",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/bJ7ygTq.png",
+    "Streams": [
+      {
+        "Url": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720"
+      }
+    ]
+  },
+  {
+    "Id": "CanadaOne.ca",
+    "Name": "Canada One",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/zr6KoiS.jpg",
+    "Streams": [
+      {
+        "Url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanadaStarTV.ca",
+    "Name": "Canada Star TV",
+    "Country": "CA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/57iXCDh.png",
+    "Streams": [
+      {
+        "Url": "https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanaldelAssemblee.ca",
+    "Name": "Canal de l'Assemblee",
+    "Country": "CA",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.assnat.qc.ca/",
+    "Logo": "https://i.imgur.com/jAtq0U8.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DegrassiTheNextGenerationCanada.ca",
     "Name": "Degrassi The Next Generation Canada",
     "Country": "CA",
@@ -138,21 +288,6 @@
     ]
   },
   {
-    "Id": "EETTV.ca",
-    "Name": "EET TV",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/rntSEDZ.png",
-    "Streams": [
-      {
-        "Url": "https://eu.streamjo.com/eetlive/eettv.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "EWTNCanada.ca",
     "Name": "EWTN Canada",
     "Country": "CA",
@@ -164,21 +299,6 @@
     "Streams": [
       {
         "Url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "EawazTV.ca",
-    "Name": "Eawaz TV",
-    "Country": "CA",
-    "Languages": "urd",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/vB4yzen.png",
-    "Streams": [
-      {
-        "Url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
       }
     ]
   },
@@ -437,6 +557,21 @@
       },
       {
         "Url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PamirTV.ca",
+    "Name": "Pamir TV",
+    "Country": "CA",
+    "Languages": "pus,tgk,eng",
+    "Categories": "culture,music",
+    "IsNsfw": false,
+    "Website": "http://www.pamirtv.com/",
+    "Logo": "https://i.imgur.com/sCBbBOj.png",
+    "Streams": [
+      {
+        "Url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
       }
     ]
   },

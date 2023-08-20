@@ -30,6 +30,24 @@
     ]
   },
   {
+    "Id": "CNBCAfrica.za",
+    "Name": "CNBC Africa",
+    "Country": "ZA",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.cnbcafrica.com/",
+    "Logo": "https://i.imgur.com/BnNYzWI.png",
+    "Streams": [
+      {
+        "Url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CapeTownTV.za",
     "Name": "Cape Town TV",
     "Country": "ZA",
@@ -135,6 +153,21 @@
     ]
   },
   {
+    "Id": "LoveWorldSat.za",
+    "Name": "LoveWorld Sat",
+    "Country": "ZA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.loveworldsat.org/",
+    "Logo": "https://i.imgur.com/HoAUs2V.png",
+    "Streams": [
+      {
+        "Url": "https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ROVTV.za",
     "Name": "ROV TV",
     "Country": "ZA",
@@ -146,21 +179,6 @@
     "Streams": [
       {
         "Url": "https://webstreaming.viewmedia.tv/web_012/Stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RedemptionTVMinistry.za",
-    "Name": "Redemption TV Ministry",
-    "Country": "ZA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.redemptiontm.tv/",
-    "Logo": "https://i.imgur.com/X8mASGH.png",
-    "Streams": [
-      {
-        "Url": "http://live.nixsat.com:8080/play/rtm/index.m3u8"
       }
     ]
   },

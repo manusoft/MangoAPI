@@ -75,6 +75,21 @@
     ]
   },
   {
+    "Id": "RTV21.xk",
+    "Name": "RTV21",
+    "Country": "XK",
+    "Languages": "sqi",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rtv21.tv/",
+    "Logo": "https://i.imgur.com/AqQltGh.png",
+    "Streams": [
+      {
+        "Url": "https://ub1doy938d.gjirafa.net/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/zy1zzz.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RTVBesa.xk",
     "Name": "RTV Besa",
     "Country": "XK",
@@ -191,36 +206,6 @@
     "Streams": [
       {
         "Url": "http://stream.tvdielli.com:8081/dielli/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVOpoja.xk",
-    "Name": "TV Opoja",
-    "Country": "XK",
-    "Languages": "sqi",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/hxi4Qiq.png",
-    "Streams": [
-      {
-        "Url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVSyri.xk",
-    "Name": "TV Syri",
-    "Country": "XK",
-    "Languages": "sqi",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.syri-vision.tv/",
-    "Logo": "https://i.imgur.com/ZQuFosn.png",
-    "Streams": [
-      {
-        "Url": "https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y10z1k.m3u8"
       }
     ]
   }

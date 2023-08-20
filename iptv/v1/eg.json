@@ -75,6 +75,36 @@
     ]
   },
   {
+    "Id": "CBC.eg",
+    "Name": "CBC",
+    "Country": "EG",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cbc-eg.com/",
+    "Logo": "https://i.imgur.com/8apNaLP.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CBCSofra.eg",
+    "Name": "CBC Sofra",
+    "Country": "EG",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://sofra.cbc-eg.com/",
+    "Logo": "https://i.imgur.com/YAdk2WR.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CopticTV.eg",
     "Name": "Coptic TV",
     "Country": "EG",
@@ -260,6 +290,9 @@
       },
       {
         "Url": "https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8"
       }
     ]
   },

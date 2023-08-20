@@ -30,6 +30,36 @@
     ]
   },
   {
+    "Id": "CCTN47.ph",
+    "Name": "CCTN 47",
+    "Country": "PH",
+    "Languages": "tgl",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://cctn47.com/",
+    "Logo": "https://i.imgur.com/IFpAmvW.png",
+    "Streams": [
+      {
+        "Url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNNPhilippines.ph",
+    "Name": "CNN Philippines",
+    "Country": "PH",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://cnnphilippines.com/",
+    "Logo": "https://i.imgur.com/PNymaxE.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DZRHNewsTV.ph",
     "Name": "DZRH News TV",
     "Country": "PH",

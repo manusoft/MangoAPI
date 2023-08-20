@@ -1,5 +1,35 @@
 [
   {
+    "Id": "BloombergTVMongolia.mn",
+    "Name": "Bloomberg TV Mongolia",
+    "Country": "MN",
+    "Languages": "mon",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "http://bloombergtv.mn/",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "C1.mn",
+    "Name": "C1",
+    "Country": "MN",
+    "Languages": "mon",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/v1mHG5x.png",
+    "Streams": [
+      {
+        "Url": "https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CentralTV.mn",
     "Name": "Central TV",
     "Country": "MN",

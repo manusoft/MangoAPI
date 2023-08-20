@@ -15,6 +15,51 @@
     ]
   },
   {
+    "Id": "CDNN23.ni",
+    "Name": "CDNN 23",
+    "Country": "NI",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cdnn23.com/",
+    "Logo": "https://imgtr.ee/images/2023/05/24/wTjfi.png",
+    "Streams": [
+      {
+        "Url": "http://138.117.4.70:8075/channel23/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal10.ni",
+    "Name": "Canal 10",
+    "Country": "NI",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.canal10.com.ni/",
+    "Logo": "https://i.imgur.com/ztp781b.png",
+    "Streams": [
+      {
+        "Url": "http://138.117.4.70:8075/channel10/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal11.ni",
+    "Name": "Canal 11",
+    "Country": "NI",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/heZeqPQ.png",
+    "Streams": [
+      {
+        "Url": "http://138.117.4.70:8075/channel11/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal9.ni",
     "Name": "Canal 9",
     "Country": "NI",
@@ -48,17 +93,17 @@
     ]
   },
   {
-    "Id": "TV45.ni",
-    "Name": "TV 45",
+    "Id": "MegaBox.ni",
+    "Name": "MegaBox",
     "Country": "NI",
     "Languages": "spa",
-    "Categories": "religious",
+    "Categories": "music",
     "IsNsfw": false,
-    "Website": "https://www.3abnnicaragua.tv/",
-    "Logo": "https://i.imgur.com/Tq0Q4nD.png",
+    "Website": "https://megaboxmusica.com/",
+    "Logo": "https://i.imgur.com/JqaW7Ei.png",
     "Streams": [
       {
-        "Url": "https://inliveserver.com:1936/17514/17514/playlist.m3u8"
+        "Url": "https://stmv1.voxhdnet.com/megabox5/megabox5/playlist.m3u8"
       }
     ]
   },

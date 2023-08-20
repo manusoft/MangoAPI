@@ -138,6 +138,36 @@
     ]
   },
   {
+    "Id": "BucovinaTV.ro",
+    "Name": "Bucovina TV",
+    "Country": "RO",
+    "Languages": "ron",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7QHdiTO.png",
+    "Streams": [
+      {
+        "Url": "http://46.4.14.12:9999/btvsvlive/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CaTine.ro",
+    "Name": "CaTine",
+    "Country": "RO",
+    "Languages": "ron",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": "https://catine.ro/",
+    "Logo": "https://i.imgur.com/GFm1P51.png",
+    "Streams": [
+      {
+        "Url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CardioTVSRC.ro",
     "Name": "Cardio TV SRC",
     "Country": "RO",
@@ -149,21 +179,6 @@
     "Streams": [
       {
         "Url": "https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ColumnaTV.ro",
-    "Name": "Columna TV",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/C5dIgsc.png",
-    "Streams": [
-      {
-        "Url": "http://142.132.136.139:1935/columnatv/live/playlist.m3u8"
       }
     ]
   },
@@ -317,21 +332,6 @@
     "Streams": [
       {
         "Url": "https://tv.streambox.ro/hls/itv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ImpactTVDance.ro",
-    "Name": "Impact TV Dance",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "http://tvimpact.live/",
-    "Logo": "https://i.imgur.com/G5mNdpE.png",
-    "Streams": [
-      {
-        "Url": "http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8"
       }
     ]
   },
@@ -620,6 +620,24 @@
     "Streams": [
       {
         "Url": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
+      }
+    ]
+  },
+  {
+    "Id": "ProfitTV.ro",
+    "Name": "Profit TV",
+    "Country": "RO",
+    "Languages": "ron",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.profit.ro/",
+    "Logo": "https://i.imgur.com/uPmPAED.png",
+    "Streams": [
+      {
+        "Url": "https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8"
+      },
+      {
+        "Url": "https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8"
       }
     ]
   },
@@ -1040,21 +1058,6 @@
     "Streams": [
       {
         "Url": "http://89.47.97.15/telestar/telestar.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TezaurTV.ro",
-    "Name": "Tezaur TV",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "http://www.tezaurtv.ro/",
-    "Logo": "https://i.imgur.com/t5eDZxU.png",
-    "Streams": [
-      {
-        "Url": "https://testcam.go.ro:8080/hls/tezaurtv.m3u8"
       }
     ]
   }

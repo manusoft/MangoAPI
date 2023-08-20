@@ -1,20 +1,5 @@
 [
   {
-    "Id": "101TeleAntequera.es",
-    "Name": "101 Tele Antequera",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/skXiSaf.png",
-    "Streams": [
-      {
-        "Url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "101tvMalaga.es",
     "Name": "101tv Malaga",
     "Country": "ES",
@@ -213,21 +198,6 @@
     ]
   },
   {
-    "Id": "AxarquiaTV.es",
-    "Name": "Axarquia TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/TSDgXFc.png",
-    "Streams": [
-      {
-        "Url": "https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BBCDramaSpain.es",
     "Name": "BBC Drama Spain",
     "Country": "ES",
@@ -254,6 +224,132 @@
     "Streams": [
       {
         "Url": "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Beteve.es",
+    "Name": "Beteve",
+    "Country": "ES",
+    "Languages": "cat",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://beteve.cat/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png",
+    "Streams": [
+      {
+        "Url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0"
+      },
+      {
+        "Url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0"
+      }
+    ]
+  },
+  {
+    "Id": "BonDiaTV.es",
+    "Name": "Bon Dia TV",
+    "Country": "ES",
+    "Languages": "cat",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/90WOoro.png",
+    "Streams": [
+      {
+        "Url": "https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BurrianaTeVe.es",
+    "Name": "BurrianaTeVe",
+    "Country": "ES",
+    "Languages": "cat",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.burrianateve.com/",
+    "Logo": "https://i.imgur.com/G3nIGHh.png",
+    "Streams": [
+      {
+        "Url": "https://www.burrianateve.com/hls/btv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CMMTV.es",
+    "Name": "CMM TV",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cmmedia.es/",
+    "Logo": "https://i.imgur.com/I9B7n92.png",
+    "Streams": [
+      {
+        "Url": "https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal10Emporda.es",
+    "Name": "Canal 10 Emporda",
+    "Country": "ES",
+    "Languages": "cat",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canal10.cat/",
+    "Logo": "https://i.imgur.com/ojQ6wzX.png",
+    "Streams": [
+      {
+        "Url": "http://ventdelnord.tv:8080/escala/directe.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal1MarMenorTorrePacheco.es",
+    "Name": "Canal 1 Mar Menor - Torre Pacheco",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "general,news",
+    "IsNsfw": false,
+    "Website": "https://www.tuwebtv.es/",
+    "Logo": "https://i.imgur.com/MQOwCdZ.png",
+    "Streams": [
+      {
+        "Url": "https://directo.tuwebtv.es/canal1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal2000.es",
+    "Name": "Canal 2000",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.canal2000.com/",
+    "Logo": "https://i.imgur.com/9RoBASf.png",
+    "Streams": [
+      {
+        "Url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal24Horas.es",
+    "Name": "Canal 24 Horas",
+    "Country": "ES",
+    "Languages": "spa,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rtve.es/alacarta/tve/24-horas/",
+    "Logo": "https://i.imgur.com/QYGrq71.png",
+    "Streams": [
+      {
+        "Url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+      },
+      {
+        "Url": "https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8"
       }
     ]
   },
@@ -377,21 +473,6 @@
     "Streams": [
       {
         "Url": "https://videos.canal56.com/directe/stream/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal7TeleValencia.es",
-    "Name": "Canal 7 TeleValencia",
-    "Country": "ES",
-    "Languages": "spa,cat",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://7televalencia.com/",
-    "Logo": "https://i.imgur.com/ILfXDRs.png",
-    "Streams": [
-      {
-        "Url": "https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8"
       }
     ]
   },
@@ -567,21 +648,6 @@
     ]
   },
   {
-    "Id": "CanalTaronjaOsonaiMoianes.es",
-    "Name": "Canal Taronja Osona i Moianes",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.canaltaronja.cat/osona/http://www.canaltaronja.cat/osona/",
-    "Logo": "https://i.imgur.com/RP8VcqZ.png",
-    "Streams": [
-      {
-        "Url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CanalTerrassa.es",
     "Name": "Canal Terrassa",
     "Country": "ES",
@@ -671,21 +737,6 @@
       },
       {
         "Url": "https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Condavision.es",
-    "Name": "Condavision",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.condavision.es/",
-    "Logo": "https://i.imgur.com/dlrazec.png",
-    "Streams": [
-      {
-        "Url": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
       }
     ]
   },
@@ -1071,6 +1122,21 @@
     ]
   },
   {
+    "Id": "GoierriIrratiTelebista.es",
+    "Name": "Goierri Irrati Telebista",
+    "Country": "ES",
+    "Languages": "eus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.gitb.eus/",
+    "Logo": "https://i.imgur.com/AHOYcAq.png",
+    "Streams": [
+      {
+        "Url": "https://5940924978228.streamlock.net/8155/8155/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "GuadaTV.es",
     "Name": "Guada TV",
     "Country": "ES",
@@ -1314,21 +1380,6 @@
     ]
   },
   {
-    "Id": "LaFabricaTV.es",
-    "Name": "La Fabrica TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://app.lafabricatv.es/canal-en-directo",
-    "Logo": "https://i.imgur.com/6p0oPfq.png",
-    "Streams": [
-      {
-        "Url": "https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "LaOchoTV.es",
     "Name": "La Ocho TV",
     "Country": "ES",
@@ -1340,21 +1391,6 @@
     "Streams": [
       {
         "Url": "https://streaming004.gestec-video.com/hls/8TV.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LaOtra.es",
-    "Name": "LaOtra",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png",
-    "Streams": [
-      {
-        "Url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8"
       }
     ]
   },
@@ -1385,21 +1421,6 @@
     "Streams": [
       {
         "Url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LiraTV.es",
-    "Name": "LiraTV",
-    "Country": "ES",
-    "Languages": "ron",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://liratv.es/",
-    "Logo": "https://i.imgur.com/hBswXYZ.png",
-    "Streams": [
-      {
-        "Url": "https://cloud3.streaminglivehd.com:1936/Liratv/Liratv/playlist.m3u8"
       }
     ]
   },
@@ -1527,21 +1548,6 @@
     ]
   },
   {
-    "Id": "NoroesteTV.es",
-    "Name": "Noroeste TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.noroestetv.es/",
-    "Logo": "https://i.imgur.com/s6V8rQd.png",
-    "Streams": [
-      {
-        "Url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Onda15TV.es",
     "Name": "Onda 15 TV",
     "Country": "ES",
@@ -1583,24 +1589,6 @@
     "Streams": [
       {
         "Url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "OndaMadrid.es",
-    "Name": "Onda Madrid",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/Q1YwYsR.png",
-    "Streams": [
-      {
-        "Url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8"
-      },
-      {
-        "Url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8"
       }
     ]
   },
@@ -1706,21 +1694,6 @@
     "Streams": [
       {
         "Url": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ParlamentodeNavarra.es",
-    "Name": "Parlamento de Navarra",
-    "Country": "ES",
-    "Languages": "spa,eus",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://www.parlamentodenavarra.es/",
-    "Logo": "https://i.imgur.com/JnhWxKv.png",
-    "Streams": [
-      {
-        "Url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
       }
     ]
   },
@@ -2007,24 +1980,6 @@
     ]
   },
   {
-    "Id": "PopularTVMelilla.es",
-    "Name": "Popular TV Melilla",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://populartvmelilla.com/",
-    "Logo": "https://i.imgur.com/TbevWX4.png",
-    "Streams": [
-      {
-        "Url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
-      },
-      {
-        "Url": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Punt3.es",
     "Name": "Punt 3",
     "Country": "ES",
@@ -2096,21 +2051,6 @@
     "Streams": [
       {
         "Url": "https://tv.portalexpress.es:3731/stream/play.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RadioTelevisionMarbella.es",
-    "Name": "Radio Television Marbella",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/o9Ro8TR.png",
-    "Streams": [
-      {
-        "Url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
       }
     ]
   },
@@ -2307,24 +2247,6 @@
     ]
   },
   {
-    "Id": "SophiaTV.es",
-    "Name": "Sophia TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/RPXusvS.png",
-    "Streams": [
-      {
-        "Url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8"
-      },
-      {
-        "Url": "https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SpektraTV.es",
     "Name": "SpektraTV",
     "Country": "ES",
@@ -2385,17 +2307,17 @@
     ]
   },
   {
-    "Id": "TVBenavente.es",
-    "Name": "TV Benavente",
+    "Id": "TVA.es",
+    "Name": "TVA",
     "Country": "ES",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.tvbenavente.es/directo/",
-    "Logo": "https://i.imgur.com/5dSHBcZ.png",
+    "Website": "https://www.artequatre.com/",
+    "Logo": "https://i.imgur.com/aobkgrS.png",
     "Streams": [
       {
-        "Url": "https://cloud.streamingconnect.tv/hls/tvbenavente/tvbenavente.m3u8"
+        "Url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8"
       }
     ]
   },
@@ -2733,6 +2655,21 @@
     ]
   },
   {
+    "Id": "TeleRibera.es",
+    "Name": "TeleRibera",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",
+    "Streams": [
+      {
+        "Url": "http://37.187.7.106/teleribera/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TeleSafor.es",
     "Name": "Tele Safor",
     "Country": "ES",
@@ -2778,21 +2715,6 @@
     ]
   },
   {
-    "Id": "Telemadrid.es",
-    "Name": "Telemadrid",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png",
-    "Streams": [
-      {
-        "Url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Teleonuba.es",
     "Name": "Teleonuba",
     "Country": "ES",
@@ -2804,6 +2726,21 @@
     "Streams": [
       {
         "Url": "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevisionAranda.es",
+    "Name": "Television Aranda",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.telearanda.es/",
+    "Logo": "https://i.imgur.com/FwIIdKG.png",
+    "Streams": [
+      {
+        "Url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
       }
     ]
   },
@@ -2885,21 +2822,6 @@
     "Streams": [
       {
         "Url": "http://185.210.20.13:8080/0.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "UniversTV.es",
-    "Name": "Univers TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://universvalencia.es/",
-    "Logo": "https://i.imgur.com/EW2bfix.png",
-    "Streams": [
-      {
-        "Url": "https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
       }
     ]
   },
@@ -2990,21 +2912,6 @@
     "Streams": [
       {
         "Url": "https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZafraTV.es",
-    "Name": "Zafra TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.zafratv.com/",
-    "Logo": "https://i.ibb.co/BChc6HR/1293583425.jpg",
-    "Streams": [
-      {
-        "Url": "https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8"
       }
     ]
   },

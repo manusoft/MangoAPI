@@ -1,20 +1,5 @@
 [
   {
-    "Id": "BalkanRadioSalzburg.at",
-    "Name": "Balkan Radio Salzburg",
-    "Country": "AT",
-    "Languages": "srp",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://balkanradiosalzburg.com/",
-    "Logo": "https://i.imgur.com/UDyxgXf.png",
-    "Streams": [
-      {
-        "Url": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DorfTV.at",
     "Name": "Dorf TV",
     "Country": "AT",

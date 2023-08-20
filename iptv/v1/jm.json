@@ -1,5 +1,20 @@
 [
   {
+    "Id": "CVMTV.jm",
+    "Name": "CVM TV",
+    "Country": "JM",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.cvmtv.com/",
+    "Logo": "https://i.imgur.com/DHD2b54.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCungvaPJaa_kDLxZBYXzpsQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CaribbeanGospelTV.jm",
     "Name": "Caribbean Gospel TV",
     "Country": "JM",
@@ -15,21 +30,6 @@
     ]
   },
   {
-    "Id": "JamaicaOnlineTV.jm",
-    "Name": "Jamaica Online TV",
-    "Country": "JM",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://jamaicaonlinetv.com/",
-    "Logo": "https://i.imgur.com/Aw9u4Ax.png",
-    "Streams": [
-      {
-        "Url": "https://hls-cdn.tvstartup11.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MercyandTruthMinistriesTelevision.jm",
     "Name": "Mercy and Truth Ministries Television",
     "Country": "JM",
@@ -41,6 +41,21 @@
     "Streams": [
       {
         "Url": "https://wowza.btbn.tv:5443/mtmtv/streams/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PBCJamaicaTV.jm",
+    "Name": "PBC Jamaica TV",
+    "Country": "JM",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://pbcjamaica.org/",
+    "Logo": "https://i.ibb.co/WnDWvck/PBC-Jamaica-TV-tvtolive-com.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC8X0kkF7HNdWUxTMjAagJxw.m3u8"
       }
     ]
   }

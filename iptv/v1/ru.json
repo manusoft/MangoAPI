@@ -294,6 +294,27 @@
     ]
   },
   {
+    "Id": "CTC.ru",
+    "Name": "CTC",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "family",
+    "IsNsfw": false,
+    "Website": "https://ctc.ru/",
+    "Logo": "https://i.imgur.com/ilUzAeb.png",
+    "Streams": [
+      {
+        "Url": "http://ott-cdn.ucom.am/s52/04.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+      },
+      {
+        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CentralTV.ru",
     "Name": "Central TV",
     "Country": "RU",
@@ -353,21 +374,6 @@
     "Streams": [
       {
         "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Cinema.ru",
-    "Name": "Cinema",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://cinetv.ru/",
-    "Logo": "https://i.imgur.com/sP15Oc9.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Cinema.m3u8"
       }
     ]
   },
@@ -618,51 +624,6 @@
     ]
   },
   {
-    "Id": "Kinokomedija.ru",
-    "Name": "Kinokomedija",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "comedy",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/kinokomedija/",
-    "Logo": "https://i.imgur.com/1Z9VTM6.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Kinokomediya_hd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Kinomiks.ru",
-    "Name": "Kinomiks",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/kinomiks/",
-    "Logo": "https://i.imgur.com/OGUMa1A.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Kinomix_hd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Kinopremyera.ru",
-    "Name": "Kinopremyera",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/kinopremyera/",
-    "Logo": "https://i.imgur.com/lgvOVxm.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Kinopremiera_hd.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Kinosemja.ru",
     "Name": "Kinosemja",
     "Country": "RU",
@@ -674,21 +635,6 @@
     "Streams": [
       {
         "Url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Kinosvidanie.ru",
-    "Name": "Kinosvidanie",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/kinosvidanie/",
-    "Logo": "https://i.imgur.com/ZRaWqxj.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8"
       }
     ]
   },
@@ -723,27 +669,6 @@
     ]
   },
   {
-    "Id": "LDPRTV.ru",
-    "Name": "LDPR TV",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://ldpr.tv/",
-    "Logo": "https://i.imgur.com/gCmCRfe.png",
-    "Streams": [
-      {
-        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8"
-      },
-      {
-        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8"
-      },
-      {
-        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "LenTV24.ru",
     "Name": "LenTV24",
     "Country": "RU",
@@ -770,21 +695,6 @@
     "Streams": [
       {
         "Url": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MTV.ru",
-    "Name": "MTV",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://xn--b1ats.xn--80asehdb/",
-    "Logo": "https://i.imgur.com/pdCAUrP.png",
-    "Streams": [
-      {
-        "Url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
       }
     ]
   },
@@ -844,13 +754,7 @@
     "Logo": "https://i.imgur.com/tKnSHEc.png",
     "Streams": [
       {
-        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8"
-      },
-      {
         "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
-      },
-      {
-        "Url": "https://sc.id-tv.kz/Mir24.m3u8"
       }
     ]
   },
@@ -869,21 +773,6 @@
       },
       {
         "Url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MirPlus3.ru",
-    "Name": "Mir +3",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://mirtv.ru/",
-    "Logo": "https://i.imgur.com/oxJnv6I.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Mir.m3u8"
       }
     ]
   },
@@ -929,21 +818,6 @@
     "Streams": [
       {
         "Url": "http://ott-cdn.ucom.am/s28/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MuzhskoeKino.ru",
-    "Name": "Muzhskoe Kino",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/muzhskoe-kino/",
-    "Logo": "https://i.imgur.com/amG6Tbt.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8"
       }
     ]
   },
@@ -1041,21 +915,6 @@
     ]
   },
   {
-    "Id": "NationalGeographicWildRussia.ru",
-    "Name": "National Geographic Wild Russia",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "documentary",
-    "IsNsfw": false,
-    "Website": "http://natgeotv.com/ru/wild",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/NatGeoWildHD.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Nauka.ru",
     "Name": "Nauka",
     "Country": "RU",
@@ -1131,21 +990,6 @@
     ]
   },
   {
-    "Id": "O.ru",
-    "Name": "O!",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": "https://www.kanal-o.ru/",
-    "Logo": "https://i.imgur.com/pDc665V.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/o.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "OTR.ru",
     "Name": "OTR",
     "Country": "RU",
@@ -1202,21 +1046,6 @@
     "Streams": [
       {
         "Url": "https://pilotfm.ru/cam/hls/pilothd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Pobeda.ru",
-    "Name": "Pobeda",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://pobeda.tv/",
-    "Logo": "https://i.imgur.com/gNiz1xm.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Pobeda.m3u8"
       }
     ]
   },
@@ -1322,9 +1151,6 @@
     "Streams": [
       {
         "Url": "https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8"
-      },
-      {
-        "Url": "https://sc.id-tv.kz/RenTV.m3u8"
       },
       {
         "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8"
@@ -1500,21 +1326,6 @@
     ]
   },
   {
-    "Id": "RodnoeKino.ru",
-    "Name": "Rodnoe Kino",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/rodnoe-kino/",
-    "Logo": "https://i.imgur.com/H70LxoZ.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Rodnoe_kino.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Rodnoykanal.ru",
     "Name": "Rodnoy kanal",
     "Country": "RU",
@@ -1577,6 +1388,21 @@
       },
       {
         "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RusskiyDetektiv.ru",
+    "Name": "Russkiy Detektiv",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://rudetective.tv/",
+    "Logo": "https://i.imgur.com/kaRKp2u.png",
+    "Streams": [
+      {
+        "Url": "http://193.33.88.172/rus-detective/playlist.m3u8"
       }
     ]
   },
@@ -1892,21 +1718,6 @@
     "Streams": [
       {
         "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TNT4.ru",
-    "Name": "TNT4",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://tnt4.ru/",
-    "Logo": "https://i.imgur.com/4GiD9xN.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/tnt4.m3u8"
       }
     ]
   },

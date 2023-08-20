@@ -96,17 +96,17 @@
     ]
   },
   {
-    "Id": "KnessetChannel.il",
-    "Name": "Knesset Channel",
+    "Id": "KanEducational.il",
+    "Name": "Kan Educational",
     "Country": "IL",
     "Languages": "heb",
-    "Categories": "",
+    "Categories": "education",
     "IsNsfw": false,
-    "Website": "https://main.knesset.gov.il/",
-    "Logo": "https://i.imgur.com/QXB1jv8.png",
+    "Website": "https://www.kankids.org.il/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png",
     "Streams": [
       {
-        "Url": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8"
+        "Url": "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8"
       }
     ]
   },

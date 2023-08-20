@@ -1,5 +1,20 @@
 [
   {
+    "Id": "AVA.fi",
+    "Name": "AVA",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.mtv.fi/",
+    "Logo": "https://i.imgur.com/8TR4noi.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/ava/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlfaTV.fi",
     "Name": "AlfaTV",
     "Country": "FI",
@@ -30,6 +45,21 @@
     ]
   },
   {
+    "Id": "Frii.fi",
+    "Name": "Frii",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.discoveryplus.com/fi/channel/frii",
+    "Logo": "https://i.imgur.com/9sYC2IE.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/frii/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HimlenTV7.fi",
     "Name": "Himlen TV7",
     "Country": "FI",
@@ -56,6 +86,36 @@
     "Streams": [
       {
         "Url": "https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Kutonen.fi",
+    "Name": "Kutonen",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.discoveryplus.com/fi/channel/kutonen",
+    "Logo": "https://i.imgur.com/gamFOhd.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/kutonen/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MTV3.fi",
+    "Name": "MTV3",
+    "Country": "FI",
+    "Languages": "fin,swe",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.mtv.fi/",
+    "Logo": "https://i.imgur.com/OJWDnUx.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/mtv3/live.m3u8"
       }
     ]
   },
@@ -209,6 +269,51 @@
     "Streams": [
       {
         "Url": "https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Sub.fi",
+    "Name": "Sub",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/769lYEd.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/sub/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TLCFinland.fi",
+    "Name": "TLC Finland",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.discoveryplus.com/fi/channel/tlc",
+    "Logo": "https://i.imgur.com/dwDB1Xq.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/tlc/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TV5.fi",
+    "Name": "TV5",
+    "Country": "FI",
+    "Languages": "fin",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.dplay.fi/kanavat/tv5",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TV5_Finland_logo_2019.png/512px-TV5_Finland_logo_2019.png",
+    "Streams": [
+      {
+        "Url": "https://live-fi.tvkaista.net/tv5/live.m3u8"
       }
     ]
   },

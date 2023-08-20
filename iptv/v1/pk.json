@@ -78,17 +78,17 @@
     ]
   },
   {
-    "Id": "AlEhsaanTV.pk",
-    "Name": "Al Ehsaan TV",
+    "Id": "BolNews.pk",
+    "Name": "Bol News",
     "Country": "PK",
-    "Languages": "urd,ara",
-    "Categories": "religious",
+    "Languages": "urd",
+    "Categories": "news",
     "IsNsfw": false,
-    "Website": "https://www.alehsaan.tv/",
-    "Logo": "https://i.imgur.com/hRzxiJ3.png",
+    "Website": "https://www.bolnews.com/",
+    "Logo": "https://i.imgur.com/chHLi5u.png",
     "Streams": [
       {
-        "Url": "https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8"
       }
     ]
   },
@@ -104,21 +104,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "City42.pk",
-    "Name": "City 42",
-    "Country": "PK",
-    "Languages": "urd",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.city42.tv/",
-    "Logo": "https://i.imgur.com/vcSFetk.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8"
       }
     ]
   },
@@ -237,6 +222,21 @@
     ]
   },
   {
+    "Id": "GawahiTV.pk",
+    "Name": "Gawahi TV",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://gawahi.tv/",
+    "Logo": "https://i.imgur.com/0W6zzHS.png",
+    "Streams": [
+      {
+        "Url": "https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "GeoKahani.pk",
     "Name": "Geo Kahani",
     "Country": "PK",
@@ -293,21 +293,6 @@
     "Streams": [
       {
         "Url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HKTV.pk",
-    "Name": "HK TV",
-    "Country": "PK",
-    "Languages": "urd",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://hktv.pk/",
-    "Logo": "https://i.imgur.com/brAY4XF.png",
-    "Streams": [
-      {
-        "Url": "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8"
       }
     ]
   },

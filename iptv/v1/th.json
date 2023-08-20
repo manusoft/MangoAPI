@@ -315,6 +315,21 @@
     ]
   },
   {
+    "Id": "ETV.th",
+    "Name": "ETV",
+    "Country": "TH",
+    "Languages": "tha",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.etvthai.tv/",
+    "Logo": "https://i.imgur.com/Dsgpo4I.png",
+    "Streams": [
+      {
+        "Url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "EsanTV.th",
     "Name": "Esan TV",
     "Country": "TH",
@@ -735,6 +750,21 @@
     ]
   },
   {
+    "Id": "True4U.th",
+    "Name": "True 4U",
+    "Country": "TH",
+    "Languages": "tha",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://true4u.com/",
+    "Logo": "https://i.imgur.com/O6Xre1O.png",
+    "Streams": [
+      {
+        "Url": "http://183.89.246.119:8010/play/a00d/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "WhiteChannel.th",
     "Name": "White Channel",
     "Country": "TH",
@@ -774,6 +804,9 @@
     "Website": "http://www.zabbtv.com/",
     "Logo": "https://i.imgur.com/4TMtUjW.png",
     "Streams": [
+      {
+        "Url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8"
+      },
       {
         "Url": "http://183.89.246.119:8881/play/a0ac/index.m3u8"
       }

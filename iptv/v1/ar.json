@@ -18,24 +18,6 @@
     ]
   },
   {
-    "Id": "247CanaldeNoticias.ar",
-    "Name": "24/7 Canal de Noticias",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/4hDCB1M.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8"
-      },
-      {
-        "Url": "https://panel.dattalive.com/6605140/6605140/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "5TVArgentina.ar",
     "Name": "5TV Argentina",
     "Country": "AR",
@@ -279,21 +261,6 @@
     ]
   },
   {
-    "Id": "BayresTV.ar",
-    "Name": "Bayres TV",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://bayrestv.com.ar/",
-    "Logo": "https://i.imgur.com/9FDqljV.png",
-    "Streams": [
-      {
-        "Url": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BeatsRadio.ar",
     "Name": "Beats Radio",
     "Country": "AR",
@@ -305,6 +272,216 @@
     "Streams": [
       {
         "Url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "C5N.ar",
+    "Name": "C5N",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/5ZNZYjO.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CPEtv.ar",
+    "Name": "CPEtv",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cpe.com.ar/cpetvvivo",
+    "Logo": "https://i.imgur.com/zFgbobO.png",
+    "Streams": [
+      {
+        "Url": "https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CadenaVIVO.ar",
+    "Name": "Cadena VIVO",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://cadenavivo.com/",
+    "Logo": "https://i.imgur.com/bCjaI8j.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCUolbhtv_MvkJlxsqDk0abw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal10Cordoba.ar",
+    "Name": "Canal 10 Cordoba",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/87WCHtd.png",
+    "Streams": [
+      {
+        "Url": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal10Neuquen.ar",
+    "Name": "Canal 10 Neuquen",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://neuquentvcanal10.com.ar/tv/",
+    "Logo": "https://i.imgur.com/HVlnnDo.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal10Nortevision.ar",
+    "Name": "Canal10 Nortevision",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.nortevision.online/",
+    "Logo": "https://i.imgur.com/Uqf93Mu.png",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal11delaCosta.ar",
+    "Name": "Canal 11 de la Costa",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canal11delacosta.com.ar/",
+    "Logo": "https://i.imgur.com/yYExcq1.jpg",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal12Web.ar",
+    "Name": "Canal 12 Web",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canal12web.com/",
+    "Logo": "https://i.imgur.com/VYcTRbd.png",
+    "Streams": [
+      {
+        "Url": "https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal13Jujuy.ar",
+    "Name": "Canal13 Jujuy",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://www.canal13jujuy.com/",
+    "Logo": "https://lh3.googleusercontent.com/-bSbxNgtv_2M/X4y7pC59aKI/AAAAAAAA6h8/opkxju3NzT4BiFnp2zXdnyaBfgOJ7LW-QCK8BGAsYHg/s0/2020-10-18.png",
+    "Streams": [
+      {
+        "Url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal13LaRioja.ar",
+    "Name": "Canal 13 La Rioja",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/OI97Sgq.png",
+    "Streams": [
+      {
+        "Url": "http://arcast.net:1935/mp/mp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal13SanJuan.ar",
+    "Name": "Canal 13 San Juan",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.canal13sanjuan.com/",
+    "Logo": "https://pbs.twimg.com/profile_images/1617246021/Captura_de_pantalla_2011-11-01_a_las_11.42.42_400x400.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal20VillaMaria.ar",
+    "Name": "Canal 20 Villa Maria",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/PaQH5JM.png",
+    "Streams": [
+      {
+        "Url": "https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal21TV.ar",
+    "Name": "Canal 21 TV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canal21tv.com.ar/",
+    "Logo": "https://i.imgur.com/Am7yMXg.png",
+    "Streams": [
+      {
+        "Url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal22.ar",
+    "Name": "Canal 22",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canal22web.com/",
+    "Logo": "https://canal22web.com/wp-content/uploads/2020/09/80.jpg",
+    "Streams": [
+      {
+        "Url": "https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8"
       }
     ]
   },
@@ -363,6 +540,21 @@
     ]
   },
   {
+    "Id": "Canal2Salta.ar",
+    "Name": "Canal 2 Salta",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvcanal2.com/",
+    "Logo": "https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal2Sanagasta.ar",
     "Name": "Canal 2 Sanagasta",
     "Country": "AR",
@@ -408,6 +600,21 @@
     ]
   },
   {
+    "Id": "Canal3Formosa.ar",
+    "Name": "Canal 3 Formosa",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://agenfor.com.ar/",
+    "Logo": "https://i.imgur.com/rVDrNIy.png",
+    "Streams": [
+      {
+        "Url": "https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal3LaPampa.ar",
     "Name": "Canal 3 La Pampa",
     "Country": "AR",
@@ -419,6 +626,21 @@
     "Streams": [
       {
         "Url": "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal3LasHeras.ar",
+    "Name": "Canal 3 Las Heras",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.canal3lasheras.com/",
+    "Logo": "https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg",
+    "Streams": [
+      {
+        "Url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
       }
     ]
   },
@@ -501,21 +723,6 @@
     ]
   },
   {
-    "Id": "Canal4SanJuan.ar",
-    "Name": "Canal 4 San Juan",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.canal4sanjuan.com.ar/digital/",
-    "Logo": "https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png",
-    "Streams": [
-      {
-        "Url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal5DelPueblo.ar",
     "Name": "Canal 5 Del Pueblo",
     "Country": "AR",
@@ -531,62 +738,17 @@
     ]
   },
   {
-    "Id": "Canal5PicoTruncado.ar",
-    "Name": "Canal 5 Pico Truncado",
+    "Id": "Canal6Moreno.ar",
+    "Name": "Canal 6 Moreno",
     "Country": "AR",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "http://www.canal5picotruncado.com/",
-    "Logo": "https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg",
+    "Website": "https://canal6moreno.com/",
+    "Logo": "https://i.imgur.com/TefE4HC.png",
     "Streams": [
       {
-        "Url": "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal5SantaFe.ar",
-    "Name": "Canal 5 Santa Fe",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.c5sf.com/",
-    "Logo": "https://i.imgur.com/WX0esjQ.png",
-    "Streams": [
-      {
-        "Url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal6EntreRios.ar",
-    "Name": "Canal 6 Entre Rios",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.desdecrespo.com.ar/live",
-    "Logo": "https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png",
-    "Streams": [
-      {
-        "Url": "https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal6MardePlata.ar",
-    "Name": "Canal 6 Mar de Plata",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://canal6mardelplata.weebly.com/",
-    "Logo": "https://i.imgur.com/fNaIrvV.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/8166/8166/playlist.m3u8"
+        "Url": "https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8"
       }
     ]
   },
@@ -647,6 +809,21 @@
     "Streams": [
       {
         "Url": "https://streamconex.com:1936/puan/puan/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal79SanJuan.ar",
+    "Name": "Canal 79 San Juan",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canal79tv.com.ar/san-juan/",
+    "Logo": "https://i.imgur.com/I93ypGY.png",
+    "Streams": [
+      {
+        "Url": "https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8"
       }
     ]
   },
@@ -786,21 +963,6 @@
     ]
   },
   {
-    "Id": "Canal907FM.ar",
-    "Name": "Canal 907 FM",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://fm-comunicar.com.ar/contenido/8025/canal-907-en-vivo",
-    "Logo": "https://i.imgur.com/hdwtH9q.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/canal907/canal907/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal9LaRioja.ar",
     "Name": "Canal 9 La Rioja",
     "Country": "AR",
@@ -831,21 +993,6 @@
     ]
   },
   {
-    "Id": "Canal9NorteMisionero.ar",
-    "Name": "Canal 9 Norte Misionero",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://nortemisionero.com.ar/",
-    "Logo": "https://imgtr.ee/images/2023/05/24/wmlFB.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/8076/8076/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal9Resistencia.ar",
     "Name": "Canal 9 Resistencia",
     "Country": "AR",
@@ -857,21 +1004,6 @@
     "Streams": [
       {
         "Url": "http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal9SantaCruz.ar",
-    "Name": "Canal 9 Santa Cruz",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://canal9santacruz.com.ar/",
-    "Logo": "https://i.imgur.com/WJjY3bu.png",
-    "Streams": [
-      {
-        "Url": "https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8"
       }
     ]
   },
@@ -891,6 +1023,21 @@
     ]
   },
   {
+    "Id": "CanalBlu.ar",
+    "Name": "Canal Blu",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canalblu.com/",
+    "Logo": "https://i.imgur.com/EVe8j4y.png",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CanalCNR.ar",
     "Name": "Canal CNR",
     "Country": "AR",
@@ -902,21 +1049,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCeNlqMQ1Um3NUM97OBGA0sw.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanalCoop.ar",
-    "Name": "Canal Coop",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.canalcoop.com.ar/index.php",
-    "Logo": "https://i.imgur.com/6sRGybG.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/8138/8138/playlist.m3u8"
       }
     ]
   },
@@ -1116,6 +1248,21 @@
     ]
   },
   {
+    "Id": "ChilecitoTV.ar",
+    "Name": "Chilecito TV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.diariochilecito.com/",
+    "Logo": "https://i.imgur.com/zGubmgZ.png",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CincoTV.ar",
     "Name": "Cinco TV",
     "Country": "AR",
@@ -1206,6 +1353,36 @@
     ]
   },
   {
+    "Id": "CosmosTV.ar",
+    "Name": "Cosmos TV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://fmcosmos.com/vivo/",
+    "Logo": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
+    "Streams": [
+      {
+        "Url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CrossingCanalIPTV.ar",
+    "Name": "Crossing Canal IPTV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.crossingcontenidos.com.ar/",
+    "Logo": "https://i.imgur.com/iNJu7Fu.png",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DanceTV.ar",
     "Name": "Dance TV",
     "Country": "AR",
@@ -1217,21 +1394,6 @@
     "Streams": [
       {
         "Url": "https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "DemosRadioVisual.ar",
-    "Name": "Demos Radio Visual",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://demos.com.ar/",
-    "Logo": "https://i.imgur.com/Z5rgmdP.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/8066/8066/playlist.m3u8"
       }
     ]
   },
@@ -1280,6 +1442,21 @@
     "Streams": [
       {
         "Url": "https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EcoTV.ar",
+    "Name": "Eco TV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.eleco.com.ar/ecotv",
+    "Logo": "https://lh3.googleusercontent.com/-s7Lrg1AhjRA/XrYORW8wrKI/AAAAAAAA0iU/5dZ8Epc-I1Momc6KYwA2rt0AwnwhdVKowCK8BGAsYHg/s0/2020-05-08.png",
+    "Streams": [
+      {
+        "Url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8"
       }
     ]
   },
@@ -1479,21 +1656,6 @@
     ]
   },
   {
-    "Id": "IngenioFM.ar",
-    "Name": "Ingenio FM",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.ingeniofm.com/",
-    "Logo": "https://yt3.ggpht.com/8Mqa9VCxk9ijWdeq2Y7hfMn6953MyVo8IQ8qCVpbxRMTYMfC8REhe75PcDlF2ntsyldJFvJT=s400-c-k-c0x00ffffff-no-rj",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/8064/8064/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "LTOTelevision.ar",
     "Name": "LTO Television",
     "Country": "AR",
@@ -1535,6 +1697,36 @@
     "Streams": [
       {
         "Url": "https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LapachoTVCanal11.ar",
+    "Name": "Lapacho TV Canal 11",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.lapachotv.com.ar/",
+    "Logo": "https://i.imgur.com/PmFBL7x.png",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LineaDirectaRadio.ar",
+    "Name": "Linea Directa Radio",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/fFYZku9.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.cnarlatam.com/lineadirectaradio/lineadirectaradio/playlist.m3u8"
       }
     ]
   },
@@ -1629,17 +1821,17 @@
     ]
   },
   {
-    "Id": "MaximaTV.ar",
-    "Name": "Maxima TV",
+    "Id": "MetroTV.ar",
+    "Name": "Metro TV",
     "Country": "AR",
     "Languages": "spa",
     "Categories": "entertainment",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/NmwTVkX/Screenshot-20230715-163842.jpg",
+    "Website": "https://www.metropolitanafm.com.ar/",
+    "Logo": "https://i.imgur.com/7f7M7zl.png",
     "Streams": [
       {
-        "Url": "https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8"
+        "Url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
       }
     ]
   },
@@ -1788,6 +1980,21 @@
     ]
   },
   {
+    "Id": "PlayTelevision.ar",
+    "Name": "Play Television",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/nR85vvb/2021-01-03.jpg",
+    "Streams": [
+      {
+        "Url": "https://vivo.solumedia.com:19360/playtv/playtv.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PowerHD.ar",
     "Name": "PowerHD",
     "Country": "AR",
@@ -1821,17 +2028,17 @@
     ]
   },
   {
-    "Id": "RBDRadioMultimedia.ar",
-    "Name": "RBD Radio Multimedia",
+    "Id": "QuatroTV.ar",
+    "Name": "Quatro TV",
     "Country": "AR",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://rbdradio.com.ar/",
-    "Logo": "https://i.imgur.com/TD0I4hG.png",
+    "Website": "https://www.quatrotv.com/",
+    "Logo": "https://i.imgur.com/fhHFGwv.png",
     "Streams": [
       {
-        "Url": "https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8"
+        "Url": "https://stream.arcast.live/quatro/quatro/playlist.m3u8"
       }
     ]
   },
@@ -1956,21 +2163,6 @@
     ]
   },
   {
-    "Id": "RetroMagico.ar",
-    "Name": "Retro Magico",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://www.solumedia.com.ar/video/retromagico/",
-    "Logo": "https://i.imgur.com/jh1VknJ.png",
-    "Streams": [
-      {
-        "Url": "https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SantaFeCanal.ar",
     "Name": "Santa Fe Canal",
     "Country": "AR",
@@ -2012,6 +2204,21 @@
     "Streams": [
       {
         "Url": "https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SenillosaTV.ar",
+    "Name": "Senillosa TV",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.senillosatv.com.ar/",
+    "Logo": "https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj",
+    "Streams": [
+      {
+        "Url": "https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8"
       }
     ]
   },
@@ -2091,6 +2298,21 @@
     ]
   },
   {
+    "Id": "T5Satelital.ar",
+    "Name": "T5 Satelital",
+    "Country": "AR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://t5satelital.com/",
+    "Logo": "https://i.imgur.com/Eu7rHtj.jpg",
+    "Streams": [
+      {
+        "Url": "https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TECTV.ar",
     "Name": "TEC TV",
     "Country": "AR",
@@ -2102,21 +2324,6 @@
     "Streams": [
       {
         "Url": "https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TIVTelevision.ar",
-    "Name": "TIV Television",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://bieninformado.com.ar/",
-    "Logo": "https://i.imgur.com/gsgXGEj.png",
-    "Streams": [
-      {
-        "Url": "https://inliveserver.com:1936/14044/14044/playlist.m3u8"
       }
     ]
   },
@@ -2147,21 +2354,6 @@
     "Streams": [
       {
         "Url": "https://vivo.solumedia.com:19360/trutv/trutv.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVMAXCBA.ar",
-    "Name": "TVMAXCBA",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://en.tvmaxcba.com/",
-    "Logo": "https://i.imgur.com/v3nKtIV.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/8976/8976/playlist.m3u8"
       }
     ]
   },
@@ -2301,21 +2493,6 @@
     ]
   },
   {
-    "Id": "Telecreativa.ar",
-    "Name": "Telecreativa",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://telecreativa.com/",
-    "Logo": "https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png",
-    "Streams": [
-      {
-        "Url": "https://panel.dattalive.com/8012/8012/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TelediarioTV.ar",
     "Name": "Telediario TV",
     "Country": "AR",
@@ -2421,36 +2598,6 @@
     ]
   },
   {
-    "Id": "Telenord.ar",
-    "Name": "Telenord",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.telenord.com.ar/",
-    "Logo": "https://i.imgur.com/yqXORkt.png",
-    "Streams": [
-      {
-        "Url": "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TelenordCorrientes.ar",
-    "Name": "Telenord Corrientes",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/byxXHzq.png",
-    "Streams": [
-      {
-        "Url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Telesol.ar",
     "Name": "Telesol",
     "Country": "AR",
@@ -2462,21 +2609,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCG7dtDLsyjkyrfoo5oGtcXw.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TelevideoRegional.ar",
-    "Name": "Televideo Regional",
-    "Country": "AR",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.televideoinforma.com.ar/",
-    "Logo": "https://i.imgur.com/zLAocPn.png",
-    "Streams": [
-      {
-        "Url": "https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8"
       }
     ]
   },

@@ -15,6 +15,54 @@
     ]
   },
   {
+    "Id": "BloombergTVAsia.hk",
+    "Name": "Bloomberg TV Asia",
+    "Country": "HK",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/asia",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/dr9445/h/h03/index.m3u8"
+      },
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/asia.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BloombergTVAsiaLiveEvent.hk",
+    "Name": "Bloomberg TV Asia Live Event",
+    "Country": "HK",
+    "Languages": "eng",
+    "Categories": "business",
+    "IsNsfw": false,
+    "Website": "https://www.bloomberg.com/live/asia_stream",
+    "Logo": "https://i.imgur.com/OuogLHx.png",
+    "Streams": [
+      {
+        "Url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CCM.hk",
+    "Name": "CCM",
+    "Country": "HK",
+    "Languages": "zho,ind",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.cmclassic.tv/index.php?location/HK",
+    "Logo": "https://i.imgur.com/1VhXilw.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CelestialMovies.hk",
     "Name": "Celestial Movies",
     "Country": "HK",
@@ -39,9 +87,6 @@
     "Website": "http://www.hkibchannel.com.hk/",
     "Logo": "https://i.imgur.com/jaIdkbz.png",
     "Streams": [
-      {
-        "Url": "https://live.astradamy.com/hk76/index.m3u8"
-      },
       {
         "Url": "https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8"
       }
@@ -77,39 +122,6 @@
       },
       {
         "Url": "https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8"
-      },
-      {
-        "Url": "http://media.fantv.hk/m3u8/archive/channel2.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "J2.hk",
-    "Name": "J2",
-    "Country": "HK",
-    "Languages": "zho",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://programme.tvb.com/j2",
-    "Logo": "https://i.imgur.com/lvxtaoM.png",
-    "Streams": [
-      {
-        "Url": "https://live.astradamy.com/tvbj2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Jade.hk",
-    "Name": "Jade",
-    "Country": "HK",
-    "Languages": "yue",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "http://programme.tvb.com/jade/",
-    "Logo": "https://i.imgur.com/ooG96w8.png",
-    "Streams": [
-      {
-        "Url": "https://live.astradamy.com/tvbfc/index.m3u8"
       }
     ]
   },

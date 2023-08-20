@@ -1,5 +1,20 @@
 [
   {
+    "Id": "CamaradeSenadores.uy",
+    "Name": "Camara de Senadores",
+    "Country": "UY",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://parlamento.gub.uy/camarasycomisiones/senadores",
+    "Logo": "https://i.imgur.com/6NBK4LN.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCyM7oro5NhR5oPyMEFB_rUA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal8Mercedes.uy",
     "Name": "Canal 8 Mercedes",
     "Country": "UY",

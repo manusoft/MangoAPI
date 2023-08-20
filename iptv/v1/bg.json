@@ -1,5 +1,20 @@
 [
   {
+    "Id": "100AutoMotoTV.bg",
+    "Name": "100% Auto Moto TV",
+    "Country": "BG",
+    "Languages": "bul,eng",
+    "Categories": "auto",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/mip1puB.png",
+    "Streams": [
+      {
+        "Url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AgroTV.bg",
     "Name": "Agro TV",
     "Country": "BG",
@@ -105,6 +120,21 @@
     ]
   },
   {
+    "Id": "EuronewsBulgaria.bg",
+    "Name": "Euronews Bulgaria",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://euronewsbulgaria.com/",
+    "Logo": "https://i.imgur.com/Fe7oOgi.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FenFolk.bg",
     "Name": "Fen Folk",
     "Country": "BG",
@@ -146,6 +176,21 @@
     "Streams": [
       {
         "Url": "https://bss1.neterra.tv/magictv/magictv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PlovdivskaPravoslavnaTV.bg",
+    "Name": "Plovdivska Pravoslavna TV",
+    "Country": "BG",
+    "Languages": "bul",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.plovdivskamitropolia.bg/",
+    "Logo": "https://i.imgur.com/BuN0Osz.png",
+    "Streams": [
+      {
+        "Url": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8"
       }
     ]
   },

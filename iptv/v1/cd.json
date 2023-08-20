@@ -1,5 +1,20 @@
 [
   {
+    "Id": "BossBrothersTV.cd",
+    "Name": "Boss Brothers TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.thebossbrothers.co.uk/",
+    "Logo": "https://i.imgur.com/rc9MXm5.png",
+    "Streams": [
+      {
+        "Url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "EVITV.cd",
     "Name": "EVI TV",
     "Country": "CD",

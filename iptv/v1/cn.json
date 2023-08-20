@@ -1,5 +1,143 @@
 [
   {
+    "Id": "CCTV4Asia.cn",
+    "Name": "CCTV-4 Asia",
+    "Country": "CN",
+    "Languages": "zho,eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://tv.cctv.com/cctv4asia/",
+    "Logo": "https://i.imgur.com/tWt4Wou.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CCTVPlus1.cn",
+    "Name": "CCTV+ 1",
+    "Country": "CN",
+    "Languages": "zho",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cctvplus.com/",
+    "Logo": "https://i.imgur.com/U8d4Is6.png",
+    "Streams": [
+      {
+        "Url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CCTVPlus2.cn",
+    "Name": "CCTV+ 2",
+    "Country": "CN",
+    "Languages": "zho",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cctvplus.com/",
+    "Logo": "https://i.imgur.com/qSg862A.png",
+    "Streams": [
+      {
+        "Url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGTN.cn",
+    "Name": "CGTN",
+    "Country": "CN",
+    "Languages": "eng,zho",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cgtn.com/tv",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+    "Streams": [
+      {
+        "Url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGTNArabic.cn",
+    "Name": "CGTN Arabic",
+    "Country": "CN",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://arabic.cgtn.com/",
+    "Logo": "https://i.imgur.com/AkFFrS7.png",
+    "Streams": [
+      {
+        "Url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGTNDocumentary.cn",
+    "Name": "CGTN Documentary",
+    "Country": "CN",
+    "Languages": "eng",
+    "Categories": "documentary",
+    "IsNsfw": false,
+    "Website": "https://www.cgtn.com/channel/documentary",
+    "Logo": "https://i.imgur.com/JHv0WxM.png",
+    "Streams": [
+      {
+        "Url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGTNFrench.cn",
+    "Name": "CGTN French",
+    "Country": "CN",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://francais.cgtn.com/",
+    "Logo": "https://i.imgur.com/BwhledK.png",
+    "Streams": [
+      {
+        "Url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGTNRussian.cn",
+    "Name": "CGTN Russian",
+    "Country": "CN",
+    "Languages": "rus",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://russian.cgtn.com/",
+    "Logo": "https://i.imgur.com/nDWkCmL.png",
+    "Streams": [
+      {
+        "Url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CGTNSpanish.cn",
+    "Name": "CGTN Spanish",
+    "Country": "CN",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://espanol.cgtn.com/",
+    "Logo": "https://i.imgur.com/Poz3xfi.png",
+    "Streams": [
+      {
+        "Url": "https://livees.cgtn.com/1000e/prog_index.m3u8"
+      },
+      {
+        "Url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DragonTVInternational.cn",
     "Name": "Dragon TV International",
     "Country": "CN",
@@ -209,21 +347,6 @@
     "Streams": [
       {
         "Url": "https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZhejiangSatelliteTV.cn",
-    "Name": "Zhejiang Satellite TV",
-    "Country": "CN",
-    "Languages": "zho",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.zjstv.com/",
-    "Logo": "https://i.imgur.com/5gQn4uY.png",
-    "Streams": [
-      {
-        "Url": "https://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8"
       }
     ]
   },

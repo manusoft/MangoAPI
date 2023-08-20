@@ -1,5 +1,20 @@
 [
   {
+    "Id": "CNA.dz",
+    "Name": "CNA",
+    "Country": "DZ",
+    "Languages": "ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/MbGX0ST.png",
+    "Streams": [
+      {
+        "Url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SamiraTV.dz",
     "Name": "Samira TV",
     "Country": "DZ",

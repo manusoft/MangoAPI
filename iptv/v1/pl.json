@@ -75,21 +75,6 @@
     ]
   },
   {
-    "Id": "SferaTV.pl",
-    "Name": "Sfera TV",
-    "Country": "PL",
-    "Languages": "pol",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/aK7xfKi.png",
-    "Streams": [
-      {
-        "Url": "http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVDami.pl",
     "Name": "TV Dami",
     "Country": "PL",
@@ -405,6 +390,21 @@
     ]
   },
   {
+    "Id": "TVSlowianin.pl",
+    "Name": "TV Slowianin",
+    "Country": "PL",
+    "Languages": "pol",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tvslowianin.pl/",
+    "Logo": "https://i.ibb.co/xM9nCym/logo-na-strone.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVT.pl",
     "Name": "TVT",
     "Country": "PL",
@@ -450,6 +450,24 @@
     ]
   },
   {
+    "Id": "TVTrwam.pl",
+    "Name": "TV Trwam",
+    "Country": "PL",
+    "Languages": "pol",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv-trwam.pl/",
+    "Logo": "https://i.imgur.com/yq10wS5.png",
+    "Streams": [
+      {
+        "Url": "https://trwamtv.cf.insyscd.net/trwamtv.live/live/eds/tv-trwam/hls_fta/tv-trwam.m3u8"
+      },
+      {
+        "Url": "https://rd.insyscd.net/trwamtv.live/live/eds/tv-trwam/dash_fta/tv-trwam.mpd"
+      }
+    ]
+  },
+  {
     "Id": "TVWielkopolska.pl",
     "Name": "TV Wielkopolska",
     "Country": "PL",
@@ -476,6 +494,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelewizjaImperium.pl",
+    "Name": "Telewizja Imperium",
+    "Country": "PL",
+    "Languages": "pol",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://imperiummedia.pl/",
+    "Logo": "https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png",
+    "Streams": [
+      {
+        "Url": "https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8"
       }
     ]
   },

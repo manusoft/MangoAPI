@@ -1,5 +1,20 @@
 [
   {
+    "Id": "CMCTV.hr",
+    "Name": "CMC TV",
+    "Country": "HR",
+    "Languages": "hrv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://cmc.com.hr/",
+    "Logo": "https://i.imgur.com/EZtflIa.png",
+    "Streams": [
+      {
+        "Url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HRT1.hr",
     "Name": "HRT 1",
     "Country": "HR",

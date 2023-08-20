@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Id": "CBNTV.vg",
+    "Name": "CBN TV",
+    "Country": "VG",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.cbnvirginislands.com/",
+    "Logo": "https://static.wixstatic.com/media/a79bb4_69234cd7684d43fa85e3b8d0c18fe9ee~mv2.png/v1/fill/w_157,h_51,al_c,lg_1,q_85,enc_auto/a79bb4_69234cd7684d43fa85e3b8d0c18fe9ee~mv2.png",
+    "Streams": [
+      {
+        "Url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8"
+      }
+    ]
+  }
+]

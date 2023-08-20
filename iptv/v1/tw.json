@@ -15,6 +15,36 @@
     ]
   },
   {
+    "Id": "CTSNews.tw",
+    "Name": "CTS News",
+    "Country": "TW",
+    "Languages": "zho",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cts.com.tw/",
+    "Logo": "https://i.imgur.com/V1EVtRm.png",
+    "Streams": [
+      {
+        "Url": "http://seb.sason.top/sc/hsxw_fhd.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CTiNews.tw",
+    "Name": "CTi News",
+    "Country": "TW",
+    "Languages": "zho",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.ctitv.com.tw/",
+    "Logo": "https://i.imgur.com/u81tZtA.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DaliTV.tw",
     "Name": "Dali TV",
     "Country": "TW",

@@ -1,20 +1,5 @@
 [
   {
-    "Id": "HaitiNewsChannel.ht",
-    "Name": "Haiti News Channel",
-    "Country": "HT",
-    "Languages": "hat,fra",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://haitinewstv.com/",
-    "Logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
-    "Streams": [
-      {
-        "Url": "https://haititivi.com/website/haitinews/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "HaitiViralNews.ht",
     "Name": "Haiti Viral News",
     "Country": "HT",
@@ -180,21 +165,6 @@
     ]
   },
   {
-    "Id": "TeleLaBrise.ht",
-    "Name": "Tele La Brise",
-    "Country": "HT",
-    "Languages": "fra",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.telelabrise.com/",
-    "Logo": "https://i.imgur.com/MBTj9Nq.png",
-    "Streams": [
-      {
-        "Url": "http://lakay.online/public/telelabrise/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TeleLouange.ht",
     "Name": "Tele Louange",
     "Country": "HT",
@@ -206,6 +176,21 @@
     "Streams": [
       {
         "Url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelePacific.ht",
+    "Name": "Tele Pacific",
+    "Country": "HT",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/jgnOSU1.png",
+    "Streams": [
+      {
+        "Url": "https://pacific.zekletech.com:2002/live/acw_01/index.m3u8"
       }
     ]
   }

@@ -75,6 +75,96 @@
     ]
   },
   {
+    "Id": "CNCMedellin.co",
+    "Name": "CNC Medellin",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canalcncdigital.com/",
+    "Logo": "https://i.imgur.com/J1f4fNq.png",
+    "Streams": [
+      {
+        "Url": "http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNCMonteria.co",
+    "Name": "CNC Monteria",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://cncmonteria.com/senal-en-vivo/",
+    "Logo": "https://cncmonteria.com/wp-content/uploads/2022/02/cropped-CNCMONTERUABLANCOCOOOO-300x108-1.png",
+    "Streams": [
+      {
+        "Url": "https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNCPasto.co",
+    "Name": "CNC Pasto",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cncpasto.com/canal-cnc/",
+    "Logo": "https://i.imgur.com/sFl4XOp.png",
+    "Streams": [
+      {
+        "Url": "https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CTV.co",
+    "Name": "CTV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ctvbarranquilla.com/",
+    "Logo": "https://i.imgur.com/w35ICn7.png",
+    "Streams": [
+      {
+        "Url": "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Cablenoticias.co",
+    "Name": "Cablenoticias",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.cablenoticias.tv/",
+    "Logo": "https://i.imgur.com/FfhOGR9.png",
+    "Streams": [
+      {
+        "Url": "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CaliTV.co",
+    "Name": "CaliTV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canalcalitv.com/",
+    "Logo": "https://i.imgur.com/2312Luq.png",
+    "Streams": [
+      {
+        "Url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal2Alpavision.co",
     "Name": "Canal 2 Alpavision",
     "Country": "CO",
@@ -86,36 +176,6 @@
     "Streams": [
       {
         "Url": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Canal9.co",
-    "Name": "Canal 9",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.cosespu.com/",
-    "Logo": "https://i.imgur.com/w5e1d8k.png",
-    "Streams": [
-      {
-        "Url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanalC.co",
-    "Name": "Canal C",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.canalccali.co/",
-    "Logo": "https://i.imgur.com/gork4XV.png",
-    "Streams": [
-      {
-        "Url": "https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8"
       }
     ]
   },
@@ -236,21 +296,6 @@
     "Streams": [
       {
         "Url": "https://movil.ejeserver.com/live/visiondorada.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CinemaPlus.co",
-    "Name": "Cinema +",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "http://www.canalcinemaplus.net/",
-    "Logo": "https://i.imgur.com/ExZeBRf.png",
-    "Streams": [
-      {
-        "Url": "https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8"
       }
     ]
   },
@@ -390,21 +435,6 @@
     ]
   },
   {
-    "Id": "MovieFe.co",
-    "Name": "MovieFe",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/FqHLJmN.png",
-    "Streams": [
-      {
-        "Url": "https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MulticanalTelevision.co",
     "Name": "Multicanal Television",
     "Country": "CO",
@@ -450,17 +480,17 @@
     ]
   },
   {
-    "Id": "OndabientalTV.co",
-    "Name": "Ondabiental TV",
+    "Id": "OasisTV.co",
+    "Name": "Oasis TV",
     "Country": "CO",
     "Languages": "spa",
-    "Categories": "music,culture",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.colombia.com/tv/ondambiental-tv-bogota-5400",
-    "Logo": "https://i.imgur.com/u5804Au.jpg",
+    "Website": "http://canaloasis.com/",
+    "Logo": "https://i.imgur.com/VKYzFpZ.png",
     "Streams": [
       {
-        "Url": "https://server12.videostreaming.net:3230/stream/play.m3u8"
+        "Url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
       }
     ]
   },
@@ -734,6 +764,9 @@
     "Streams": [
       {
         "Url": "https://hvtraficonew.ddns.net/tvsangil/tvsangil_360p/index.m3u8"
+      },
+      {
+        "Url": "https://hvtraficonew.ddns.net/tvsangil/tvsangil/index.m3u8"
       }
     ]
   },
@@ -764,21 +797,6 @@
     "Streams": [
       {
         "Url": "https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "VeoTelevision.co",
-    "Name": "Veo Television",
-    "Country": "CO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://veotelevision.webnode.com.co/",
-    "Logo": "https://i.imgur.com/9tZae88.png",
-    "Streams": [
-      {
-        "Url": "https://movil.ejeserver.com/live/veotv.m3u8"
       }
     ]
   },

@@ -123,6 +123,66 @@
     ]
   },
   {
+    "Id": "BoaVontadeTV.br",
+    "Name": "Boa Vontade TV",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.boavontade.com/pt/tv",
+    "Logo": "https://i.imgur.com/Ms5tSgu.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BoasNovas.br",
+    "Name": "Boas Novas",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://boasnovas.tv/",
+    "Logo": "https://i.imgur.com/ZqhizdP.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CNNBrasil.br",
+    "Name": "CNN Brasil",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.cnnbrasil.com.br/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CWBTV.br",
+    "Name": "CWB TV",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "family,general",
+    "IsNsfw": false,
+    "Website": "https://www.cwbtv.net/",
+    "Logo": "https://i.imgur.com/S0ISpmU.png",
+    "Streams": [
+      {
+        "Url": "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal25Jundiai.br",
     "Name": "Canal 25 Jundiai",
     "Country": "BR",
@@ -149,21 +209,6 @@
     "Streams": [
       {
         "Url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanalFDR.br",
-    "Name": "Canal FDR",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general,education",
-    "IsNsfw": false,
-    "Website": "https://fdr.org.br/canalfdr/",
-    "Logo": "https://i.imgur.com/7SE4CkE.png",
-    "Streams": [
-      {
-        "Url": "https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8"
       }
     ]
   },
@@ -209,6 +254,21 @@
     "Streams": [
       {
         "Url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanalTVRio.br",
+    "Name": "Canal TV Rio",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canaltvrio.com.br/",
+    "Logo": "https://i.imgur.com/jBRE3BK.png",
+    "Streams": [
+      {
+        "Url": "https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8"
       }
     ]
   },
@@ -264,36 +324,6 @@
     ]
   },
   {
-    "Id": "Catve2.br",
-    "Name": "Catve2",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/qiVfsfB.png",
-    "Streams": [
-      {
-        "Url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CatveFM.br",
-    "Name": "Catve FM",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/w89yw36.png",
-    "Streams": [
-      {
-        "Url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CatveMasterTV.br",
     "Name": "Catve Master TV",
     "Country": "BR",
@@ -305,21 +335,6 @@
     "Streams": [
       {
         "Url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ChromaTV.br",
-    "Name": "Chroma TV",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://chromatv.com.br/",
-    "Logo": "https://i.imgur.com/SnaIMgj.png",
-    "Streams": [
-      {
-        "Url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
       }
     ]
   },
@@ -365,21 +380,6 @@
     "Streams": [
       {
         "Url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ConectaMaisTV.br",
-    "Name": "Conecta Mais TV",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/qHwTWlz.png",
-    "Streams": [
-      {
-        "Url": "http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8"
       }
     ]
   },
@@ -504,21 +504,6 @@
     ]
   },
   {
-    "Id": "Geekdot.br",
-    "Name": "Geekdot",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "animation",
-    "IsNsfw": false,
-    "Website": "https://geekdot.live/",
-    "Logo": "https://i.imgur.com/jML1u4O.png",
-    "Streams": [
-      {
-        "Url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GospelCartoon.br",
     "Name": "Gospel Cartoon",
     "Country": "BR",
@@ -560,6 +545,21 @@
     "Streams": [
       {
         "Url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ISTV.br",
+    "Name": "ISTV",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.istv.com.br/",
+    "Logo": "https://i.imgur.com/RUKVrOH.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
       }
     ]
   },
@@ -927,6 +927,21 @@
     ]
   },
   {
+    "Id": "RBTV.br",
+    "Name": "RBTV",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rbtv.com.br/",
+    "Logo": "https://i.imgur.com/m7JDxXJ.png",
+    "Streams": [
+      {
+        "Url": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RecordNews.br",
     "Name": "Record News",
     "Country": "BR",
@@ -941,6 +956,21 @@
       },
       {
         "Url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RedeBrasil.br",
+    "Name": "Rede Brasil",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://rbtv.com.br/",
+    "Logo": "https://i.imgur.com/TXJKwzZ.png",
+    "Streams": [
+      {
+        "Url": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8"
       }
     ]
   },
@@ -1050,21 +1080,6 @@
     ]
   },
   {
-    "Id": "RedeQDM.br",
-    "Name": "Rede QDM",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://clube.atitudenew.com/redeqdm/",
-    "Logo": "https://i.imgur.com/Lxqb2cU.png",
-    "Streams": [
-      {
-        "Url": "https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "RedeSPTV.br",
     "Name": "Rede SPTV",
     "Country": "BR",
@@ -1091,36 +1106,6 @@
     "Streams": [
       {
         "Url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RedeTV.br",
-    "Name": "Rede TV!",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ZJgD38F.png",
-    "Streams": [
-      {
-        "Url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RedeTVTocantins.br",
-    "Name": "RedeTV! Tocantins",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/SEe2ki7.png",
-    "Streams": [
-      {
-        "Url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8"
       }
     ]
   },
@@ -1530,21 +1515,6 @@
     ]
   },
   {
-    "Id": "TVBeltrao.br",
-    "Name": "TV Beltrao",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://tvbeltrao.com.br/",
-    "Logo": "https://i.imgur.com/JxsyXCD.png",
-    "Streams": [
-      {
-        "Url": "https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVBirigui.br",
     "Name": "TV Birigui",
     "Country": "BR",
@@ -1571,36 +1541,6 @@
     "Streams": [
       {
         "Url": "https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVBrasilOeste.br",
-    "Name": "TV Brasil Oeste",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.tbomt.com.br/",
-    "Logo": "https://i.imgur.com/noqGfuy.png",
-    "Streams": [
-      {
-        "Url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVBrusque.br",
-    "Name": "TV Brusque",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.tvbrusque.com.br/",
-    "Logo": "https://i.imgur.com/J2EAZPS.png",
-    "Streams": [
-      {
-        "Url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
       }
     ]
   },
@@ -1695,6 +1635,24 @@
     ]
   },
   {
+    "Id": "TVCandides.br",
+    "Name": "TV Candides",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.candides.com/",
+    "Logo": "https://i.imgur.com/evKq5ze.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8"
+      },
+      {
+        "Url": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVCaravelas.br",
     "Name": "TV Caravelas",
     "Country": "BR",
@@ -1706,21 +1664,6 @@
     "Streams": [
       {
         "Url": "https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVCidadeCanal9.br",
-    "Name": "TV Cidade Canal 9",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/3AyMeWx.png",
-    "Streams": [
-      {
-        "Url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8"
       }
     ]
   },
@@ -2058,17 +2001,17 @@
     ]
   },
   {
-    "Id": "TVGuarapari.br",
-    "Name": "TV Guarapari",
+    "Id": "TVInforBahia.br",
+    "Name": "TV InforBahia",
     "Country": "BR",
     "Languages": "por",
     "Categories": "general",
     "IsNsfw": false,
-    "Website": "https://www.tvguarapari.com/",
-    "Logo": "https://i.imgur.com/eDNzwK0.png",
+    "Website": "https://inforbahia.com.br/",
+    "Logo": "https://i.imgur.com/KdNQfza.png",
     "Streams": [
       {
-        "Url": "http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8"
+        "Url": "https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8"
       }
     ]
   },
@@ -2208,6 +2151,21 @@
     ]
   },
   {
+    "Id": "TVMaisBrasil.br",
+    "Name": "TV Mais Brasil",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.tvmaisbrasil.com.br/",
+    "Logo": "https://i.imgur.com/CUHZhGc.png",
+    "Streams": [
+      {
+        "Url": "http://sevensp.homelinux.com/live/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVMaisMarica.br",
     "Name": "TV Mais Marica",
     "Country": "BR",
@@ -2249,21 +2207,6 @@
     "Streams": [
       {
         "Url": "https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVMetropole.br",
-    "Name": "TV Metropole",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/bJyjLpg.png",
-    "Streams": [
-      {
-        "Url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
       }
     ]
   },
@@ -2361,6 +2304,21 @@
     ]
   },
   {
+    "Id": "TVOsorioNews.br",
+    "Name": "TV Osorio News",
+    "Country": "BR",
+    "Languages": "por",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.tvosorionews.com.br/",
+    "Logo": "https://i.imgur.com/cmgM4nA.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVPadreCicero.br",
     "Name": "TV Padre Cicero",
     "Country": "BR",
@@ -2390,36 +2348,6 @@
       },
       {
         "Url": "https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVPampa.br",
-    "Name": "TV Pampa",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.tvpampa.com.br/",
-    "Logo": "https://i.imgur.com/Cnc1Mqo.png",
-    "Streams": [
-      {
-        "Url": "https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVPampaNorte.br",
-    "Name": "TV Pampa Norte",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tvpampa.com.br/",
-    "Logo": "https://i.imgur.com/R7P5tcF.png",
-    "Streams": [
-      {
-        "Url": "https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8"
       }
     ]
   },
@@ -2585,21 +2513,6 @@
     "Streams": [
       {
         "Url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVSimSaoMateus.br",
-    "Name": "TV Sim Sao Mateus",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.simnoticias.com.br/ao-vivo-tv-sim-sao-mateus/",
-    "Logo": "https://i.imgur.com/t5oUK3C.png",
-    "Streams": [
-      {
-        "Url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
       }
     ]
   },
@@ -2870,21 +2783,6 @@
     "Streams": [
       {
         "Url": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
-      }
-    ]
-  },
-  {
-    "Id": "UnisulTV.br",
-    "Name": "Unisul TV",
-    "Country": "BR",
-    "Languages": "por",
-    "Categories": "education,culture",
-    "IsNsfw": false,
-    "Website": "http://unisultv.blogspot.com/",
-    "Logo": "https://i.imgur.com/N0TvAFz.png",
-    "Streams": [
-      {
-        "Url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
       }
     ]
   },
