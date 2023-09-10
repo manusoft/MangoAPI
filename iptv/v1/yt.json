@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Id": "MayotteOneTV.yt",
+    "Name": "Mayotte One TV",
+    "Country": "YT",
+    "Languages": "fra",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://mayotteone.fr/",
+    "Logo": "https://i.imgur.com/7oLUSeO.png",
+    "Streams": [
+      {
+        "Url": "https://live.mytv.yt:3946/multi_web/play.m3u8"
+      }
+    ]
+  }
+]

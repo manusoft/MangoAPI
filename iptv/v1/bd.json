@@ -105,21 +105,6 @@
     ]
   },
   {
-    "Id": "BTVWorld.bd",
-    "Name": "BTV World",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://btv.portal.gov.bd/site/page/b4019b08-33a6-4d3a-859a-53c77f522942/-",
-    "Logo": "https://i.imgur.com/sSnrg7o.png",
-    "Streams": [
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Bangla21TV.bd",
     "Name": "Bangla21 TV",
     "Country": "BD",
@@ -161,36 +146,6 @@
     "Streams": [
       {
         "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BoishakhiTV.bd",
-    "Name": "Boishakhi TV",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://boishakhionline.com/",
-    "Logo": "https://i.imgur.com/gxL05Y4.png",
-    "Streams": [
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BoishakhiTVPlus.bd",
-    "Name": "Boishakhi TV Plus",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg",
-    "Streams": [
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/playlist.m3u8"
       }
     ]
   },
@@ -285,47 +240,17 @@
     ]
   },
   {
-    "Id": "GreenTV.bd",
-    "Name": "Green TV",
+    "Id": "MadaniChannelBangla.bd",
+    "Name": "Madani Channel Bangla",
     "Country": "BD",
     "Languages": "ben",
-    "Categories": "entertainment",
+    "Categories": "religious",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg",
+    "Website": "https://madanichannelbangla.tv/",
+    "Logo": "https://i.imgur.com/vIJTVia.png",
     "Streams": [
       {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IndependentTV.bd",
-    "Name": "Independent TV",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://independent24.com/",
-    "Logo": "https://i.imgur.com/POXFhGN.png",
-    "Streams": [
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JamunaTV.bd",
-    "Name": "Jamuna TV",
-    "Country": "BD",
-    "Languages": "ben",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.jamuna.tv/",
-    "Logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
-    "Streams": [
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8"
+        "Url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
       }
     ]
   },
@@ -359,9 +284,6 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8"
       }
     ]
   },
@@ -431,9 +353,6 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8"
       }
     ]
   },
@@ -449,9 +368,6 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8"
       }
     ]
   },
@@ -467,9 +383,6 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8"
       }
     ]
   },
@@ -521,9 +434,6 @@
     "Streams": [
       {
         "Url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8"
       }
     ]
   },

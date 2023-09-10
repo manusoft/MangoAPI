@@ -1,5 +1,20 @@
 [
   {
+    "Id": "Canal11TuTV.sv",
+    "Name": "Canal 11 TuTV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.canal11.com.sv/",
+    "Logo": "https://i.imgur.com/x3ZJVwk.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal12.sv",
     "Name": "Canal 12",
     "Country": "SV",
@@ -105,6 +120,21 @@
     ]
   },
   {
+    "Id": "TVCa.sv",
+    "Name": "TVCa",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://tvcaelsalvador.org/",
+    "Logo": "https://i.imgur.com/6cYaSuk.png",
+    "Streams": [
+      {
+        "Url": "https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVX.sv",
     "Name": "TVX",
     "Country": "SV",
@@ -131,6 +161,21 @@
     "Streams": [
       {
         "Url": "https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TribunaTV.sv",
+    "Name": "Tribuna TV",
+    "Country": "SV",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tribunatv.us/",
+    "Logo": "https://i.imgur.com/C5vHpd0.png",
+    "Streams": [
+      {
+        "Url": "https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8"
       }
     ]
   },

@@ -423,6 +423,21 @@
     ]
   },
   {
+    "Id": "PhuYenTV.vn",
+    "Name": "Phu Yen TV",
+    "Country": "VN",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.ptpphuyen.vn/",
+    "Logo": "https://i.imgur.com/fYYS9QS.png",
+    "Streams": [
+      {
+        "Url": "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "QPVN.vn",
     "Name": "QPVN",
     "Country": "VN",
@@ -464,9 +479,6 @@
     "Streams": [
       {
         "Url": "https://media.quochoitv.vn/live/qhtv_720p/index.m3u8"
-      },
-      {
-        "Url": "http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8"
       }
     ]
   },
@@ -572,6 +584,21 @@
     "Streams": [
       {
         "Url": "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TuyenQuangTV.vn",
+    "Name": "Tuyen Quang TV",
+    "Country": "VN",
+    "Languages": "vie",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tuyenquangtv.vn/",
+    "Logo": "https://i.imgur.com/OkAstWv.png",
+    "Streams": [
+      {
+        "Url": "https://live.tuyenquangtv.vn/hls/ttv.m3u8"
       }
     ]
   },

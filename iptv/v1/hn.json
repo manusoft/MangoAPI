@@ -1,5 +1,20 @@
 [
   {
+    "Id": "45TV.hn",
+    "Name": "45 TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://45tvhn.com/",
+    "Logo": "https://i.imgur.com/SjUnQlg.png",
+    "Streams": [
+      {
+        "Url": "https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AZATVHD.hn",
     "Name": "AZA TV HD",
     "Country": "HN",
@@ -26,6 +41,21 @@
     "Streams": [
       {
         "Url": "https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlfaOmegaVision.hn",
+    "Name": "Alfa & Omega Vision",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4BSKCQT.png",
+    "Streams": [
+      {
+        "Url": "https://srv.panelcast.net/dorian/dorian/playlist.m3u8"
       }
     ]
   },
@@ -105,32 +135,17 @@
     ]
   },
   {
-    "Id": "CeibaVisionCanal36.hn",
-    "Name": "Ceiba Vision Canal 36",
+    "Id": "Canal51.hn",
+    "Name": "Canal 51",
     "Country": "HN",
     "Languages": "spa",
-    "Categories": "",
+    "Categories": "general",
     "IsNsfw": false,
-    "Website": "http://www.ceibavision.com/",
-    "Logo": "https://i.imgur.com/90h9abf.png",
+    "Website": "https://cn51hn.com/",
+    "Logo": "https://i.imgur.com/xhVEEA1.png",
     "Streams": [
       {
-        "Url": "http://154.53.36.15:1935/CANAL36/myStream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CholusatSur36.hn",
-    "Name": "Cholusat Sur 36",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://cholusatsur.com/",
-    "Logo": "https://i.imgur.com/6qL2hE5.png",
-    "Streams": [
-      {
-        "Url": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8"
+        "Url": "https://tvcn51.com/hls/cn51480.m3u8"
       }
     ]
   },
@@ -210,17 +225,47 @@
     ]
   },
   {
-    "Id": "EbenezerTV.hn",
-    "Name": "Ebenezer TV",
+    "Id": "GloboTV.hn",
+    "Name": "Globo TV",
     "Country": "HN",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/IC30j61.png",
+    "Website": "https://www.globotvhonduras.com/",
+    "Logo": "https://i.imgur.com/hxGvZ77.png",
     "Streams": [
       {
-        "Url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
+        "Url": "https://panel.dattalive.com/8122/8122/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GuayapeTV.hn",
+    "Name": "Guayape TV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://guayapetv.hn/",
+    "Logo": "https://i.imgur.com/cteBdAJ.jpg",
+    "Streams": [
+      {
+        "Url": "https://srv6.zcast.com.br/guayapetv/guayapetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ImagenFM1051.hn",
+    "Name": "Imagen FM 105.1",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.imagenfm105-1.com/",
+    "Logo": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
+    "Streams": [
+      {
+        "Url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
       }
     ]
   },
@@ -270,17 +315,17 @@
     ]
   },
   {
-    "Id": "LTV.hn",
-    "Name": "LTV",
+    "Id": "LencaTV.hn",
+    "Name": "Lenca TV",
     "Country": "HN",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.ltv.hn/",
-    "Logo": "https://i.imgur.com/KBYUOcP.png",
+    "Website": "http://www.lencatelevision.com/",
+    "Logo": "https://i.imgur.com/fc5IHSy.png",
     "Streams": [
       {
-        "Url": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
+        "Url": "https://www.lencatelevision.com/hls/stream.m3u8"
       }
     ]
   },
@@ -300,21 +345,6 @@
     ]
   },
   {
-    "Id": "QhuboTV.hn",
-    "Name": "Q'hubo TV",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://qhubotv.com/",
-    "Logo": "https://i.imgur.com/yZmnfvj.png",
-    "Streams": [
-      {
-        "Url": "https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "RHCTV.hn",
     "Name": "RHC TV",
     "Country": "HN",
@@ -326,6 +356,36 @@
     "Streams": [
       {
         "Url": "https://srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTV.hn",
+    "Name": "RTV",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/c8wAvxC.png",
+    "Streams": [
+      {
+        "Url": "https://stmv1.zcasthn.com.br/rtv/rtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioIdeal.hn",
+    "Name": "Radio Ideal",
+    "Country": "HN",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.idealfm104-7.com/",
+    "Logo": "https://i.imgur.com/chPfoOs.png",
+    "Streams": [
+      {
+        "Url": "https://www.idealfm104-7.com/hls/0/stream.m3u8"
       }
     ]
   },
@@ -378,21 +438,6 @@
     ]
   },
   {
-    "Id": "TSi.hn",
-    "Name": "TSi",
-    "Country": "HN",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.televicentro.hn/",
-    "Logo": "https://i.imgur.com/GEyxDnf.png",
-    "Streams": [
-      {
-        "Url": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVCopan.hn",
     "Name": "TV Copan",
     "Country": "HN",
@@ -423,32 +468,32 @@
     ]
   },
   {
-    "Id": "Teleceiba.hn",
-    "Name": "Teleceiba",
+    "Id": "TeleProgreso.hn",
+    "Name": "TeleProgreso",
     "Country": "HN",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "http://teleceiba.com/",
-    "Logo": "https://i.imgur.com/oPSfsvy.png",
+    "Website": "https://www.teleprogreso.tv/",
+    "Logo": "https://i.imgur.com/yBDI3AF.png",
     "Streams": [
       {
-        "Url": "https://920cd9e18619.ngrok.app/hls/stream.m3u8"
+        "Url": "https://stmv1.zcasthn.com.br/4848/4848/playlist.m3u8"
       }
     ]
   },
   {
-    "Id": "TelevisionMetropolis192.hn",
-    "Name": "Television Metropolis 19.2",
+    "Id": "Telerayo.hn",
+    "Name": "Telerayo",
     "Country": "HN",
     "Languages": "spa",
-    "Categories": "general",
+    "Categories": "entertainment",
     "IsNsfw": false,
-    "Website": "https://comunicacionesmetropolis.com/",
-    "Logo": "https://i.imgur.com/QaocW5x.png",
+    "Website": "https://www.telerayo.tv/",
+    "Logo": "https://i.imgur.com/jLQsU1u.png",
     "Streams": [
       {
-        "Url": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
+        "Url": "https://emisoras.hn:8081/telerayo/index.m3u8"
       }
     ]
   },

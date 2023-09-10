@@ -90,36 +90,6 @@
     ]
   },
   {
-    "Id": "AtacamaNoticias.cl",
-    "Name": "Atacama Noticias",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.atacamanoticias.cl/",
-    "Logo": "https://i.imgur.com/Avx4Ecf.png",
-    "Streams": [
-      {
-        "Url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AtacamaTV.cl",
-    "Name": "Atacama TV",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://atacamatelevision.com/",
-    "Logo": "https://i.imgur.com/GG8y4A9.png",
-    "Streams": [
-      {
-        "Url": "https://v2.tustreaming.cl/atacamatv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AutonomaTV.cl",
     "Name": "Autonoma TV",
     "Country": "CL",
@@ -191,21 +161,6 @@
     "Streams": [
       {
         "Url": "https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CDTV.cl",
-    "Name": "CDTV",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://cdtv.cl/",
-    "Logo": "https://i.imgur.com/pMnk2TH.png",
-    "Streams": [
-      {
-        "Url": "https://tls-cl.cdnz.cl/camara/live/playlist.m3u8"
       }
     ]
   },
@@ -345,21 +300,6 @@
     ]
   },
   {
-    "Id": "Canal9BioBioTelevision.cl",
-    "Name": "Canal 9 Bio-Bio Television",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.canal9.cl/",
-    "Logo": "https://i.imgur.com/J2G1WMs.png",
-    "Streams": [
-      {
-        "Url": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CanalISB.cl",
     "Name": "Canal ISB",
     "Country": "CL",
@@ -435,21 +375,6 @@
     ]
   },
   {
-    "Id": "ChileChannel.cl",
-    "Name": "Chile Channel",
-    "Country": "CL",
-    "Languages": "spa,eng",
-    "Categories": "travel,entertainment",
-    "IsNsfw": false,
-    "Website": "https://chilechanneltv.cl/",
-    "Logo": "https://i.imgur.com/F1it6fh.png",
-    "Streams": [
-      {
-        "Url": "https://v2.tustreaming.cl/chilechannel/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ConcepcionTV.cl",
     "Name": "Concepcion TV",
     "Country": "CL",
@@ -476,6 +401,21 @@
     "Streams": [
       {
         "Url": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CosmosTV.cl",
+    "Name": "Cosmos TV",
+    "Country": "CL",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://globalcosmos.cl/",
+    "Logo": "https://i2.paste.pics/ed2fce1f9fe98a5c7dec95777c201497.png",
+    "Streams": [
+      {
+        "Url": "https://v1.tustreaming.cl/cosmostv/index.m3u8"
       }
     ]
   },
@@ -693,21 +633,6 @@
     ]
   },
   {
-    "Id": "Girovisual.cl",
-    "Name": "Girovisual",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://girovisualtv.com/",
-    "Logo": "https://i.imgur.com/BYBMuhf.png",
-    "Streams": [
-      {
-        "Url": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GraciaTV.cl",
     "Name": "Gracia TV",
     "Country": "CL",
@@ -768,17 +693,17 @@
     ]
   },
   {
-    "Id": "HuascoTelevision.cl",
-    "Name": "Huasco Television",
+    "Id": "ITVPatagonia.cl",
+    "Name": "ITV Patagonia",
     "Country": "CL",
     "Languages": "spa",
-    "Categories": "general",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "http://www.huascotelevisionstreaming.cl/",
-    "Logo": "https://i.imgur.com/Fo2DV70.png",
+    "Website": "https://www.itvpatagonia.com/",
+    "Logo": "https://i.imgur.com/BRLobYe.png",
     "Streams": [
       {
-        "Url": "https://paneltv.online:1936/8024/8024/playlist.m3u8"
+        "Url": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
       }
     ]
   },
@@ -869,21 +794,6 @@
     "Streams": [
       {
         "Url": "https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "MaderoTV.cl",
-    "Name": "Madero TV",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.maderotv.cl/",
-    "Logo": "https://i.imgur.com/VNE88hN.png",
-    "Streams": [
-      {
-        "Url": "https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8"
       }
     ]
   },
@@ -1034,21 +944,6 @@
     "Streams": [
       {
         "Url": "https://unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "PichilemuTV.cl",
-    "Name": "Pichilemu TV",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://pichilemutv.org/",
-    "Logo": "https://i.imgur.com/eaJVCwM.png",
-    "Streams": [
-      {
-        "Url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8"
       }
     ]
   },
@@ -1218,17 +1113,47 @@
     ]
   },
   {
-    "Id": "SURTV.cl",
-    "Name": "SUR TV",
+    "Id": "RetroPlus.cl",
+    "Name": "Retro Plus",
     "Country": "CL",
-    "Languages": "spa",
-    "Categories": "general",
+    "Languages": "eng,spa",
+    "Categories": "music",
     "IsNsfw": false,
-    "Website": "https://www.surtv.cl/",
-    "Logo": "https://i.imgur.com/wDCqoor.png",
+    "Website": "https://www.retroplustv.com/",
+    "Logo": "https://i.imgur.com/fkCasXI.png",
     "Streams": [
       {
-        "Url": "https://paneltv.online:1936/8034/8034/playlist.m3u8"
+        "Url": "https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RetroPlus2.cl",
+    "Name": "Retro Plus 2",
+    "Country": "CL",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.retroplustv.com/",
+    "Logo": "https://i.imgur.com/5G5kian.png",
+    "Streams": [
+      {
+        "Url": "https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RetroPlus3.cl",
+    "Name": "Retro Plus 3",
+    "Country": "CL",
+    "Languages": "spa",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.retroplustv.com/",
+    "Logo": "https://i.imgur.com/i0rZsgG.png",
+    "Streams": [
+      {
+        "Url": "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8"
       }
     ]
   },
@@ -1407,21 +1332,6 @@
     ]
   },
   {
-    "Id": "TVElqui.cl",
-    "Name": "TV Elqui",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tvelqui.cl/",
-    "Logo": "https://i.imgur.com/M1TrXjy.png",
-    "Streams": [
-      {
-        "Url": "https://paneltv.online:1936/8056/8056/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVM.cl",
     "Name": "TVM",
     "Country": "CL",
@@ -1557,6 +1467,21 @@
     ]
   },
   {
+    "Id": "Tele2WebRetiro.cl",
+    "Name": "Tele 2 Web Retiro",
+    "Country": "CL",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tele2web.cl/",
+    "Logo": "https://i.imgur.com/b9CN0pZ.png",
+    "Streams": [
+      {
+        "Url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Telecanal.cl",
     "Name": "Telecanal",
     "Country": "CL",
@@ -1598,21 +1523,6 @@
     "Streams": [
       {
         "Url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TendenciasPrime.cl",
-    "Name": "Tendencias Prime",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tendenciastv.cl/",
-    "Logo": "https://i.imgur.com/nDWW4m7.png",
-    "Streams": [
-      {
-        "Url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8"
       }
     ]
   },
@@ -1832,21 +1742,6 @@
     "Streams": [
       {
         "Url": "https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZonaPlayTV.cl",
-    "Name": "Zona Play TV",
-    "Country": "CL",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/GewcpHv.png",
-    "Streams": [
-      {
-        "Url": "https://paneltv.online:1936/8100/8100/playlist.m3u8"
       }
     ]
   }

@@ -18,21 +18,6 @@
     ]
   },
   {
-    "Id": "Hidabroot.il",
-    "Name": "Hidabroot",
-    "Country": "IL",
-    "Languages": "heb",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://www.hidabroot.org/",
-    "Logo": "https://i.imgur.com/CTH4Hu2.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "I24NewsArabic.il",
     "Name": "I24 News Arabic",
     "Country": "IL",
@@ -107,6 +92,21 @@
     "Streams": [
       {
         "Url": "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KnessetChannel.il",
+    "Name": "Knesset Channel",
+    "Country": "IL",
+    "Languages": "heb",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://main.knesset.gov.il/",
+    "Logo": "https://i.imgur.com/QXB1jv8.png",
+    "Streams": [
+      {
+        "Url": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8"
       }
     ]
   },

@@ -60,36 +60,6 @@
     ]
   },
   {
-    "Id": "Belarus5.by",
-    "Name": "Belarus-5",
-    "Country": "BY",
-    "Languages": "rus",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "http://tvr.by/",
-    "Logo": "https://i.imgur.com/NJsRFud.png",
-    "Streams": [
-      {
-        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Belarus5Internet.by",
-    "Name": "Belarus-5 Internet",
-    "Country": "BY",
-    "Languages": "rus",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "http://tvr.by/",
-    "Logo": "https://i.imgur.com/rzPQ9Iz.png",
-    "Streams": [
-      {
-        "Url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Channel8Belarus.by",
     "Name": "Channel 8 Belarus",
     "Country": "BY",

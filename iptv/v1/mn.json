@@ -105,21 +105,6 @@
     ]
   },
   {
-    "Id": "MNBSport.mn",
-    "Name": "MNB Sport",
-    "Country": "MN",
-    "Languages": "mon",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "http://www.mnb.mn/",
-    "Logo": "https://i.imgur.com/z854PC3.png",
-    "Streams": [
-      {
-        "Url": "https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MNBWorld.mn",
     "Name": "MNB World",
     "Country": "MN",

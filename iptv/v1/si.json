@@ -33,6 +33,51 @@
     ]
   },
   {
+    "Id": "Nova24TV.si",
+    "Name": "Nova24TV",
+    "Country": "SI",
+    "Languages": "slv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nova24tv.si/",
+    "Logo": "https://i.imgur.com/M2207Vh.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCjYCgkpX1eQCTne99oT63yA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Nova24TV2.si",
+    "Name": "Nova24TV 2",
+    "Country": "SI",
+    "Languages": "slv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://nova24tv.si/",
+    "Logo": "https://i.imgur.com/yGAsSJm.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCOGseusAY1nMkEhpmmz6Mmg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioAktualTV.si",
+    "Name": "Radio Aktual TV",
+    "Country": "SI",
+    "Languages": "slv",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://radioaktual.svet24.si/",
+    "Logo": "https://i.imgur.com/hIJcIaj.png",
+    "Streams": [
+      {
+        "Url": "https://vr1.radioaktual.si/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SIPTV.si",
     "Name": "SIP TV",
     "Country": "SI",
@@ -48,17 +93,32 @@
     ]
   },
   {
-    "Id": "TVSehara.si",
-    "Name": "TV Sehara",
+    "Id": "TelevizijaUrslja.si",
+    "Name": "Televizija Urslja",
     "Country": "SI",
-    "Languages": "bos",
-    "Categories": "music",
+    "Languages": "slv",
+    "Categories": "general",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/189FW4H.png",
+    "Website": "https://www.urslja.tv/",
+    "Logo": "https://i.imgur.com/PZwdXlN.png",
     "Streams": [
       {
-        "Url": "http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8"
+        "Url": "http://ott.sgn.net/hls/tvurslja.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TopTV.si",
+    "Name": "Top TV",
+    "Country": "SI",
+    "Languages": "slv",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/bQLi5ts.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCsvbFFKlD-oZXO9igJfcdJw.m3u8"
       }
     ]
   },
@@ -74,6 +134,9 @@
     "Streams": [
       {
         "Url": "https://stream.veseljak.tv/hls/stream.m3u8"
+      },
+      {
+        "Url": "https://vr.veseljak.tv/hls/stream.m3u8"
       }
     ]
   }

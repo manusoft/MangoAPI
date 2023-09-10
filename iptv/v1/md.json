@@ -15,17 +15,17 @@
     ]
   },
   {
-    "Id": "DrochiaTV.md",
-    "Name": "Drochia TV",
+    "Id": "Moldova2.md",
+    "Name": "Moldova 2",
     "Country": "MD",
     "Languages": "ron",
     "Categories": "general",
     "IsNsfw": false,
-    "Website": "https://drochia.tv/",
-    "Logo": "https://i.imgur.com/O6YZ0D5.png",
+    "Website": "https://trm.md/ro/moldova-2",
+    "Logo": "https://i.imgur.com/Hv6Nk8A.png",
     "Streams": [
       {
-        "Url": "https://hls.drochia.tv/tv/web.m3u8"
+        "Url": "https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8"
       }
     ]
   },
@@ -74,21 +74,6 @@
       },
       {
         "Url": "https://livebeta.publika.md/LIVE/P/6810.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RealitateaTV.md",
-    "Name": "Realitatea TV",
-    "Country": "MD",
-    "Languages": "ron",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://realitatea.md/",
-    "Logo": "https://i.imgur.com/Ul4IIfX.png",
-    "Streams": [
-      {
-        "Url": "https://realitatealive.md/tv/rlive.m3u8"
       }
     ]
   },
@@ -149,6 +134,9 @@
     "Streams": [
       {
         "Url": "http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8"
+      },
+      {
+        "Url": "https://storage.voceabasarabiei.md/hls/vocea_basarabiei.m3u8"
       }
     ]
   }

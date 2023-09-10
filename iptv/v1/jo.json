@@ -1,20 +1,5 @@
 [
   {
-    "Id": "AOneTV.jo",
-    "Name": "A One TV",
-    "Country": "JO",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://www.lyngsat.com/logo/tv/aa/a-one-tv-jo.png",
-    "Streams": [
-      {
-        "Url": "https://master.starmena-cloud.com/hls/a1jo.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlMamlakaTV.jo",
     "Name": "Al Mamlaka TV",
     "Country": "JO",
@@ -75,32 +60,17 @@
     ]
   },
   {
-    "Id": "IsmaoonaTV.jo",
-    "Name": "Ismaoona TV",
+    "Id": "Hala.jo",
+    "Name": "Hala",
     "Country": "JO",
     "Languages": "ara",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.ismaoona.com/",
-    "Logo": "https://i.imgur.com/HZuLTz8.png",
+    "Website": "https://www.hala.jo/",
+    "Logo": "https://i.imgur.com/uKXgZjN.png",
     "Streams": [
       {
-        "Url": "http://82.212.74.4:8000/live/2105.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "JawharaFM.jo",
-    "Name": "Jawhara FM",
-    "Country": "JO",
-    "Languages": "ara",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",
-    "Streams": [
-      {
-        "Url": "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8"
+        "Url": "https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8"
       }
     ]
   },

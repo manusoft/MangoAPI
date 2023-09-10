@@ -1,5 +1,20 @@
 [
   {
+    "Id": "HaitiNewsChannel.ht",
+    "Name": "Haiti News Channel",
+    "Country": "HT",
+    "Languages": "hat,fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://haitinewstv.com/",
+    "Logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+    "Streams": [
+      {
+        "Url": "https://haititivi.com/website/haitinews/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "HaitiViralNews.ht",
     "Name": "Haiti Viral News",
     "Country": "HT",
@@ -71,6 +86,9 @@
     "Streams": [
       {
         "Url": "https://lakay.online/relay/teleeclair/index.fmp4.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCOvGbDh5biuOqjx6G3CdrQg.m3u8"
       }
     ]
   },
@@ -120,6 +138,21 @@
     ]
   },
   {
+    "Id": "RadioTeleShalom.ht",
+    "Name": "Radio Tele Shalom",
+    "Country": "HT",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/jkA1ons.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCBJ9zxns1hxblYZw4urBd_w.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RadioTeleStanneCharitab.ht",
     "Name": "Radio Tele Stanne Charitab",
     "Country": "HT",
@@ -150,17 +183,32 @@
     ]
   },
   {
-    "Id": "TVPanou.ht",
-    "Name": "TV Panou",
+    "Id": "TVCaraibes.ht",
+    "Name": "TV Caraibes",
     "Country": "HT",
-    "Languages": "eng",
+    "Languages": "fra",
     "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/zee6sWn.png",
+    "Website": "https://www.radiotelecaraibes.com/",
+    "Logo": "https://i.imgur.com/OdOCGiW.png",
     "Streams": [
       {
-        "Url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleLaBrise.ht",
+    "Name": "Tele La Brise",
+    "Country": "HT",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.telelabrise.com/",
+    "Logo": "https://i.imgur.com/MBTj9Nq.png",
+    "Streams": [
+      {
+        "Url": "http://lakay.online/public/telelabrise/index.m3u8"
       }
     ]
   },

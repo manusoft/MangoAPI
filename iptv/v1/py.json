@@ -1,5 +1,20 @@
 [
   {
+    "Id": "4DmasNoticiasTV.py",
+    "Name": "4DmasNoticias TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+    "Streams": [
+      {
+        "Url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "5DiasTV.py",
     "Name": "5Dias TV",
     "Country": "PY",
@@ -116,21 +131,6 @@
     "Streams": [
       {
         "Url": "https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "FarraPlay.py",
-    "Name": "Farra Play",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "http://www.farra.com.py/",
-    "Logo": "https://i.imgur.com/bXWzstH.png",
-    "Streams": [
-      {
-        "Url": "http://159.203.148.226/live/farra.m3u8"
       }
     ]
   },
@@ -255,6 +255,21 @@
     ]
   },
   {
+    "Id": "OviedoTV.py",
+    "Name": "Oviedo TV",
+    "Country": "PY",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.oviedotv.com.py/",
+    "Logo": "https://i.imgur.com/6OlfgSQ.png",
+    "Streams": [
+      {
+        "Url": "https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RCCTV.py",
     "Name": "RCC TV",
     "Country": "PY",
@@ -311,21 +326,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCMXLvWR4z1Z4P4JvubxMQtg.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SomosdelEste.py",
-    "Name": "Somos del Este",
-    "Country": "PY",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://somosdeleste.com.py/",
-    "Logo": "https://i.imgur.com/xkT9d1a.png",
-    "Streams": [
-      {
-        "Url": "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8"
       }
     ]
   },

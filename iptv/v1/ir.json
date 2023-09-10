@@ -120,6 +120,21 @@
     ]
   },
   {
+    "Id": "AsilTV.ir",
+    "Name": "Asil TV",
+    "Country": "IR",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://webtv.islamasil.net/",
+    "Logo": "https://i.imgur.com/gROQqFD.png",
+    "Streams": [
+      {
+        "Url": "https://live.asil.tv/asiltv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AssiratTV.ir",
     "Name": "Assirat TV",
     "Country": "IR",
@@ -165,6 +180,21 @@
     ]
   },
   {
+    "Id": "GEMAcademy.ir",
+    "Name": "GEM Academy",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/Zcu2xxN.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemacademy/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "GEMBollywood.ir",
     "Name": "GEM Bollywood",
     "Country": "IR",
@@ -176,6 +206,9 @@
     "Streams": [
       {
         "Url": "https://hd.90minlive.online/live/gemboll/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzc6NTYgQU0maGFzaF92YWx1ZT0vcXgzTDRsLzlkTjZYSVpmRTYwUklnPT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemboll/playlist.m3u8"
       }
     ]
   },
@@ -191,6 +224,9 @@
     "Streams": [
       {
         "Url": "https://hd.90minlive.online/live/gemclass/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6MDkgQU0maGFzaF92YWx1ZT16VVBQYkFVbm1XOUdrTUVEQzAvOWN3PT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemclass/playlist.m3u8"
       }
     ]
   },
@@ -206,6 +242,9 @@
     "Streams": [
       {
         "Url": "https://hd.90minlive.online/live/gemdrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6MjQgQU0maGFzaF92YWx1ZT1MREI3Y3dqTWdNbEJMVzlUNTFINFN3PT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemdrama/playlist.m3u8"
       }
     ]
   },
@@ -221,6 +260,24 @@
     "Streams": [
       {
         "Url": "https://hd.90minlive.online/live/gemfilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDE6MTkgQU0maGFzaF92YWx1ZT1FNlVXRUl3RFF3YzVsWU1RQ2xnclpnPT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemfilm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GEMFit.ir",
+    "Name": "GEM Fit",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "sports",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/7FQxaII.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemfit/playlist.m3u8"
       }
     ]
   },
@@ -239,6 +296,9 @@
       },
       {
         "Url": "https://hd.90minlive.online/live/gemlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDI6NDIgQU0maGFzaF92YWx1ZT1RRVQ2dUU3dyt5enFZKzA3S1M4Q1hRPT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemfood/playlist.m3u8"
       }
     ]
   },
@@ -254,6 +314,39 @@
     "Streams": [
       {
         "Url": "https://hd.90minlive.online/live/gemjunior/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6NTkgQU0maGFzaF92YWx1ZT1xNFNTaEhadVVTeDJEOG1LUUZzV1lRPT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemjunior/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GEMKids.ir",
+    "Name": "GEM Kids",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/ArkjaFk.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemkids/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GEMLife.ir",
+    "Name": "GEM Life",
+    "Country": "IR",
+    "Languages": "fas",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://gemonline.tv/",
+    "Logo": "https://i.imgur.com/gI8qePa.png",
+    "Streams": [
+      {
+        "Url": "https://hd.90minlive.online/live/gemlife/playlist.m3u8"
       }
     ]
   },
@@ -284,6 +377,9 @@
     "Streams": [
       {
         "Url": "https://hd.90minlive.online/live/gemtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6MzY6NTcgQU0maGFzaF92YWx1ZT1HelU5RHVKcThoN3NEOHFMejNIUDlBPT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemtv/playlist.m3u8"
       }
     ]
   },
@@ -299,6 +395,9 @@
     "Streams": [
       {
         "Url": "https://hd.90minlive.online/live/gemtravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6NTggQU0maGFzaF92YWx1ZT1pZmlSVFJzdllMQzZzaUdQR2VnWUFRPT0mdmFsaWRtaW51dGVzPTU="
+      },
+      {
+        "Url": "https://hd.90minlive.online/live/gemtravel/playlist.m3u8"
       }
     ]
   },
@@ -576,21 +675,6 @@
     ]
   },
   {
-    "Id": "PBCTapeshTV.ir",
-    "Name": "PBC Tapesh TV",
-    "Country": "IR",
-    "Languages": "fas",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/5voEagF.png",
-    "Streams": [
-      {
-        "Url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PayamJavanTV.ir",
     "Name": "Payam Javan TV",
     "Country": "IR",
@@ -737,21 +821,6 @@
     "Streams": [
       {
         "Url": "https://live.aionet.ir/hls/tamasha/tamasha.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "VOX1.ir",
-    "Name": "VOX1",
-    "Country": "IR",
-    "Languages": "fas",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/YtCmlNT.png",
-    "Streams": [
-      {
-        "Url": "https://hls.vox1.live/hls/stream.m3u8"
       }
     ]
   },

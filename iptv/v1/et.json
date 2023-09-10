@@ -45,6 +45,21 @@
     ]
   },
   {
+    "Id": "DebubTV.et",
+    "Name": "Debub TV",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/6TG5bYg.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCnCYLFMXiN_bX-kCbn_fuIg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ETVEntertainment.et",
     "Name": "ETV Entertainment",
     "Country": "ET",
@@ -56,6 +71,21 @@
     "Streams": [
       {
         "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MerejaTV.et",
+    "Name": "Mereja TV",
+    "Country": "ET",
+    "Languages": "amh",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://mereja.tv/",
+    "Logo": "https://i.imgur.com/PaAacxF.png",
+    "Streams": [
+      {
+        "Url": "https://rumble.com/live-hls-dvr/3a86c6/playlist.m3u8"
       }
     ]
   },
@@ -101,6 +131,9 @@
     "Streams": [
       {
         "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/prime-media_1.m3u8"
+      },
+      {
+        "Url": "https://ythls.onrender.com/channel/UCsSQyY8qqoyImIYFmz1uyDw.m3u8"
       }
     ]
   },
@@ -120,6 +153,21 @@
     ]
   },
   {
+    "Id": "TigraiTV.et",
+    "Name": "Tigrai TV",
+    "Country": "ET",
+    "Languages": "tir",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/uaHUzRW.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCW0FmkMO7KkYdIiNKXpY9Ng.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "WaltaTV.et",
     "Name": "Walta TV",
     "Country": "ET",
@@ -131,6 +179,9 @@
     "Streams": [
       {
         "Url": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/walta_1.m3u8"
+      },
+      {
+        "Url": "https://live.zergaw.et/hls/1234.m3u8"
       }
     ]
   }

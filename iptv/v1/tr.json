@@ -273,6 +273,21 @@
     ]
   },
   {
+    "Id": "AnadoluAgency.tr",
+    "Name": "Anadolu Agency",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.aa.com.tr/",
+    "Logo": "https://i.imgur.com/dWElJll.png",
+    "Streams": [
+      {
+        "Url": "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ArasTV.tr",
     "Name": "Aras TV",
     "Country": "TR",
@@ -318,6 +333,21 @@
     ]
   },
   {
+    "Id": "BenguturkTV.tr",
+    "Name": "Benguturk TV",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.benguturk.com/",
+    "Logo": "https://i.imgur.com/p3ON1oX.png",
+    "Streams": [
+      {
+        "Url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BeratTV.tr",
     "Name": "Berat TV",
     "Country": "TR",
@@ -344,21 +374,6 @@
     "Streams": [
       {
         "Url": "https://s01.vpis.io/besiktas/besiktas.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BeyazTV.tr",
-    "Name": "Beyaz TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.beyaztv.com.tr/",
-    "Logo": "https://i.imgur.com/uykIdML.png",
-    "Streams": [
-      {
-        "Url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8"
       }
     ]
   },
@@ -492,21 +507,6 @@
     ]
   },
   {
-    "Id": "Cine5.tr",
-    "Name": "Cine5",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "http://cine5tv.com.tr/",
-    "Logo": "https://i.imgur.com/AmcOAIY.png",
-    "Streams": [
-      {
-        "Url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DHA.tr",
     "Name": "DHA",
     "Country": "TR",
@@ -518,21 +518,6 @@
     "Streams": [
       {
         "Url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "DRTDenizli.tr",
-    "Name": "DRT Denizli",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.drttv.com.tr/",
-    "Logo": "https://i.imgur.com/ZLX2RB7.png",
-    "Streams": [
-      {
-        "Url": "https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8"
       }
     ]
   },
@@ -732,36 +717,6 @@
     ]
   },
   {
-    "Id": "EuroD.tr",
-    "Name": "Euro D",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://eurod.kanald.com.tr/",
-    "Logo": "https://i.imgur.com/x9kHsXo.png",
-    "Streams": [
-      {
-        "Url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "FalastiniTV.tr",
-    "Name": "Falastini TV",
-    "Country": "TR",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.falastini.tv/",
-    "Logo": "https://i.imgur.com/YPfPk9f.png",
-    "Streams": [
-      {
-        "Url": "https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "FinansTurkTV.tr",
     "Name": "Finans Turk TV",
     "Country": "TR",
@@ -870,6 +825,21 @@
     ]
   },
   {
+    "Id": "HaberGlobal.tr",
+    "Name": "Haber Global",
+    "Country": "TR",
+    "Languages": "tur",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.haberglobal.com.tr/",
+    "Logo": "https://i.imgur.com/fu6XeGS.png",
+    "Streams": [
+      {
+        "Url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Haberturk.tr",
     "Name": "Haberturk",
     "Country": "TR",
@@ -881,6 +851,9 @@
     "Streams": [
       {
         "Url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
+      },
+      {
+        "Url": "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8"
       }
     ]
   },
@@ -911,24 +884,6 @@
     "Streams": [
       {
         "Url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "IBBTV.tr",
-    "Name": "IBB TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/aXxAz84.png",
-    "Streams": [
-      {
-        "Url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8"
-      },
-      {
-        "Url": "https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8"
       }
     ]
   },
@@ -1034,9 +989,6 @@
     "Streams": [
       {
         "Url": "http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8"
-      },
-      {
-        "Url": "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8"
       }
     ]
   },
@@ -1112,6 +1064,9 @@
     "Streams": [
       {
         "Url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
+      },
+      {
+        "Url": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8"
       }
     ]
   },
@@ -1374,21 +1329,6 @@
     ]
   },
   {
-    "Id": "MeltemTV.tr",
-    "Name": "Meltem TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.meltemtv.com.tr/",
-    "Logo": "https://i.imgur.com/C3m6w5S.png",
-    "Streams": [
-      {
-        "Url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MilyonTV.tr",
     "Name": "Milyon TV",
     "Country": "TR",
@@ -1610,9 +1550,6 @@
     "Streams": [
       {
         "Url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
-      },
-      {
-        "Url": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8"
       }
     ]
   },
@@ -1707,21 +1644,6 @@
     ]
   },
   {
-    "Id": "ShowTurk.tr",
-    "Name": "Show Turk",
-    "Country": "TR",
-    "Languages": "tur,bul",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.showturk.com.tr/",
-    "Logo": "https://i.imgur.com/NM2eYgs.png",
-    "Streams": [
-      {
-        "Url": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SinopYildizTV.tr",
     "Name": "Sinop Yildiz TV",
     "Country": "TR",
@@ -1733,21 +1655,6 @@
     "Streams": [
       {
         "Url": "https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SportsTV.tr",
-    "Name": "Sports TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "http://www.sportstv.com.tr/",
-    "Logo": "https://i.imgur.com/tGTVcVe.jpg",
-    "Streams": [
-      {
-        "Url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
       }
     ]
   },
@@ -2026,9 +1933,6 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
     "Streams": [
       {
-        "Url": "https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8"
-      },
-      {
         "Url": "https://tv-trtworld.live.trt.com.tr/master.m3u8"
       },
       {
@@ -2063,6 +1967,9 @@
     "Streams": [
       {
         "Url": "https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8"
+      },
+      {
+        "Url": "https://tv100.blutv.com/blutv_tv100_live/live.m3u8"
       }
     ]
   },
@@ -2361,21 +2268,6 @@
     ]
   },
   {
-    "Id": "UlkeTV.tr",
-    "Name": "Ulke TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.ulketv.com.tr/",
-    "Logo": "https://i.imgur.com/wdWR7Qk.png",
-    "Streams": [
-      {
-        "Url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "UlusalKanal.tr",
     "Name": "Ulusal Kanal",
     "Country": "TR",
@@ -2387,21 +2279,6 @@
     "Streams": [
       {
         "Url": "https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "UniversiteTV.tr",
-    "Name": "Universite TV",
-    "Country": "TR",
-    "Languages": "tur",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.universitetv.com.tr/",
-    "Logo": "https://i.imgur.com/KeauaSh.png",
-    "Streams": [
-      {
-        "Url": "https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8"
       }
     ]
   },

@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "AlexBerlin.de",
-    "Name": "Alex Berlin",
-    "Country": "DE",
-    "Languages": "deu",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/eTmHk4e.png",
-    "Streams": [
-      {
-        "Url": "https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AllgauTV.de",
     "Name": "Allgau TV",
     "Country": "DE",
@@ -510,6 +495,21 @@
     ]
   },
   {
+    "Id": "DeluxeRap.de",
+    "Name": "Deluxe Rap",
+    "Country": "DE",
+    "Languages": "eng,deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/s3h67hx.png",
+    "Streams": [
+      {
+        "Url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "EWTNGermany.de",
     "Name": "EWTN Germany",
     "Country": "DE",
@@ -764,6 +764,21 @@
     "Streams": [
       {
         "Url": "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KanalAvrupa.de",
+    "Name": "Kanal Avrupa",
+    "Country": "DE",
+    "Languages": "tur",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://kanalavrupa.tv/",
+    "Logo": "https://i.imgur.com/dJocxUQ.png",
+    "Streams": [
+      {
+        "Url": "https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8"
       }
     ]
   },
@@ -1077,6 +1092,21 @@
     ]
   },
   {
+    "Id": "OKFlensburg.de",
+    "Name": "OK Flensburg",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/NPbfgQC.png",
+    "Streams": [
+      {
+        "Url": "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "OKKiel.de",
     "Name": "OK Kiel",
     "Country": "DE",
@@ -1118,6 +1148,21 @@
     "Streams": [
       {
         "Url": "https://www.oeins.de/live/studio.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Parlamentsfernsehen1.de",
+    "Name": "Parlamentsfernsehen 1",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.bundestag.de/parlamentsfernsehen",
+    "Logo": "https://i.imgur.com/mksEgwx.png",
+    "Streams": [
+      {
+        "Url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
       }
     ]
   },
@@ -1244,9 +1289,6 @@
     "Streams": [
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId="
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       }
     ]
   },
@@ -1662,21 +1704,6 @@
     ]
   },
   {
-    "Id": "SachsenFernsehenDresden.de",
-    "Name": "Sachsen Fernsehen Dresden",
-    "Country": "DE",
-    "Languages": "deu",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.sachsen-fernsehen.de/kategorie/dresden/",
-    "Logo": "https://i.imgur.com/rnvprGj.png",
-    "Streams": [
-      {
-        "Url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SachsenFernsehenLeipzig.de",
     "Name": "Sachsen Fernsehen Leipzig",
     "Country": "DE",
@@ -1722,6 +1749,21 @@
     ]
   },
   {
+    "Id": "SchlagerDeluxe.de",
+    "Name": "Schlager Deluxe",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://schlagerdeluxe.de/",
+    "Logo": "https://i.imgur.com/p0W050H.png",
+    "Streams": [
+      {
+        "Url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SonnenklarTV.de",
     "Name": "Sonnenklar TV",
     "Country": "DE",
@@ -1751,6 +1793,9 @@
       },
       {
         "Url": "https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8"
+      },
+      {
+        "Url": "https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8"
       }
     ]
   },
@@ -1766,6 +1811,9 @@
     "Streams": [
       {
         "Url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8"
       }
     ]
   },
@@ -1781,6 +1829,9 @@
     "Streams": [
       {
         "Url": "https://www.onairport.live/sophiatv-es-live/smil:sophia-tv-es.smil/playlist.m3u8"
+      },
+      {
+        "Url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8"
       }
     ]
   },
@@ -2084,6 +2135,21 @@
     "Streams": [
       {
         "Url": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Welt.de",
+    "Name": "Welt",
+    "Country": "DE",
+    "Languages": "deu",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.welt.de/",
+    "Logo": "https://i.imgur.com/s4TZoxx.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8"
       }
     ]
   },

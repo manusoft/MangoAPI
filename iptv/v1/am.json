@@ -375,21 +375,6 @@
     ]
   },
   {
-    "Id": "ShoghakatTV.am",
-    "Name": "Shoghakat TV",
-    "Country": "AM",
-    "Languages": "hye",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://www.shoghakat.am/",
-    "Logo": "https://i.imgur.com/U6Bs4wt.png",
-    "Streams": [
-      {
-        "Url": "http://ott-cdn.ucom.am/s13/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "YerkirMediaTV.am",
     "Name": "Yerkir Media TV",
     "Country": "AM",

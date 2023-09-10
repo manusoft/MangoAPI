@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Id": "KKTVAngola.ao",
+    "Name": "KKTV Angola",
+    "Country": "AO",
+    "Languages": "por",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://kktv.co.ao/",
+    "Logo": "https://i.imgur.com/gTabgkN.jpg",
+    "Streams": [
+      {
+        "Url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MuzangalaTV.ao",
+    "Name": "Muzangala TV",
+    "Country": "AO",
+    "Languages": "por",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://muzangala.tv/",
+    "Logo": "https://i.imgur.com/fBeaJoS.png",
+    "Streams": [
+      {
+        "Url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
+      }
+    ]
+  }
+]

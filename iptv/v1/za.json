@@ -123,6 +123,21 @@
     ]
   },
   {
+    "Id": "KruiskykTV.za",
+    "Name": "Kruiskyk TV",
+    "Country": "ZA",
+    "Languages": "afr",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://kruiskyk.tv/",
+    "Logo": "https://i.imgur.com/eEBDB7w.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCwgzvE6tj56aYkCF8_65TKQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "LN24SA.za",
     "Name": "LN24SA",
     "Country": "ZA",
@@ -179,6 +194,66 @@
     "Streams": [
       {
         "Url": "https://webstreaming.viewmedia.tv/web_012/Stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RabboniTV.za",
+    "Name": "Rabboni TV",
+    "Country": "ZA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rabboni.tv/",
+    "Logo": "https://i.imgur.com/xLWJfca.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCWnCfp6jZHGuuX547SJ5F7g.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RaphaTV.za",
+    "Name": "Rapha TV",
+    "Country": "ZA",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://raphachannel.tv/",
+    "Logo": "https://i.imgur.com/I7kvPcY.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCYo1cBqDWMAQ-_krJdEw9ew.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RedemptionTVMinistry.za",
+    "Name": "Redemption TV Ministry",
+    "Country": "ZA",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.redemptiontm.tv/",
+    "Logo": "https://i.imgur.com/X8mASGH.png",
+    "Streams": [
+      {
+        "Url": "https://live.nixsat.com/play/rtm/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SeraphimTV.za",
+    "Name": "Seraphim TV",
+    "Country": "ZA",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://seraphimtv.org/",
+    "Logo": "https://i.imgur.com/MfeKk07.png",
+    "Streams": [
+      {
+        "Url": "https://932y48q5djv8-hls-live.5centscdn.com/dncpull/live.stream/chunks.m3u8"
       }
     ]
   },

@@ -549,21 +549,6 @@
     ]
   },
   {
-    "Id": "IndijskoeKino.ru",
-    "Name": "Indijskoe Kino",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/indijskoe-kino/",
-    "Logo": "https://i.imgur.com/7D8yud7.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Indiiskoe_kino.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Istoriya.ru",
     "Name": "Istoriya",
     "Country": "RU",
@@ -594,51 +579,6 @@
     ]
   },
   {
-    "Id": "Karusel.ru",
-    "Name": "Karusel",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": "https://www.karusel-tv.ru/",
-    "Logo": "https://i.imgur.com/4wmnx1W.png",
-    "Streams": [
-      {
-        "Url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Kinohit.ru",
-    "Name": "Kinohit",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/kinohit/",
-    "Logo": "https://i.imgur.com/Ge8vkQM.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Kinohit_hd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Kinosemja.ru",
-    "Name": "Kinosemja",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": "https://www.nastroykino.ru/kinosemja/",
-    "Logo": "https://i.imgur.com/ML0TEYb.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "KonniyMir.ru",
     "Name": "Konniy Mir",
     "Country": "RU",
@@ -665,6 +605,27 @@
     "Streams": [
       {
         "Url": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LDPRTV.ru",
+    "Name": "LDPR TV",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://ldpr.tv/",
+    "Logo": "https://i.imgur.com/gCmCRfe.png",
+    "Streams": [
+      {
+        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8"
+      },
+      {
+        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8"
+      },
+      {
+        "Url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8"
       }
     ]
   },
@@ -754,6 +715,9 @@
     "Logo": "https://i.imgur.com/tKnSHEc.png",
     "Streams": [
       {
+        "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8"
+      },
+      {
         "Url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
       }
     ]
@@ -773,6 +737,21 @@
       },
       {
         "Url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MirPlus3.ru",
+    "Name": "Mir +3",
+    "Country": "RU",
+    "Languages": "rus",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://mirtv.ru/",
+    "Logo": "https://i.imgur.com/oxJnv6I.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/Mir.m3u8"
       }
     ]
   },
@@ -881,21 +860,6 @@
     "Streams": [
       {
         "Url": "http://ott-cdn.ucom.am/s77/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NVKSakha.ru",
-    "Name": "NVK Sakha",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://nvk-online.ru/",
-    "Logo": "https://i.imgur.com/LwXNUhf.png",
-    "Streams": [
-      {
-        "Url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
       }
     ]
   },
@@ -1046,21 +1010,6 @@
     "Streams": [
       {
         "Url": "https://pilotfm.ru/cam/hls/pilothd.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Poehali.ru",
-    "Name": "Poehali!",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.poehali.tv/",
-    "Logo": "https://i.imgur.com/c6oPeGF.png",
-    "Streams": [
-      {
-        "Url": "https://sc.id-tv.kz/poehali.m3u8"
       }
     ]
   },
@@ -1598,36 +1547,6 @@
     "Streams": [
       {
         "Url": "http://stream0.tv41.ru/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ShoppingLive.ru",
-    "Name": "Shopping Live",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "shop",
-    "IsNsfw": false,
-    "Website": "https://www.shoppinglive.ru/",
-    "Logo": "https://i.imgur.com/EMmGnjV.png",
-    "Streams": [
-      {
-        "Url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Soyuz.ru",
-    "Name": "Soyuz",
-    "Country": "RU",
-    "Languages": "rus",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://tv-soyuz.ru/",
-    "Logo": "https://i.imgur.com/w3OewHc.png",
-    "Streams": [
-      {
-        "Url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
       }
     ]
   },

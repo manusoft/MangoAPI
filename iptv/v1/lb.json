@@ -96,6 +96,27 @@
     ]
   },
   {
+    "Id": "LanaTV.lb",
+    "Name": "Lana TV",
+    "Country": "LB",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://lanacanal.tv/",
+    "Logo": "https://i.imgur.com/xPoycVY.png",
+    "Streams": [
+      {
+        "Url": "https://eitc3.secure2.footprint.net/hls/LTV2.m3u8"
+      },
+      {
+        "Url": "https://eitc3.secure2.footprint.net/hls/LTV.m3u8"
+      },
+      {
+        "Url": "https://eitc3.secure2.footprint.net/hls/LTV3.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "NabaaTV.lb",
     "Name": "Nabaa TV",
     "Country": "LB",
@@ -204,6 +225,21 @@
     ]
   },
   {
+    "Id": "SPILebanon.lb",
+    "Name": "SPI Lebanon",
+    "Country": "LB",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://spilebanon.com",
+    "Logo": "https://spilebanon.com/img/spi-logo.jpg",
+    "Streams": [
+      {
+        "Url": "http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TahaTV.lb",
     "Name": "Taha TV",
     "Country": "LB",
@@ -215,21 +251,6 @@
     "Streams": [
       {
         "Url": "https://media2.livaat.com/TAHA-TV/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TeleLiban.lb",
-    "Name": "Tele Liban",
-    "Country": "LB",
-    "Languages": "ara",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.teleliban.com.lb/",
-    "Logo": "https://i.imgur.com/5VPYxJi.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8"
       }
     ]
   }

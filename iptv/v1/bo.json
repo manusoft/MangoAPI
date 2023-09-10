@@ -45,6 +45,36 @@
     ]
   },
   {
+    "Id": "BoliviaTV72Deportes.bo",
+    "Name": "Bolivia TV 7.2 Deportes",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.boliviatv.bo/principal/vivo72.php",
+    "Logo": "https://comteco.com.bo/img/upload/canales/e9mHku.png",
+    "Streams": [
+      {
+        "Url": "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Bolivision.bo",
+    "Name": "Bolivision",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.redbolivision.tv.bo/",
+    "Logo": "https://i.imgur.com/U98Z5zn.png",
+    "Streams": [
+      {
+        "Url": "https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "DTPlay.bo",
     "Name": "DT Play",
     "Country": "BO",
@@ -75,6 +105,36 @@
     ]
   },
   {
+    "Id": "Gigavision.bo",
+    "Name": "Gigavision",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/fE3BkcT.png",
+    "Streams": [
+      {
+        "Url": "https://master.tucableip.com//gigavision/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "GogoPlayTV.bo",
+    "Name": "Gogo Play TV",
+    "Country": "BO",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.gogoplayplus.com/",
+    "Logo": "https://www.gogoplayplus.com/assets/apricacion-1.jpg",
+    "Streams": [
+      {
+        "Url": "https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MegaTV.bo",
     "Name": "MegaTV",
     "Country": "BO",
@@ -86,6 +146,36 @@
     "Streams": [
       {
         "Url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Megavision.bo",
+    "Name": "Megavision",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvmegavision.com/",
+    "Logo": "https://i.imgur.com/IAQXCak.png",
+    "Streams": [
+      {
+        "Url": "https://video.live.com.bo:3699/live/megavisionlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PTV.bo",
+    "Name": "PTV",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://ptvbolivia.com/",
+    "Logo": "https://i.imgur.com/vPvR7dX.png",
+    "Streams": [
+      {
+        "Url": "https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/de5454962ef31da329d3a70355e62dfe/index.m3u8"
       }
     ]
   },
@@ -116,6 +206,21 @@
     "Streams": [
       {
         "Url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RedCCTV.bo",
+    "Name": "Red CCTV",
+    "Country": "BO",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://red-cctv.com/",
+    "Logo": "https://i.imgur.com/YC5FRmq.png",
+    "Streams": [
+      {
+        "Url": "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8"
       }
     ]
   },
@@ -225,6 +330,21 @@
     ]
   },
   {
+    "Id": "TLEstrella.bo",
+    "Name": "TL Estrella",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://www.lyngsat.com/logo/tv/tt/tl-estrella-bo.png",
+    "Streams": [
+      {
+        "Url": "https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVLatina.bo",
     "Name": "TV Latina",
     "Country": "BO",
@@ -236,6 +356,36 @@
     "Streams": [
       {
         "Url": "https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVU.bo",
+    "Name": "TVU",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tvu.umsa.bo/",
+    "Logo": "https://i.imgur.com/YdiF5k6.png",
+    "Streams": [
+      {
+        "Url": "https://video.live.com.bo:3731/live/tvuumsalive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "UnivalleTelevision.bo",
+    "Name": "Univalle Television",
+    "Country": "BO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://univalletelevision.com/",
+    "Logo": "https://i.imgur.com/qgrWDIs.png",
+    "Streams": [
+      {
+        "Url": "https://master.tucableip.com/univalletv/playlist.m3u8"
       }
     ]
   },

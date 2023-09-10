@@ -1,5 +1,50 @@
 [
   {
+    "Id": "DacwaTV.so",
+    "Name": "Dacwa TV",
+    "Country": "SO",
+    "Languages": "som",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.dacwa.tv/",
+    "Logo": "https://i.imgur.com/rMqrLzV.png",
+    "Streams": [
+      {
+        "Url": "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PuntlandTV.so",
+    "Name": "Puntland TV",
+    "Country": "SO",
+    "Languages": "som",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.puntlandtvradio.net/",
+    "Logo": "https://i.imgur.com/C8EvQUo.png",
+    "Streams": [
+      {
+        "Url": "http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SNTV2.so",
+    "Name": "SNTV 2",
+    "Country": "SO",
+    "Languages": "som",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://sntv.so/",
+    "Logo": "https://i.imgur.com/2eKFSqO.png",
+    "Streams": [
+      {
+        "Url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SaabTV.so",
     "Name": "Saab TV",
     "Country": "SO",

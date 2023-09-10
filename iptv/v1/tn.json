@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "JawharaTV.tn",
-    "Name": "Jawhara TV",
-    "Country": "TN",
-    "Languages": "ara",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://www.jawharafm.net/",
-    "Logo": "https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg",
-    "Streams": [
-      {
-        "Url": "https://streaming.toutech.net/live/jtv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MosaiqueFM.tn",
     "Name": "Mosaique FM",
     "Country": "TN",

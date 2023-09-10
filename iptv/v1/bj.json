@@ -1,20 +1,5 @@
 [
   {
-    "Id": "ADOTV.bj",
-    "Name": "ADO TV",
-    "Country": "BJ",
-    "Languages": "fra",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "https://www.adotv-fm.bj/",
-    "Logo": "https://i.imgur.com/pxFamLr.png",
-    "Streams": [
-      {
-        "Url": "https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Canal3Benin.bj",
     "Name": "Canal 3 Benin",
     "Country": "BJ",

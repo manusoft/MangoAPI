@@ -280,5 +280,20 @@
         "Url": "https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8"
       }
     ]
+  },
+  {
+    "Id": "tvNMoviesAsia.hk",
+    "Name": "tvN Movies Asia",
+    "Country": "HK",
+    "Languages": "kor,eng,zho,ind,tha",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://tvnmovies.net/",
+    "Logo": "https://i.imgur.com/c4XvwO2.png",
+    "Streams": [
+      {
+        "Url": "http://210.210.155.37/dr9445/h/h21/index.m3u8"
+      }
+    ]
   }
 ]

@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "AMGTV.ca",
-    "Name": "AMG TV",
-    "Country": "CA",
-    "Languages": "fas",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://amgtv.ca/",
-    "Logo": "https://i.ibb.co/6bQJNLs/download-6.png",
-    "Streams": [
-      {
-        "Url": "https://nl.livekadeh.com/hls2/AMG_src.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AfghanNobelMovies.ca",
     "Name": "Afghan Nobel Movies",
     "Country": "CA",
@@ -258,21 +243,6 @@
     ]
   },
   {
-    "Id": "DegrassiTheNextGenerationCanada.ca",
-    "Name": "Degrassi The Next Generation Canada",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/FaHYS73.png",
-    "Streams": [
-      {
-        "Url": "https://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DukhNivaran.ca",
     "Name": "Dukh Nivaran",
     "Country": "CA",
@@ -299,6 +269,21 @@
     "Streams": [
       {
         "Url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "EawazTV.ca",
+    "Name": "Eawaz TV",
+    "Country": "CA",
+    "Languages": "urd",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/vB4yzen.png",
+    "Streams": [
+      {
+        "Url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
       }
     ]
   },
@@ -528,6 +513,21 @@
     ]
   },
   {
+    "Id": "NRBTV.ca",
+    "Name": "NRB TV",
+    "Country": "CA",
+    "Languages": "ben",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://thenrb.tv/",
+    "Logo": "https://i.imgur.com/oGNhnV3.png",
+    "Streams": [
+      {
+        "Url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Noovo.ca",
     "Name": "Noovo",
     "Country": "CA",
@@ -572,24 +572,6 @@
     "Streams": [
       {
         "Url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "PardesiTV.ca",
-    "Name": "Pardesi TV",
-    "Country": "CA",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/CwAdPpZ.jpg",
-    "Streams": [
-      {
-        "Url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "Url": "http://stream.pardesitv.online/pardesi/index.m3u8"
       }
     ]
   },
@@ -728,9 +710,6 @@
       },
       {
         "Url": "https://stirr.ott-channels.stingray.com/101/master.m3u8"
-      },
-      {
-        "Url": "https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8"
       }
     ]
   },
@@ -774,9 +753,6 @@
     "Website": null,
     "Logo": "https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",
     "Streams": [
-      {
-        "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"
-      },
       {
         "Url": "https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8"
       }
@@ -1031,21 +1007,6 @@
     "Streams": [
       {
         "Url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "UvagutTV.ca",
-    "Name": "Uvagut TV",
-    "Country": "CA",
-    "Languages": "eng,iku",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://uvagut.tv/",
-    "Logo": "https://i.imgur.com/RR7ATr2.png",
-    "Streams": [
-      {
-        "Url": "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8"
       }
     ]
   },

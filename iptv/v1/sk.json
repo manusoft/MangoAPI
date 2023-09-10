@@ -180,21 +180,6 @@
     ]
   },
   {
-    "Id": "LifeTv.sk",
-    "Name": "LifeTv",
-    "Country": "SK",
-    "Languages": "slk",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.lifetv.sk/",
-    "Logo": "https://i.imgur.com/jO8kAY2.png",
-    "Streams": [
-      {
-        "Url": "https://lifetv.mpks.sk/s.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Markiza.sk",
     "Name": "Markiza",
     "Country": "SK",
@@ -294,6 +279,21 @@
     ]
   },
   {
+    "Id": "TVBratislava.sk",
+    "Name": "TV Bratislava",
+    "Country": "SK",
+    "Languages": "slk",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvbratislava.sk/",
+    "Logo": "https://i.imgur.com/sQvMpo6.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCoLgBFFbzGgYJpmcdV0GT4w.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVBrezova.sk",
     "Name": "TV Brezova",
     "Country": "SK",
@@ -338,6 +338,21 @@
       },
       {
         "Url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVHronka.sk",
+    "Name": "TV Hronka",
+    "Country": "SK",
+    "Languages": "slk",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.tvhronka.sk/",
+    "Logo": "https://i.imgur.com/L9ODaLp.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCdsKjmExW-0pFskKYbjNIQg.m3u8"
       }
     ]
   },
@@ -444,6 +459,21 @@
     ]
   },
   {
+    "Id": "TVNitricka.sk",
+    "Name": "TV Nitricka",
+    "Country": "SK",
+    "Languages": "slk",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvnitricka.sk",
+    "Logo": "https://i.imgur.com/iwWyG1A.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TVRaj.sk",
     "Name": "TV Raj",
     "Country": "SK",
@@ -519,17 +549,17 @@
     ]
   },
   {
-    "Id": "TVSkalica.sk",
-    "Name": "TV Skalica",
+    "Id": "TVStaraTura.sk",
+    "Name": "TV Stara Tura",
     "Country": "SK",
     "Languages": "slk",
     "Categories": "general",
     "IsNsfw": false,
-    "Website": "http://tvskalica.sk",
-    "Logo": "https://i.imgur.com/GB8fMoJ.png",
+    "Website": "http://www.tvsen.sk/aktualne/?tv_id=14",
+    "Logo": "https://i.imgur.com/kerkvRX.png",
     "Streams": [
       {
-        "Url": "http://95.105.193.219:88/hls/tvs.m3u8"
+        "Url": "http://95.105.193.219:88/hls/tvst.m3u8"
       }
     ]
   },
@@ -549,6 +579,21 @@
     ]
   },
   {
+    "Id": "TeleviziaMocenok.sk",
+    "Name": "Televizia Mocenok",
+    "Country": "SK",
+    "Languages": "slk",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://mocenok.sk/clanok/zive-vysielanie",
+    "Logo": "https://i.imgur.com/psb8GxZ.png",
+    "Streams": [
+      {
+        "Url": "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "VIOTV.sk",
     "Name": "VIO TV",
     "Country": "SK",
@@ -560,6 +605,21 @@
     "Streams": [
       {
         "Url": "http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ZapadoslovenskaTV.sk",
+    "Name": "Zapadoslovenska TV",
+    "Country": "SK",
+    "Languages": "slk",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://zstv.sk/",
+    "Logo": "https://i.imgur.com/D72Y1IB.png",
+    "Streams": [
+      {
+        "Url": "https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8"
       }
     ]
   }

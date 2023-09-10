@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "CNNPhilippines.ph",
-    "Name": "CNN Philippines",
-    "Country": "PH",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://cnnphilippines.com/",
-    "Logo": "https://i.imgur.com/PNymaxE.png",
-    "Streams": [
-      {
-        "Url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DZRHNewsTV.ph",
     "Name": "DZRH News TV",
     "Country": "PH",

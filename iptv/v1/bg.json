@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "CityTV.bg",
-    "Name": "City TV",
-    "Country": "BG",
-    "Languages": "bul",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.city.bg/",
-    "Logo": "https://i.imgur.com/StAvd35.png",
-    "Streams": [
-      {
-        "Url": "https://tv.city.bg/play/tshls/citytv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CodeFashionTV.bg",
     "Name": "Code Fashion TV",
     "Country": "BG",
@@ -86,21 +71,6 @@
     "Streams": [
       {
         "Url": "https://cdn3.invivo.bg/codehealth_test/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "DSTV.bg",
-    "Name": "DSTV",
-    "Country": "BG",
-    "Languages": "bul",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://dstv-bg.com/",
-    "Logo": "https://i.imgur.com/Dhp3WVn.png",
-    "Streams": [
-      {
-        "Url": "http://46.249.95.140:8081/hls/data.m3u8"
       }
     ]
   },
@@ -254,21 +224,6 @@
       },
       {
         "Url": "https://obs.friendshipchurch.eu//tvn/mystream.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVart.bg",
-    "Name": "TVart",
-    "Country": "BG",
-    "Languages": "bul",
-    "Categories": "culture,travel",
-    "IsNsfw": false,
-    "Website": "https://www.tvart.info/",
-    "Logo": "https://i.imgur.com/YNmrCF7.png",
-    "Streams": [
-      {
-        "Url": "https://stream.osc.bg/tvart/Stream3/playlist.m3u8"
       }
     ]
   },

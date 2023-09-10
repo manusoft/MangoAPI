@@ -1,20 +1,5 @@
 [
   {
-    "Id": "ChamberTV.lu",
-    "Name": "Chamber TV",
-    "Country": "LU",
-    "Languages": "ltz",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.chd.lu/",
-    "Logo": "https://i.imgur.com/YldMnap.jpg",
-    "Streams": [
-      {
-        "Url": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "JasminTV.lu",
     "Name": "Jasmin TV",
     "Country": "LU",
@@ -42,9 +27,6 @@
     "Website": "https://luxe.tv/",
     "Logo": "https://i.imgur.com/24ehonx.png",
     "Streams": [
-      {
-        "Url": "https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8"
-      },
       {
         "Url": "https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8"
       }

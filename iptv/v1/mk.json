@@ -153,17 +153,17 @@
     ]
   },
   {
-    "Id": "StarPlusTelevizija.mk",
-    "Name": "Star Plus Televizija",
+    "Id": "StarFolkTV.mk",
+    "Name": "Star Folk TV",
     "Country": "MK",
     "Languages": "mkd",
     "Categories": "music",
     "IsNsfw": false,
-    "Website": "https://starplustv.com/",
-    "Logo": "https://i.imgur.com/01yz22a.png",
+    "Website": "https://starfolk.net/",
+    "Logo": "https://i.imgur.com/fM7FUgk.png",
     "Streams": [
       {
-        "Url": "https://live.muzickatv.mk/live/StarMusic2.m3u8"
+        "Url": "https://live.muzickatv.mk/live/StarMusic.m3u8"
       }
     ]
   },

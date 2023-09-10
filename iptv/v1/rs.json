@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "MISTelevizija.rs",
-    "Name": "MIS Televizija",
-    "Country": "RS",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/TWAxTiF.png",
-    "Streams": [
-      {
-        "Url": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MuzzikAMVA2020.rs",
     "Name": "Muzzik AMVA 2020",
     "Country": "RS",

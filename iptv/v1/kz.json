@@ -135,6 +135,36 @@
     ]
   },
   {
+    "Id": "CaspianNews.kz",
+    "Name": "Caspian News",
+    "Country": "KZ",
+    "Languages": "kaz",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://cntv.kz/",
+    "Logo": "https://i.imgur.com/QUu4Gv0.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/CaspianNews.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Channel7Kazakhstan.kz",
+    "Name": "Channel 7 Kazakhstan",
+    "Country": "KZ",
+    "Languages": "kaz",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv7.kz/",
+    "Logo": "https://i.imgur.com/LebKU09.png",
+    "Streams": [
+      {
+        "Url": "https://sc.id-tv.kz/7_kanal.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Ertis.kz",
     "Name": "Ertis",
     "Country": "KZ",
@@ -205,6 +235,9 @@
     "Logo": "https://i.imgur.com/BurrNTo.png",
     "Streams": [
       {
+        "Url": "https://sc.id-tv.kz/KTK.m3u8"
+      },
+      {
         "Url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
       },
       {
@@ -223,10 +256,10 @@
     "Logo": "https://i.imgur.com/x89nJgB.png",
     "Streams": [
       {
-        "Url": "https://sc.id-tv.kz/Khabar_24.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UCnAFKvDuqBGkIfV8Vn0J_CQ.m3u8"
       },
       {
-        "Url": "https://ythls.onrender.com/channel/UCnAFKvDuqBGkIfV8Vn0J_CQ.m3u8"
+        "Url": "http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8"
       }
     ]
   },

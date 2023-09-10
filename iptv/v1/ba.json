@@ -15,6 +15,36 @@
     ]
   },
   {
+    "Id": "BNTV.ba",
+    "Name": "BN TV",
+    "Country": "BA",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://rtvbn.tv/",
+    "Logo": "https://i.imgur.com/DUBvfWb.png",
+    "Streams": [
+      {
+        "Url": "https://rtvbn.tv:8080/live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "IzvornaTV.ba",
+    "Name": "Izvorna TV",
+    "Country": "BA",
+    "Languages": "bos",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "http://izvornatv.com/",
+    "Logo": "https://i.imgur.com/lThyC3i.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCCg4AIJUdOL0A_90Mcj1ilA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MakkahLive.ba",
     "Name": "Makkah Live",
     "Country": "BA",
@@ -41,6 +71,21 @@
     "Streams": [
       {
         "Url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RTRSTV.ba",
+    "Name": "RTRS TV",
+    "Country": "BA",
+    "Languages": "srp",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.rtrs.tv/",
+    "Logo": "https://i.imgur.com/v1KocpV.png",
+    "Streams": [
+      {
+        "Url": "https://uzivo.rtrs.tv/tv/live/index.m3u8"
       }
     ]
   },

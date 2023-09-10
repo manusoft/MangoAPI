@@ -30,21 +30,6 @@
     ]
   },
   {
-    "Id": "CNNPortugal.pt",
-    "Name": "CNN Portugal",
-    "Country": "PT",
-    "Languages": "por",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.cnnportugal.pt/",
-    "Logo": "https://i.imgur.com/bc6tYVZ.png",
-    "Streams": [
-      {
-        "Url": "https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal"
-      }
-    ]
-  },
-  {
     "Id": "Canal11.pt",
     "Name": "Canal 11",
     "Country": "PT",
@@ -404,21 +389,6 @@
     "Streams": [
       {
         "Url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "iesTV.pt",
-    "Name": "iesTV",
-    "Country": "PT",
-    "Languages": "por",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://iescc.pt/tv/",
-    "Logo": "https://cdn-dggpl.nitrocdn.com/tlOjFZbLdcWmOWNcYKmSIOSeIltexHlD/assets/static/optimized/rev-ccd25d7/wp-content/uploads/2021/09/teste_logo.png",
-    "Streams": [
-      {
-        "Url": "https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8"
       }
     ]
   }

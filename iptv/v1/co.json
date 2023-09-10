@@ -45,6 +45,21 @@
     ]
   },
   {
+    "Id": "Amordiscos.co",
+    "Name": "Amordiscos",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/hO0cTDf.png",
+    "Streams": [
+      {
+        "Url": "https://canal.mediaserver.com.co/live/canalamordiscos.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AvivamientoTV.co",
     "Name": "Avivamiento TV",
     "Country": "CO",
@@ -56,6 +71,21 @@
     "Streams": [
       {
         "Url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BuenisimaRadioTV.co",
+    "Name": "Buenisima Radio TV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://buenisima.com.co/",
+    "Logo": "https://i.imgur.com/679Lw8M.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCk20PydKzK3giq80G4mqSeg.m3u8"
       }
     ]
   },
@@ -120,6 +150,21 @@
     ]
   },
   {
+    "Id": "CNCTulua.co",
+    "Name": "CNC Tulua",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://cnctulua.tv/",
+    "Logo": "https://i.imgur.com/NCzpcqm.png",
+    "Streams": [
+      {
+        "Url": "https://servers.amelbasoluciones.co:19360/cnctulualive/cnctulualive.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CTV.co",
     "Name": "CTV",
     "Country": "CO",
@@ -165,6 +210,51 @@
     ]
   },
   {
+    "Id": "CampoTelevision.co",
+    "Name": "Campo Television",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canalcampotv.com/",
+    "Logo": "https://i.imgur.com/kqjTOwB.png",
+    "Streams": [
+      {
+        "Url": "https://video17.virtualtronics.com/streamer/canalcampotv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal14Codazzi.co",
+    "Name": "Canal 14 Codazzi",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "http://www.canal14codazzi.co/",
+    "Logo": "https://i.imgur.com/wNSUMhJ.png",
+    "Streams": [
+      {
+        "Url": "https://eu1.servers10.com:8081/8056/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal2.co",
+    "Name": "Canal 2",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.canal2.co/",
+    "Logo": "https://i.imgur.com/BCrsZTQ.png",
+    "Streams": [
+      {
+        "Url": "https://video13.virtualtronics.com/streamer/canal2.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal2Alpavision.co",
     "Name": "Canal 2 Alpavision",
     "Country": "CO",
@@ -191,6 +281,21 @@
     "Streams": [
       {
         "Url": "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanalCongreso.co",
+    "Name": "Canal Congreso",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.senado.gov.co/",
+    "Logo": "https://i.imgur.com/3VnL8dp.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCJfKMFp7dtO8mpHT56X0kJQ.m3u8"
       }
     ]
   },
@@ -300,6 +405,36 @@
     ]
   },
   {
+    "Id": "ChamberofRepresentatives.co",
+    "Name": "Chamber of Representatives",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.camara.gov.co/",
+    "Logo": "https://i.imgur.com/RbZEicf.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCzescUFTh2jiZkYIx9uZtqA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CinemaPlus.co",
+    "Name": "Cinema +",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "http://www.canalcinemaplus.net/",
+    "Logo": "https://i.imgur.com/ExZeBRf.png",
+    "Streams": [
+      {
+        "Url": "https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Cosmovision.co",
     "Name": "Cosmovision",
     "Country": "CO",
@@ -315,32 +450,32 @@
     ]
   },
   {
-    "Id": "FamiliChannel.co",
-    "Name": "Famili Channel",
+    "Id": "Cristovision.co",
+    "Name": "Cristovision",
     "Country": "CO",
     "Languages": "spa",
-    "Categories": "family",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.familichannel.com/",
-    "Logo": "https://i.imgur.com/fPuWct8.png",
+    "Website": "https://cristovision.tv/",
+    "Logo": "https://i.imgur.com/XIhCUY9.png",
     "Streams": [
       {
-        "Url": "https://cp.panelchs.com:1936/8012/8012/playlist.m3u8"
+        "Url": "https://151972.global.ssl.fastly.net/60a5a559e3414ce54aa8a44d/live_66dad780017a11ee87ff5592d1e02764/index.m3u8"
       }
     ]
   },
   {
-    "Id": "GalerasTV.co",
-    "Name": "Galeras TV",
+    "Id": "Eduvision.co",
+    "Name": "Eduvision",
     "Country": "CO",
     "Languages": "spa",
-    "Categories": "music",
+    "Categories": "education",
     "IsNsfw": false,
-    "Website": "http://www.cncpasto.com/galeras-tv/",
-    "Logo": "https://i.ibb.co/4WK0k4D/Galeras-TV-tvtolive-com.jpg",
+    "Website": "https://eduvision.com.co/",
+    "Logo": "https://i.imgur.com/ppBdqel.png",
     "Streams": [
       {
-        "Url": "https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8"
+        "Url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
       }
     ]
   },
@@ -405,6 +540,21 @@
     ]
   },
   {
+    "Id": "MelodyChannel.co",
+    "Name": "Melody Channel",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/z2pisQ6.png",
+    "Streams": [
+      {
+        "Url": "https://canal.mediaserver.com.co/live/MelodyChannel.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MemoriasTV.co",
     "Name": "Memorias TV",
     "Country": "CO",
@@ -435,6 +585,36 @@
     ]
   },
   {
+    "Id": "MoniTV.co",
+    "Name": "MoniTV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.ibb.co/DD6yFVC/descarga.png",
+    "Streams": [
+      {
+        "Url": "https://servers.amelbasoluciones.co:19360/monitvlive/monitvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MovieFe.co",
+    "Name": "MovieFe",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/FqHLJmN.png",
+    "Streams": [
+      {
+        "Url": "https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MulticanalTelevision.co",
     "Name": "Multicanal Television",
     "Country": "CO",
@@ -446,6 +626,21 @@
     "Streams": [
       {
         "Url": "https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NTN24.co",
+    "Name": "NTN24",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.ntn24.com/",
+    "Logo": "https://i.imgur.com/UoKmSAP.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8"
       }
     ]
   },
@@ -480,17 +675,17 @@
     ]
   },
   {
-    "Id": "OasisTV.co",
-    "Name": "Oasis TV",
+    "Id": "OndabientalTV.co",
+    "Name": "Ondabiental TV",
     "Country": "CO",
     "Languages": "spa",
-    "Categories": "",
+    "Categories": "music,culture",
     "IsNsfw": false,
-    "Website": "http://canaloasis.com/",
-    "Logo": "https://i.imgur.com/VKYzFpZ.png",
+    "Website": "https://www.colombia.com/tv/ondambiental-tv-bogota-5400",
+    "Logo": "https://i.imgur.com/u5804Au.jpg",
     "Streams": [
       {
-        "Url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
+        "Url": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
       }
     ]
   },
@@ -539,6 +734,21 @@
       },
       {
         "Url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RCNXtra.co",
+    "Name": "RCN Xtra",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.canela.tv/linear/rcn-xtra",
+    "Logo": "https://i.imgur.com/N7VH24E.png",
+    "Streams": [
+      {
+        "Url": "https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8"
       }
     ]
   },
@@ -693,6 +903,21 @@
     ]
   },
   {
+    "Id": "TVSanJorge.co",
+    "Name": "TV San Jorge",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://tvsanjorge.tv/",
+    "Logo": "https://i.imgur.com/vLU4Tcu.png",
+    "Streams": [
+      {
+        "Url": "https://asucap.com/livestream/asucap_envivo.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TeleSanJacinto.co",
     "Name": "Tele San Jacinto",
     "Country": "CO",
@@ -734,6 +959,36 @@
     "Streams": [
       {
         "Url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telemedellin.co",
+    "Name": "Telemedellin",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://telemedellin.tv/",
+    "Logo": "https://i.imgur.com/GnxzRTC.png",
+    "Streams": [
+      {
+        "Url": "https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelemusicaTV.co",
+    "Name": "Telemusica TV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/Nz67Uq6.png",
+    "Streams": [
+      {
+        "Url": "https://canal.mediaserver.com.co/live/telemusica.m3u8"
       }
     ]
   },
@@ -801,17 +1056,47 @@
     ]
   },
   {
-    "Id": "Zoom.co",
-    "Name": "Zoom",
+    "Id": "TuKanal.co",
+    "Name": "Tu Kanal",
     "Country": "CO",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.zoomcanal.com.co/",
-    "Logo": "https://i.imgur.com/euy5zp6.png",
+    "Website": "https://tukanal.tv/",
+    "Logo": "https://i.imgur.com/GJthQOa.png",
     "Streams": [
       {
-        "Url": "https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8"
+        "Url": "http://45.33.63.98/hls/abdi.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TuUniversoTV.co",
+    "Name": "Tu Universo TV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://tuuniversotv.net/",
+    "Logo": "https://i.imgur.com/e6esjLZ.jpg",
+    "Streams": [
+      {
+        "Url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ViveTV.co",
+    "Name": "Vive TV",
+    "Country": "CO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.vivetvcolombia.com/",
+    "Logo": "https://i.imgur.com/25CFHpB.png",
+    "Streams": [
+      {
+        "Url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8"
       }
     ]
   }

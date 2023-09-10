@@ -45,21 +45,6 @@
     ]
   },
   {
-    "Id": "CityMusicTV.be",
-    "Name": "City Music TV",
-    "Country": "BE",
-    "Languages": "nld",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/pGBRsjO.png",
-    "Streams": [
-      {
-        "Url": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "EbS.be",
     "Name": "EbS",
     "Country": "BE",

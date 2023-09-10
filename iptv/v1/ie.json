@@ -1,5 +1,20 @@
 [
   {
+    "Id": "Cula4.ie",
+    "Name": "Cula4",
+    "Country": "IE",
+    "Languages": "gle,eng",
+    "Categories": "kids",
+    "IsNsfw": false,
+    "Website": "https://www.cula4.com/",
+    "Logo": "https://i.imgur.com/2rhsMFF.png",
+    "Streams": [
+      {
+        "Url": "https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "OireachtasTV.ie",
     "Name": "Oireachtas TV",
     "Country": "IE",
@@ -101,21 +116,6 @@
     "Streams": [
       {
         "Url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TG4.ie",
-    "Name": "TG4",
-    "Country": "IE",
-    "Languages": "gle,eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.tg4.ie/",
-    "Logo": "https://i.imgur.com/DslaAXr.png",
-    "Streams": [
-      {
-        "Url": "https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8"
       }
     ]
   }

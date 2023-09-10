@@ -22,5 +22,110 @@
         "Url": "https://videotv2000-meride-tv.akamaized.net/branded/monoscopio/monoscopio.m3u8"
       }
     ]
+  },
+  {
+    "Id": "VaticanMedia.va",
+    "Name": "Vatican Media",
+    "Country": "VA",
+    "Languages": "ita,eng,fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.comunicazione.va/it/vatican-media.html",
+    "Logo": "https://i.imgur.com/9cUUx8H.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VaticanNewsDeutsch.va",
+    "Name": "Vatican News Deutsch",
+    "Country": "VA",
+    "Languages": "deu",
+    "Categories": "religious,news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4kSW6RM.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC4ndSG692MXx_zZlIKMYsdg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VaticanNewsEnglish.va",
+    "Name": "Vatican News English",
+    "Country": "VA",
+    "Languages": "eng",
+    "Categories": "religious,news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4kSW6RM.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCxIsefyl9g9A5SGWA4FvGIA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VaticanNewsEspanol.va",
+    "Name": "Vatican News Espanol",
+    "Country": "VA",
+    "Languages": "spa",
+    "Categories": "religious,news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4kSW6RM.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VaticanNewsFrancais.va",
+    "Name": "Vatican News Francais",
+    "Country": "VA",
+    "Languages": "fra",
+    "Categories": "religious,news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4kSW6RM.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQxVySG5g2aC-Uz9NhpyiFg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VaticanNewsItaliano.va",
+    "Name": "Vatican News Italiano",
+    "Country": "VA",
+    "Languages": "ita",
+    "Categories": "religious,news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4kSW6RM.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCkwbN2a1L1H6P9rcA7FhAqg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VaticanNewsPortugues.va",
+    "Name": "Vatican News Portugues",
+    "Country": "VA",
+    "Languages": "por",
+    "Categories": "religious,news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4kSW6RM.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCGYSq4b4DXmtK4jyq6r-FYg.m3u8"
+      }
+    ]
   }
 ]

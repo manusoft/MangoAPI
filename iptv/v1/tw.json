@@ -150,21 +150,6 @@
     ]
   },
   {
-    "Id": "GlobalNews.tw",
-    "Name": "Global News",
-    "Country": "TW",
-    "Languages": "zho,eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.asiadigital.com.tw/archives/category/globalnews",
-    "Logo": "https://i.imgur.com/oYUjEle.png",
-    "Streams": [
-      {
-        "Url": "http://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Good2.tw",
     "Name": "Good 2",
     "Country": "TW",
@@ -191,21 +176,6 @@
     "Streams": [
       {
         "Url": "https://live.streamingfast.net/osmflivech1.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SETNews.tw",
-    "Name": "SET News",
-    "Country": "TW",
-    "Languages": "zho",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.settv.com.tw/",
-    "Logo": "https://i.imgur.com/EGVbAvJ.png",
-    "Streams": [
-      {
-        "Url": "http://seb.sason.top/sc/sllive_fhd.m3u8"
       }
     ]
   },

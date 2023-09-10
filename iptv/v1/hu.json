@@ -207,21 +207,6 @@
     ]
   },
   {
-    "Id": "DSTV.hu",
-    "Name": "DSTV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "http://dstv.hu/",
-    "Logo": "https://i.imgur.com/xKJoN8L.png",
-    "Streams": [
-      {
-        "Url": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "DTV.hu",
     "Name": "DTV",
     "Country": "HU",
@@ -371,21 +356,6 @@
     "Streams": [
       {
         "Url": "http://194.76.186.33:8000/play/a03n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HalomTV.hu",
-    "Name": "Halom TV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.halomtv.hu/",
-    "Logo": "https://i.imgur.com/x8shi7l.png",
-    "Streams": [
-      {
-        "Url": "http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8"
       }
     ]
   },
@@ -693,6 +663,21 @@
     ]
   },
   {
+    "Id": "MiskolcTV.hu",
+    "Name": "Miskolc TV",
+    "Country": "HU",
+    "Languages": "hun",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://minap.hu/miskolc-tv",
+    "Logo": "https://i.imgur.com/IoiNus2.png",
+    "Streams": [
+      {
+        "Url": "https://video.mhzrt.hu/live/mitv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "MoraNetTV.hu",
     "Name": "Mora-Net TV",
     "Country": "HU",
@@ -800,6 +785,21 @@
       },
       {
         "Url": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "OzdiVarosiTV.hu",
+    "Name": "Ozdi Varosi TV",
+    "Country": "HU",
+    "Languages": "hun",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.ovtv.eu/",
+    "Logo": "https://i.imgur.com/t0Aq3UD.png",
+    "Streams": [
+      {
+        "Url": "http://stream.nmih.hu:7980/live.m3u8"
       }
     ]
   },
@@ -1113,21 +1113,6 @@
     ]
   },
   {
-    "Id": "TelePaks.hu",
-    "Name": "TelePaks",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.telepaks.net/",
-    "Logo": "https://i.imgur.com/T8ueztB.png",
-    "Streams": [
-      {
-        "Url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "VTVFuzesabony.hu",
     "Name": "VTV Fuzesabony",
     "Country": "HU",
@@ -1176,21 +1161,6 @@
     ]
   },
   {
-    "Id": "WilliamsTV.hu",
-    "Name": "Williams TV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.williams.hu/",
-    "Logo": "https://i.imgur.com/vysX07C.png",
-    "Streams": [
-      {
-        "Url": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "XVTV.hu",
     "Name": "XV TV",
     "Country": "HU",
@@ -1217,21 +1187,6 @@
     "Streams": [
       {
         "Url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZugloTV.hu",
-    "Name": "Zuglo TV",
-    "Country": "HU",
-    "Languages": "hun",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "http://zuglotv.hu/",
-    "Logo": "https://i.imgur.com/a0AmfZF.png",
-    "Streams": [
-      {
-        "Url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
       }
     ]
   }

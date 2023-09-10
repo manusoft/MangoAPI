@@ -105,21 +105,6 @@
     ]
   },
   {
-    "Id": "AigaioTV.gr",
-    "Name": "Aigaio TV",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.aigaiotv.gr/",
-    "Logo": "https://i.imgur.com/7LfuDJi.png",
-    "Streams": [
-      {
-        "Url": "https://tna5.bozztv.com/aigaiotv1/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlertTV.gr",
     "Name": "AlertTV",
     "Country": "GR",
@@ -190,7 +175,40 @@
     "Logo": "https://i.imgur.com/TZ1unwF.png",
     "Streams": [
       {
+        "Url": "https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8"
+      },
+      {
         "Url": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BarazaTVDeepHouse.gr",
+    "Name": "Baraza TV Deep House",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://barazaradio.com/",
+    "Logo": "https://i.imgur.com/TZ1unwF.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "BarazaTVRelaxing.gr",
+    "Name": "Baraza TV Relaxing",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://barazaradio.com/",
+    "Logo": "https://i.imgur.com/TZ1unwF.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
       }
     ]
   },
@@ -296,6 +314,21 @@
     "Streams": [
       {
         "Url": "https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Diktyo1.gr",
+    "Name": "Diktyo1",
+    "Country": "GR",
+    "Languages": "ell",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/4Cyo8IC.png",
+    "Streams": [
+      {
+        "Url": "https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8"
       }
     ]
   },
@@ -543,21 +576,6 @@
     ]
   },
   {
-    "Id": "Galaxy.gr",
-    "Name": "Galaxy",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/YgGSEeT.png",
-    "Streams": [
-      {
-        "Url": "https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GnomiTV.gr",
     "Name": "Gnomi TV",
     "Country": "GR",
@@ -569,21 +587,6 @@
     "Streams": [
       {
         "Url": "https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GreekTVLondon.gr",
-    "Name": "Greek TV London",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/0mtlQoK.png",
-    "Streams": [
-      {
-        "Url": "https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8"
       }
     ]
   },
@@ -836,36 +839,6 @@
       },
       {
         "Url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NRG91.gr",
-    "Name": "NRG 91",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/1Zl1OJ5.png",
-    "Streams": [
-      {
-        "Url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "NRGTV.gr",
-    "Name": "NRG TV",
-    "Country": "GR",
-    "Languages": "ell",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/1Zl1OJ5.png",
-    "Streams": [
-      {
-        "Url": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
       }
     ]
   },

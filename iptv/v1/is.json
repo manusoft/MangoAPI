@@ -1,16 +1,16 @@
 [
   {
-    "Id": "Althingi.is",
-    "Name": "Althingi",
+    "Id": "Omega.is",
+    "Name": "Omega",
     "Country": "IS",
-    "Languages": "isl,eng",
-    "Categories": "legislative",
+    "Languages": "isl",
+    "Categories": "religious",
     "IsNsfw": false,
-    "Website": "https://www.althingi.is/",
-    "Logo": "https://i.imgur.com/tKNPdea.png",
+    "Website": "https://omega.is/",
+    "Logo": "https://i.imgur.com/doybFbZ.png",
     "Streams": [
       {
-        "Url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8"
+        "Url": "https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live_1d411f00b7a411eda9b5d3bb4704377e/index.m3u8"
       }
     ]
   },
@@ -41,6 +41,21 @@
     "Streams": [
       {
         "Url": "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Visir.is",
+    "Name": "Visir",
+    "Country": "IS",
+    "Languages": "isl",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.visir.is/",
+    "Logo": "https://i.imgur.com/07Vlt6i.jpg",
+    "Streams": [
+      {
+        "Url": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8"
       }
     ]
   }

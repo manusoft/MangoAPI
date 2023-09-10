@@ -60,6 +60,36 @@
     ]
   },
   {
+    "Id": "DNJTV.pr",
+    "Name": "DNJ TV",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://dnj.tv/",
+    "Logo": "https://i.imgur.com/YqTcGJZ.png",
+    "Streams": [
+      {
+        "Url": "https://eu1.servers10.com:8081/wegqaafnsa/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "FarodeSantidadTV.pr",
+    "Name": "Faro de Santidad TV",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://farodesantidad.com",
+    "Logo": "https://i.imgur.com/GoNBFzI.png",
+    "Streams": [
+      {
+        "Url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "LaGranCarpaCatedralTV.pr",
     "Name": "La Gran Carpa Catedral TV",
     "Country": "PR",
@@ -150,6 +180,21 @@
     ]
   },
   {
+    "Id": "RadioYaucanaTV.pr",
+    "Name": "Radio Yaucana TV",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://radioyaucanatv.com/",
+    "Logo": "https://i.imgur.com/QT0UgZk.png",
+    "Streams": [
+      {
+        "Url": "https://stmvideo2.livecastv.com/rytv2015/rytv2015/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SalvacionTV.pr",
     "Name": "Salvacion TV",
     "Country": "PR",
@@ -176,6 +221,21 @@
     "Streams": [
       {
         "Url": "https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Telenorte.pr",
+    "Name": "Telenorte",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://telenortepr.godaddysites.com/",
+    "Logo": "https://i.imgur.com/LCiYFrh.jpg",
+    "Streams": [
+      {
+        "Url": "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8"
       }
     ]
   },
@@ -236,6 +296,36 @@
     "Streams": [
       {
         "Url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WXWZLD1.pr",
+    "Name": "WXWZ-LD1",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://mastvpr.com/",
+    "Logo": "https://i.imgur.com/rjmGc9p.png",
+    "Streams": [
+      {
+        "Url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "XLevelTV.pr",
+    "Name": "XLevel TV",
+    "Country": "PR",
+    "Languages": "spa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.xlevelpr.com/",
+    "Logo": "https://i.imgur.com/VhvbyoM.png",
+    "Streams": [
+      {
+        "Url": "https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8"
       }
     ]
   },

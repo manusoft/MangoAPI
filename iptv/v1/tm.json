@@ -101,9 +101,6 @@
     "Streams": [
       {
         "Url": "https://alpha.tv.online.tm/hls/ch004.m3u8"
-      },
-      {
-        "Url": "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
       }
     ]
   },

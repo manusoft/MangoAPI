@@ -104,9 +104,21 @@
     "Streams": [
       {
         "Url": "https://pbc.furrera.ps/musawahd/index.m3u8"
-      },
+      }
+    ]
+  },
+  {
+    "Id": "NablusTV.ps",
+    "Name": "Nablus TV",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GoLhaDK.png",
+    "Streams": [
       {
-        "Url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8"
+        "Url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8"
       }
     ]
   },
@@ -140,6 +152,21 @@
       },
       {
         "Url": "https://pbc.furrera.ps/palestinehd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PalestineToday.ps",
+    "Name": "Palestine Today",
+    "Country": "PS",
+    "Languages": "ara",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://paltoday.tv/",
+    "Logo": "https://i.imgur.com/BS8XXug.png",
+    "Streams": [
+      {
+        "Url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
       }
     ]
   },

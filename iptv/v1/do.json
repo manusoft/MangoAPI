@@ -1,5 +1,20 @@
 [
   {
+    "Id": "002RadioTV.do",
+    "Name": "002 Radio TV",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.002radio.com/",
+    "Logo": "https://i.imgur.com/7oNe8xj.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.002radio.com:3909/live/radio002live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ADOCCOTV.do",
     "Name": "ADOCCO TV",
     "Country": "DO",
@@ -75,21 +90,6 @@
     ]
   },
   {
-    "Id": "AnimeZoneTV.do",
-    "Name": "Anime Zone TV",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "animation",
-    "IsNsfw": false,
-    "Website": "http://azxtv.com/",
-    "Logo": "https://i.imgur.com/fDlkOBx.png",
-    "Streams": [
-      {
-        "Url": "https://azxtv.com/hls/stream.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Area809ElOriginal.do",
     "Name": "Area 809 El Original",
     "Country": "DO",
@@ -101,21 +101,6 @@
     "Streams": [
       {
         "Url": "https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BonaoTV.do",
-    "Name": "Bonao TV",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.bonaotv.com/",
-    "Logo": "https://i.imgur.com/en1vCZB.png",
-    "Streams": [
-      {
-        "Url": "https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8"
       }
     ]
   },
@@ -195,6 +180,21 @@
     ]
   },
   {
+    "Id": "Canal25.do",
+    "Name": "Canal 25",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.canal25rd.com/",
+    "Logo": "https://i.imgur.com/lmWu73V.png",
+    "Streams": [
+      {
+        "Url": "https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal4RD.do",
     "Name": "Canal 4 RD",
     "Country": "DO",
@@ -221,21 +221,6 @@
     "Streams": [
       {
         "Url": "https://cdn5.streamgato.us:3371/live/canal56live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CanalCatorce.do",
-    "Name": "Canal Catorce",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://14tv.live/",
-    "Logo": "https://i.imgur.com/iKLGBbA.png",
-    "Streams": [
-      {
-        "Url": "https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8"
       }
     ]
   },
@@ -390,21 +375,6 @@
     ]
   },
   {
-    "Id": "Ecovision.do",
-    "Name": "Ecovision",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://grupomediosdelnorte.com/",
-    "Logo": "https://i.imgur.com/liY1cMv.png",
-    "Streams": [
-      {
-        "Url": "https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "FuegoTV.do",
     "Name": "Fuego TV",
     "Country": "DO",
@@ -416,21 +386,6 @@
     "Streams": [
       {
         "Url": "https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GDMTV.do",
-    "Name": "GDMTV",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/sroIZuc.png",
-    "Streams": [
-      {
-        "Url": "https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8"
       }
     ]
   },
@@ -450,21 +405,6 @@
     ]
   },
   {
-    "Id": "GalaxiaTeVe.do",
-    "Name": "GalaxiaTeVe",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.galaxiateve.net/",
-    "Logo": "https://i.imgur.com/AWVWBL4.jpg",
-    "Streams": [
-      {
-        "Url": "https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GuaymateTV.do",
     "Name": "Guaymate TV",
     "Country": "DO",
@@ -476,21 +416,6 @@
     "Streams": [
       {
         "Url": "https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HM.do",
-    "Name": "HM",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/Ps4xOj0.png",
-    "Streams": [
-      {
-        "Url": "http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8"
       }
     ]
   },
@@ -615,21 +540,6 @@
     ]
   },
   {
-    "Id": "MaimonTVCanal3.do",
-    "Name": "Maimon TV Canal 3",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.maimontv.com/",
-    "Logo": "https://i.imgur.com/twldaaC.png",
-    "Streams": [
-      {
-        "Url": "https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MakaoTV.do",
     "Name": "Makao TV",
     "Country": "DO",
@@ -645,17 +555,17 @@
     ]
   },
   {
-    "Id": "MiTV.do",
-    "Name": "MiTV",
+    "Id": "MegaVisionTV.do",
+    "Name": "MegaVision TV",
     "Country": "DO",
     "Languages": "spa",
-    "Categories": "general",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.mitv-hd.com/",
-    "Logo": "https://i.imgur.com/qsyjdR8.png",
+    "Website": "http://www.megavisiontvrd.com/",
+    "Logo": "https://i.imgur.com/u5ECnZd.png",
     "Streams": [
       {
-        "Url": "https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8"
+        "Url": "http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8"
       }
     ]
   },
@@ -735,17 +645,17 @@
     ]
   },
   {
-    "Id": "ORBITTV.do",
-    "Name": "ORBIT TV",
+    "Id": "NexxoTV.do",
+    "Name": "Nexxo TV",
     "Country": "DO",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/lizQs3n.png",
+    "Website": "http://nexxo.tv/",
+    "Logo": "https://i.imgur.com/2OpCxa6.png",
     "Streams": [
       {
-        "Url": "https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8"
+        "Url": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8"
       }
     ]
   },
@@ -765,6 +675,21 @@
     ]
   },
   {
+    "Id": "OrientalTV.do",
+    "Name": "Oriental TV",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://orientaltv.com.do/",
+    "Logo": "https://i.imgur.com/WHRYHaH.png",
+    "Streams": [
+      {
+        "Url": "https://paz.sytes.net:5443/live/streams/orientaltv.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PHTV.do",
     "Name": "PHTV",
     "Country": "DO",
@@ -776,6 +701,21 @@
     "Streams": [
       {
         "Url": "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "PeraviaVision.do",
+    "Name": "Peravia Vision",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://peraviavision.tv/",
+    "Logo": "https://i.imgur.com/k1Wj5ka.png",
+    "Streams": [
+      {
+        "Url": "https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8"
       }
     ]
   },
@@ -840,6 +780,21 @@
     ]
   },
   {
+    "Id": "ResplandorTV.do",
+    "Name": "Resplandor TV",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://resplandorvision.com/",
+    "Logo": "https://i.imgur.com/PkDMero.png",
+    "Streams": [
+      {
+        "Url": "https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RomanaTVCanal42.do",
     "Name": "Romana TV Canal 42",
     "Country": "DO",
@@ -866,21 +821,6 @@
     "Streams": [
       {
         "Url": "http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SenalesTV.do",
-    "Name": "Senales TV",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": "https://senalestv.com/",
-    "Logo": "https://i.imgur.com/7Zr79F2.png",
-    "Streams": [
-      {
-        "Url": "https://live.teledom.info:4000/live/senalestvlive.m3u8"
       }
     ]
   },
@@ -945,66 +885,6 @@
     ]
   },
   {
-    "Id": "TRA2.do",
-    "Name": "TRA 2",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.teleradioamerica2.com/",
-    "Logo": "https://i.imgur.com/iwJ42rD.png",
-    "Streams": [
-      {
-        "Url": "https://live.teledom.info:3242/live/teleradiohdlive.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TRANoticias.do",
-    "Name": "TRA Noticias",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "http://www.teleradioamerica.com/",
-    "Logo": "https://i.imgur.com/M6ZhJqM.png",
-    "Streams": [
-      {
-        "Url": "https://live.teledom.info:3625/live/tra45live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TV10SanJuan.do",
-    "Name": "TV 10 San Juan",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://tv10sanjuan.com.do/",
-    "Logo": "https://i.imgur.com/e2BXUdH.png",
-    "Streams": [
-      {
-        "Url": "https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVDaja.do",
-    "Name": "TV Daja",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://dajatv.com/",
-    "Logo": "https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",
-    "Streams": [
-      {
-        "Url": "https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVExitos.do",
     "Name": "TV Exitos",
     "Country": "DO",
@@ -1050,21 +930,6 @@
     ]
   },
   {
-    "Id": "TVO.do",
-    "Name": "TVO",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tvo.com.do/",
-    "Logo": "https://i.imgur.com/MhloaFB.png",
-    "Streams": [
-      {
-        "Url": "https://rctvhd.net:8081/tvoromanalive/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVPlata.do",
     "Name": "TV Plata",
     "Country": "DO",
@@ -1091,9 +956,6 @@
     "Streams": [
       {
         "Url": "https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8"
-      },
-      {
-        "Url": "http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8"
       }
     ]
   },
@@ -1109,6 +971,21 @@
     "Streams": [
       {
         "Url": "https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleRadioNorte.do",
+    "Name": "TeleRadioNorte",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://teleradionorte.com/",
+    "Logo": "https://i.imgur.com/s43eFy0.png",
+    "Streams": [
+      {
+        "Url": "https://angelistic.live:3785/live/tvoficiallive.m3u8"
       }
     ]
   },
@@ -1154,21 +1031,6 @@
     "Streams": [
       {
         "Url": "https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Telemilenio.do",
-    "Name": "Telemilenio",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/Y8ah4ym.png",
-    "Streams": [
-      {
-        "Url": "http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8"
       }
     ]
   },
@@ -1248,6 +1110,21 @@
     ]
   },
   {
+    "Id": "Teleunion.do",
+    "Name": "Teleunion",
+    "Country": "DO",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://teleuniontvrd.com/",
+    "Logo": "https://i.imgur.com/vTfxkjW.png",
+    "Streams": [
+      {
+        "Url": "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Teleuniverso.do",
     "Name": "Teleuniverso",
     "Country": "DO",
@@ -1259,36 +1136,6 @@
     "Streams": [
       {
         "Url": "https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Telever.do",
-    "Name": "Telever",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png",
-    "Streams": [
-      {
-        "Url": "https://servilive.com:3758/live/televerlive.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TelevisiondelEste.do",
-    "Name": "Television del Este",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "news,travel",
-    "IsNsfw": false,
-    "Website": "https://televisiondeleste.net/",
-    "Logo": "https://i.imgur.com/mmjbcGr.png",
-    "Streams": [
-      {
-        "Url": "http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8="
       }
     ]
   },
@@ -1379,21 +1226,6 @@
     "Streams": [
       {
         "Url": "https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "entelevision.do",
-    "Name": "entelevision",
-    "Country": "DO",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://entelevision.com/",
-    "Logo": "https://i.imgur.com/gVtLpMD.png",
-    "Streams": [
-      {
-        "Url": "https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8"
       }
     ]
   }

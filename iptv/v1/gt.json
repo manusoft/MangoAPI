@@ -75,17 +75,17 @@
     ]
   },
   {
-    "Id": "Canal27.gt",
-    "Name": "Canal 27",
+    "Id": "Canal3.gt",
+    "Name": "Canal 3",
     "Country": "GT",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.canal27.org/",
-    "Logo": "https://i.imgur.com/eA4vt8A.png",
+    "Website": "https://www.chapintv.com/",
+    "Logo": "https://i.imgur.com/yCykjIp.png",
     "Streams": [
       {
-        "Url": "https://live.appclicksgt.com:3305/live/tvcanal27live.m3u8"
+        "Url": "https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8"
       }
     ]
   },
@@ -120,6 +120,36 @@
     ]
   },
   {
+    "Id": "Canal9Toliman.gt",
+    "Name": "Canal9 Toliman",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.playgt.net/canal9gt",
+    "Logo": "https://i.imgur.com/ytg9oTf.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanalAntigua.gt",
+    "Name": "Canal Antigua",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canalantigua.tv/",
+    "Logo": "https://i.imgur.com/edZjzbS.png",
+    "Streams": [
+      {
+        "Url": "https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CanalPeniel.gt",
     "Name": "Canal Peniel",
     "Country": "GT",
@@ -146,6 +176,21 @@
     "Streams": [
       {
         "Url": "https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CanaldeGobierno.gt",
+    "Name": "Canal de Gobierno",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://guatemala.gob.gt/canal-de-gobierno/",
+    "Logo": "https://i.imgur.com/O78F97d.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCh4GjKBcqxOsL_Bt8gCCSLg.m3u8"
       }
     ]
   },
@@ -191,21 +236,6 @@
     "Streams": [
       {
         "Url": "https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "FullChannel.gt",
-    "Name": "Full Channel",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.playgt.net/fullchannel",
-    "Logo": "https://i.imgur.com/e8sIMF3.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8"
       }
     ]
   },
@@ -285,6 +315,21 @@
     ]
   },
   {
+    "Id": "NuevoMundoTV.gt",
+    "Name": "Nuevo Mundo TV",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://nuevomundoradio.com/nuevomundo-tv/",
+    "Logo": "https://i.imgur.com/j3OGO3V.png",
+    "Streams": [
+      {
+        "Url": "https://tvlatina.live:1936/8008/8008/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PenielKY.gt",
     "Name": "Peniel K&Y",
     "Country": "GT",
@@ -333,21 +378,6 @@
     ]
   },
   {
-    "Id": "RhemaTV.gt",
-    "Name": "Rhema TV",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://rtv.live/",
-    "Logo": "https://i.imgur.com/5o821rT.png",
-    "Streams": [
-      {
-        "Url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SASTV.gt",
     "Name": "SAS TV",
     "Country": "GT",
@@ -359,6 +389,21 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TDS.gt",
+    "Name": "TDS",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/HwGgYEP.png",
+    "Streams": [
+      {
+        "Url": "https://tv.ideskhn.com:3343/live/tdssololalive.m3u8"
       }
     ]
   },
@@ -408,21 +453,6 @@
     ]
   },
   {
-    "Id": "TVTun.gt",
-    "Name": "TV Tun",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/dGSfHCj.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Telecosta.gt",
     "Name": "Telecosta",
     "Country": "GT",
@@ -438,6 +468,36 @@
     ]
   },
   {
+    "Id": "Televisiete.gt",
+    "Name": "Televisiete",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.chapintv.com/",
+    "Logo": "https://i.imgur.com/yVhUkot.png",
+    "Streams": [
+      {
+        "Url": "https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeveGlobo.gt",
+    "Name": "Teve Globo",
+    "Country": "GT",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.teveglobo.live/",
+    "Logo": "https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png",
+    "Streams": [
+      {
+        "Url": "https://tv.ideskhn.com:3812/live/teveglobolive.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Totovision.gt",
     "Name": "Totovision",
     "Country": "GT",
@@ -449,21 +509,6 @@
     "Streams": [
       {
         "Url": "https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Tunevision.gt",
-    "Name": "Tunevision",
-    "Country": "GT",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.playgt.net/tunevision",
-    "Logo": "https://i.imgur.com/XNiXqgj.png",
-    "Streams": [
-      {
-        "Url": "https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8"
       }
     ]
   },

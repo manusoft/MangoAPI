@@ -60,21 +60,6 @@
     ]
   },
   {
-    "Id": "AlpedHuezTV.fr",
-    "Name": "Alpe d'Huez TV",
-    "Country": "FR",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/090tCQ5.png",
-    "Streams": [
-      {
-        "Url": "https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AstrocenterTV.fr",
     "Name": "Astrocenter TV",
     "Country": "FR",
@@ -468,21 +453,6 @@
     ]
   },
   {
-    "Id": "CentralTV.fr",
-    "Name": "Central TV",
-    "Country": "FR",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/2DU22BN.png",
-    "Streams": [
-      {
-        "Url": "http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Cherie25.fr",
     "Name": "Cherie 25",
     "Country": "FR",
@@ -741,6 +711,21 @@
     ]
   },
   {
+    "Id": "EuronewsPortuguese.fr",
+    "Name": "Euronews Portuguese",
+    "Country": "FR",
+    "Languages": "por",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://pt.euronews.com/",
+    "Logo": "https://i.imgur.com/8t9mdg9.png",
+    "Streams": [
+      {
+        "Url": "https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "EuronewsRussian.fr",
     "Name": "Euronews Russian",
     "Country": "FR",
@@ -963,6 +948,21 @@
     ]
   },
   {
+    "Id": "FranceBleuElsass.fr",
+    "Name": "France Bleu Elsass",
+    "Country": "FR",
+    "Languages": "gsw",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.francebleu.fr/elsass",
+    "Logo": "https://i.imgur.com/zwIgn92.png",
+    "Streams": [
+      {
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceBleuElsass.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FranceInter.fr",
     "Name": "France Inter",
     "Country": "FR",
@@ -991,9 +991,6 @@
     "Logo": "https://i.imgur.com/eITXz6A.png",
     "Streams": [
       {
-        "Url": "https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8"
-      },
-      {
         "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfo.m3u8"
       }
     ]
@@ -1014,17 +1011,17 @@
     ]
   },
   {
-    "Id": "GenerationsTV.fr",
-    "Name": "Generations TV",
+    "Id": "FunRadio.fr",
+    "Name": "Fun Radio",
     "Country": "FR",
     "Languages": "fra",
-    "Categories": "",
+    "Categories": "music",
     "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/NgBrDMe.png",
+    "Website": "https://www.funradio.fr/",
+    "Logo": "https://i.imgur.com/wgxuYsQ.png",
     "Streams": [
       {
-        "Url": "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
+        "Url": "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FunRadio.m3u8"
       }
     ]
   },
@@ -1652,9 +1649,6 @@
     "Streams": [
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       }
     ]
   },

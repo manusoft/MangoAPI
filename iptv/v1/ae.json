@@ -60,6 +60,21 @@
     ]
   },
   {
+    "Id": "AlAanTV.ae",
+    "Name": "Al Aan TV",
+    "Country": "AE",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.alaan.tv/",
+    "Logo": "https://i.imgur.com/Jl9Uw8N.png",
+    "Streams": [
+      {
+        "Url": "https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlDafrahTV.ae",
     "Name": "Al Dafrah TV",
     "Country": "AE",
@@ -362,6 +377,9 @@
     "Streams": [
       {
         "Url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
+      },
+      {
+        "Url": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
       }
     ]
   },
@@ -660,21 +678,6 @@
     ]
   },
   {
-    "Id": "NourTV.ae",
-    "Name": "Nour TV",
-    "Country": "AE",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://nourtv.net/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg",
-    "Streams": [
-      {
-        "Url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PMC.ae",
     "Name": "PMC",
     "Country": "AE",
@@ -827,6 +830,21 @@
       },
       {
         "Url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Wanasah.ae",
+    "Name": "Wanasah",
+    "Country": "AE",
+    "Languages": "ara",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.mbc.net/en/corporate/channels/wanasah.html",
+    "Logo": "https://i.imgur.com/YaQcStz.png",
+    "Streams": [
+      {
+        "Url": "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8"
       }
     ]
   },

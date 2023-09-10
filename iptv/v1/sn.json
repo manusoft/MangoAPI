@@ -15,21 +15,6 @@
     ]
   },
   {
-    "Id": "A2iMusic.sn",
-    "Name": "A2i Music",
-    "Country": "SN",
-    "Languages": "wol,fra",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/1UkxzGL.png",
-    "Streams": [
-      {
-        "Url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "A2iNaja.sn",
     "Name": "A2i Naja",
     "Country": "SN",
@@ -41,21 +26,6 @@
     "Streams": [
       {
         "Url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "A2iReligion.sn",
-    "Name": "A2i Religion",
-    "Country": "SN",
-    "Languages": "wol,fra",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/tH7EZL4.jpg",
-    "Streams": [
-      {
-        "Url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
       }
     ]
   },
@@ -75,21 +45,6 @@
     ]
   },
   {
-    "Id": "DRTSTV.sn",
-    "Name": "DRTS TV",
-    "Country": "SN",
-    "Languages": "fra",
-    "Categories": "education",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/nzjmJVP/unnamed-2.jpg",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC-6dz560kcpeLmxceZzn44A.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "LeralTV.sn",
     "Name": "Leral TV",
     "Country": "SN",
@@ -101,6 +56,21 @@
     "Streams": [
       {
         "Url": "https://live3.acangroup.org:1929/acanabr/leraltv_all/acanabr/leraltv_720p/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "LougaTV.sn",
+    "Name": "Louga TV",
+    "Country": "SN",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://lougatv.net/",
+    "Logo": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+    "Streams": [
+      {
+        "Url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
       }
     ]
   },
@@ -146,36 +116,6 @@
     "Streams": [
       {
         "Url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TeleMusikSenegal.sn",
-    "Name": "TeleMusik Senegal",
-    "Country": "SN",
-    "Languages": "fra",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://www.telemusik.tv/",
-    "Logo": "https://i.imgur.com/dPAPLsd.png",
-    "Streams": [
-      {
-        "Url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "WalfTV.sn",
-    "Name": "Walf TV",
-    "Country": "SN",
-    "Languages": "fra",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.walf-groupe.com/",
-    "Logo": "https://i.imgur.com/WMvSKki.png",
-    "Streams": [
-      {
-        "Url": "https://live3.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8"
       }
     ]
   },

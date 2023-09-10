@@ -15,6 +15,21 @@
     ]
   },
   {
+    "Id": "MajanTV.om",
+    "Name": "Majan TV",
+    "Country": "OM",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.majan-tv.com/",
+    "Logo": "https://i.imgur.com/ElU85r7.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCrJDHlh0u9KdOB7A559n7uA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "OmanSportsTV.om",
     "Name": "Oman Sports TV",
     "Country": "OM",

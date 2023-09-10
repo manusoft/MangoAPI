@@ -15,6 +15,36 @@
     ]
   },
   {
+    "Id": "CCPVTelevision.cd",
+    "Name": "CCPV Television",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://ccpvmontreal.com/",
+    "Logo": "https://i.imgur.com/VRhkEqz.jpg",
+    "Streams": [
+      {
+        "Url": "https://tv1.isi-broadcast.tech/CCPV-TV/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DigitalCongoTV.cd",
+    "Name": "Digital Congo TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.digitalcongo.net/",
+    "Logo": "https://i.imgur.com/uz2Rsu7.png",
+    "Streams": [
+      {
+        "Url": "https://tv2.isi-broadcast.tech/ISI-BROADCAST/DIGITAL-TV/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "EVITV.cd",
     "Name": "EVI TV",
     "Country": "CD",
@@ -26,6 +56,51 @@
     "Streams": [
       {
         "Url": "https://stream.telepack.net/evitv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KingTV.cd",
+    "Name": "King TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GuL3YIc.png",
+    "Streams": [
+      {
+        "Url": "https://tv1.isi-broadcast.tech/KING_TV/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MadiTV.cd",
+    "Name": "Madi TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/hlAsdxp.png",
+    "Streams": [
+      {
+        "Url": "https://tv1.isi-broadcast.tech/MADI-TV/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MetanoiaTV.cd",
+    "Name": "Metanoia TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://metanoia.tv/",
+    "Logo": "https://i.imgur.com/Bf00ttL.png",
+    "Streams": [
+      {
+        "Url": "https://tv1.isi-broadcast.tech/METANOIA-STREAM1/index.m3u8"
       }
     ]
   },
@@ -45,6 +120,36 @@
     ]
   },
   {
+    "Id": "MishapiVoiceTV.cd",
+    "Name": "Mishapi Voice TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/GfOy2ok.png",
+    "Streams": [
+      {
+        "Url": "https://tv1.isi-broadcast.tech/MISHAPI-STREAM1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "NumericaTV.cd",
+    "Name": "Numerica TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://numericatelevision.cd",
+    "Logo": "https://i.imgur.com/ZUPJJ59.png",
+    "Streams": [
+      {
+        "Url": "https://tv1.isi-broadcast.tech/NUMERICA/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PSTVHD.cd",
     "Name": "PSTV HD",
     "Country": "CD",
@@ -56,6 +161,24 @@
     "Streams": [
       {
         "Url": "http://51.254.199.122:8080/PSTV/index.m3u8"
+      },
+      {
+        "Url": "https://tv2.isi-broadcast.tech/ISI-BROADCAST/HDLIVE1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ParoleEternelleTV.cd",
+    "Name": "Parole Eternelle TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://paroleeternellertv.com/",
+    "Logo": "https://i.imgur.com/FEfIZ3N.png",
+    "Streams": [
+      {
+        "Url": "https://tv2.isi-broadcast.tech/ISI-BROADCAST/PAROLETV/index.m3u8"
       }
     ]
   },
@@ -71,6 +194,39 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8"
+      },
+      {
+        "Url": "https://tv2.isi-broadcast.tech/ISI-BROADCAST/RTNC-1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SSMTV.cd",
+    "Name": "SSM TV",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/sa09qnf.jpg",
+    "Streams": [
+      {
+        "Url": "https://tv2.isi-broadcast.tech/ISI-BROADCAST/SSM/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Tele50.cd",
+    "Name": "Tele 50",
+    "Country": "CD",
+    "Languages": "fra",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/YJ7CPLq.png",
+    "Streams": [
+      {
+        "Url": "https://tv2.isi-broadcast.tech/ISI-BROADCAST/TELE-50/index.m3u8"
       }
     ]
   }

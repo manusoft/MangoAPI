@@ -1,5 +1,20 @@
 [
   {
+    "Id": "DelfiTV.ee",
+    "Name": "Delfi TV",
+    "Country": "EE",
+    "Languages": "est",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tv.delfi.ee/",
+    "Logo": "https://i.imgur.com/IFoHP5M.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCQGN5-eIjRRy6MGcHKDE_6g.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ETV.ee",
     "Name": "ETV",
     "Country": "EE",
@@ -86,6 +101,21 @@
     "Streams": [
       {
         "Url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVN.ee",
+    "Name": "TVN",
+    "Country": "EE",
+    "Languages": "est",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/t8nUMAO.png",
+    "Streams": [
+      {
+        "Url": "https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token"
       }
     ]
   }

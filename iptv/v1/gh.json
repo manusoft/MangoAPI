@@ -1,20 +1,5 @@
 [
   {
-    "Id": "AITTV.gh",
-    "Name": "AIT TV",
-    "Country": "GH",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://tvait.com/",
-    "Logo": "https://i.imgur.com/xtrs7ej.png",
-    "Streams": [
-      {
-        "Url": "https://livetv.tvait.com:1935/hls/stream1.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AdinkraTV.gh",
     "Name": "Adinkra TV",
     "Country": "GH",
@@ -176,6 +161,21 @@
     "Streams": [
       {
         "Url": "https://iptv-trans.ecntv.net/live/penttv.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ResurrectionTV.gh",
+    "Name": "Resurrection TV",
+    "Country": "GH",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.resurrectiontv.org/",
+    "Logo": "https://i.imgur.com/IncyJW8.png",
+    "Streams": [
+      {
+        "Url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8"
       }
     ]
   },

@@ -186,6 +186,21 @@
     ]
   },
   {
+    "Id": "EnlaceJuvenil.cr",
+    "Name": "Enlace Juvenil",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://ejtv.tv/",
+    "Logo": "https://i.imgur.com/GfpPQ5D.png",
+    "Streams": [
+      {
+        "Url": "https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "GuatusoTV.cr",
     "Name": "Guatuso TV",
     "Country": "CR",
@@ -197,6 +212,21 @@
     "Streams": [
       {
         "Url": "https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HBTVTicaVision.cr",
+    "Name": "HBTV TicaVision",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "Streams": [
+      {
+        "Url": "https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8"
       }
     ]
   },
@@ -227,21 +257,6 @@
     "Streams": [
       {
         "Url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LosSantosTV.cr",
-    "Name": "Los Santos TV",
-    "Country": "CR",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.lossantostv.com/",
-    "Logo": "https://i.imgur.com/5xw86wu.png",
-    "Streams": [
-      {
-        "Url": "https://lstv.duckdns.org:449/hls/lstv.m3u8"
       }
     ]
   },
@@ -414,21 +429,6 @@
     ]
   },
   {
-    "Id": "TVSantaCruz.cr",
-    "Name": "TV Santa Cruz",
-    "Country": "CR",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.tvsantacruzcr.net/",
-    "Logo": "https://imgtr.ee/images/2023/05/24/wQiUl.jpg",
-    "Streams": [
-      {
-        "Url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVSurCanal14.cr",
     "Name": "TV Sur Canal 14",
     "Country": "CR",
@@ -440,6 +440,39 @@
     "Streams": [
       {
         "Url": "https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVSurCanal9.cr",
+    "Name": "TV Sur Canal 9",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/7HbISMV.png",
+    "Streams": [
+      {
+        "Url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleUno.cr",
+    "Name": "Tele Uno",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/eRwYxc2.png",
+    "Streams": [
+      {
+        "Url": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8"
+      },
+      {
+        "Url": "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
       }
     ]
   },
@@ -515,6 +548,21 @@
     "Streams": [
       {
         "Url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VintageMusic.cr",
+    "Name": "Vintage Music",
+    "Country": "CR",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.facebook.com/CanalVintageMusic/",
+    "Logo": "https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",
+    "Streams": [
+      {
+        "Url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
       }
     ]
   },

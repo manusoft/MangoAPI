@@ -166,20 +166,5 @@
         "Url": "https://str.yodacdn.net/medeniyyet/index.m3u8"
       }
     ]
-  },
-  {
-    "Id": "RealTV.az",
-    "Name": "Real TV",
-    "Country": "AZ",
-    "Languages": "aze",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.realtv.az/",
-    "Logo": "https://i.imgur.com/e2KFL0R.png",
-    "Streams": [
-      {
-        "Url": "https://str.yodacdn.net/real/playlist.m3u8"
-      }
-    ]
   }
 ]

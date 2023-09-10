@@ -291,6 +291,21 @@
     ]
   },
   {
+    "Id": "CadenaElite.es",
+    "Name": "Cadena Elite",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "music",
+    "IsNsfw": false,
+    "Website": "https://www.cadenaelite.es/",
+    "Logo": "https://i.imgur.com/3yeGDTP.png",
+    "Streams": [
+      {
+        "Url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Canal10Emporda.es",
     "Name": "Canal 10 Emporda",
     "Country": "ES",
@@ -477,6 +492,21 @@
     ]
   },
   {
+    "Id": "Canal7TeleValencia.es",
+    "Name": "Canal 7 TeleValencia",
+    "Country": "ES",
+    "Languages": "spa,cat",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://7televalencia.com/",
+    "Logo": "https://i.imgur.com/ILfXDRs.png",
+    "Streams": [
+      {
+        "Url": "https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CanalCosta.es",
     "Name": "CanalCosta",
     "Country": "ES",
@@ -633,17 +663,17 @@
     ]
   },
   {
-    "Id": "CanalTaronjaComarquesCentrals.es",
-    "Name": "Canal Taronja Comarques Centrals",
+    "Id": "CanalTaronjaOsonaiMoianes.es",
+    "Name": "Canal Taronja Osona i Moianes",
     "Country": "ES",
     "Languages": "spa",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "https://www.canaltaronja.cat/central/",
+    "Website": "http://www.canaltaronja.cat/osona/http://www.canaltaronja.cat/osona/",
     "Logo": "https://i.imgur.com/RP8VcqZ.png",
     "Streams": [
       {
-        "Url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8"
+        "Url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
       }
     ]
   },
@@ -708,21 +738,6 @@
     ]
   },
   {
-    "Id": "CiudadesdelOcioTV.es",
-    "Name": "Ciudades del Ocio TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "http://www.ciudadesdelocio.tv/",
-    "Logo": "https://i.imgur.com/CTQgqsM.png",
-    "Streams": [
-      {
-        "Url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Clan.es",
     "Name": "Clan",
     "Country": "ES",
@@ -733,10 +748,22 @@
     "Logo": "https://i.imgur.com/03jFV68.png",
     "Streams": [
       {
-        "Url": "https://ztnr.rtve.es/ztnr/5466990.m3u8"
-      },
-      {
         "Url": "https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Condavision.es",
+    "Name": "Condavision",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.condavision.es/",
+    "Logo": "https://i.imgur.com/dlrazec.png",
+    "Streams": [
+      {
+        "Url": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
       }
     ]
   },
@@ -812,6 +839,21 @@
     "Streams": [
       {
         "Url": "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CordobaTV.es",
+    "Name": "Cordoba TV",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cordoba-tv.com/",
+    "Logo": "https://i.imgur.com/qVe0hET.png",
+    "Streams": [
+      {
+        "Url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
       }
     ]
   },
@@ -1212,21 +1254,6 @@
     ]
   },
   {
-    "Id": "IberoamericaTV.es",
-    "Name": "Iberoamerica TV",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://iberoamericatelevision.com/",
-    "Logo": "https://i.imgur.com/N3K6PAG.png",
-    "Streams": [
-      {
-        "Url": "https://limited39.todostreaming.es/live/salome-livestream.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ImasTV.es",
     "Name": "Imas TV",
     "Country": "ES",
@@ -1268,6 +1295,21 @@
     "Streams": [
       {
         "Url": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "JuntadeCastillayLeon.es",
+    "Name": "Junta de Castilla y Leon",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.jcyl.es/",
+    "Logo": "https://i.imgur.com/hGR3tv9.png",
+    "Streams": [
+      {
+        "Url": "https://16escalones-live2.flumotion.com/chunks.m3u8"
       }
     ]
   },
@@ -1548,6 +1590,21 @@
     ]
   },
   {
+    "Id": "NoroesteTV.es",
+    "Name": "Noroeste TV",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.noroestetv.es/",
+    "Logo": "https://i.imgur.com/s6V8rQd.png",
+    "Streams": [
+      {
+        "Url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Onda15TV.es",
     "Name": "Onda 15 TV",
     "Country": "ES",
@@ -1694,6 +1751,21 @@
     "Streams": [
       {
         "Url": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ParlamentodeNavarra.es",
+    "Name": "Parlamento de Navarra",
+    "Country": "ES",
+    "Languages": "spa,eus",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.parlamentodenavarra.es/",
+    "Logo": "https://i.imgur.com/JnhWxKv.png",
+    "Streams": [
+      {
+        "Url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
       }
     ]
   },
@@ -1980,6 +2052,24 @@
     ]
   },
   {
+    "Id": "PopularTVMelilla.es",
+    "Name": "Popular TV Melilla",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://populartvmelilla.com/",
+    "Logo": "https://i.imgur.com/TbevWX4.png",
+    "Streams": [
+      {
+        "Url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
+      },
+      {
+        "Url": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "Punt3.es",
     "Name": "Punt 3",
     "Country": "ES",
@@ -2051,6 +2141,21 @@
     "Streams": [
       {
         "Url": "https://tv.portalexpress.es:3731/stream/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "RadioTelevisionMarbella.es",
+    "Name": "Radio Television Marbella",
+    "Country": "ES",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/o9Ro8TR.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
       }
     ]
   },
@@ -2487,21 +2592,6 @@
     ]
   },
   {
-    "Id": "TVHellin.es",
-    "Name": "TV Hellin",
-    "Country": "ES",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://televisionhellin.com/tv-en-directo/",
-    "Logo": "https://televisionhellin.com/wp-content/uploads/2021/08/logotipo-tvhellinonline.png",
-    "Streams": [
-      {
-        "Url": "https://hellin-hls-live.flumotion.com/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVMCordoba.es",
     "Name": "TVM Cordoba",
     "Country": "ES",
@@ -2520,17 +2610,17 @@
     ]
   },
   {
-    "Id": "TVSabadellValles.es",
-    "Name": "TV Sabadell-Valles",
+    "Id": "TVR.es",
+    "Name": "TVR",
     "Country": "ES",
-    "Languages": "cat",
+    "Languages": "spa",
     "Categories": "general",
     "IsNsfw": false,
-    "Website": "https://tvsabadell-valles.cat/",
-    "Logo": "https://i.imgur.com/fSTsGbG.png",
+    "Website": "https://www.tvr.es/",
+    "Logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
     "Streams": [
       {
-        "Url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+        "Url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
       }
     ]
   },

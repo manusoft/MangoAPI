@@ -208,5 +208,20 @@
         "Url": "http://stream.tvdielli.com:8081/dielli/index.m3u8"
       }
     ]
+  },
+  {
+    "Id": "TVOpoja.xk",
+    "Name": "TV Opoja",
+    "Country": "XK",
+    "Languages": "sqi",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/hxi4Qiq.png",
+    "Streams": [
+      {
+        "Url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8"
+      }
+    ]
   }
 ]

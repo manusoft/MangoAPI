@@ -41,6 +41,9 @@
     "Streams": [
       {
         "Url": "http://138.117.4.70:8075/channel10/playlist.m3u8"
+      },
+      {
+        "Url": "https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8"
       }
     ]
   },
@@ -56,6 +59,21 @@
     "Streams": [
       {
         "Url": "http://138.117.4.70:8075/channel11/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Canal2.ni",
+    "Name": "Canal 2",
+    "Country": "NI",
+    "Languages": "spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://canal2tv.com/",
+    "Logo": "https://i.imgur.com/hy0bXxo.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCX2i6sAexuDAbHMztLnfnKg.m3u8"
       }
     ]
   },

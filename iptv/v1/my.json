@@ -1,5 +1,20 @@
 [
   {
+    "Id": "8TV.my",
+    "Name": "8TV",
+    "Country": "MY",
+    "Languages": "zho",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.xtra.com.my/",
+    "Logo": "https://i.imgur.com/Jkx9W88.png",
+    "Streams": [
+      {
+        "Url": "https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AstroAwani.my",
     "Name": "Astro Awani",
     "Country": "MY",

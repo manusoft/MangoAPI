@@ -108,21 +108,6 @@
     ]
   },
   {
-    "Id": "KuryrTV.cz",
-    "Name": "Kuryr TV",
-    "Country": "CZ",
-    "Languages": "ces",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.kuryr.tv/",
-    "Logo": "https://i.imgur.com/Ox2gujv.png",
-    "Streams": [
-      {
-        "Url": "https://stream-35.mazana.tv/jc2.jc.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "MnauTV.cz",
     "Name": "Mnau TV",
     "Country": "CZ",
@@ -312,21 +297,6 @@
     ]
   },
   {
-    "Id": "SlagerPremium.cz",
-    "Name": "Slager Premium",
-    "Country": "CZ",
-    "Languages": "ces",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://slagrtv.cz/",
-    "Logo": "https://i.imgur.com/A7u2KeM.png",
-    "Streams": [
-      {
-        "Url": "https://stream-15.mazana.tv/slagrpremium.m3u"
-      }
-    ]
-  },
-  {
     "Id": "TVBrno1.cz",
     "Name": "TV Brno 1",
     "Country": "CZ",
@@ -338,6 +308,21 @@
     "Streams": [
       {
         "Url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TVMohelnice.cz",
+    "Name": "TVMohelnice",
+    "Country": "CZ",
+    "Languages": "ces",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://mohelnickatelevize.cz/",
+    "Logo": "https://i.imgur.com/4SW1zfV.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCr8xNHreYlR3gOjXnd82PBQ.m3u8"
       }
     ]
   },
@@ -413,6 +398,21 @@
     "Streams": [
       {
         "Url": "http://st01.lab.cho01.iptv.grapesc.cz/32-tv-stb.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelevizeFILMpro.cz",
+    "Name": "Televize FILMpro",
+    "Country": "CZ",
+    "Languages": "ces",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.filmpro.cz/",
+    "Logo": "https://i.imgur.com/7OY5EPh.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCijOX8ka7E2cBsULVgY50QA.m3u8"
       }
     ]
   },

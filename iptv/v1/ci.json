@@ -178,5 +178,20 @@
         "Url": "https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
       }
     ]
+  },
+  {
+    "Id": "UGFTV.ci",
+    "Name": "UGF TV",
+    "Country": "CI",
+    "Languages": "fra",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://ugfinfo.net/",
+    "Logo": "https://i.ibb.co/2k6HkKH/channels4-profile.jpg",
+    "Streams": [
+      {
+        "Url": "https://video1.getstreamhosting.com:1936/8200/8200/playlist.m3u8"
+      }
+    ]
   }
 ]

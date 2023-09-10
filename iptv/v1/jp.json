@@ -195,21 +195,6 @@
     ]
   },
   {
-    "Id": "JOCXDTV.jp",
-    "Name": "JOCX-DTV",
-    "Country": "JP",
-    "Languages": "jpn",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/sEWDmMD.png",
-    "Streams": [
-      {
-        "Url": "https://fujitv4.mov3.co/hls/fujitv.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "JORXDTV.jp",
     "Name": "JORX-DTV",
     "Country": "JP",
@@ -560,6 +545,9 @@
       },
       {
         "Url": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8"
+      },
+      {
+        "Url": "https://neetball.net/live/neet.m3u8"
       }
     ]
   },
@@ -611,6 +599,9 @@
       },
       {
         "Url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8?ads.device_make=rchweb&ads.fromsps=0&ads.spotx_uid=1b4db7eb-4057-5ddf-91e0-36dec72071f5"
+      },
+      {
+        "Url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8"
       }
     ]
   }

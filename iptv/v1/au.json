@@ -123,6 +123,21 @@
     ]
   },
   {
+    "Id": "M4TVMalayalam.au",
+    "Name": "M4TV Malayalam",
+    "Country": "AU",
+    "Languages": "mal",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://m4malayalam.tv/",
+    "Logo": "https://i.imgur.com/dTR6H2A.png",
+    "Streams": [
+      {
+        "Url": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "NickelodeonAustralia.au",
     "Name": "Nickelodeon Australia",
     "Country": "AU",

@@ -135,21 +135,6 @@
     ]
   },
   {
-    "Id": "CanaldelCongreso451.mx",
-    "Name": "Canal del Congreso 45.1",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://www.canaldelcongreso.gob.mx/",
-    "Logo": "https://i.imgur.com/xAC6gQO.png",
-    "Streams": [
-      {
-        "Url": "https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CanaldelCongreso452.mx",
     "Name": "Canal del Congreso 45.2",
     "Country": "MX",
@@ -206,21 +191,6 @@
     "Streams": [
       {
         "Url": "https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ConectaTV.mx",
-    "Name": "Conecta TV",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/qEk0QGa.png",
-    "Streams": [
-      {
-        "Url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8"
       }
     ]
   },
@@ -648,21 +618,6 @@
     ]
   },
   {
-    "Id": "NueveTV.mx",
-    "Name": "Nueve TV",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.ntvslp.com/",
-    "Logo": "https://i.imgur.com/3fzB7zY.png",
-    "Streams": [
-      {
-        "Url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PresumiendoMexico.mx",
     "Name": "Presumiendo Mexico",
     "Country": "MX",
@@ -723,21 +678,6 @@
     ]
   },
   {
-    "Id": "SQCSCanal4.mx",
-    "Name": "SQCS Canal 4",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://qroo.gob.mx/sqcs",
-    "Logo": "https://i.imgur.com/qnx8nBP.png",
-    "Streams": [
-      {
-        "Url": "https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SintesisTV.mx",
     "Name": "Sintesis TV",
     "Country": "MX",
@@ -764,21 +704,6 @@
     "Streams": [
       {
         "Url": "https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SuperChannel12.mx",
-    "Name": "Super Channel 12",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://superchannel12.com",
-    "Logo": "https://i.imgur.com/dLHIvKz.png",
-    "Streams": [
-      {
-        "Url": "https://servilive.com:3263/live/channel12live.m3u8"
       }
     ]
   },
@@ -1203,21 +1128,6 @@
     ]
   },
   {
-    "Id": "TelevisaEstado.mx",
-    "Name": "Televisa Estado",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/BT2ci5E.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TelevisaGuadalajara.mx",
     "Name": "Televisa Guadalajara",
     "Country": "MX",
@@ -1409,21 +1319,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TelevisaSinaloa.mx",
-    "Name": "Televisa Sinaloa",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/nZ9HE94.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8"
       }
     ]
   },
@@ -1653,21 +1548,6 @@
     ]
   },
   {
-    "Id": "XHFGLTDT.mx",
-    "Name": "XHFGL-TDT",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.el15.mx/",
-    "Logo": "https://i.imgur.com/9ZXCQvy.png",
-    "Streams": [
-      {
-        "Url": "https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "XHFNTDT1.mx",
     "Name": "XHFN-TDT1",
     "Country": "MX",
@@ -1709,36 +1589,6 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "XHKGTDT.mx",
-    "Name": "XHKG-TDT",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://xhkg.tv/",
-    "Logo": "https://i.imgur.com/QFI2OdJ.png",
-    "Streams": [
-      {
-        "Url": "https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "XHMNLTDT.mx",
-    "Name": "XHMNL-TDT",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "education",
-    "IsNsfw": false,
-    "Website": "https://srtvnl.com/",
-    "Logo": "https://i.imgur.com/9qL4LJF.png",
-    "Streams": [
-      {
-        "Url": "https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8"
       }
     ]
   },
@@ -1844,21 +1694,6 @@
     "Streams": [
       {
         "Url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "XHZHZTDT.mx",
-    "Name": "XHZHZ-TDT",
-    "Country": "MX",
-    "Languages": "spa",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.sizart.org.mx/",
-    "Logo": "https://i.imgur.com/RxhABeK.png",
-    "Streams": [
-      {
-        "Url": "https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8"
       }
     ]
   }

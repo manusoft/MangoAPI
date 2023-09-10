@@ -93,21 +93,6 @@
     ]
   },
   {
-    "Id": "OraTV.al",
-    "Name": "Ora TV",
-    "Country": "AL",
-    "Languages": "sqi",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.oranews.tv/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png",
-    "Streams": [
-      {
-        "Url": "https://live1.mediadesk.al/oratv.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "PanoramaTV.al",
     "Name": "Panorama TV",
     "Country": "AL",

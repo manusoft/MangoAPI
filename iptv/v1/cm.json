@@ -78,21 +78,6 @@
     ]
   },
   {
-    "Id": "CTVAfrique.cm",
-    "Name": "CTV Afrique",
-    "Country": "CM",
-    "Languages": "fra",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.ctvafrique.com/",
-    "Logo": "https://i.ibb.co/k0mws9B/Ctv-Afrique.jpg",
-    "Streams": [
-      {
-        "Url": "https://stream.it-innov.com/ctv/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "CanaldeVie.cm",
     "Name": "Canal de Vie",
     "Country": "CM",
@@ -108,36 +93,6 @@
     ]
   },
   {
-    "Id": "ChateauTelevision.cm",
-    "Name": "Chateau Television",
-    "Country": "CM",
-    "Languages": "fra",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/xJwhJ1t/download-64.jpg",
-    "Streams": [
-      {
-        "Url": "http://connectiktv.ddns.me:8080/live/620e3a0d3d67c/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "DikaloTV.cm",
-    "Name": "Dikalo TV",
-    "Country": "CM",
-    "Languages": "fra",
-    "Categories": "culture",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/3RTb2gc/download-67.jpg",
-    "Streams": [
-      {
-        "Url": "http://connectiktv.ddns.me:8080/live/624ae47756693/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GloryChristChannel.cm",
     "Name": "Glory Christ Channel",
     "Country": "CM",
@@ -149,21 +104,6 @@
     "Streams": [
       {
         "Url": "https://stream.it-innov.com/gcc/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Horizon3TV.cm",
-    "Name": "Horizon 3 TV",
-    "Country": "CM",
-    "Languages": "fra",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/FWBFRvR/Horizon3-TV.jpg",
-    "Streams": [
-      {
-        "Url": "http://connectiktv.ddns.me:8080/live/63bae88242fa7/index.m3u8"
       }
     ]
   },
@@ -258,32 +198,17 @@
     ]
   },
   {
-    "Id": "RepentanceTV.cm",
-    "Name": "Repentance TV",
+    "Id": "SunPlusTV.cm",
+    "Name": "Sun+ TV",
     "Country": "CM",
     "Languages": "fra",
-    "Categories": "general",
+    "Categories": "",
     "IsNsfw": false,
     "Website": null,
-    "Logo": "https://i.ibb.co/80n8qs3/Repentance.png",
+    "Logo": "https://i.imgur.com/tmMoq8Z.png",
     "Streams": [
       {
-        "Url": "http://connectiktv.ddns.me:8080/live/61f63855ca21d-1/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TR24Television.cm",
-    "Name": "TR24 Television",
-    "Country": "CM",
-    "Languages": "fra",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
-    "Streams": [
-      {
-        "Url": "https://stream.it-innov.com/tr24/index.m3u8"
+        "Url": "https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8"
       }
     ]
   },

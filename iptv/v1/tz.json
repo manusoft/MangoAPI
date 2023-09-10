@@ -1,5 +1,50 @@
 [
   {
+    "Id": "AboodTV.tz",
+    "Name": "Abood TV",
+    "Country": "TZ",
+    "Languages": "swa",
+    "Categories": "entertainment",
+    "IsNsfw": false,
+    "Website": "https://www.aboodgroup.com/",
+    "Logo": "https://i.imgur.com/vYEUncC.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "DodomaTV.tz",
+    "Name": "Dodoma TV",
+    "Country": "TZ",
+    "Languages": "swa",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/r40UnNf.jpg",
+    "Streams": [
+      {
+        "Url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HopeChannelTanzania.tz",
+    "Name": "Hope Channel Tanzania",
+    "Country": "TZ",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "http://hopetv.or.tz/",
+    "Logo": "https://i.imgur.com/U5Q2Bl8.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCd-Q13Ld2cuutzCcQk7OD8w.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "IBNTV.tz",
     "Name": "IBN TV",
     "Country": "TZ",
@@ -11,6 +56,9 @@
     "Streams": [
       {
         "Url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8"
+      },
+      {
+        "Url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8"
       }
     ]
   },
@@ -26,6 +74,51 @@
     "Streams": [
       {
         "Url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TBC1.tz",
+    "Name": "TBC1",
+    "Country": "TZ",
+    "Languages": "swa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/OmiVZ1u.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCEz71zXmApKBYiH1fReemeA.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TanzaniaSafariChannel.tz",
+    "Name": "Tanzania Safari Channel",
+    "Country": "TZ",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://tanzaniasafarichannel.go.tz/",
+    "Logo": "https://i.imgur.com/fcLFYhn.png",
+    "Streams": [
+      {
+        "Url": "https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_0a6ef900ad0511ed8f65a940024f638d/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "WRMTV.tz",
+    "Name": "WRM TV",
+    "Country": "TZ",
+    "Languages": "swa,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://wrm.or.tz/",
+    "Logo": "https://i.imgur.com/2gwc4RW.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCxIKRWSaLH40f6BLaHakg2w.m3u8"
       }
     ]
   }

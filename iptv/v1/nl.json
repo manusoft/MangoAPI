@@ -357,21 +357,6 @@
     ]
   },
   {
-    "Id": "GigantFM.nl",
-    "Name": "Gigant FM",
-    "Country": "NL",
-    "Languages": "nld",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/LwEHfjD.png",
-    "Streams": [
-      {
-        "Url": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "HTRTV.nl",
     "Name": "HTR TV",
     "Country": "NL",
@@ -518,9 +503,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f06bc60e236570007793f31/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      },
-      {
-        "Url": "https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8"
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f06bc60e236570007793f31/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f06bc60e236570007793f31&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=e7f6989c-0583-11eb-8b9f-0242ac110002&terminate=false&userId="
@@ -1776,21 +1758,6 @@
     ]
   },
   {
-    "Id": "RadioContinu.nl",
-    "Name": "Radio Continu",
-    "Country": "NL",
-    "Languages": "nld",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://radiocontinu.nl/",
-    "Logo": "https://i.imgur.com/QWetX72.png",
-    "Streams": [
-      {
-        "Url": "https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "RadioJND.nl",
     "Name": "Radio JND",
     "Country": "NL",
@@ -2187,21 +2154,6 @@
     ]
   },
   {
-    "Id": "TVValkenburg.nl",
-    "Name": "TV Valkenburg",
-    "Country": "NL",
-    "Languages": "nld",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/dovKWQl.png",
-    "Streams": [
-      {
-        "Url": "https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVWest.nl",
     "Name": "TV West",
     "Country": "NL",
@@ -2396,21 +2348,6 @@
     "Streams": [
       {
         "Url": "https://video.uitzending.tv:19360/zo34/zo34.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZuidWestTV.nl",
-    "Name": "ZuidWest TV",
-    "Country": "NL",
-    "Languages": "nld",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/dTEFYhb.png",
-    "Streams": [
-      {
-        "Url": "https://live.zuidwesttv.nl/live/zwtv.m3u8"
       }
     ]
   }

@@ -33,6 +33,21 @@
     ]
   },
   {
+    "Id": "RadioAlkulTV.sy",
+    "Name": "Radio Alkul TV",
+    "Country": "SY",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.radioalkul.com/",
+    "Logo": "https://i.imgur.com/Dj9UNFd.png",
+    "Streams": [
+      {
+        "Url": "https://ffs.gulfsat.com/AlkulTV/video.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RonahiTV.sy",
     "Name": "Ronahi TV",
     "Country": "SY",

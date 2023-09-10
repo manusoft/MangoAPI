@@ -25,9 +25,6 @@
     "Logo": "https://i.imgur.com/eQ8xHK9.jpg",
     "Streams": [
       {
-        "Url": "https://edge.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8"
-      },
-      {
         "Url": "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8"
       }
     ]
@@ -103,16 +100,10 @@
     "Logo": "https://i.imgur.com/TNciMh2.png",
     "Streams": [
       {
-        "Url": "https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8"
-      },
-      {
         "Url": "https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8"
       },
       {
         "Url": "https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8"
-      },
-      {
-        "Url": "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8"
       }
     ]
   },
@@ -126,15 +117,6 @@
     "Website": null,
     "Logo": "https://i.imgur.com/0ZiJm7H.png",
     "Streams": [
-      {
-        "Url": "https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8"
-      },
-      {
-        "Url": "https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8"
-      },
-      {
-        "Url": "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8"
-      },
       {
         "Url": "https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8"
       }
@@ -150,9 +132,6 @@
     "Website": null,
     "Logo": "https://i.imgur.com/DdCfl4n.png",
     "Streams": [
-      {
-        "Url": "https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8"
-      },
       {
         "Url": "https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8"
       },
@@ -298,9 +277,6 @@
     "Logo": "https://i.imgur.com/F2LUpAB.jpg",
     "Streams": [
       {
-        "Url": "https://ythls.onrender.com/channel/UCi1UffPLvT0PbmU1qGVjlMQ.m3u8"
-      },
-      {
         "Url": "https://streameurope.ch/live/shivalivetv.m3u8"
       }
     ]
@@ -332,12 +308,6 @@
     "Streams": [
       {
         "Url": "https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8"
-      },
-      {
-        "Url": "https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8"
-      },
-      {
-        "Url": "https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8"
       }
     ]
   },
@@ -401,9 +371,6 @@
       },
       {
         "Url": "https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8"
-      },
-      {
-        "Url": "https://edge.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8"
       }
     ]
   },

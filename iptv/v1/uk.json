@@ -56,9 +56,6 @@
     "Streams": [
       {
         "Url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8"
-      },
-      {
-        "Url": "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8"
       }
     ]
   },
@@ -588,21 +585,6 @@
     ]
   },
   {
-    "Id": "GarshomTV.uk",
-    "Name": "Garshom TV",
-    "Country": "UK",
-    "Languages": "mal",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://garshom.tv/",
-    "Logo": "https://i.imgur.com/KnbwUyb.png",
-    "Streams": [
-      {
-        "Url": "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GemsTV.uk",
     "Name": "Gems TV",
     "Country": "UK",
@@ -642,9 +624,6 @@
     "Website": "https://horseandcountry.tv/",
     "Logo": "https://i.imgur.com/1x6zYZr.png",
     "Streams": [
-      {
-        "Url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8"
-      },
       {
         "Url": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
       },
@@ -1554,20 +1533,17 @@
     ]
   },
   {
-    "Id": "SportyStuffTV.uk",
-    "Name": "SportyStuff TV",
+    "Id": "TJC.uk",
+    "Name": "TJC",
     "Country": "UK",
     "Languages": "eng",
-    "Categories": "sports",
+    "Categories": "shop",
     "IsNsfw": false,
-    "Website": "https://www.sportystuff.tv/",
-    "Logo": "https://i.imgur.com/6s1YGSV.png",
+    "Website": "https://www.tjc.co.uk/",
+    "Logo": "https://i.imgur.com/fk5rEje.png",
     "Streams": [
       {
-        "Url": "https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8"
-      },
-      {
-        "Url": "https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8"
+        "Url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8"
       }
     ]
   },

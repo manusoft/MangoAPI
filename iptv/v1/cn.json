@@ -299,24 +299,6 @@
     "Streams": [
       {
         "Url": "https://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8"
-      },
-      {
-        "Url": "https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZhejiangDigitalTimesChannel.cn",
-    "Name": "Zhejiang Digital Times Channel",
-    "Country": "CN",
-    "Languages": "zho",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/zGw9tXK.png",
-    "Streams": [
-      {
-        "Url": "https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
       }
     ]
   },
@@ -347,21 +329,6 @@
     "Streams": [
       {
         "Url": "https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ZhejiangSatelliteTVInternational.cn",
-    "Name": "Zhejiang Satellite TV International",
-    "Country": "CN",
-    "Languages": "zho",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.zjstv.com/",
-    "Logo": "https://i.imgur.com/XOL1Hph.png",
-    "Streams": [
-      {
-        "Url": "https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
       }
     ]
   }

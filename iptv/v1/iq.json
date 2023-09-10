@@ -60,21 +60,6 @@
     ]
   },
   {
-    "Id": "AlJawadainTV.iq",
-    "Name": "Al-Jawadain TV",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/Eo3UYCK.png",
-    "Streams": [
-      {
-        "Url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlNaeemTV.iq",
     "Name": "Al-Naeem TV",
     "Country": "IQ",
@@ -86,24 +71,6 @@
     "Streams": [
       {
         "Url": "https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8"
-      },
-      {
-        "Url": "https://nl2.livekadeh.com/hls2/alnaeem.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "AlRafidainTV.iq",
-    "Name": "Al-Rafidain TV",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://alrafidain.tv/",
-    "Logo": "https://i.imgur.com/rjXDCN5.png",
-    "Streams": [
-      {
-        "Url": "https://cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8"
       }
     ]
   },
@@ -245,9 +212,6 @@
     "Streams": [
       {
         "Url": "https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8"
-      },
-      {
-        "Url": "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"
       }
     ]
   },
@@ -277,25 +241,7 @@
     "Logo": "https://i.imgur.com/kyzH3G5.png",
     "Streams": [
       {
-        "Url": "https://ghaasiflu.online/Dijlah/index.m3u8"
-      },
-      {
         "Url": "http://91.134.145.75:10001/Dijlah/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "DijlahTarab.iq",
-    "Name": "Dijlah Tarab",
-    "Country": "IQ",
-    "Languages": "ara",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": "https://www.dijlah.tv/",
-    "Logo": "https://i.imgur.com/UJqDWVB.png",
-    "Streams": [
-      {
-        "Url": "https://ghaasiflu.online/tarab/index.m3u8"
       }
     ]
   },
@@ -551,21 +497,6 @@
     "Streams": [
       {
         "Url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "KurdistanTV.iq",
-    "Name": "Kurdistan TV",
-    "Country": "IQ",
-    "Languages": "kur",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://kurdistantv.net/",
-    "Logo": "https://i.imgur.com/mjQptpc.png",
-    "Streams": [
-      {
-        "Url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
       }
     ]
   },

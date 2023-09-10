@@ -76,38 +76,5 @@
         "Url": "https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8"
       }
     ]
-  },
-  {
-    "Id": "PalitraNews.ge",
-    "Name": "Palitra News",
-    "Country": "GE",
-    "Languages": "kat",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://palitranews.ge/",
-    "Logo": "https://i.imgur.com/BW95PMF.png",
-    "Streams": [
-      {
-        "Url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
-      },
-      {
-        "Url": "https://live.palitranews.ge/hls/palitratv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "RioniTV.ge",
-    "Name": "Rioni TV",
-    "Country": "GE",
-    "Languages": "kat",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ogMqmth.png",
-    "Streams": [
-      {
-        "Url": "http://video.rionitv.com:9090/hls/live/rioni.m3u8"
-      }
-    ]
   }
 ]

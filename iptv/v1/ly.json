@@ -75,6 +75,21 @@
     ]
   },
   {
+    "Id": "LibyaMostakbal.ly",
+    "Name": "Libya Mostakbal",
+    "Country": "LY",
+    "Languages": "ara",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://almustaqbal.ly/",
+    "Logo": "https://i.imgur.com/Aa2jTKG.jpg",
+    "Streams": [
+      {
+        "Url": "https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "LibyasChannel.ly",
     "Name": "Libya's Channel",
     "Country": "LY",

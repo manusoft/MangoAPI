@@ -1,20 +1,5 @@
 [
   {
-    "Id": "AhlAlquranTV.sa",
-    "Name": "Ahl-Alquran TV",
-    "Country": "SA",
-    "Languages": "ara",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": "https://www.ahlu.tv/",
-    "Logo": "https://i.imgur.com/xeQvi2z.png",
-    "Streams": [
-      {
-        "Url": "https://www.ahlualquran.tv:25463/live/ssadtv/live-tv/1.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "AlEkhbariya.sa",
     "Name": "Al Ekhbariya",
     "Country": "SA",
@@ -345,9 +330,6 @@
     "Website": "http://rotana.net/vod-channels/lbc/",
     "Logo": "https://i.imgur.com/whyZXzW.png",
     "Streams": [
-      {
-        "Url": "https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8"
-      },
       {
         "Url": "https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8"
       }

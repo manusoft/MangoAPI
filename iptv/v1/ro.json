@@ -63,21 +63,6 @@
     ]
   },
   {
-    "Id": "AntenaMonden.ro",
-    "Name": "Antena Monden",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": "https://antenaplay.ro/",
-    "Logo": "https://i.imgur.com/NF5qJMh.png",
-    "Streams": [
-      {
-        "Url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ArdealTV.ro",
     "Name": "Ardeal TV",
     "Country": "RO",
@@ -306,21 +291,6 @@
     ]
   },
   {
-    "Id": "Hunedoara1.ro",
-    "Name": "Hunedoara 1",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://netstreaming.eu/hunedoara1.htm",
-    "Logo": "https://i.imgur.com/9bz15ad.png",
-    "Streams": [
-      {
-        "Url": "https://testcam.go.ro:8080/hls/hd1.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "IasiTVLife.ro",
     "Name": "IasiTV Life",
     "Country": "RO",
@@ -455,21 +425,6 @@
     "Streams": [
       {
         "Url": "https://stream1.kanald.ro/iphone/knd-live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "KapitalTV.ro",
-    "Name": "Kapital TV",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://kapitaltv.ro/",
-    "Logo": "https://i.imgur.com/Q1PYwkZ.png",
-    "Streams": [
-      {
-        "Url": "https://testcam.go.ro:8080/hls/livestream.m3u8"
       }
     ]
   },
@@ -747,21 +702,6 @@
     ]
   },
   {
-    "Id": "TVBuzau.ro",
-    "Name": "TV Buzau",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.tvbuzau.ro/",
-    "Logo": "https://i.imgur.com/GhFmUVO.png",
-    "Streams": [
-      {
-        "Url": "http://95.77.16.67:8080"
-      }
-    ]
-  },
-  {
     "Id": "TVPlusSuceava.ro",
     "Name": "TVPlus Suceava",
     "Country": "RO",
@@ -818,21 +758,6 @@
     "Streams": [
       {
         "Url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVRCluj.ro",
-    "Name": "TVR Cluj",
-    "Country": "RO",
-    "Languages": "ron",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "http://www.tvr.ro/",
-    "Logo": "https://i.imgur.com/RkDra93.png",
-    "Streams": [
-      {
-        "Url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8"
       }
     ]
   },

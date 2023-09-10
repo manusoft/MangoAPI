@@ -423,6 +423,81 @@
     ]
   },
   {
+    "Id": "ABNAfghanistan.us",
+    "Name": "ABN Afghanistan",
+    "Country": "US",
+    "Languages": "pus,prd",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.abnafghanistan.com/",
+    "Logo": "https://i.imgur.com/LI30mAt.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ABNAfrica.us",
+    "Name": "ABN Africa",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.abnafrica.org/",
+    "Logo": "https://i.imgur.com/1S4Y4xC.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp2.abnvideos.com/hls/abnafrica.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ABNChina.us",
+    "Name": "ABN China",
+    "Country": "US",
+    "Languages": "zho",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.abnchina.tv/",
+    "Logo": "https://i.imgur.com/zagVLQH.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp2.abnvideos.com/hls/abnchina.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ABNTVIndia.us",
+    "Name": "ABN TV India",
+    "Country": "US",
+    "Languages": "hin",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.abntvindia.com/",
+    "Logo": "https://i.imgur.com/VcZn60X.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp2.abnvideos.com/hls/abntvindia.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ABNUrdu.us",
+    "Name": "ABN Urdu",
+    "Country": "US",
+    "Languages": "urd",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.abnsat.com/",
+    "Logo": "https://i.imgur.com/Y9ScPIl.png",
+    "Streams": [
+      {
+        "Url": "https://rtmp2.abnvideos.com/hls/abnurdu.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ACCNetwork.us",
     "Name": "ACC Network",
     "Country": "US",
@@ -558,9 +633,6 @@
     "Website": null,
     "Logo": "https://i.imgur.com/0utwZ63.png",
     "Streams": [
-      {
-        "Url": "https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8"
-      },
       {
         "Url": "https://aweencore-vizio.amagi.tv/playlist.m3u8"
       }
@@ -1323,6 +1395,21 @@
     ]
   },
   {
+    "Id": "AlanBeckerTV.us",
+    "Name": "Alan Becker TV",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "animation",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "AlbdreamsTV.us",
     "Name": "Albdreams TV",
     "Country": "US",
@@ -1880,6 +1967,9 @@
     "Streams": [
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+      },
+      {
+        "Url": "https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8"
       }
     ]
   },
@@ -2037,57 +2127,6 @@
     ]
   },
   {
-    "Id": "BetterHealthTV.us",
-    "Name": "Better Health TV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/dThvIsV.png",
-    "Streams": [
-      {
-        "Url": "https://uni10rtmp.tulix.tv/betterhealth/betterhealth.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BetterLifeNatureChannel.us",
-    "Name": "Better Life Nature Channel",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/gmrVKEC.jpg",
-    "Streams": [
-      {
-        "Url": "https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8"
-      },
-      {
-        "Url": "https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BetterLifeTV.us",
-    "Name": "Better Life TV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/gmrVKEC.jpg",
-    "Streams": [
-      {
-        "Url": "https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "BeverlyHillbillies.us",
     "Name": "Beverly Hillbillies",
     "Country": "US",
@@ -2204,21 +2243,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      }
-    ]
-  },
-  {
-    "Id": "BlazeLive.us",
-    "Name": "Blaze Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://pluto.tv/en/live-tv/blaze-live",
-    "Logo": "https://i.imgur.com/GwxneSQ.png",
-    "Streams": [
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId="
       }
     ]
   },
@@ -2368,9 +2392,6 @@
         "Url": "https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8"
       },
       {
-        "Url": "https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-      },
-      {
         "Url": "https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8"
       },
       {
@@ -2426,351 +2447,6 @@
     "Streams": [
       {
         "Url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVAuroraLive.us",
-    "Name": "Bumblebee TV Aurora Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/1WIEWK7.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVAutoMoto.us",
-    "Name": "Bumblebee TV AutoMoto",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "auto",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/CnbWNc1.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVBeachesLive.us",
-    "Name": "Bumblebee TV Beaches Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/jDZchQR.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVClassics2.us",
-    "Name": "Bumblebee TV Classics 2",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "movies",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/dxPsj2s.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVCoronaVirusGov.us",
-    "Name": "Bumblebee TV CoronaVirus.Gov",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "science",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/yxq8ZsK.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVCountryBoyKidsVideo.us",
-    "Name": "Bumblebee TV Country Boy Kids Video",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/p14DjHo.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVCuteZone.us",
-    "Name": "Bumblebee TV Cute Zone",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/unYHTWg.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVEpicM.us",
-    "Name": "Bumblebee TV Epic M",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/uu19VR0.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVFGTV.us",
-    "Name": "Bumblebee TV FGTV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/uRess78.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVForestLive.us",
-    "Name": "Bumblebee TV Forest Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/J84tZzN.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVGiggleZone.us",
-    "Name": "Bumblebee TV Giggle Zone",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/CvbLApY.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVLakeLive.us",
-    "Name": "Bumblebee TV Lake Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/1EQK4uk.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVLegoToons.us",
-    "Name": "Bumblebee TV Lego Toons",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/rJSGKnh.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVLifeBae.us",
-    "Name": "Bumblebee TV LifeBae",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/cegRbXh.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVMasterBuilder.us",
-    "Name": "Bumblebee TV Master Builder",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/KQsAdB4.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVMountainLive.us",
-    "Name": "Bumblebee TV Mountain Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/2Ipv14J.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVRecoilTV.us",
-    "Name": "Bumblebee TV Recoil TV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ACrkgIH.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVRiversLive.us",
-    "Name": "Bumblebee TV Rivers Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ii2IDmA.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVSmosh.us",
-    "Name": "Bumblebee TV Smosh",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/eCBYHJ4.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVSunsetLive.us",
-    "Name": "Bumblebee TV Sunset Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/K4GaruD.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVToyZone.us",
-    "Name": "Bumblebee TV Toy Zone",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/XdNjsrr.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVTrinityBeyond.us",
-    "Name": "Bumblebee TV Trinity & Beyond",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ugdU8wg.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "BumblebeeTVTropicsLive.us",
-    "Name": "Bumblebee TV Tropics Live",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "relax",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/8F9qPbt.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8"
       }
     ]
   },
@@ -3345,6 +3021,21 @@
     ]
   },
   {
+    "Id": "CTV.us",
+    "Name": "CTV",
+    "Country": "US",
+    "Languages": "eng,spa",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.cityofcalabasas.com/government/communications/ctv-the-calabasas-channel",
+    "Logo": "https://i.imgur.com/N5uiIJo.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CVCEducation.us",
     "Name": "CVC Education",
     "Country": "US",
@@ -3681,6 +3372,21 @@
     ]
   },
   {
+    "Id": "CineSony.us",
+    "Name": "Cine Sony",
+    "Country": "US",
+    "Languages": "spa,eng",
+    "Categories": "movies",
+    "IsNsfw": false,
+    "Website": "https://www.cinesony.com/",
+    "Logo": "https://i.imgur.com/bZWoDTg.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CineSureno.us",
     "Name": "Cine Sureno",
     "Country": "US",
@@ -3757,7 +3463,16 @@
     "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png",
     "Streams": [
       {
+        "Url": "https://circle-xumo.amagi.tv/playlist.m3u8"
+      },
+      {
+        "Url": "https://circle-samsung.amagi.tv/playlist.m3u8"
+      },
+      {
         "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8"
+      },
+      {
+        "Url": "https://circle-roku.amagi.tv/playlist.m3u8"
       },
       {
         "Url": "https://circle-vizio.amagi.tv/playlist.m3u8"
@@ -3821,21 +3536,6 @@
     "Streams": [
       {
         "Url": "https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "CityTVLakewood.us",
-    "Name": "CityTV Lakewood",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.lakewoodcity.org/About/CityTV",
-    "Logo": "https://i.imgur.com/e1shzv9.png",
-    "Streams": [
-      {
-        "Url": "https://s3-us-west-2.amazonaws.com/lakewood.castus-vod/live/ch1/video.m3u8"
       }
     ]
   },
@@ -3960,21 +3660,6 @@
     ]
   },
   {
-    "Id": "Civilized.us",
-    "Name": "Civilized",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/cn5KDTc.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "ClassicArtsShowcase.us",
     "Name": "Classic Arts Showcase",
     "Country": "US",
@@ -3986,21 +3671,6 @@
     "Streams": [
       {
         "Url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ClassicCinema.us",
-    "Name": "Classic Cinema",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "classic",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/FJoPnTb.png",
-    "Streams": [
-      {
-        "Url": "https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8"
       }
     ]
   },
@@ -4218,6 +3888,21 @@
     ]
   },
   {
+    "Id": "Community12TV.us",
+    "Name": "Community 12TV",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.gainesvillefl.gov/Government-Pages/Government/Departments/Communications-Office/Community-12TV",
+    "Logo": "https://i.imgur.com/Oel3q43.png",
+    "Streams": [
+      {
+        "Url": "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "CommunityTVChannel189.us",
     "Name": "CommunityTV Channel 189",
     "Country": "US",
@@ -4229,6 +3914,21 @@
     "Streams": [
       {
         "Url": "https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Complex.us",
+    "Name": "Complex",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/NdYARAZ.png",
+    "Streams": [
+      {
+        "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8"
       }
     ]
   },
@@ -4259,6 +3959,9 @@
     "Streams": [
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+      },
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e1f7e089f23700009d66303&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=367&terminate=false&userId="
       }
     ]
   },
@@ -4440,32 +4143,17 @@
     ]
   },
   {
-    "Id": "DKN.us",
-    "Name": "DKN",
+    "Id": "DNews.us",
+    "Name": "DNews",
     "Country": "US",
-    "Languages": "eng",
-    "Categories": "education",
+    "Languages": "spa",
+    "Categories": "news",
     "IsNsfw": false,
-    "Website": "https://video.oct.dc.gov/DKN/jw.html",
-    "Logo": "https://i.imgur.com/DIau0GB.png",
+    "Website": null,
+    "Logo": "https://i.imgur.com/jF2BabI.png",
     "Streams": [
       {
-        "Url": "https://video.oct.dc.gov/out/u/DKN.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "DMTV.us",
-    "Name": "DMTV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://delmar.12milesout.com/video/live",
-    "Logo": "https://i.imgur.com/M1eQ1eZ.png",
-    "Streams": [
-      {
-        "Url": "https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8"
+        "Url": "https://ythls.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8"
       }
     ]
   },
@@ -4789,9 +4477,6 @@
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
-      },
-      {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=985&terminate=false&userId="
       }
     ]
@@ -5112,6 +4797,21 @@
     ]
   },
   {
+    "Id": "FLTV.us",
+    "Name": "FLTV",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.fortlauderdale.gov/",
+    "Logo": "https://i.imgur.com/lQZ9RoB.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FPTV.us",
     "Name": "FPTV",
     "Country": "US",
@@ -5306,9 +5006,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=588128d17d64bc0d0f385c34&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=301&terminate=false&userId="
       }
     ]
   },
@@ -5363,21 +5060,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b0f2237a6ff45d16c3f9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=726&terminate=false&userId="
-      }
-    ]
-  },
-  {
-    "Id": "FightSports.us",
-    "Name": "Fight Sports",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "sports",
-    "IsNsfw": false,
-    "Website": "https://www.fightsports.tv/",
-    "Logo": "https://i.imgur.com/nV55veq.png",
-    "Streams": [
-      {
-        "Url": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"
       }
     ]
   },
@@ -5817,21 +5499,6 @@
     ]
   },
   {
-    "Id": "GalvestonCountyTV.us",
-    "Name": "Galveston County TV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/uzjuxdI.png",
-    "Streams": [
-      {
-        "Url": "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GameShowCentral.us",
     "Name": "Game Show Central",
     "Country": "US",
@@ -5876,36 +5543,6 @@
     "Streams": [
       {
         "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "Glendale11AZ.us",
-    "Name": "Glendale 11 AZ",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/jehiyV7.png",
-    "Streams": [
-      {
-        "Url": "https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GlobalBuddhistNetwork.us",
-    "Name": "Global Buddhist Network",
-    "Country": "US",
-    "Languages": "tha",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://www.gbnus.com/",
-    "Logo": "https://i.imgur.com/fU0ZhKD.png",
-    "Streams": [
-      {
-        "Url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8"
       }
     ]
   },
@@ -6159,36 +5796,6 @@
     ]
   },
   {
-    "Id": "HappyKids.us",
-    "Name": "HappyKids",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/cPrUCFw.png",
-    "Streams": [
-      {
-        "Url": "https://happykids-vizio.amagi.tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HappyKidsJunior.us",
-    "Name": "HappyKids Junior",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/GSlfL8u.png",
-    "Streams": [
-      {
-        "Url": "https://happykidsjunior-vizio.amagi.tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "HeartlandWebFeed.us",
     "Name": "Heartland Web Feed",
     "Country": "US",
@@ -6215,21 +5822,6 @@
     "Streams": [
       {
         "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HighTimes.us",
-    "Name": "High Times",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/TaeeQnn.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8"
       }
     ]
   },
@@ -6305,21 +5897,6 @@
     "Streams": [
       {
         "Url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "HorseShoppingChannel.us",
-    "Name": "Horse Shopping Channel",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "shop",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ZNjtOdZ.png",
-    "Streams": [
-      {
-        "Url": "https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8"
       }
     ]
   },
@@ -6431,6 +6008,9 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561c5f613286e48904fb2677&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=805&terminate=false&userId="
+      },
+      {
+        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
@@ -6585,17 +6165,17 @@
     ]
   },
   {
-    "Id": "JennyLive.us",
-    "Name": "Jenny Live",
+    "Id": "JavananTV.us",
+    "Name": "Javanan TV",
     "Country": "US",
-    "Languages": "eng",
-    "Categories": "xxx",
+    "Languages": "fas",
+    "Categories": "movies,series",
     "IsNsfw": false,
-    "Website": "https://miamitvhd.com/",
-    "Logo": "https://i.imgur.com/3vsBZI3.png",
+    "Website": null,
+    "Logo": "https://i.ibb.co/2Fhk3p7/download-58.jpg",
     "Streams": [
       {
-        "Url": "https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"
+        "Url": "https://nl.livekadeh.com/hls2/javanantv.m3u8"
       }
     ]
   },
@@ -6842,6 +6422,21 @@
     "Streams": [
       {
         "Url": "http://66.242.170.53/hls/live/temp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "KCAT.us",
+    "Name": "KCAT",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.kcat.org/",
+    "Logo": "https://i.imgur.com/ZAypRkk.png",
+    "Streams": [
+      {
+        "Url": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
       }
     ]
   },
@@ -7329,21 +6924,6 @@
     ]
   },
   {
-    "Id": "KartoonChannel.us",
-    "Name": "Kartoon Channel!",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": "https://pluto.tv/en/live-tv/kartoon-channel",
-    "Logo": "https://i.imgur.com/1luzP3T.png",
-    "Streams": [
-      {
-        "Url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "KernCountyTV.us",
     "Name": "Kern County TV",
     "Country": "US",
@@ -7455,51 +7035,6 @@
     ]
   },
   {
-    "Id": "LNKTVCity.us",
-    "Name": "LNKTV City",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/mYp0VnE.png",
-    "Streams": [
-      {
-        "Url": "http://5tv.lincoln.ne.gov/live/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LNKTVEducation.us",
-    "Name": "LNKTV Education",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "education",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/1snCTXp.png",
-    "Streams": [
-      {
-        "Url": "http://80tv.lincoln.ne.gov/live/live.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LNKTVHealth.us",
-    "Name": "LNKTV Health",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "lifestyle",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/dGgmOY0.png",
-    "Streams": [
-      {
-        "Url": "http://10tv.lincoln.ne.gov/live/live.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "LaRosadeGuadalupe.us",
     "Name": "La Rosa de Guadalupe",
     "Country": "US",
@@ -7595,36 +7130,6 @@
     "Streams": [
       {
         "Url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LegoChannel.us",
-    "Name": "Lego Channel",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "kids",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/xePwW13.png",
-    "Streams": [
-      {
-        "Url": "https://legochannel-vizio.amagi.tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "LifevisionTV.us",
-    "Name": "LifevisionTV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "religious",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/pF6Wowj.jpg",
-    "Streams": [
-      {
-        "Url": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8"
       }
     ]
   },
@@ -8096,6 +7601,9 @@
     "Streams": [
       {
         "Url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/3659c04b92f04b808b0bc36d1d23aeb7/index.m3u8"
+      },
+      {
+        "Url": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
       }
     ]
   },
@@ -8759,9 +8267,6 @@
     "Streams": [
       {
         "Url": "http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756"
-      },
-      {
-        "Url": "http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts"
       }
     ]
   },
@@ -8897,9 +8402,21 @@
     "Streams": [
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      },
+      }
+    ]
+  },
+  {
+    "Id": "NMBTV.us",
+    "Name": "NMBTV",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.citynmb.com/174/NMBTV-Live-Stream",
+    "Logo": "https://i.imgur.com/HTNoNnh.png",
+    "Streams": [
       {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId="
+        "Url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8"
       }
     ]
   },
@@ -9312,21 +8829,6 @@
     ]
   },
   {
-    "Id": "OANEncore.us",
-    "Name": "OAN Encore",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/9S4ZbPL.jpg",
-    "Streams": [
-      {
-        "Url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "OURTV.us",
     "Name": "OURTV",
     "Country": "US",
@@ -9587,9 +9089,6 @@
     "Streams": [
       {
         "Url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
-      },
-      {
-        "Url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"
       }
     ]
   },
@@ -9638,6 +9137,21 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId="
+      }
+    ]
+  },
+  {
+    "Id": "PHXTV.us",
+    "Name": "PHXTV",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "legislative",
+    "IsNsfw": false,
+    "Website": "https://www.phoenix.gov/phxtv",
+    "Logo": "https://i.imgur.com/RkTKR6x.png",
+    "Streams": [
+      {
+        "Url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8"
       }
     ]
   },
@@ -9792,17 +9306,17 @@
     ]
   },
   {
-    "Id": "PascoTV.us",
-    "Name": "Pasco TV",
+    "Id": "PayameAfghanTV.us",
+    "Name": "Payam-e-Afghan TV",
     "Country": "US",
-    "Languages": "eng",
-    "Categories": "legislative",
+    "Languages": "fas",
+    "Categories": "",
     "IsNsfw": false,
-    "Website": "https://pascocountyfl.net/754/Watch-Live-Pasco-TV",
-    "Logo": "https://i.imgur.com/CM91sME.png",
+    "Website": "http://www.payameafghantv.com/",
+    "Logo": "https://i.imgur.com/t9wYYY9.png",
     "Streams": [
       {
-        "Url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+        "Url": "https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8"
       }
     ]
   },
@@ -10306,9 +9820,6 @@
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?appName=androidmobile&appVersion=5.4.0&architecture=mobile&buildVersion=5.4.0-917c0e6072&deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android,samsung,mobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe734775341"
       },
       {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
-      },
-      {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       }
     ]
@@ -10670,9 +10181,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ddbf866b1862a0009a0648e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=3a2ed1cd-e3a3-4fa3-bdbc-94e7363ca0cf&terminate=false&userId="
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
       }
     ]
   },
@@ -11216,9 +10724,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       }
     ]
   },
@@ -13002,6 +12507,21 @@
     ]
   },
   {
+    "Id": "RTHTV1.us",
+    "Name": "RTH-TV1",
+    "Country": "US",
+    "Languages": "fra,hat",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "http://www.rth2000.com/",
+    "Logo": "https://i.imgur.com/4z0FiEA.png",
+    "Streams": [
+      {
+        "Url": "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RadioTelePrince.us",
     "Name": "Radio Tele Prince",
     "Country": "US",
@@ -13419,36 +12939,6 @@
     ]
   },
   {
-    "Id": "SETTV.us",
-    "Name": "SET TV",
-    "Country": "US",
-    "Languages": "eng,vie",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://setchannel.tv/",
-    "Logo": "https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png",
-    "Streams": [
-      {
-        "Url": "https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SETTV2.us",
-    "Name": "SET TV 2",
-    "Country": "US",
-    "Languages": "eng,vie",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": "https://setchannel.tv",
-    "Logo": "https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png",
-    "Streams": [
-      {
-        "Url": "https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SFCommons29.us",
     "Name": "SF Commons 29",
     "Country": "US",
@@ -13479,36 +12969,6 @@
     ]
   },
   {
-    "Id": "SFGovTV.us",
-    "Name": "SFGovTV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "legislative",
-    "IsNsfw": false,
-    "Website": "https://sfgovtv.org/",
-    "Logo": "https://i.imgur.com/uYXuwmV.png",
-    "Streams": [
-      {
-        "Url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_003/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "SFGovTV2.us",
-    "Name": "SFGovTV2",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://sfgovtv.org/",
-    "Logo": "https://i.imgur.com/SOk5m5B.png",
-    "Streams": [
-      {
-        "Url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_008/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "SGTV.us",
     "Name": "SGTV",
     "Country": "US",
@@ -13535,6 +12995,21 @@
     "Streams": [
       {
         "Url": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "SadaEHaqTV.us",
+    "Name": "Sada-E-Haq TV",
+    "Country": "US",
+    "Languages": "ara,prs,pus,prd",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://sadaehaqtv.com/",
+    "Logo": "https://i.imgur.com/J1pB59S.jpg",
+    "Streams": [
+      {
+        "Url": "https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8"
       }
     ]
   },
@@ -13610,27 +13085,6 @@
     "Streams": [
       {
         "Url": "https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ShopLC.us",
-    "Name": "Shop LC",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "shop",
-    "IsNsfw": false,
-    "Website": "https://www.shoplc.com/",
-    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png",
-    "Streams": [
-      {
-        "Url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8"
-      },
-      {
-        "Url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8"
-      },
-      {
-        "Url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd"
       }
     ]
   },
@@ -13827,21 +13281,6 @@
     ]
   },
   {
-    "Id": "SpaceChannel.us",
-    "Name": "Space Channel",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "science",
-    "IsNsfw": false,
-    "Website": "https://spacechannel.com/",
-    "Logo": "https://i.imgur.com/zofc9UJ.png",
-    "Streams": [
-      {
-        "Url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=565"
-      }
-    ]
-  },
-  {
     "Id": "SpikeOutdoors.us",
     "Name": "Spike Outdoors",
     "Country": "US",
@@ -13895,9 +13334,6 @@
       },
       {
         "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8"
-      },
-      {
-        "Url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8"
       },
       {
         "Url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8"
@@ -14799,21 +14235,6 @@
     ]
   },
   {
-    "Id": "TasteItTV.us",
-    "Name": "Taste It TV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tasteit.tv/",
-    "Logo": "https://i.imgur.com/esp3j8Q.png",
-    "Streams": [
-      {
-        "Url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "Tastemade.us",
     "Name": "Tastemade",
     "Country": "US",
@@ -14918,6 +14339,36 @@
       },
       {
         "Url": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelefeNoticias.us",
+    "Name": "Telefe Noticias",
+    "Country": "US",
+    "Languages": "spa",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://pluto.tv/en/live-tv/telefe-noticias-ptv1",
+    "Logo": "https://i.imgur.com/GwdSxzV.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UChxGASjdNEYHhVKpl667Huw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TelemastersTV.us",
+    "Name": "Telemasters TV",
+    "Country": "US",
+    "Languages": "fra,hat",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://www.telemasterstv.tv/",
+    "Logo": "https://i.imgur.com/grDBcTs.jpg",
+    "Streams": [
+      {
+        "Url": "https://link.frontlayer.com/services/hls2/fl823467/index.m3u8"
       }
     ]
   },
@@ -15048,6 +14499,21 @@
     ]
   },
   {
+    "Id": "TheBeachChannel.us",
+    "Name": "The Beach Channel",
+    "Country": "US",
+    "Languages": "eng",
+    "Categories": "lifestyle",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/KShaqAp.png",
+    "Streams": [
+      {
+        "Url": "https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "TheBobRossChannel.us",
     "Name": "The Bob Ross Channel",
     "Country": "US",
@@ -15106,9 +14572,6 @@
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef396d1be50a3000722808b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
-        "Url": "https://carolburnett-roku.amagi.tv/playlist.m3u8"
-      },
-      {
         "Url": "https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8"
       }
     ]
@@ -15161,9 +14624,6 @@
       },
       {
         "Url": "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8"
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
         "Url": "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8"
@@ -15245,21 +14705,6 @@
     "Streams": [
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      }
-    ]
-  },
-  {
-    "Id": "TheLoveDestination.us",
-    "Name": "The Love Destination",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "entertainment",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/gZP0Z08.png",
-    "Streams": [
-      {
-        "Url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43"
       }
     ]
   },
@@ -15353,21 +14798,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
-      }
-    ]
-  },
-  {
-    "Id": "TheRetroChannel.us",
-    "Name": "The Retro Channel",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "music",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/t3i1HtE.jpg",
-    "Streams": [
-      {
-        "Url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8"
       }
     ]
   },
@@ -15720,21 +15150,6 @@
     ]
   },
   {
-    "Id": "UCTV.us",
-    "Name": "UCTV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "education",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/ehMz9T5.png",
-    "Streams": [
-      {
-        "Url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "UNWebTV.us",
     "Name": "UN Web TV",
     "Country": "US",
@@ -16049,9 +15464,6 @@
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      },
-      {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId="
       }
     ]
   },
@@ -16413,21 +15825,6 @@
     ]
   },
   {
-    "Id": "WELUDT1.us",
-    "Name": "WELU-DT1",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": null,
-    "Logo": "https://i.imgur.com/42UdwD0.png",
-    "Streams": [
-      {
-        "Url": "https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "WFAADT1.us",
     "Name": "WFAA-DT1",
     "Country": "US",
@@ -16499,21 +15896,6 @@
     "Streams": [
       {
         "Url": "https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "WHOHTV.us",
-    "Name": "WHOH-TV",
-    "Country": "US",
-    "Languages": "eng",
-    "Categories": "general",
-    "IsNsfw": false,
-    "Website": "https://www.hastingsgov.org/whoh-tv",
-    "Logo": "https://i.imgur.com/jTD9nLE.png",
-    "Streams": [
-      {
-        "Url": "https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8"
       }
     ]
   },
@@ -17230,16 +16612,10 @@
     "Logo": "https://i.imgur.com/98kLMjj.png",
     "Streams": [
       {
-        "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5616f9c0ada51f8004c4b091&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=770&terminate=false&userId="
-      },
-      {
         "Url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
       },
       {
         "Url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8"
-      },
-      {
-        "Url": "https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "Url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"

@@ -540,6 +540,24 @@
     ]
   },
   {
+    "Id": "PervyygorodskoyOdessa.ua",
+    "Name": "Pervyy gorodskoy Odessa",
+    "Country": "UA",
+    "Languages": "ukr",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://sun9-18.userapi.com/c639227/v639227583/45ae7/tw3dA0ptuXI.jpg",
+    "Streams": [
+      {
+        "Url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+      },
+      {
+        "Url": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "PravdaTUT.ua",
     "Name": "PravdaTUT",
     "Country": "UA",

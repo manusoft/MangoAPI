@@ -90,6 +90,21 @@
     ]
   },
   {
+    "Id": "ChadaTV.ma",
+    "Name": "Chada TV",
+    "Country": "MA",
+    "Languages": "ara",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://chadatv.com/",
+    "Logo": "https://i.imgur.com/inJyJBN.png",
+    "Streams": [
+      {
+        "Url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "M24TV.ma",
     "Name": "M24 TV",
     "Country": "MA",
@@ -161,6 +176,21 @@
     "Streams": [
       {
         "Url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TeleMaroc.ma",
+    "Name": "Tele Maroc",
+    "Country": "MA",
+    "Languages": "ara,fra",
+    "Categories": "entertainment,news,culture",
+    "IsNsfw": false,
+    "Website": "https://www.telemaroc.tv/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "Streams": [
+      {
+        "Url": "https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8"
       }
     ]
   }

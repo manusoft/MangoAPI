@@ -78,6 +78,51 @@
     ]
   },
   {
+    "Id": "AbbTakk.pk",
+    "Name": "Abb Takk",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.abbtakk.tv/",
+    "Logo": "https://i.imgur.com/D6IHRrP.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AlEhsaanTV.pk",
+    "Name": "Al Ehsaan TV",
+    "Country": "PK",
+    "Languages": "urd,ara",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.alehsaan.tv/",
+    "Logo": "https://i.imgur.com/hRzxiJ3.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "AwazTVNetwork.pk",
+    "Name": "Awaz TV Network",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.awaztv.tv/",
+    "Logo": "https://i.imgur.com/FiUzzqb.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "BolNews.pk",
     "Name": "Bol News",
     "Country": "PK",
@@ -93,6 +138,21 @@
     ]
   },
   {
+    "Id": "CapitalTV.pk",
+    "Name": "Capital TV",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://capitaldigital.pk/",
+    "Logo": "https://i.imgur.com/UxAE5O4.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC-an6pHQfTVZXgrLP0p1EGA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "City41.pk",
     "Name": "City 41",
     "Country": "PK",
@@ -104,6 +164,21 @@
     "Streams": [
       {
         "Url": "https://ythls.onrender.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "CityNewsHD.pk",
+    "Name": "City News HD",
+    "Country": "PK",
+    "Languages": "urd",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://citynewshd.tv/",
+    "Logo": "https://i.imgur.com/GtYG9lG.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC5DtDCEclIwhOlP0p8UeQMA.m3u8"
       }
     ]
   },
@@ -192,6 +267,21 @@
     ]
   },
   {
+    "Id": "FaizTVNetwork.pk",
+    "Name": "Faiz TV Network",
+    "Country": "PK",
+    "Languages": "urd",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://faiz.tv/",
+    "Logo": "https://i.imgur.com/9oHHdGc.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCB6hqQBHK-gToq0vKEQU7UQ.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "FazalTV.pk",
     "Name": "Fazal TV",
     "Country": "PK",
@@ -237,36 +327,6 @@
     ]
   },
   {
-    "Id": "GeoKahani.pk",
-    "Name": "Geo Kahani",
-    "Country": "PK",
-    "Languages": "eng",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "http://geokahani.tv/",
-    "Logo": "https://i.imgur.com/uKYH0IM.png",
-    "Streams": [
-      {
-        "Url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "GeoNews.pk",
-    "Name": "Geo News",
-    "Country": "PK",
-    "Languages": "urd",
-    "Categories": "news",
-    "IsNsfw": false,
-    "Website": "https://www.geo.tv/",
-    "Logo": "https://i.imgur.com/Op4EsaB.png",
-    "Streams": [
-      {
-        "Url": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "GourmetNewsNetwork.pk",
     "Name": "Gourmet News Network",
     "Country": "PK",
@@ -293,6 +353,21 @@
     "Streams": [
       {
         "Url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "HKTV.pk",
+    "Name": "HK TV",
+    "Country": "PK",
+    "Languages": "urd",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://hktv.pk/",
+    "Logo": "https://i.imgur.com/brAY4XF.png",
+    "Streams": [
+      {
+        "Url": "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8"
       }
     ]
   },
@@ -357,6 +432,21 @@
     ]
   },
   {
+    "Id": "K21News.pk",
+    "Name": "K21 News",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://k21news.pk/",
+    "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/K21_News_Logo.jpg/512px-K21_News_Logo.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC7g-LI8ueb6qTFZ5-gDgrGg.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "KingTV.pk",
     "Name": "King TV",
     "Country": "PK",
@@ -383,6 +473,81 @@
     "Streams": [
       {
         "Url": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MadaniChannelEnglish.pk",
+    "Name": "Madani Channel English",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.madanichannel.tv/",
+    "Logo": "https://i.imgur.com/Abi9j0A.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MadaniChannelUrdu.pk",
+    "Name": "Madani Channel Urdu",
+    "Country": "PK",
+    "Languages": "urd",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.madanichannel.tv/",
+    "Logo": "https://i.imgur.com/MitLeCJ.png",
+    "Streams": [
+      {
+        "Url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MashriqTV.pk",
+    "Name": "Mashriq TV",
+    "Country": "PK",
+    "Languages": "pus",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.mashriqtv.pk/",
+    "Logo": "https://i.imgur.com/8pMiqcp.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Metro1News.pk",
+    "Name": "Metro1 News",
+    "Country": "PK",
+    "Languages": "urd",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "http://www.metro1news.tv/",
+    "Logo": "https://i.imgur.com/qD9cj27.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UC95lddVg_04jAevVGYknx_w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "MinhajTV.pk",
+    "Name": "Minhaj TV",
+    "Country": "PK",
+    "Languages": "urd,eng",
+    "Categories": "religious",
+    "IsNsfw": false,
+    "Website": "https://www.minhaj.tv/",
+    "Logo": "https://i.imgur.com/Kat9kjm.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCmwpLGkHfebwBaZbwcX3wWQ.m3u8"
       }
     ]
   },
@@ -537,6 +702,36 @@
     ]
   },
   {
+    "Id": "PublicNews.pk",
+    "Name": "Public News",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://publicnews.com/",
+    "Logo": "https://i.imgur.com/q3ij8wO.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Rohi.pk",
+    "Name": "Rohi",
+    "Country": "PK",
+    "Languages": "lah",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.rohi.tv/",
+    "Logo": "https://i.imgur.com/zC8hXi4.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "RozeNews.pk",
     "Name": "Roze News",
     "Country": "PK",
@@ -567,6 +762,21 @@
     ]
   },
   {
+    "Id": "SindhTVNews.pk",
+    "Name": "Sindh TV News",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://sindhtvnews.net/",
+    "Logo": "https://i.imgur.com/Ap9K1lj.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCdNrdgAx3bT6tXJ-RJ9dOBA.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SuchTV.pk",
     "Name": "Such TV",
     "Country": "PK",
@@ -582,6 +792,69 @@
     ]
   },
   {
+    "Id": "SunoNewsHD.pk",
+    "Name": "Suno News HD",
+    "Country": "PK",
+    "Languages": "urd",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://www.sunonews.tv/",
+    "Logo": "https://i.imgur.com/FeSntVO.jpg",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCB82Zom1MYh8VV4q7wXkfGA.m3u8"
+      },
+      {
+        "Url": "https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "TimeNews.pk",
+    "Name": "Time News",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": null,
+    "Logo": "https://i.imgur.com/iw0H5mA.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCnXxxqVgw9ttLiozpVPjHuw.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VenusHD.pk",
+    "Name": "Venus HD",
+    "Country": "PK",
+    "Languages": "eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.venustv.net/",
+    "Logo": "https://i.imgur.com/0C9KunR.png",
+    "Streams": [
+      {
+        "Url": "https://ythls.onrender.com/channel/UCau2UiIsh9Ak34pgrqm3J0w.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "VoiceNews.pk",
+    "Name": "Voice News",
+    "Country": "PK",
+    "Languages": "urd",
+    "Categories": "news",
+    "IsNsfw": false,
+    "Website": "https://voicenewspk.com/",
+    "Logo": "https://i.imgur.com/rlYzN6J.png",
+    "Streams": [
+      {
+        "Url": "https://cdn.bmstudiopk.com/vop/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "ZindagiTV.pk",
     "Name": "Zindagi TV",
     "Country": "PK",
@@ -593,6 +866,21 @@
     "Streams": [
       {
         "Url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "aurLifeHD.pk",
+    "Name": "aurLife HD",
+    "Country": "PK",
+    "Languages": "urd,eng",
+    "Categories": "general",
+    "IsNsfw": false,
+    "Website": "https://aurlife.tv/",
+    "Logo": "https://i.imgur.com/GfWLn3O.jpg",
+    "Streams": [
+      {
+        "Url": "http://124.109.47.101/hls/stream1.m3u8"
       }
     ]
   }

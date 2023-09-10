@@ -1,5 +1,20 @@
 [
   {
+    "Id": "13SiamThai.th",
+    "Name": "13 Siam Thai",
+    "Country": "TH",
+    "Languages": "tha",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.13livetv.com/",
+    "Logo": "https://i.imgur.com/FvEp1S2.png",
+    "Streams": [
+      {
+        "Url": "https://live.x2.co.th/live/13livetv-th.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "54UnityTV.th",
     "Name": "54 Unity TV",
     "Country": "TH",
@@ -56,6 +71,21 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8010/play/a00r/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "Channel3.th",
+    "Name": "Channel 3",
+    "Country": "TH",
+    "Languages": "tha,eng",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "http://www.ch3thailand.com/",
+    "Logo": "https://i.imgur.com/YRiulCU.png",
+    "Streams": [
+      {
+        "Url": "https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8"
       }
     ]
   },
@@ -390,17 +420,17 @@
     ]
   },
   {
-    "Id": "KasetChannel.th",
-    "Name": "Kaset Channel",
+    "Id": "JKN18.th",
+    "Name": "JKN 18",
     "Country": "TH",
     "Languages": "tha",
     "Categories": "",
     "IsNsfw": false,
-    "Website": "http://kasettv.com/",
-    "Logo": "https://www.lyngsat.com/logo/tv/kk/kaset-th.png",
+    "Website": "https://www.jknglobal.com/",
+    "Logo": "https://i.imgur.com/m4nPR2L.png",
     "Streams": [
       {
-        "Url": "http://183.89.246.119:8881/play/a0ae/index.m3u8"
+        "Url": "https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8"
       }
     ]
   },
@@ -416,6 +446,9 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8010/play/a00h/index.m3u8"
+      },
+      {
+        "Url": "https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8"
       }
     ]
   },
@@ -540,6 +573,21 @@
     ]
   },
   {
+    "Id": "PoliceTV.th",
+    "Name": "Police TV",
+    "Country": "TH",
+    "Languages": "tha",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.policetv.tv/",
+    "Logo": "https://i.imgur.com/GhboFGt.png",
+    "Streams": [
+      {
+        "Url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "Id": "SBTTV.th",
     "Name": "SBT TV",
     "Country": "TH",
@@ -551,21 +599,6 @@
     "Streams": [
       {
         "Url": "http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "ShopCh.th",
-    "Name": "Shop Ch",
-    "Country": "TH",
-    "Languages": "tha",
-    "Categories": "shop",
-    "IsNsfw": false,
-    "Website": "https://www.shopch.in.th/",
-    "Logo": "https://i.imgur.com/zl7QkPF.png",
-    "Streams": [
-      {
-        "Url": "https://ythls.onrender.com/channel/UCKrzHQD9zTLLhBAR8w4zaxA.m3u8"
       }
     ]
   },
@@ -600,21 +633,6 @@
     ]
   },
   {
-    "Id": "TVDMomo5.th",
-    "Name": "TVD Momo 5",
-    "Country": "TH",
-    "Languages": "tha",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tvdmomo.com/",
-    "Logo": "https://i.imgur.com/2avuYK1.png",
-    "Streams": [
-      {
-        "Url": "http://183.89.246.119:8881/play/a0a9/index.m3u8"
-      }
-    ]
-  },
-  {
     "Id": "TVDirect1.th",
     "Name": "TV Direct 1",
     "Country": "TH",
@@ -626,36 +644,6 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8881/play/a0ab/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVDirect8.th",
-    "Name": "TV Direct 8",
-    "Country": "TH",
-    "Languages": "tha",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tvdirect.tv/",
-    "Logo": "https://www.lyngsat.com/logo/tv/tt/tv-direct-th.png",
-    "Streams": [
-      {
-        "Url": "http://183.89.246.119:8881/play/a0a2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "Id": "TVDirect9.th",
-    "Name": "TV Direct 9",
-    "Country": "TH",
-    "Languages": "tha",
-    "Categories": "",
-    "IsNsfw": false,
-    "Website": "https://www.tvdirect.tv/",
-    "Logo": "https://www.lyngsat.com/logo/tv/tt/tv-direct-th.png",
-    "Streams": [
-      {
-        "Url": "http://183.89.246.119:8881/play/a0a3/index.m3u8"
       }
     ]
   },
@@ -716,6 +704,21 @@
     "Streams": [
       {
         "Url": "http://183.89.246.119:8010/play/a00u/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Id": "ThairathTV32.th",
+    "Name": "Thairath TV 32",
+    "Country": "TH",
+    "Languages": "tha",
+    "Categories": "",
+    "IsNsfw": false,
+    "Website": "https://www.thairath.co.th/tv",
+    "Logo": "https://i.imgur.com/sF4pPVV.png",
+    "Streams": [
+      {
+        "Url": "https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8"
       }
     ]
   },
